@@ -1,0 +1,69 @@
+Grundbestimmungen
+-----------------
+
+1.**Pazifismus** – Pazifismus ist die konsequente Folge aus der
+Verantwortung für unsere Kinder. Er muss in dem Sinne radikal sein, als
+wir verstehen müssen, dass Krieg nur mit Kriegsgerät stattfinden kann
+und wir aufhören müssen welches zu produzieren.
+
+2.**Säkularismus** – Auch der Säkularismus ist eine Folge dieser
+Verantwortung. Wenn wir ein höheres Wesen, einen Gott, annehmen, dann
+trägt dieses höhere Wesen am Ende die Verantwortung, die Verantwortung
+für den Zustand der Welt. -Die Verantwortung, insbesondere der
+menschlichen Gesellschaft und unsere Kinder gegenüber, selbst zu
+übernehmen, erscheint hingegen natürlich.
+
+3. **Gegenwartsbezogenheit** – Wir müssen in der Verantwortung bei den
+existierenden Menschen bleiben, die Gegenwart ist der Raum, in der die
+Zukunft gestaltbar ist, nicht die Zukunft. Konkrete Menschen können Ziel
+unsere Verantwortung sein, nicht mögliche Menschen.
+
+4. **Strukturelle Unabgeschlossenheit** – Wir, als lebende Menschen,
+sind strukturell unabgeschlossen. Darin genau besteht unsere Möglichkeit
+zur Entwicklung. Jedes unserer sozialen Produkte gleicht uns darin: Die
+Partei ist strukturell unabgeschlossen, unablässig müssen wir die
+Strukturen der Partei verändern, so die der Gesellschaft. Es kann nicht
+unser Ziel sein, eine perfekte Gesellschaft zu bauen, eine solche kann
+es unter diesen Voraussetzungen nicht geben. Unser Ziel kann nur die
+Entwicklung der Gesellschaft sein.
+
+5. **Erhalt der natürlichen Lebensgrundlagen** - Ein konservierender
+Umgang mit - bzw. die Wiederherstellung - einer gesunden und
+reichhaltigen Umwelt leitet sich zwangsläufig aus der Verantwortung für
+unsere Kinder und alle künftigen Generationen ab. Die natürlichen
+Lebensgrundlagen sind unsere Ressource, die das menschliche Leben auf
+dem Planeten Erde erst ermöglicht. Hieran, aus kurzfristigen
+Profitstreben heraus, Raubbau zu betreiben, ist Raub an den
+nachkommenden Generationen, erschwert diesen sogar das Überleben und
+muss daher als verantwortungsloses Handeln gegen unsere Kinder und
+Kindeskinder gewertet werden. Wir bekennen uns zum Antropozän und der
+daraus resultierenden Verantwortung. Die Wirkung von uns Menschen auf
+die Erde ist inzwischen so groß, dass wir Hans Jonas Erweiterung des
+Kategorischen Imperativ gewahr sein müssen, “Handle so, daß die
+Wirkungen deiner Handlungen verträglich sind mit der Permanentz echten
+menschlichen Lebens auf Erden.”\[hj 36\]
+
+6. **Solidarisch** - Der Mensch ist ein Wesen der Gemeinschaft. Deshalb
+gilt unsere Sorge der Gemeinschaft, wie sie dem Individuum gelten muss.
+In der Solidarität drückt sich u.a. der verbindende Generationenvertrag
+aus.
+
+7. **Gerechtigkeit** - Nur in einer Gesellschaft, die strukturbedingte
+Benachteiligungen in den Möglichkeiten der individuellen Teilhabe
+ausgleicht und so jedem Menschen die gesellschaftliche Teilhabe
+ermöglicht, können Kinder kulturangemessen aufwachsen und zu mündigen
+und gesellschaftkundigen Menschen heranreifen.
+
+8. **Bekenntnis zu den universellen Menschenrechten** - Die universellen
+Menschenrechte bilden die basale Grundlage für den Umgang der Menschen
+miteinander. Jedem Menschen diese Rechte zuzugestehen und ein
+dementsprechendes gesellschaftliches, juristisches und politisches
+Umfeld zu schaffen, wiederum bildet das wesentliche Fundament auf dem
+sich mündige, aufgeklärte und selbstständige Persönlichkeiten
+verantwortlich entwickeln können. Die Erziehung unserer Nachkommen zielt
+seit Generationen auf ebendiese Attribute ab. Die universellen
+Menschenrechte schützen das Individuum wie die Gesamtheit der Bürger und
+Bürgerinnen vor unverhältnismäßigen Eingriffen in ihre ureigenen
+Angelegenheiten sowie vor staatlicher Willkür. Daher ist ein Bekenntnis
+zu den universellen Menschenrechten ebenso ein Bekenntnis zu
+Rechtsstaatlichkeit und Mitbestimmung.
