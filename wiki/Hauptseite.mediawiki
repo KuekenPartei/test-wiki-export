@@ -1,4 +1,9 @@
-'''MediaWiki wurde erfolgreich installiert.'''
+'''Kinder - Verantwortung - Zukunft'''
+
+''Kreis für Umwelt, Erwachsene, Kinder und ernsthafte Nachhaltigkeit''
+
+* [[Prolog]]
+* [[Grundbestimmungen]]
 
 Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch].
 
