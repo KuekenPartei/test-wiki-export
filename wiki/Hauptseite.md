@@ -5,11 +5,11 @@
 -   [Prolog](/wiki/Prolog "wikilink")
 -   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
 
-Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
-\[//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch\].
-
 Starthilfen
 -----------
+
+Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
+\[//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch\].
 
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration\_settings
     Liste der Konfigurationsvariablen\]
