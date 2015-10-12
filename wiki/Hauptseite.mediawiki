@@ -1,78 +1,10 @@
-<big>'''Kinder - Verantwortung - Zukunft'''</big>
-
-
-<big>'''''KUEKeN''' Kreis für Umwelt, Erwachsene, Kinder und ernsthafte [[Nachhaltigkeit]]''
-</big>
-
-Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht, ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart gestaltbar ist. Das klarste Zeichen der Zukunft sind die Kinder. Es sind unsere Kinder und sie sind immer auch [[Kinder_der_Gesellschaft| Kinder der Gesellschaft]]. In ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und auch Politikern. 
-
-Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?''' Als gute Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren, klügeren und besseren Menschen zu machen, als wir es sind, es ist eine Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler Wandel der Perspektive. 
-
-* [[Prolog]]
-* [[Grundbestimmungen]]
-
-*[[Programm:Main]]
-**[[Programm:Program_konkret]]
-**[[Programm:Program_mittelfristig]]
-**[[Programm:Program_langfristig]]
-
-<br />__NOTOC__
-
-Eine kleine Zusammenfassung der "Parteifeatures [[FeatureListe| hier]]".
-<br />
-
-Habt Ihr kurze, häufig gestellte Fragen, dann schaut in den [[Faq]].
-
-{{Baustein-no-image
-|color = #1e90ff
-|background = #fbfbfb
-|text =
-„Wenn Mündigkeit darin besteht, selbst zu denken, existiert dieses Denken nur als Denken vor einem Lesenden Publikum (die einzig mögliche Grundlage für eine Demokratische Mündigkeit), als eine Zirkulation des Denkens, das sich stets selbst übersteigt, das ein Denken für den anderen und vom anderen Denkenden her ist. Insofern sind Denken und Intelligenz immer schon kollektiv: ein Individuationsprozeß, der einer metastabilisierenden Ko-Individuation des Transindividuellen entspricht, in der die Intelligenz – als ein ''interlegere'' -  ein organologisches Milieu bildet, welches die Unmündigen und die Mündigen, die Eltern und Kinder, die Vorfahren und Nachkommen, die Generationen, zwischen denen der Geist waltet – ''pneuma, ruah, spiritus'' -, miteinander verbindet.“ 
-
-''[https://de.wikipedia.org/wiki/Bernard_Stiegler Bernard Stiegler] Die Logik der Sorge - Verlust der Aufklärung durch Technik und Medien. suhrkamp 2008  ISBN 978-3-518-26006-7  S. 57''
-}}
-
-== Mitmachen ==
-
-Wir sind ganz am Anfang, es gibt viel zu tun. Siehe [[Planung]] (2018 aktualisiert).
-
-Du könntest [[Infomaterial]] an interessierte Menschen weitergeben.
-
-Willst du uns kennenlernen, Fragen stellen, Anregungen geben oder bei uns mitmachen. Komm zu einem der [[Hauptseite#Planungstreffen| Planungstreffen]].
-
-'''Wir brauchen Menschen, die mitmachen.'''
-
-Wir sind derzeit zu wenig Menschen. 
-
-Willst du über den Gründungsprozess auf dem Laufenden gehalten werden, kannst du die entsprechende Mailingliste abonnieren: http://list.derkueken.de/listinfo/derkueken
-
-=== Planungstreffen ===
-
-
-In Berlin ist jeden zweiten Mittwoch [[Planungstreffen_Berlin| Planungstreffen]].
-
-=== Unterstützen ===
-
-Im Augenblick da unsere Infrastruktur noch entsteht, kannst du uns mit Bitcoin unterstützen. 
-
-[[Datei:Kueken-bitcoin-adress.png]]
-'''bitcoin://1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB'''
-
-Mit Bitcoin ist es möglich, elektronische Infrastruktur zu bezahlen, Domainnamen und Server, wie auch Druckerzeugnisse.
-Noch attraktiver als Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder Webdesign, Mund-zu-Mund-Propaganda usw.
-
-
-Im [[Soziales_Netzwerk| Sozialen Netzwerk]]:
-
-Folge uns auf twitter: [https://twitter.com/KuekenPartei @KuekenPartei] oder diaspora: [https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c kuekenpartei@pod.geraspora.de].
-
-== Starthilfen ==
+'''MediaWiki wurde erfolgreich installiert.'''
 
 Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch].
 
+== Starthilfen ==
 
-* [[Hilfe:Basic]]
+* [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsvariablen]
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki-FAQ]
-
-
-[[Kategorie:InBearbeitung]]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Mailingliste neuer MediaWiki-Versionen]
+* [//www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Lokalisiere MediaWiki für deine Sprache]
