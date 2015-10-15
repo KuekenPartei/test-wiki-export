@@ -1,3 +1,6 @@
+tags:
+ - Programm
+
 **Prolog**
 
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
@@ -139,29 +142,6 @@ verknüpft, die zu Ende ginge ohne unsere Kinder. Traurig und leer ist
 die Welt der letzten Menschen.
 
 <references />
-
-------------------------------------------------------------------------
-
--   1 - Hier ist der Unterschied zwischen Verwaltung und Politik.
-    Verwaltet wird die Gegenwart, das Primat der Politik ist die
-    Gestaltung der Zukunft
--   2 -Wir alle leben mit mehr oder weniger großen Kompromissen im
-    Denken, mit kognitiver Dissonanz.
--   3 - HansJonas „Das Prinzip Verantwortung“ S. 85 suhrkamp
-    taschenbuch3492, Erste Ausgabe
--   4 - Ebendort S.241
--   5 - BernardStiegler, „Die Logik der Sorge. Verlust der Aufklärung
-    durchTechnik und Medien.“ S.21 SuhrkampVerlag, Frankfurt am Main
-    2008
--   6 - Ebendort S.30\[B.Stiegler L.d.S. 30\]
--   7 "Nicht indem sie ihm die ganze Befriedigung gewährt, haben die
-    losgelassenen Produktionskolosse das Individuum überwunden, sondern
-    indem sie es als Subjekt auslöschten. Eben darin besteht ihre
-    vollendete Rationalität, die mit ihrer Verrücktheit zusammenfällt."
-    \[Horkheimer/Ardono, Dialektik der Aufklärung, S. 215, 21 Auflage,
-    2013\]
--   8 - HansJonas „Das Prinzip Verantwortung“ suhrkamp taschenbuch
-    3492,Erste Ausgabe S.235
 
 [1] Hier ist der Unterschied zwischen Verwaltung und Politik. Verwaltet
 wird die Gegenwart, das Primat der Politik ist die Gestaltung der
