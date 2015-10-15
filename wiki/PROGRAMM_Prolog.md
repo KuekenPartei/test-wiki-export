@@ -3,9 +3,9 @@
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht,
 ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart
-gestaltbar ist\*1. Das klarste Zeichen der Zukunft sind die Kinder. Es
-sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft. In
-ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese
+gestaltbar ist\*1.[1] Das klarste Zeichen der Zukunft sind die Kinder.
+Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft.
+In ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese
 Verantwortlichkeit liegt bei uns, den mündigen Bürgern, als Eltern,
 Großeltern, …., Erziehern, …. , Politikern.
 
@@ -138,6 +138,11 @@ individuelle Geschichte ist auf wohl und wehe mit der Kollektiven
 verknüpft, die zu Ende ginge ohne unsere Kinder. Traurig und leer ist
 die Welt der letzten Menschen.
 
+Notes
+-----
+
+<references />
+
 ------------------------------------------------------------------------
 
 -   1 - Hier ist der Unterschied zwischen Verwaltung und Politik.
@@ -160,3 +165,7 @@ die Welt der letzten Menschen.
     2013\]
 -   8 - HansJonas „Das Prinzip Verantwortung“ suhrkamp taschenbuch
     3492,Erste Ausgabe S.235
+
+[1] Hier ist der Unterschied zwischen Verwaltung und Politik. Verwaltet
+wird die Gegenwart, das Primat der Politik ist die Gestaltung der
+Zukunft
