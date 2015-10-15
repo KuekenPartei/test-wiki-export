@@ -3,23 +3,23 @@
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht,
 ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart
-gestaltbar ist\*1.[1] Das klarste Zeichen der Zukunft sind die Kinder.
-Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft.
-In ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese
+gestaltbar ist.[1] Das klarste Zeichen der Zukunft sind die Kinder. Es
+sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft. In
+ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese
 Verantwortlichkeit liegt bei uns, den mündigen Bürgern, als Eltern,
 Großeltern, …., Erziehern, …. , Politikern.
 
 Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
 unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet. Als gute
-Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren\*2,
+Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren[2],
 klügeren und besseren Menschen zu machen, als wir es sind. Es ist ein
 Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
 Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
 Wandel der Perspektive.
 
 Wir folgen im ersten Schritt Hans Jonas, Fürsorge für den Nachwuchs:
-"Hier ist der Archetyp alles verantwortlichen Handelns \[...\]"\*3.
+"Hier ist der Archetyp alles verantwortlichen Handelns \[...\]"[3].
 Jeder von uns war ein Säugling, dessen Bedürftigkeit angenommen und
 entsprochen, dessen Anspruch auf Leben angenommen und positiv
 beantwortet wurde. Selbst in den tragischen Schicksalen von Ausgrenzung
@@ -30,7 +30,7 @@ wird. Hier ist eine einfache und klare Natur des Menschen erkennbar:
 Urheberschaft des Seins, an der über die aktuellen Erzeuger hinaus alle
 beteiligt sind, die der Fortpflanzung durch Nichtwiderruf ihres Fiat im
 eigen Fall beipflichten, also alle, die sich selber das Leben
-erlauben“\*4. Das sind wir: die erwachsenen und mündigen Bürger.
+erlauben“[4]. Das sind wir: die erwachsenen und mündigen Bürger.
 
 Mit dieser Verantwortung gegenüber unseren Kindern nehmen wir auch die
 Verantwortung für uns selbst wahr. Denn wir selbst sind das notwendige
@@ -169,3 +169,11 @@ Notes
 [1] Hier ist der Unterschied zwischen Verwaltung und Politik. Verwaltet
 wird die Gegenwart, das Primat der Politik ist die Gestaltung der
 Zukunft
+
+[2] Wir alle leben mit mehr oder weniger großen Kompromissen im Denken,
+mit kognitiver Dissonanz.
+
+[3] HansJonas „Das Prinzip Verantwortung“ S. 85 suhrkamp
+taschenbuch3492, Erste Ausgabe
+
+[4] Ebendort S.241
