@@ -82,7 +82,7 @@ langen weiten Kreisläufe sind als Narration geeignet den Sinn zu
 stiften. „Die noch lebende Elterngeneration vermittelt ihm (dem Kind
 Ahnm. Autor) auf diese Weise die durch Generationen angehäufte
 Erfahrung, die es mit seinen verstorbenen Vorfahren in Verbindung
-setzt“.\*5
+setzt“.[5]
 
 Eine auf den verantwortlichen Zweck bezogene Wirtschaft ist
 bedürfnisorientiert; die Bedürfnisse ergeben sich aus unserer Art und
@@ -99,7 +99,7 @@ Befriedigung, echte Befriedigung, wie sie der Konsum nicht zu leisten
 vermag. „Mit der Tochter oder dem Enkel spielen bedeutet Lachen und sich
 mit ihnen &lt;<die Zeit zu vertreiben>&gt; - ihnen ein wenig von der
 eigene Zeit zu widmen, und zwar nicht nur für ihr Gehirn, sondern auch
-für die Entwicklung ihre minderjährigen Aufmerksamkeit ...“\*6
+für die Entwicklung ihre minderjährigen Aufmerksamkeit ...“[6]
 
 Die Norm wird heute nicht mehr von dem Menschen definiert sie ist ein
 Marketing gestiftetes Produkt. Entsprechend enthält sie keine andere
@@ -119,14 +119,14 @@ Leid und die Verzweiflung wachsen.
 
 Dies alles sind Kapriolen des Rationalen - Die Dialektik der Aufklärung.
 Diese Rationalität ist auf sich selbst bezogen und nicht mehr auf das
-Leben, so wird diese übersteigerte Rationalität irrational.\*7 Sie sind
+Leben, so wird diese übersteigerte Rationalität irrational.[7] Sie sind
 das Ergebnis einer Rationalität, die sich abgelöst hat vom Zweck und
 damit auch von der Welt und den Menschen. An diesen Stellen können uns
 die Kinder helfen, die Welt und die Menschen wieder in den Blick zu
 nehmen, die Bedürftigkeit zu objektivieren und zu begründen. Die Kinder
 in den Blick genommen, bewahrt uns vor dem Überschlag des Denkens, sogar
 vor dem popeligen &lt;<eigenen Vorteil>&gt;. Hans Johnas “Sieh hin und
-du weißt”\*8 können wir als Vorwegnahme des Spiegeleuronennprinzips
+du weißt”[8] können wir als Vorwegnahme des Spiegeleuronennprinzips
 verstehen. Wir sind bestens ausgestattet, die Bedürftigkeit in anderen
 zu erkennen, zu reflektieren und sie zu unseren eigenen zu machen. In
 der Verantwortung für unsere Kinder finden wir eine ähnliche
@@ -137,9 +137,6 @@ Heimat finden: Denn was bleibt, sind die bunten Geschichten. Die eigene
 individuelle Geschichte ist auf wohl und wehe mit der Kollektiven
 verknüpft, die zu Ende ginge ohne unsere Kinder. Traurig und leer ist
 die Welt der letzten Menschen.
-
-Notes
------
 
 <references />
 
@@ -177,3 +174,18 @@ mit kognitiver Dissonanz.
 taschenbuch3492, Erste Ausgabe
 
 [4] Ebendort S.241
+
+[5] BernardStiegler, „Die Logik der Sorge. Verlust der Aufklärung
+durchTechnik und Medien.“ S.21 SuhrkampVerlag, Frankfurt am Main 2008
+
+[6] Ebendort S.30\[B.Stiegler L.d.S. 30\]
+
+[7] “Nicht indem sie ihm die ganze Befriedigung gewährt, haben die
+losgelassenen Produktionskolosse das Individuum überwunden, sondern
+indem sie es als Subjekt auslöschten. Eben darin besteht ihre vollendete
+Rationalität, die mit ihrer Verrücktheit zusammenfällt.”
+\[Horkheimer/Ardono, Dialektik der Aufklärung, S. 215, 21 Auflage,
+2013\]
+
+[8] HansJonas „Das Prinzip Verantwortung“ suhrkamp taschenbuch
+3492,Erste Ausgabe S.235
