@@ -17,3 +17,6 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wi
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki-FAQ]
 * [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Mailingliste neuer MediaWiki-Versionen]
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Lokalisiere MediaWiki für deine Sprache]
+
+
+[[Kategorie:InBearbeitung]]
