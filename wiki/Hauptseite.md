@@ -21,3 +21,5 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
     MediaWiki-Versionen](https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce)
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Localisation\#Translation\_resources
     Lokalisiere MediaWiki für deine Sprache\]
+
+[Kategorie:InBearbeitung](/wiki/Kategorie:InBearbeitung "wikilink")
