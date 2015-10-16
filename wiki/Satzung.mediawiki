@@ -20,9 +20,6 @@ Der Sitz der Partei ist Berlin.
 <span id="A.1.4">(4)</span>
 Das Tätigkeitsgebiet der xxx ist die Bundesrepublik Deutschland.
 
-<span id="A.1.5">(5)</span>
-Die in der xxx organisierten Mitglieder werden geschlechtsneutral als Mitglieder bezeichnet.
-
 === § 2 - Mitgliedschaft ===
 
 <span id="A.2.1">(1)</span>
@@ -347,9 +344,7 @@ Vor einer Abstimmung werden die Anträge angemessen vorgestellt und zu deren Inh
 Die Teilnehmer haben gleiches Stimmrecht, das sie selbstständig und frei innerhalb des Abstimmungszeitraums ausüben. Abstimmungen außerhalb des Parteitags erfolgen entweder pseudonymisiert oder geheim. Bei pseudonymisierter Abstimmung kann jeder Teilnehmer die unverfälschte Erfassung seiner eigenen Stimme im Ergebnis überprüfen und nachweisen. Bei personellen Sachverhalten oder auf Antrag einer Minderheit muss die Abstimmung geheim erfolgen. In einer geheimen Abstimmung sind die einzelnen Schritte für jeden Teilnehmer ohne besondere Sachkenntnisse nachvollziehbar und die Stimmabgabe erfolgt nicht elektronisch. Die Manipulation einer Abstimmung oder die Veröffentlichung von Teilergebnissen vor Abstimmungsende sind ein schwerer Verstoß gegen die Ordnung der Partei.
 
 <span id="A.16.6">(6)</span>
-Das Nähere regelt die [[Entscheidsordnung|Entscheidsordnung]], welche durch den Bundesparteitag beschlossen wird und auch per Basisentscheid geändert werden kann. 
-
-
+Das Nähere regelt die [[Entscheidsordnung|Entscheidsordnung]], welche durch den Bundesparteitag beschlossen wird und auch per Basisentscheid geändert werden kann.
 
 == Abschnitt B: Finanzordnung ==
 
