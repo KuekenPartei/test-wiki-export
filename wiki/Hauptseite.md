@@ -22,3 +22,4 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Localisation\#Translation\_resources
     Lokalisiere MediaWiki für deine Sprache\]
 
+<Kategorie:InBearbeitung>
