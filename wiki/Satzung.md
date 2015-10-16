@@ -1,16 +1,12 @@
 tags:
  - Satzung
 
-<span id="A">
-
 Abschnitt A: Grundlagen
 -----------------------
 
-</span> <span id="A.1">
-
 ### § 1 - Name, Sitz und Tätigkeitsgebiet
 
-</span> <span id="A.1.1">(1)</span> Die xxx ist eine Partei im Sinne des
+<span id="A.1.1">(1)</span> Die xxx ist eine Partei im Sinne des
 Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
 
 <span id="A.1.2">(2)</span> Die xxx führt einen Namen und eine
@@ -26,12 +22,10 @@ Bundesrepublik Deutschland.
 <span id="A.1.5">(5)</span> Die in der xxx organisierten Mitglieder
 werden geschlechtsneutral als Mitglieder bezeichnet.
 
-<span id="A.2">
-
 ### § 2 - Mitgliedschaft
 
-</span> <span id="A.2.1">(1)</span> Mitglied der xxx kann jeder Deutsche
-im Sinne des Grundgesetzes und jede Person mit Wohnsitz in Deutschland
+<span id="A.2.1">(1)</span> Mitglied der xxx kann jeder Deutsche im
+Sinne des Grundgesetzes und jede Person mit Wohnsitz in Deutschland
 werden, die das 16. Lebensjahr vollendet hat und die Grundsätze sowie
 die Satzung der xxx anerkennt.
 
@@ -45,12 +39,10 @@ Wählergruppe ist nicht ausgeschlossen. Die Mitgliedschaft in einer
 Organisation oder Vereinigung, deren Zielsetzung den Zielen der xxx
 widerspricht, ist nicht zulässig.
 
-<span id="A.3">
-
 ### § 3 - Erwerb der Mitgliedschaft
 
-</span> <span id="A.3.1">(1)</span> Die Mitgliedschaft in der xxx wird
-auf Grundlage dieser Satzung erworben. Die Mitgliedschaft wird zunächst
+<span id="A.3.1">(1)</span> Die Mitgliedschaft in der xxx wird auf
+Grundlage dieser Satzung erworben. Die Mitgliedschaft wird zunächst
 unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer
 Gliederungen wird
 
@@ -103,11 +95,9 @@ Bundesvorstand.
 <span id="A.3.6">(6)</span> Jeder Mitglied erhält einen
 Mitgliedsausweis.
 
-<span id="A.4">
-
 ### § 4 - Rechte und Pflichten der Mitglieder
 
-</span> <span id="A.4.1">(1)</span> Jeder Mitglied hat das Recht und die
+<span id="A.4.1">(1)</span> Jeder Mitglied hat das Recht und die
 Pflicht, im Rahmen dieser Satzung und der Satzung seines Landesverbandes
 die Zwecke der xxx zu fördern und sich an der politischen und
 organisatorischen Arbeit der xxx zu beteiligen. Jeder Mitglied hat das
@@ -134,11 +124,11 @@ Mitgliedsbeiträge entrichtet wurden.
 
 <span id="A.4.5">(5)</span> Jeder Mitglied ist jederzeit zum sofortigen
 Austritt aus der Partei berechtigt (Textform erforderlich). Bereits
-bezahlte Beiträge werden nicht zurückerstattet. <span id="A.5">
+bezahlte Beiträge werden nicht zurückerstattet.
 
 ### § 5 - Beendigung der Mitgliedschaft
 
-</span> <span id="A.5.1">(1)</span> Die Mitgliedschaft endet durch Tod,
+<span id="A.5.1">(1)</span> Die Mitgliedschaft endet durch Tod,
 Austritt, Streichung, Verlust oder Aberkennung der Wählbarkeit oder des
 Wahlrechts, Aufgabe des Wohnsitzes in Deutschland bei Ausländern oder
 dem Ausschluss aus der Partei.
@@ -147,18 +137,16 @@ dem Ausschluss aus der Partei.
 Mitgliedsausweis zurückzugeben. Ein Anspruch auf Rückzahlung von
 Beiträgen besteht nicht.
 
-<span id="A.6">
-
 ### § 6 - Ordnungsmaßnahmen
 
-</span> <span id="A.6.1">(1)</span> Verstößt ein Mitglied gegen die
-Satzung oder gegen Grundsätze oder Ordnung der xxx und fügt ihr damit
-Schaden zu, so kann der Bundesvorstand folgende Ordnungsmaßnahmen
-anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt,
-Aberkennung der Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus der
-xxx. Der Vorstand muss dem Mitglied vor dem Beschluss der
-Ordnungsmaßnahme eine Anhörung gewähren. Der Beschluss ist dem Mitglied
-in Schriftform unter Angabe von Gründen zu überstellen.
+<span id="A.6.1">(1)</span> Verstößt ein Mitglied gegen die Satzung oder
+gegen Grundsätze oder Ordnung der xxx und fügt ihr damit Schaden zu, so
+kann der Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung,
+Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein
+Parteiamt zu bekleiden, Ausschluss aus der xxx. Der Vorstand muss dem
+Mitglied vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren.
+Der Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen
+zu überstellen.
 
 <span id="A.6.2">(2)</span> Ein Mitglied kann nur dann ausgeschlossen
 werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die
@@ -203,14 +191,12 @@ einfacher Mehrheit.
 <span id="A.6.8">(8)</span> Das Schiedsgericht kann statt der verhängten
 oder beantragten auch eine mildere Ordnungsmaßnahme aussprechen.
 
-<span id="A.7">
-
 ### § 7 - Gliederung
 
-</span> <span id="A.7.1">(1)</span> Die xxx gliedert sich in
-Landesverbände. Die Landesverbände können nach ihren örtlichen
-Bedürfnissen Untergliederungen schaffen. Innerhalb der staatsrechtlichen
-Grenzen eines Landes gibt es nur einen Landesverband.
+<span id="A.7.1">(1)</span> Die xxx gliedert sich in Landesverbände. Die
+Landesverbände können nach ihren örtlichen Bedürfnissen
+Untergliederungen schaffen. Innerhalb der staatsrechtlichen Grenzen
+eines Landes gibt es nur einen Landesverband.
 
 <span id="A.7.2">(2)</span> Die weitere Untergliederung der
 Landesverbände erfolgt in Orts-, Kreis- und Bezirksverbände, die
@@ -221,36 +207,30 @@ Kreise, kreisfreien Städte und Gemeinden sind.
 sich nicht wirtschaftlich betätigen, ausgenommen hiervon sind der
 Bundesverband und die Landesverbände.
 
-<span id="A.8">
-
 ### § 8 - Bundespartei und Landesverbände
 
-</span> <span id="A.8.1">(1)</span> Die Landesverbände sind
-verpflichtet, alles zu tun, um die Einheit der xxx zu sichern, sowie
-alles zu unterlassen, was sich gegen die Grundsätze, die Ordnung oder
-das Ansehen der xxx richtet. Sie haben auch ihre Organe zu einer
-gleichen Verhaltensweise anzuhalten.
+<span id="A.8.1">(1)</span> Die Landesverbände sind verpflichtet, alles
+zu tun, um die Einheit der xxx zu sichern, sowie alles zu unterlassen,
+was sich gegen die Grundsätze, die Ordnung oder das Ansehen der xxx
+richtet. Sie haben auch ihre Organe zu einer gleichen Verhaltensweise
+anzuhalten.
 
 <span id="A.8.2">(2)</span> Verletzen Landesverbände, ihnen
 nachgeordnete Gebietsverbände oder Organe diese Pflichten, ist der
 Bundesvorstand berechtigt und verpflichtet, die Landesverbände zur
 Einhaltung dieser Pflichten aufzufordern.
 
-<span id="A.9">
-
 ### § 9 - Organe der Bundespartei
 
-</span> <span id="A.9.1">(1)</span> Organe sind der Vorstand, der
+<span id="A.9.1">(1)</span> Organe sind der Vorstand, der
 Bundesparteitag, das Bundesschiedsgericht und die Gründungsversammlung.
 
 <span id="A.9.2">(2)</span> Die Gründungsversammlung tagt nur einmal,
 und zwar am 10.09.2006.
 
-<span id="A.9a">
-
 #### § 9a - Der Bundesvorstand
 
-</span> <span id="A.9a.1">(1)</span> Der Bundesvorstand besteht aus dem
+<span id="A.9a.1">(1)</span> Der Bundesvorstand besteht aus dem
 Vorsitzenden und dessen Stellvertreter, dem politischen Geschäftsführer
 und optional dessen Stellvertreter, dem Schatzmeister und optional
 dessen Stellvertreter, und dem Generalsekretär und dessen erstem, und
@@ -331,11 +311,9 @@ dienstälteste Landesverbandsvorstand kommissarisch die Geschäfte bis ein
 von ihm einberufener außerordentlicher Parteitag schnellstmöglich
 stattgefunden und einen neuen Bundesvorstand gewählt hat.
 
-<span id="A.9b">
-
 #### § 9b - Der Bundesparteitag
 
-</span> <span id="A.9b.1">(1)</span> Der Bundesparteitag ist die
+<span id="A.9b.1">(1)</span> Der Bundesparteitag ist die
 Mitgliederversammlung auf Bundesebene.
 
 <span id="A.9b.2">(2)</span> Der Bundesparteitag tagt mindestens einmal
@@ -391,24 +369,20 @@ werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen
 beschlossen. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
 Stimmenthaltungen werden als ungültige Stimmen gewertet.
 
-<span id="A.10">
-
 ### § 10 - Bewerberaufstellung für die Wahlen zu Volksvertretungen
 
-</span> <span id="A.10.1">(1)</span> Für die Aufstellung der Bewerber
-für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze
-und der Satzungen der Bundespartei und der zuständigen Gebietsverbände.
+<span id="A.10.1">(1)</span> Für die Aufstellung der Bewerber für Wahlen
+zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze und der
+Satzungen der Bundespartei und der zuständigen Gebietsverbände.
 
 <span id="A.10.2">(2)</span> Landeslistenbewerber sollen ihren Wohnsitz
 im entsprechenden Bundesland haben, Kreisbewerber im entsprechenden
 Wahlkreis.
 
-<span id="A.11">
-
 ### § 11 - Zulassung von Gästen
 
-</span> <span id="A.11.1">(1)</span> Sämtliche Mitgliederversammlungen
-des Bundesverbandes und seiner Gliederungen auf allen Ebenen haben
+<span id="A.11.1">(1)</span> Sämtliche Mitgliederversammlungen des
+Bundesverbandes und seiner Gliederungen auf allen Ebenen haben
 grundsätzlich öffentlich stattzufinden. Ein Ausschluss der
 Öffentlichkeit kann nur zeitweise erfolgen und nur zum Schutz von
 Persönlichkeitsrechten.
@@ -416,15 +390,13 @@ Persönlichkeitsrechten.
 <span id="A.11.2">(2)</span> Gäste besitzen kein Stimmrecht, können aber
 auf Beschluss der Versammlung Rederecht erhalten.
 
-<span id="A.12">
-
 ### § 12 - Satzungs- und Programmänderung
 
-</span> <span id="A.12.1">(1)</span> Änderungen der Bundessatzung können
-nur von einem Bundesparteitag mit einer 2/3 Mehrheit der abgegebenen
-gültigen Stimmen beschlossen werden. Besteht das dringende Erfordernis
-einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung
-auch geändert werden, wenn mindestens 2/3 der Mitglieder sich mit dem
+<span id="A.12.1">(1)</span> Änderungen der Bundessatzung können nur von
+einem Bundesparteitag mit einer 2/3 Mehrheit der abgegebenen gültigen
+Stimmen beschlossen werden. Besteht das dringende Erfordernis einer
+Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch
+geändert werden, wenn mindestens 2/3 der Mitglieder sich mit dem
 Antrag/den Anträgen auf Änderung schriftlich einverstanden erklären.
 
 <span id="A.12.2">(2)</span> Über einen Antrag auf Satzungsänderung auf
@@ -436,14 +408,12 @@ wurde.
 <span id="A.12.3">(3)</span> Die Regelungen aus Absatz 1 und 2 gelten
 ebenso für eine Änderung des Programms der xxx.
 
-<span id="A.13">
-
 ### § 13 - Auflösung und Verschmelzung
 
-</span> <span id="A.13.1">(1)</span> Die Auflösung der Bundespartei oder
-ihre Verschmelzung mit einer anderen Partei kann nur durch einen
-Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum
-Bundesparteitag Stimmberechtigten beschlossen werden.
+<span id="A.13.1">(1)</span> Die Auflösung der Bundespartei oder ihre
+Verschmelzung mit einer anderen Partei kann nur durch einen Beschluss
+des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag
+Stimmberechtigten beschlossen werden.
 
 <span id="A.13.2">(2)</span> Die Auflösung eines Landesverbandes kann
 durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4
@@ -463,20 +433,16 @@ ihrer Satzung aufzunehmen, wonach Beschlüsse über ihre Auflösung oder
 Verschmelzung zur Rechtskraft der Zustimmung eines Bundesparteitages
 bedürfen.
 
-<span id="A.14">
-
 ### § 14 - Verbindlichkeit dieser Bundessatzung
 
 Die Satzungen der Landesverbände und ihrer Untergliederungen müssen mit
 den grundsätzlichen Regelungen dieser Satzung übereinstimmen.
 
-<span id="A.15">
-
 ### § 15 - Parteiämter
 
-</span> <span id="A.15.1">(1)</span> Die nicht beruflich ausgeübten
-Funktionen und Tätigkeiten in der Mitgliederpartei Deutschland und
-seiner Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in
+<span id="A.15.1">(1)</span> Die nicht beruflich ausgeübten Funktionen
+und Tätigkeiten in der Mitgliederpartei Deutschland und seiner
+Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in
 begründeten Ausnahmefällen erfolgen und bedarf eines
 Vorstandsbeschlusses.
 
@@ -493,11 +459,9 @@ Zuständigkeitsbereich einheitlich geregelt. Abweichende Regelungen der
 nachgeordneten Gliederungen dürfen die Regelungen des Landesverbandes
 nicht überschreiten.
 
-<span id="A.16">
-
 ### § 16 - Basisentscheid und Basisbefragung
 
-</span> <span id="A.16.1">(1)</span> Die Mitglieder fassen in einem
+<span id="A.16.1">(1)</span> Die Mitglieder fassen in einem
 Basisentscheid einen Beschluss, der einem des Bundesparteitags
 gleichsteht. Ein Beschluss zu Sachverhalten, die dem Bundesparteitag
 vorbehalten sind oder eindeutig dem Parteiprogramm widersprechen, gilt
@@ -551,59 +515,49 @@ schwerer Verstoß gegen die Ordnung der Partei.
 Bundesparteitag beschlossen wird und auch per Basisentscheid geändert
 werden kann.
 
-<span id="B">
-
 Abschnitt B: Finanzordnung
 --------------------------
 
-</span><span id="B.1">
-
 #### § 1 Zuständigkeit
 
-</span> Dem Schatzmeister obliegen die Verwaltung der Finanzen und die
-Führung der Bücher. <span id="B.A">
+Dem Schatzmeister obliegen die Verwaltung der Finanzen und die Führung
+der Bücher.
 
 ### A. RECHENSCHAFTSBERICHT
 
-</span><span id="B.2">
-
 #### § 2 Rechenschaftsbericht Bundesverband
 
-</span> Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des
+Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des
 Rechenschaftsberichts gemäß dem fünften Abschnitt des Parteiengesetzes
 bei dem Präsidenten des Deutschen Bundestages. Zu diesem Zweck legen die
 Schatzmeister der Landesverbände ihm bis spätestens zum 31. Mai eines
 jeden Jahres die Rechenschaftsberichte der Landesverbände vor.
-<span id="B.3">
 
 #### § 3 Rechenschaftsbericht Landesverband
 
-</span> Die Untergliederungen legen ihren Landesverbänden jährlich bis
-zum 31. März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre
-Ausgaben nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab.
-<span id="B.4">
+Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31.
+März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben
+nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab.
 
 #### § 4 Durchgriffsrecht
 
-</span> Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung
-seiner unmittelbaren Gliederungen. Er hat das Recht auch in deren
-Gliederungen die ordnungsgemäße Buchführung zu kontrollieren und
-gewährleistet damit, dass jederzeit die zur Erstellung des Prüfvermerks
-für den Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz
-vorgeschriebenen Stichproben möglich sind. Ist die rechtzeitige Abgabe
-des Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene
-gefährdet, so hat der jeweils höhere Gebietsverband das Recht und die
-Pflicht durch geeignete Maßnahmen die ordnungsgemäße Buchführung seiner
-Gliederungen zu gewährleisten. <span id="B.B">
+Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner
+unmittelbaren Gliederungen. Er hat das Recht auch in deren Gliederungen
+die ordnungsgemäße Buchführung zu kontrollieren und gewährleistet damit,
+dass jederzeit die zur Erstellung des Prüfvermerks für den
+Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz vorgeschriebenen
+Stichproben möglich sind. Ist die rechtzeitige Abgabe des
+Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene gefährdet,
+so hat der jeweils höhere Gebietsverband das Recht und die Pflicht durch
+geeignete Maßnahmen die ordnungsgemäße Buchführung seiner Gliederungen
+zu gewährleisten.
 
 ### B. MITGLIEDSBEITRAG
 
-</span><span id="B.5">
-
 #### § 5 Höhe Mitgliedsbeitrag
 
-</span><span id="B.5.1"> (1)</span> Der Mitgliedsbeitrag beträgt 48 Euro
-pro Kalenderjahr und ist am 01.01. eines jeden Jahres fällig.
+<span id="B.5.1"> (1)</span> Der Mitgliedsbeitrag beträgt 48 Euro pro
+Kalenderjahr und ist am 01.01. eines jeden Jahres fällig.
 
 <span id="B.5.2">(2)</span> Bei Eintritt im Laufe eines Jahres ist der
 anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung
@@ -624,13 +578,10 @@ die Landessatzung nichts Gegenteiliges regelt.
 
 <span id="B.5.6">(6)</span> (entfallen)
 
-<span id="B.6">
-
 #### § 6 Aufteilung Mitgliedsbeitrag
 
-</span><span id="B.6.1"> (1)</span> Der Mitgliedsbeitrag ist vom
-zuständigen Landesverband aufzuteilen. 40% des Beitrages erhält der
-Bundesverband.
+<span id="B.6.1"> (1)</span> Der Mitgliedsbeitrag ist vom zuständigen
+Landesverband aufzuteilen. 40% des Beitrages erhält der Bundesverband.
 
 <span id="B.6.2">(2)</span> Ist in der Satzung des Landesverbandes keine
 anderslautende Verteilungsregelung getroffen, gilt folgender
@@ -646,12 +597,10 @@ zustehende Anteil an die nächsthöhere Gliederung.
 
 <span id="B.6.4">(4)</span> (entfallen)
 
-<span id="B.7">
-
 #### § 7 Verzug
 
-</span><span id="B.7.1"> (1)</span> Ein Mitglied befindet sich im
-Verzug, wenn der Mitgliedsbeitrag nicht zur Fälligkeit entrichtet wurde.
+<span id="B.7.1"> (1)</span> Ein Mitglied befindet sich im Verzug, wenn
+der Mitgliedsbeitrag nicht zur Fälligkeit entrichtet wurde.
 
 <span id="B.7.2">(2)</span> Ein Mitglied, das sich mit seinem Beitrag um
 mehr als 12 Monate im Verzug befindet, kann aus der Mitgliederdatenbank
@@ -667,33 +616,25 @@ Bundesverband.
 Gegen die Streichung ist Widerspruch beim zuständigen Schiedsgericht
 zulässig.
 
-<span id="B.8">
-
 #### § 8 Beitragsabführung
 
-</span> Der dem Bund zustehende Beitragsanteil der eingehenden
-Mitgliedsbeiträge ist pro Quartal abzuführen.
-
-<span id="B.9">
+Der dem Bund zustehende Beitragsanteil der eingehenden Mitgliedsbeiträge
+ist pro Quartal abzuführen.
 
 #### § 9 Weiterführende Regelungen
 
-</span> Das Nähere regeln die Gliederungen in eigener Zuständigkeit.
-
-<span id="B.C">
+Das Nähere regeln die Gliederungen in eigener Zuständigkeit.
 
 ### C. SPENDEN
 
-</span><span id="B.10">
-
 #### § 10 Vereinnahmung
 
-</span><span id="B.10.1">(1)</span> Bundesebene, Landesverbände und
-weitere Teilgliederungen sind berechtigt, Spenden anzunehmen.
-Ausgenommen sind Spenden, die im Sinne von § 25 Parteiengesetz
-unzulässig sind. Können unzulässige Spenden nicht zurückgegeben werden,
-sind diese über die Landesverbände und die Bundesebene unverzüglich an
-den Präsidenten des Deutschen Bundestages weiterzuleiten.
+<span id="B.10.1">(1)</span> Bundesebene, Landesverbände und weitere
+Teilgliederungen sind berechtigt, Spenden anzunehmen. Ausgenommen sind
+Spenden, die im Sinne von § 25 Parteiengesetz unzulässig sind. Können
+unzulässige Spenden nicht zurückgegeben werden, sind diese über die
+Landesverbände und die Bundesebene unverzüglich an den Präsidenten des
+Deutschen Bundestages weiterzuleiten.
 
 <span id="B.10.2">(2)</span> Erbschaften und Vermächtnisse werden ohne
 Begrenzung angenommen.
@@ -710,42 +651,35 @@ Spenders bzw. der Spenderin zu verzeichnen.
 
 <span id="B.11.1">(2)</span> Alle Einzelspenden über 1000 € werden
 unverzüglich unter Angabe von Spendernamen, Summe und ggf.
-Verwendungszweck veröffentlicht. <span id="B.12">
+Verwendungszweck veröffentlicht.
 
 #### § 12 Strafvorschrift
 
-</span> Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie
-gemäß Nr. 10 an den Präsidenten des Deutschen Bundestages
-weiterzuleiten, oder erlangte Spenden nach Nr. 11 nicht im
-Rechenschaftsbericht veröffentlicht, so verliert er gemäß § 31a
-Parteiengesetz den ihm nach der jeweiligen Beschlusslage zustehenden
-Anspruch auf staatliche Teilfinanzierung in Höhe des Zweifachen der
-rechtswidrig erlangten oder nicht veröffentlichten Spenden.
-
-<span id="B.13">
+Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß
+Nr. 10 an den Präsidenten des Deutschen Bundestages weiterzuleiten, oder
+erlangte Spenden nach Nr. 11 nicht im Rechenschaftsbericht
+veröffentlicht, so verliert er gemäß § 31a Parteiengesetz den ihm nach
+der jeweiligen Beschlusslage zustehenden Anspruch auf staatliche
+Teilfinanzierung in Höhe des Zweifachen der rechtswidrig erlangten oder
+nicht veröffentlichten Spenden.
 
 #### § 13 Spendenbescheinigung
 
-</span> Spendenbescheinigungen werden von der vereinnahmenden Gliederung
+Spendenbescheinigungen werden von der vereinnahmenden Gliederung
 ausgestellt.
-
-<span id="B.14">
 
 #### § 14 Aufteilung
 
-</span> Jeder Gliederung stehen die bei ihr eingegangenen Spenden
-ungeteilt zu, sofern eine Zweckbindung nichts anderes vorschreibt.
-<span id="B.D">
+Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu,
+sofern eine Zweckbindung nichts anderes vorschreibt.
 
 ### D. STAATLICHE TEILFINANZIERUNG
 
-</span> <span id="B.15">
-
 #### § 15 staatliche Teilfinanzierung
 
-</span><span id="B.15.1"> (1)</span> Der Bundesschatzmeister beantragt
-jährlich zum 31. Januar für die Bundesebene und die Landesverbände die
-Auszahlung der staatlichen Mittel.
+<span id="B.15.1"> (1)</span> Der Bundesschatzmeister beantragt jährlich
+zum 31. Januar für die Bundesebene und die Landesverbände die Auszahlung
+der staatlichen Mittel.
 
 <span id="B.15.2"> (2)</span> Der Bundesschatzmeister führt jährlich bis
 spätestens zum 31. März den innerparteilichen Finanzausgleich durch.
@@ -792,78 +726,60 @@ Landesverbände verteilt, so dass die einzahlenden Landesverbände nichts
 erhalten, aber alle verbliebenen Mittel an die nicht einzahlenden
 Landesverbände restlos ausgezahlt werden.
 
-<span id="B.E">
-
 ### E. ETAT
-
-</span><span id="B.16">
 
 #### § 16 Haushaltsplan
 
-</span><span id="B.16.1"> (1)</span> Der Schatzmeister stellt jedes
+<span id="B.16.1"> (1)</span> Der Schatzmeister stellt jedes
 Kalenderjahr vorab einen Haushaltsplan auf, der vom Vorstand beschlossen
 wird. Ist es absehbar, dass der Haushaltsansatz nicht ausreicht, hat der
 Schatzmeister unverzüglich einen Nachtragshaushalt einzubringen.
 
 <span id="B.16.2"> (2)</span> Der Schatzmeister ist bis zu dessen
 Verabschiedung an die Grundsätze einer vorläufigen Haushaltsführung
-gebunden. <span id="B.17">
+gebunden.
 
-#### § 17 Zuordnung
-
-</span> Eine Ausgabe, die beschlossen ist, muss durch einen
-entsprechenden Etattitel auch möglich sein. Beschlüsse, die mit
-finanziellen Auswirkungen verbunden sind und für deren Deckung kein
-entsprechender Etattitel vorgesehen ist, sind nur über die Umwidmung von
-anderen Etatposten auszuführen.
-
-<span id="B.18">
+Eine Ausgabe, die beschlossen ist, muss durch einen entsprechenden
+Etattitel auch möglich sein. Beschlüsse, die mit finanziellen
+Auswirkungen verbunden sind und für deren Deckung kein entsprechender
+Etattitel vorgesehen ist, sind nur über die Umwidmung von anderen
+Etatposten auszuführen.
 
 #### § 18 Überschreitung
 
-</span> Wird der genehmigte Etat nicht eingehalten, dann muss der
-Haushalt des Folgejahres durch Veranschlagung oder über eine
-Haushaltssperre um denselben Betrag bei den Ausgaben reduziert werden.
-
-<span id="B.19">
+Wird der genehmigte Etat nicht eingehalten, dann muss der Haushalt des
+Folgejahres durch Veranschlagung oder über eine Haushaltssperre um
+denselben Betrag bei den Ausgaben reduziert werden.
 
 #### § 19 Weiterführende Regelungen
 
-</span> Entsprechend dieser Regelung erlassen die Landesverbände und
-weitere Teilgliederungen die im Sinne des Parteiengesetzes notwendigen
+Entsprechend dieser Regelung erlassen die Landesverbände und weitere
+Teilgliederungen die im Sinne des Parteiengesetzes notwendigen
 ergänzenden Regelungen.
-
-<span id="B.F">
 
 ### F. Fachausschuss für Finanzen (Schatzmeisterclub)
 
-</span><span id="B.20">
-
 #### § 20 Mitglieder des Schatzmeisterclubs
 
-</span> Der Schatzmeisterclub besteht aus je einem für Finanzen
-zuständigem Vorstandsmitglied des Bundesverbandes und der Landesverbände
-(= bis zu 17 stimmberechtigte Mitglieder). Die Mitglieder können ihr
-Stimmrecht durch einen Vertreter wahrnehmen lassen.
-
-<span id="B.21">
+Der Schatzmeisterclub besteht aus je einem für Finanzen zuständigem
+Vorstandsmitglied des Bundesverbandes und der Landesverbände (= bis zu
+17 stimmberechtigte Mitglieder). Die Mitglieder können ihr Stimmrecht
+durch einen Vertreter wahrnehmen lassen.
 
 #### § 21 Innere Ordnung des Schatzmeisterclubs
 
-</span> Der Schatzmeisterclub gibt sich eine Geschäftsordnung und
-veröffentlicht diese angemessen. Der Geschäftsordnung muss eine Mehrheit
-von mindestens 3/4 der Mitglieder zustimmen.
-
-<span id="B.22">
+Der Schatzmeisterclub gibt sich eine Geschäftsordnung und veröffentlicht
+diese angemessen. Der Geschäftsordnung muss eine Mehrheit von mindestens
+3/4 der Mitglieder zustimmen.
 
 #### § 22 Sitzungen des Schatzmeisterclubs
 
-</span> <span id="B.22.1">(1)</span> Eines der Mitglieder lädt zu den
-Sitzungen ein. Die Ladung erfolgt in Textform spätestens am fünfzehnten
-Tag vor dem Sitzungstermin, und enthält Angaben zum Anlass der
-Einberufung, den genauen Sitzungsort, Datum und Uhrzeit des Beginns der
-Sitzung, sowie eine vorläufige Tagesordnung und die Angabe, wo weitere,
-aktuelle Veröffentlichungen gemacht werden.
+<span id="B.22.1">(1)</span> Eines der Mitglieder lädt zu den Sitzungen
+ein. Die Ladung erfolgt in Textform spätestens am fünfzehnten Tag vor
+dem Sitzungstermin, und enthält Angaben zum Anlass der Einberufung, den
+genauen Sitzungsort, Datum und Uhrzeit des Beginns der Sitzung, sowie
+eine vorläufige Tagesordnung und die Angabe, wo weitere, aktuelle
+Veröffentlichungen gemacht werden.
 
 <span id="B.22.2">(2)</span> Der Schatzmeisterclub tagt mindestens
 zweimal jährlich.
@@ -880,42 +796,29 @@ sind.
 Schatzmeisterclubs ist ein Ergebnisprotokoll anzufertigen und zeitnah zu
 veröffentlichen.
 
-<span id="B.23">
-
 #### § 23 Aufgaben und Kompetenzen des Schatzmeisterclubs
 
-</span> Zu den Aufgaben des Schatzmeisterclubs gehört die Festlegung von
-Art und Umfang der Grundversorgung der Gesamtpartei. Der
-Schatzmeisterclub hat das Recht Beauftragte zu benennen, die die jeweils
-infrage kommenden Tätigkeitsfelder zu analysieren haben. Sie untersuchen
-Kostenstrukturen, Arbeitsprozesse und Rentabilität und erarbeiten
-gegebenenfalls Alternativmodelle. Die Ergebnisse ihrer Untersuchungen
-legen sie dem Schatzmeisterclub vor, der diese zur Grundlage seiner
-Entscheidungen macht. Den Beauftragten ist von den beteiligten Personen
-voller Zugang zu allen erforderlichen Informationen und Ressourcen zu
-gewähren.
-
-<span id="B.G">
+Zu den Aufgaben des Schatzmeisterclubs gehört die Festlegung von Art und
+Umfang der Grundversorgung der Gesamtpartei. Der Schatzmeisterclub hat
+das Recht Beauftragte zu benennen, die die jeweils infrage kommenden
+Tätigkeitsfelder zu analysieren haben. Sie untersuchen Kostenstrukturen,
+Arbeitsprozesse und Rentabilität und erarbeiten gegebenenfalls
+Alternativmodelle. Die Ergebnisse ihrer Untersuchungen legen sie dem
+Schatzmeisterclub vor, der diese zur Grundlage seiner Entscheidungen
+macht. Den Beauftragten ist von den beteiligten Personen voller Zugang
+zu allen erforderlichen Informationen und Ressourcen zu gewähren.
 
 ### G. WIRTSCHAFTLICHER GESCHÄFTSBETRIEB
 
-</span><span id="B.24">
-
 #### § 24 Wirtschaftlicher Geschäftsbetrieb
 
-</span> Es ist den Gliederungen der Mitgliederpartei nicht gestattet,
-einen wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten.
-Die Abwicklung von unternehmerischen Tätigkeiten ist von einem
-Beauftragten zu besorgen, der vom Bundesvorstand bestellt wird.
-
-<span id="C">
+Es ist den Gliederungen der Mitgliederpartei nicht gestattet, einen
+wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die
+Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten
+zu besorgen, der vom Bundesvorstand bestellt wird.
 
 Abschnitt C: Schiedsgerichtsordnung
 -----------------------------------
-
-</span>
-
-<span id="C.1"></span>
 
 ### § 1 - Grundlagen
 
@@ -926,8 +829,6 @@ Verfahren vor den Schiedsgerichten.
 bindend. Eine Erweiterung oder Abänderung durch andere Gliederungen ist
 nur an den Stellen und in dem Rahmen zulässig, soweit dies diese Ordnung
 ausdrücklich vorsieht.
-
-<span id="C.2"></span>
 
 ### § 2 - Schiedsgericht
 
@@ -965,8 +866,6 @@ Geschäftsordnung. Diese enthält insbesondere Regelungen
     Bekanntmachungen und
 -   die Dokumentation der Arbeit des Schiedsgerichtes, der Aufbewahrung
     von Akten und der Akteneinsicht.
-
-<span id="C.3">
 
 ### § 3 - Richterwahl
 
@@ -1038,8 +937,6 @@ der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der
 Richter im Bundesschiedsgericht auf unter 6, entfallen die Spruchkammern
 und die verbliebenen Richter entscheiden gemeinschaftlich.
 
-<span id="C.4"></span>
-
 ### § 4 - Besetzung
 
 <span id="C.4.1">(1)</span> Nimmt ein Richter an Beratungen, Sitzungen
@@ -1066,8 +963,6 @@ Ausschluss ist eine Notbesetzung von zwei Richtern für die
 Beschlussfähigkeit ausreichend. Ist ein Gericht nicht mehr
 beschlussfähig, so erklärt es sich gegenüber den Beteiligten und dem
 nächsthöheren Gericht für handlungsunfähig.
-
-<span id="C.5"></span>
 
 ### § 5 – Befangenheit
 
@@ -1130,8 +1025,6 @@ Spruchkammer des Bundesschiedsgerichts zulässig. Eine Entscheidung über
 ein Ablehnungsgesuch nach Absatz 5 durch den Senat des
 Bundesschiedsgerichts ist in jedem Fall unanfechtbar.
 
-<span id="C.6"></span>
-
 ### § 6 - Zuständigkeit
 
 <span id="C.6.1">(1)</span> Zuständig ist generell das Gericht der
@@ -1154,8 +1047,6 @@ Landesverbandes zuständig, bei dem der Betroffene Mitglied ist.
 Gerichts verweist das nächsthöhere Gericht den Fall an ein anderes, der
 Eingangsinstanz gleichrangiges, Schiedsgericht.
 
-<span id="C.7"></span>
-
 ### § 7 - Schlichtung
 
 <span id="C.7.1">(1)</span> Eine Anrufung des Schiedsgerichts erfordert
@@ -1175,8 +1066,6 @@ Ordnungsmaßnahmen, bei einer Berufung sowie in den Fällen, in denen das
 Schiedsgericht die Eilbedürftigkeit des Verfahrens, die
 Aussichtslosigkeit oder das Scheitern der Schlichtung feststellt.
 Entscheidungen des Schiedsgerichts hierzu sind unanfechtbar.
-
-<span id="C.8"></span>
 
 ### § 8 - Anrufung
 
@@ -1222,8 +1111,6 @@ Verfahren am ursprünglichen Schiedsgericht eröffnet.
 <span id="C.8.7">(7)</span> Schiedsgerichte sind keine
 Verfahrensbeteiligten.
 
-<span id="C.9"></span>
-
 ### § 9 - Eröffnung
 
 <span id="C.9.1">(1)</span> Das Gericht eröffnet das Verfahren nach
@@ -1249,8 +1136,6 @@ Mitglieder angerufen, so enthält das Schreiben zusätzlich die Nachfrage
 an den betroffenen Mitglieder, ob dieser ein nichtöffentliches Verfahren
 wünscht. Nichtöffentliche Verfahren sind von allen Verfahrensbeteiligten
 und dem Gericht vertraulich zu behandeln.
-
-<span id="C.10"></span>
 
 ### § 10 - Verfahren
 
@@ -1321,8 +1206,6 @@ Anrufung über die Verfahrenseröffnung entschieden wurde. Das
 Berufungsgericht kann das Verfahren an ein anderes Schiedsgericht
 verweisen.
 
-<span id="C.11"></span>
-
 ### § 11 - Einstweilige Anordnung
 
 <span id="C.11.1">(1)</span> Auf Antrag kann das in der Hauptsache
@@ -1364,8 +1247,6 @@ zulässig.
 <span id="C.11.7">(7)</span> Auf Entscheidungen zu einstweiligen
 Anordnungen finden die § 12 Abs. 7-9 analoge Anwendung.
 
-<span id="C.12"></span>
-
 ### § 12 - Urteil
 
 <span id="C.12.1">(1)</span> Das Urteil soll drei Monate nach
@@ -1405,8 +1286,6 @@ Urteilsfassung ist dem Bundesschiedsgericht zur gesammelten
 Veröffentlichung von Schiedsgerichtsentscheidungen zu übersenden.
 Näheres regelt die Geschäftsordnung des Bundesschiedsgerichts.
 
-<span id="C.13"></span>
-
 ### § 13 - Berufung
 
 <span id="C.13.1">(1)</span> Gegen erstinstanzliche Urteile steht jedem
@@ -1439,8 +1318,6 @@ einzulegen und mit einer Begründung zu versehen. Die Vorschriften zur
 Berufung entsprechende Anwendung. Die sofortige Beschwerde hat keine
 aufschiebende Wirkung.
 
-<span id="C.14"></span>
-
 ### § 14 - Dokumentation
 
 <span id="C.14.1">(1)</span> Das Gericht dokumentiert das Verfahren.
@@ -1461,8 +1338,6 @@ in die Verfahrensakte nehmen.
 Verfahrensakte fünf Jahre aufzubewahren. Urteile sind unbefristet
 aufzubewahren.
 
-<span id="C.15"></span>
-
 ### § 15 - Rechenschaftsbericht
 
 <span id="C.15.1">(1)</span> Während seiner Amtszeit soll das Gericht in
@@ -1477,8 +1352,6 @@ zu nicht öffentlichen Verfahren sind unzulässig.
 <span id="C.15.3">(3)</span> Das Gericht legt dem Parteitag einen
 Arbeitsbericht vor, der die Fälle der Amtsperiode inklusive Urteil kurz
 darstellt.
-
-<span id="C.16"></span>
 
 ### § 16 - Kosten und Auslagen
 
