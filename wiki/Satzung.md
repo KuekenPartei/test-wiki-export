@@ -19,9 +19,6 @@ mit dem Namen des jeweiligen Bundeslandes.
 <span id="A.1.4">(4)</span> Das Tätigkeitsgebiet der xxx ist die
 Bundesrepublik Deutschland.
 
-<span id="A.1.5">(5)</span> Die in der xxx organisierten Mitglieder
-werden geschlechtsneutral als Mitglieder bezeichnet.
-
 ### § 2 - Mitgliedschaft
 
 <span id="A.2.1">(1)</span> Mitglied der xxx kann jeder Deutsche im
