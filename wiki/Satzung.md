@@ -2,4 +2,4 @@ test
 
 test
 
-`   `<accesscontrol>`Administrators,urs`</accesscontrol>
+<accesscontrol>`Administrators,urs,Basicuser`</accesscontrol>
