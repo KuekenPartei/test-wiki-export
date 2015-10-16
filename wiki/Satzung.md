@@ -1,52 +1,6 @@
 tags:
  - Satzung
 
-<div class="noprint">
--   geändert auf dem [Bundesparteitag
-    2015.1](/wiki/Bundesparteitag_2015.1 "wikilink") am 25./26.07.2015 in
-    Würzburg (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2014.1](/wiki/Bundesparteitag_2014.1 "wikilink") am 04./05.01.2014 in
-    Bochum (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2013.2](/wiki/Bundesparteitag_2013.2 "wikilink") am 30.11./01.12.2013 in
-    Bremen (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2013.1](/wiki/Bundesparteitag_2013.1 "wikilink") am 10.-12.05.2013 in
-    Neumarkt (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2012.2](/wiki/Bundesparteitag_2012.2 "wikilink") am 24./25.11.2012 in
-    Bochum (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2012.1](/wiki/Bundesparteitag_2012.1 "wikilink") am 28./29.04.2012 in
-    Neumünster (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2011.2](/wiki/Bundesparteitag_2011.2 "wikilink") am 03./04.12.2011 in
-    Offenbach (\[ Versionslink\], \[ Änderungen\], [PDF
-    12/2011](:Media:Bundessatzung_12_2011.pdf "wikilink"))
--   geändert auf dem [Bundesparteitag
-    2011.1](/wiki/Bundesparteitag_2011.1 "wikilink") am 14./15.05.2011 in
-    Heidenheim (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2010.1](/wiki/Bundesparteitag_2010.1 "wikilink") am 15./16.05.2010 in
-    Bingen (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2009.1](/wiki/Bundesparteitag_2009.1 "wikilink") am 04./05.07.2009 in
-    Hamburg (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2008.2](/wiki/Bundesparteitag_2008.2 "wikilink") am 03.-05.10.2008 in
-    Bielefeld (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2008](/wiki/Bundesparteitag_2008 "wikilink") am 17./18.05.2008 in Hannover
-    (\[ Versionslink\], \[ Änderungen\])
--   geändert auf dem [Bundesparteitag
-    2007](/wiki/Bundesparteitag_2007 "wikilink") am 19./20.05.2007 (\[
-    Versionslink\], \[ Änderungen\])
--   Beschlossen auf der
-    [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") am
-    10.09.2006 in Berlin (\[ Versionslink\])
-
-</div>
 <span id="A">
 
 Abschnitt A: Grundlagen
@@ -56,71 +10,59 @@ Abschnitt A: Grundlagen
 
 ### § 1 - Name, Sitz und Tätigkeitsgebiet
 
-</span> <span id="A.1.1">(1)</span> Die Piratenpartei Deutschland
-(PIRATEN) ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik
-Deutschland und des Parteiengesetzes. Sie vereinigt Piraten ohne
-Unterschied der Staatsangehörigkeit, des Standes, der Herkunft, der
-ethnischen Zugehörigkeit, des Geschlechts, der sexuellen Orientierung
-und des Bekenntnisses, die beim Aufbau und Ausbau eines demokratischen
-Rechtsstaates und einer modernen freiheitlichen Gesellschaftsordnung
-geprägt vom Geiste sozialer Gerechtigkeit mitwirken wollen. Totalitäre,
-diktatorische und faschistische Bestrebungen jeder Art lehnt die
-Piratenpartei Deutschland entschieden ab.
+</span> <span id="A.1.1">(1)</span> Die xxx ist eine Partei im Sinne des
+Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
 
-<span id="A.1.2">(2)</span> Die Piratenpartei Deutschland führt einen
-Namen und eine Kurzbezeichnung. Der Name lautet: Piratenpartei
-Deutschland. Die offizielle Abkürzung des Parteinamens lautet: PIRATEN.
-Landesverbände führen den Namen Piratenpartei Deutschland verbunden mit
-dem Namen des jeweiligen Bundeslandes.
+<span id="A.1.2">(2)</span> Die xxx führt einen Namen und eine
+Kurzbezeichnung. Der Name lautet: xxx Die offizielle Abkürzung des
+Parteinamens lautet: XXX Landesverbände führen den Namen xxx verbunden
+mit dem Namen des jeweiligen Bundeslandes.
 
 <span id="A.1.3">(3)</span> Der Sitz der Partei ist Berlin.
 
-<span id="A.1.4">(4)</span> Das Tätigkeitsgebiet der Piratenpartei
-Deutschland ist die Bundesrepublik Deutschland.
+<span id="A.1.4">(4)</span> Das Tätigkeitsgebiet der xxx ist die
+Bundesrepublik Deutschland.
 
-<span id="A.1.5">(5)</span> Die in der Piratenpartei Deutschland
-organisierten Mitglieder werden geschlechtsneutral als Piraten
-bezeichnet.
+<span id="A.1.5">(5)</span> Die in der xxx organisierten Mitglieder
+werden geschlechtsneutral als Mitglieder bezeichnet.
 
 <span id="A.2">
 
 ### § 2 - Mitgliedschaft
 
-</span> <span id="A.2.1">(1)</span> Mitglied der Piratenpartei
-Deutschland kann jeder Deutsche im Sinne des Grundgesetzes und jede
-Person mit Wohnsitz in Deutschland werden, die das 16. Lebensjahr
-vollendet hat und die Grundsätze sowie die Satzung der Piratenpartei
-Deutschland anerkennt.
+</span> <span id="A.2.1">(1)</span> Mitglied der xxx kann jeder Deutsche
+im Sinne des Grundgesetzes und jede Person mit Wohnsitz in Deutschland
+werden, die das 16. Lebensjahr vollendet hat und die Grundsätze sowie
+die Satzung der xxx anerkennt.
 
-<span id="A.2.2">(2)</span> Mitglied der Piratenpartei Deutschland
-können nur natürliche Personen sein. Die Bundespartei führt ein
-zentrales Piratenverzeichnis.
+<span id="A.2.2">(2)</span> Mitglied der xxx können nur natürliche
+Personen sein. Die Bundespartei führt ein zentrales
+Mitgliederverzeichnis.
 
-<span id="A.2.3">(3)</span> Die gleichzeitige Mitgliedschaft in der
-Piratenpartei Deutschland und bei einer anderen (mit ihr im Wettbewerb
-stehenden) Partei oder Wählergruppe ist nicht ausgeschlossen. Die
-Mitgliedschaft in einer Organisation oder Vereinigung, deren Zielsetzung
-den Zielen der Piratenpartei Deutschland widerspricht, ist nicht
-zulässig.
+<span id="A.2.3">(3)</span> Die gleichzeitige Mitgliedschaft in der xxx
+und bei einer anderen (mit ihr im Wettbewerb stehenden) Partei oder
+Wählergruppe ist nicht ausgeschlossen. Die Mitgliedschaft in einer
+Organisation oder Vereinigung, deren Zielsetzung den Zielen der xxx
+widerspricht, ist nicht zulässig.
 
 <span id="A.3">
 
 ### § 3 - Erwerb der Mitgliedschaft
 
-</span> <span id="A.3.1">(1)</span> Die Mitgliedschaft in der
-Piratenpartei Deutschland wird auf Grundlage dieser Satzung erworben.
-Die Mitgliedschaft wird zunächst unmittelbar bei der Bundespartei
-erworben. Nach der Gründung niederer Gliederungen wird
+</span> <span id="A.3.1">(1)</span> Die Mitgliedschaft in der xxx wird
+auf Grundlage dieser Satzung erworben. Die Mitgliedschaft wird zunächst
+unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer
+Gliederungen wird
 
 1.  <span id="A.3.1.1"></span>die Mitgliedschaft bei der niedrigsten
     Parteigliederung erworben, die den nach [Abs. 3 Satz
     2](#A.3.3 "wikilink") bestimmten Wohnort umfasst.
-2.  <span id="A.3.1.2"></span>jeder Pirat entsprechend seinem
+2.  <span id="A.3.1.2"></span>jeder Mitglied entsprechend seinem
     angezeigten Wohnsitz automatisch Mitglied dieser Gliederung.
 
 <span id="A.3.2">(2)</span> Über die Aufnahme entscheidet der Vorstand
 der zuständigen Gliederung, so lange die Satzung der Gliederung nichts
-anderes bestimmt. Aufnahmeanträge von ehemaligen Piraten, die
+anderes bestimmt. Aufnahmeanträge von ehemaligen Mitglieder, die
 rechtswirksam aus der Partei ausgeschlossen wurden, oder die während
 eines gegen sie gerichteten Parteiausschlussverfahrens die Partei
 verlassen haben, sowie Aufnahmeanträge von Personen von denen ein
@@ -129,10 +71,10 @@ Bundesvorstand genehmigt werden. Der Bundesvorstand soll dabei die
 zuständige Gliederung anhören. Die Mitgliedschaft beginnt nach Annahme
 des Aufnahmeantrages mit der Entrichtung des ersten Mitgliedsbeitrages.
 
-<span id="A.3.2a">(2a)</span> Jeder Pirat gehört grundsätzlich der
+<span id="A.3.2a">(2a)</span> Jeder Mitglied gehört grundsätzlich der
 Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz
 hat. Bei nachvollziehbaren Gründen, die den Organisationsinteressen
-nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer
+nicht entgegen stehen, kann der Mitglied die Zugehörigkeit in einer
 Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in
 eine andere Gliederung erfolgt in Schriftform und wird von der
 nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in
@@ -140,57 +82,57 @@ Schriftform begründet werden und kann im Einspruchsverfahren zur letzten
 Entscheidung dem Schiedsgericht vorgelegt werden.
 
 <span id="A.3.2b">(2b)</span> Mit der Aufnahme in eine andere Gliederung
-verliert der Pirat das aktive und passive Wahlrecht in der alten
+verliert der Mitglied das aktive und passive Wahlrecht in der alten
 Gliederung. Eventuell bekleidete Posten müssen freigegeben werden.
 Doppelmitgliedschaften sind unzulässig.
 
 <span id="A.3.3">(3)</span> Die Aufnahme setzt voraus, dass der/die
 BewerberIn im Bereich der aufnehmenden Gliederung einen Wohnsitz hat und
-nicht schon Pirat ist. Hat ein Pirat mehrere Wohnsitze, bestimmt er
-selbst, wo er Pirat ist.
+nicht schon Mitglied ist. Hat ein Mitglied mehrere Wohnsitze, bestimmt
+er selbst, wo er Mitglied ist.
 
 <span id="A.3.4">(4)</span> Bei einem Wohnsitzwechsel in das Gebiet
-einer anderen Gliederung geht die Mitgliedschaft über. Der Pirat hat den
-Wohnsitzwechsel unverzüglich der dem alten Wohnsitz zuständigen
+einer anderen Gliederung geht die Mitgliedschaft über. Der Mitglied hat
+den Wohnsitzwechsel unverzüglich der dem alten Wohnsitz zuständigen
 niedrigsten Gliederung anzuzeigen.
 
 <span id="A.3.5">(5)</span> Über Aufnahmeanträge von Deutschen, die
 ihren Wohnsitz außerhalb Deutschlands haben, entscheidet der
 Bundesvorstand.
 
-<span id="A.3.6">(6)</span> Jeder Pirat erhält einen Mitgliedsausweis.
+<span id="A.3.6">(6)</span> Jeder Mitglied erhält einen
+Mitgliedsausweis.
 
 <span id="A.4">
 
-### § 4 - Rechte und Pflichten der Piraten
+### § 4 - Rechte und Pflichten der Mitglieder
 
-</span> <span id="A.4.1">(1)</span> Jeder Pirat hat das Recht und die
+</span> <span id="A.4.1">(1)</span> Jeder Mitglied hat das Recht und die
 Pflicht, im Rahmen dieser Satzung und der Satzung seines Landesverbandes
-die Zwecke der Piratenpartei Deutschland zu fördern und sich an der
-politischen und organisatorischen Arbeit der Piratenpartei Deutschland
-zu beteiligen. Jeder Pirat hat das Recht an der politischen
-Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung
-teilzunehmen. Ein Pirat kann nur in den Vorstand eines Gebietsverbandes
-gewählt werden, dessen Mitglied er ist (Passives Wahlrecht). Eine
-Ämterkumulation ist nur in den Fällen zulässig, in denen die
-Mitgliederversammlung der Gliederung dies für den konkreten Einzelfall
-explizit beschließt.
+die Zwecke der xxx zu fördern und sich an der politischen und
+organisatorischen Arbeit der xxx zu beteiligen. Jeder Mitglied hat das
+Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im
+Rahmen der Satzung teilzunehmen. Ein Mitglied kann nur in den Vorstand
+eines Gebietsverbandes gewählt werden, dessen Mitglied er ist (Passives
+Wahlrecht). Eine Ämterkumulation ist nur in den Fällen zulässig, in
+denen die Mitgliederversammlung der Gliederung dies für den konkreten
+Einzelfall explizit beschließt.
 
 <span id="A.4.2">(2)</span> Interna können per mehrheitlichem Beschluss
 als Verschlusssache deklariert werden. Über Verschlusssachen ist
 Verschwiegenheit zu wahren. Verschlusssachen können per mehrheitlichem
 Beschluss von diesem Status befreit werden.
 
-<span id="A.4.3">(3)</span> Alle Piraten haben gleiches Stimmrecht.
+<span id="A.4.3">(3)</span> Alle Mitglieder haben gleiches Stimmrecht.
 
 <span id="A.4.4">(4)</span> Die Ausübung des Stimmrechts ist nur
-möglich, wenn der Pirat Mitglied des Gebietsverbandes ist, seinen ersten
-Mitgliedsbeitrag nach Eintritt geleistet hat, sowie mit seinen
+möglich, wenn der Mitglied Mitglied des Gebietsverbandes ist, seinen
+ersten Mitgliedsbeitrag nach Eintritt geleistet hat, sowie mit seinen
 Mitgliedsbeiträgen nicht mehr als drei Monate im Rückstand ist. Auf
 Parteitagen ist die Ausübung des Stimmrechts nur möglich, wenn alle
 Mitgliedsbeiträge entrichtet wurden.
 
-<span id="A.4.5">(5)</span> Jeder Pirat ist jederzeit zum sofortigen
+<span id="A.4.5">(5)</span> Jeder Mitglied ist jederzeit zum sofortigen
 Austritt aus der Partei berechtigt (Textform erforderlich). Bereits
 bezahlte Beiträge werden nicht zurückerstattet. <span id="A.5">
 
@@ -209,24 +151,23 @@ Beiträgen besteht nicht.
 
 ### § 6 - Ordnungsmaßnahmen
 
-</span> <span id="A.6.1">(1)</span> Verstößt ein Pirat gegen die Satzung
-oder gegen Grundsätze oder Ordnung der Piratenpartei Deutschland und
-fügt ihr damit Schaden zu, so kann der Bundesvorstand folgende
-Ordnungsmaßnahmen anordnen: Verwarnung, Verweis, Enthebung von einem
-Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden,
-Ausschluss aus der Piratenpartei Deutschland. Der Vorstand muss dem
-Mitglied vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren.
-Der Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen
-zu überstellen.
+</span> <span id="A.6.1">(1)</span> Verstößt ein Mitglied gegen die
+Satzung oder gegen Grundsätze oder Ordnung der xxx und fügt ihr damit
+Schaden zu, so kann der Bundesvorstand folgende Ordnungsmaßnahmen
+anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt,
+Aberkennung der Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus der
+xxx. Der Vorstand muss dem Mitglied vor dem Beschluss der
+Ordnungsmaßnahme eine Anhörung gewähren. Der Beschluss ist dem Mitglied
+in Schriftform unter Angabe von Gründen zu überstellen.
 
-<span id="A.6.2">(2)</span> Ein Pirat kann nur dann ausgeschlossen
+<span id="A.6.2">(2)</span> Ein Mitglied kann nur dann ausgeschlossen
 werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die
-Grundsätze oder die Ordnung der Piratenpartei Deutschland verstößt und
-ihr damit schweren Schaden zufügt. Der Ausschluss wird vom
-Bundesvorstand beim zuständigen Schiedsgericht beantragt. In dringenden
-und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann
-der Vorstand das Mitglied von der Ausübung seiner Rechte bis zur
-Entscheidung des Schiedsgerichts ausschließen.
+Grundsätze oder die Ordnung der xxx verstößt und ihr damit schweren
+Schaden zufügt. Der Ausschluss wird vom Bundesvorstand beim zuständigen
+Schiedsgericht beantragt. In dringenden und schwerwiegenden Fällen, die
+sofortiges Eingreifen erfordern, kann der Vorstand das Mitglied von der
+Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts
+ausschließen.
 
 <span id="A.6.3">(3)</span> Untergliederungen können in ihren Satzungen
 eigene Regelungen zu Ordnungsmaßnahmen treffen. Auch Ordnungsmaßnahmen
@@ -235,21 +176,20 @@ einer Untergliederung wirken für die Gesamtpartei.
 <span id="A.6.4">(4)</span> Die Mitgliedschaft ruht im Falle eines
 Ausschlusses bis zum Abschluss eines möglichen Berufungsverfahrens.
 
-<span id="A.6.5">(5)</span> Die parlamentarischen Gruppen der
-Piratenpartei Deutschland sind gehalten, einen rechtskräftig
-ausgeschlossenen oder einen ausgetretenen Piraten aus ihrer Gruppe
-auszuschließen.
+<span id="A.6.5">(5)</span> Die parlamentarischen Gruppen der xxx sind
+gehalten, einen rechtskräftig ausgeschlossenen oder einen ausgetretenen
+Mitglieder aus ihrer Gruppe auszuschließen.
 
 <span id="A.6.6">(6)</span> Verstößt ein Gebietsverband schwerwiegend
-gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland sind
-folgende Ordnungsmaßnahmen gegen nachgeordnete Gebietsverbände sind
-möglich: Auflösung, Ausschluss, Amtsenthebung des Vorstandes
-nachgeordneter Gebietsverbände. Als schwerwiegender Verstoß gegen die
-Ordnung und die Grundsätze der Partei ist es zu werten, wenn die
-Gebietsverbände die Bestimmungen der Satzung beharrlich missachten,
-Beschlüsse übergeordneter Parteiorgane nicht durchführen oder in
-wesentlichen Fragen gegen die politische Zielsetzung der Partei handeln.
-Die Ordnungsmaßnahmen werden vom Vorstand eines höheren Gebietsverbandes
+gegen die Grundsätze oder die Ordnung der xxx sind folgende
+Ordnungsmaßnahmen gegen nachgeordnete Gebietsverbände sind möglich:
+Auflösung, Ausschluss, Amtsenthebung des Vorstandes nachgeordneter
+Gebietsverbände. Als schwerwiegender Verstoß gegen die Ordnung und die
+Grundsätze der Partei ist es zu werten, wenn die Gebietsverbände die
+Bestimmungen der Satzung beharrlich missachten, Beschlüsse
+übergeordneter Parteiorgane nicht durchführen oder in wesentlichen
+Fragen gegen die politische Zielsetzung der Partei handeln. Die
+Ordnungsmaßnahmen werden vom Vorstand eines höheren Gebietsverbandes
 getroffen. Die Mitgliederversammlung des die Ordnungsmaßnahme treffenden
 Gebietsverbandes hat die Ordnungsmaßnahme am nächsten Parteitag mit
 einfacher Mehrheit zu bestätigen, ansonsten tritt die Maßnahme außer
@@ -267,10 +207,10 @@ oder beantragten auch eine mildere Ordnungsmaßnahme aussprechen.
 
 ### § 7 - Gliederung
 
-</span> <span id="A.7.1">(1)</span> Die Piratenpartei Deutschland
-gliedert sich in Landesverbände. Die Landesverbände können nach ihren
-örtlichen Bedürfnissen Untergliederungen schaffen. Innerhalb der
-staatsrechtlichen Grenzen eines Landes gibt es nur einen Landesverband.
+</span> <span id="A.7.1">(1)</span> Die xxx gliedert sich in
+Landesverbände. Die Landesverbände können nach ihren örtlichen
+Bedürfnissen Untergliederungen schaffen. Innerhalb der staatsrechtlichen
+Grenzen eines Landes gibt es nur einen Landesverband.
 
 <span id="A.7.2">(2)</span> Die weitere Untergliederung der
 Landesverbände erfolgt in Orts-, Kreis- und Bezirksverbände, die
@@ -286,10 +226,10 @@ Bundesverband und die Landesverbände.
 ### § 8 - Bundespartei und Landesverbände
 
 </span> <span id="A.8.1">(1)</span> Die Landesverbände sind
-verpflichtet, alles zu tun, um die Einheit der Piratenpartei Deutschland
-zu sichern, sowie alles zu unterlassen, was sich gegen die Grundsätze,
-die Ordnung oder das Ansehen der Piratenpartei Deutschland richtet. Sie
-haben auch ihre Organe zu einer gleichen Verhaltensweise anzuhalten.
+verpflichtet, alles zu tun, um die Einheit der xxx zu sichern, sowie
+alles zu unterlassen, was sich gegen die Grundsätze, die Ordnung oder
+das Ansehen der xxx richtet. Sie haben auch ihre Organe zu einer
+gleichen Verhaltensweise anzuhalten.
 
 <span id="A.8.2">(2)</span> Verletzen Landesverbände, ihnen
 nachgeordnete Gebietsverbände oder Organe diese Pflichten, ist der
@@ -321,9 +261,9 @@ die Generalsekretäre für die innerparteiliche Organisation und
 Verwaltung zuständig. Scheidet ein Amtsträger aus dem Vorstand aus,
 übernimmt dessen Stellvertreter sein Amt.
 
-<span id="A.9a.2">(2)</span> Der Bundesvorstand vertritt die
-Piratenpartei Deutschland nach innen und außen. Er führt die Geschäfte
-auf Grundlage der Beschlüsse der Parteiorgane.
+<span id="A.9a.2">(2)</span> Der Bundesvorstand vertritt die xxx nach
+innen und außen. Er führt die Geschäfte auf Grundlage der Beschlüsse der
+Parteiorgane.
 
 <span id="A.9a.3">(3)</span> Die Mitglieder des Bundesvorstands werden
 vom Bundesparteitag mindestens einmal im Kalenderjahr gewählt. Der
@@ -340,8 +280,8 @@ von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes
 einberufen. Bei außerordentlichen Anlässen kann die Einberufung auch
 kurzfristiger erfolgen.
 
-<span id="A.9a.5">(5)</span> Auf Antrag eines Zehntels der Piraten kann
-der Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen
+<span id="A.9a.5">(5)</span> Auf Antrag eines Zehntels der Mitglieder
+kann der Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen
 Fragestellungen befasst werden.
 
 <span id="A.9a.6">(6)</span> Der Bundesvorstand beschließt über alle
@@ -400,14 +340,14 @@ Mitgliederversammlung auf Bundesebene.
 
 <span id="A.9b.2">(2)</span> Der Bundesparteitag tagt mindestens einmal
 jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn
-ein Zehntel der Piraten es beantragen. Der Vorstand lädt jedes Mitglied
-per Textform (vorranging per E-Mail, nachrangig per Brief) mindestens 6
-Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort,
-Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere,
-aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2
-Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die
-geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten
-Anträge im Wortlaut zu veröffentlichen.
+ein Zehntel der Mitglieder es beantragen. Der Vorstand lädt jedes
+Mitglied per Textform (vorranging per E-Mail, nachrangig per Brief)
+mindestens 6 Wochen vorher ein. Die Einladung hat Angaben zum
+Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo
+weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten.
+Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller
+Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand
+eingereichten Anträge im Wortlaut zu veröffentlichen.
 
 <span id="A.9b.3">(3)</span> Ist der Bundesvorstand handlungsunfähig,
 kann ein außerordentlicher Bundesparteitag einberufen werden. Dies
@@ -484,16 +424,17 @@ auf Beschluss der Versammlung Rederecht erhalten.
 nur von einem Bundesparteitag mit einer 2/3 Mehrheit der abgegebenen
 gültigen Stimmen beschlossen werden. Besteht das dringende Erfordernis
 einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung
-auch geändert werden, wenn mindestens 2/3 der Piraten sich mit dem
+auch geändert werden, wenn mindestens 2/3 der Mitglieder sich mit dem
 Antrag/den Anträgen auf Änderung schriftlich einverstanden erklären.
 
 <span id="A.12.2">(2)</span> Über einen Antrag auf Satzungsänderung auf
 einem Bundesparteitag kann nur abgestimmt werden, wenn er mindestens
 vier Wochen vor Beginn des Bundesparteitages beim Bundesvorstand
-eingegangen ist und dies im Wortlaut von fünf Piraten beantragt wurde.
+eingegangen ist und dies im Wortlaut von fünf Mitglieder beantragt
+wurde.
 
 <span id="A.12.3">(3)</span> Die Regelungen aus Absatz 1 und 2 gelten
-ebenso für eine Änderung des Programms der Piratenpartei Deutschland.
+ebenso für eine Änderung des Programms der xxx.
 
 <span id="A.13">
 
@@ -509,9 +450,9 @@ durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4
 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
 
 <span id="A.13.3">(3)</span> Ein Beschluss über Auflösung oder
-Verschmelzung muss durch eine Urabstimmung unter den Piraten bestätigt
-werden. Die Piraten äußern ihren Willen im Zusammenhang mit der
-Urabstimmung schriftlich.
+Verschmelzung muss durch eine Urabstimmung unter den Mitglieder
+bestätigt werden. Die Mitglieder äußern ihren Willen im Zusammenhang mit
+der Urabstimmung schriftlich.
 
 <span id="A.13.4">(4)</span> Über einen Antrag auf Auflösung oder
 Verschmelzung kann nur abgestimmt werden, wenn er mindestens vier Wochen
@@ -534,8 +475,8 @@ den grundsätzlichen Regelungen dieser Satzung übereinstimmen.
 ### § 15 - Parteiämter
 
 </span> <span id="A.15.1">(1)</span> Die nicht beruflich ausgeübten
-Funktionen und Tätigkeiten in der Piratenpartei Deutschland und seiner
-Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in
+Funktionen und Tätigkeiten in der Mitgliederpartei Deutschland und
+seiner Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in
 begründeten Ausnahmefällen erfolgen und bedarf eines
 Vorstandsbeschlusses.
 
@@ -669,7 +610,7 @@ anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung
 erfolgt monatsgenau, beginnend mit dem Monat in dem der Eintritt
 stattfindet.
 
-<span id="B.5.3">(3)</span> Die Piratenpartei empfiehlt ihren
+<span id="B.5.3">(3)</span> Die Mitgliederpartei empfiehlt ihren
 Mitgliedern zusätzlich zum festgelegten Mitgliedsbeitrag einen
 freiwilligen Mitgliedsbeitrag in Höhe von 1% ihres
 Jahresnettoeinkommens.
@@ -715,7 +656,7 @@ Verzug, wenn der Mitgliedsbeitrag nicht zur Fälligkeit entrichtet wurde.
 <span id="B.7.2">(2)</span> Ein Mitglied, das sich mit seinem Beitrag um
 mehr als 12 Monate im Verzug befindet, kann aus der Mitgliederdatenbank
 gestrichen werden und verliert dadurch seine Mitgliedschaft in allen
-Gliederungen der Piratenpartei. Vor der Streichung ist das Mitglied
+Gliederungen der Mitgliederpartei. Vor der Streichung ist das Mitglied
 mindestens zweimal zu mahnen. Zwischen den Mahnungen muss ein Abstand
 von mindestens 30 Tagen liegen.
 
@@ -962,10 +903,10 @@ gewähren.
 
 #### § 24 Wirtschaftlicher Geschäftsbetrieb
 
-</span> Es ist den Gliederungen der Piratenpartei nicht gestattet, einen
-wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die
-Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten
-zu besorgen, der vom Bundesvorstand bestellt wird.
+</span> Es ist den Gliederungen der Mitgliederpartei nicht gestattet,
+einen wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten.
+Die Abwicklung von unternehmerischen Tätigkeiten ist von einem
+Beauftragten zu besorgen, der vom Bundesvorstand bestellt wird.
 
 <span id="C">
 
@@ -1029,9 +970,9 @@ Geschäftsordnung. Diese enthält insbesondere Regelungen
 
 ### § 3 - Richterwahl
 
-<span id="C.3.1">(1)</span> Die Mitgliederversammlung wählt drei Piraten
-zu Richtern. Diese wählen aus ihren Reihen einen Vorsitzenden Richter,
-der das Schiedsgericht leitet und die Geschäfte führt.
+<span id="C.3.1">(1)</span> Die Mitgliederversammlung wählt drei
+Mitglieder zu Richtern. Diese wählen aus ihren Reihen einen Vorsitzenden
+Richter, der das Schiedsgericht leitet und die Geschäfte führt.
 
 <span id="C.3.2">(2)</span> In einer weiteren Wahl werden zwei
 Ersatzrichter bestimmt. Die Stimmenzahl entscheidet über die Rangfolge
@@ -1057,7 +998,7 @@ Dienstverhältnis zu der Partei oder einem Gebietsverband stehen oder von
 ihnen regelmäßige Einkünfte beziehen.
 
 <span id="C.3.7">(7)</span> Mit dem Ende der Mitgliedschaft in der
-Piratenpartei endet auch das Richteramt.
+Mitgliederpartei endet auch das Richteramt.
 
 <span id="C.3.8">(8)</span> Ein Richter kann durch Erklärung an das
 Gericht sein Amt beenden.
@@ -1222,9 +1163,9 @@ einen vorhergehenden Schlichtungsversuch.
 
 <span id="C.7.2">(2)</span> Der Schlichtungsversuch wird von den
 Parteien in eigener Verantwortung ohne Mitwirkung der Gerichte
-durchgeführt. Haben die Gebietsverbände Schlichtungspiraten gewählt, so
-ist einer dieser Schlichtungspiraten anzurufen. Ansonsten sollen sich
-die Parteien auf eine Schlichtungsperson einigen. Ein
+durchgeführt. Haben die Gebietsverbände SchlichtungsMitglieder gewählt,
+so ist einer dieser SchlichtungsMitglieder anzurufen. Ansonsten sollen
+sich die Parteien auf eine Schlichtungsperson einigen. Ein
 Schlichtungsversuch gilt spätestens nach erfolglosem Ablauf von drei
 Monaten nach dessen Beginn als gescheitert.
 
@@ -1240,7 +1181,7 @@ Entscheidungen des Schiedsgerichts hierzu sind unanfechtbar.
 ### § 8 - Anrufung
 
 <span id="C.8.1">(1)</span> Das Gericht wird nur auf Anrufung aktiv.
-Antragsberechtigt ist jeder Pirat und jedes Organ einer Gliederung,
+Antragsberechtigt ist jeder Mitglied und jedes Organ einer Gliederung,
 sofern ein eigener Anspruch oder eine Verletzung in einem eigenen Recht
 geltend gemacht oder Einspruch gegen eine sie betreffende
 Ordnungsmaßnahme erhoben wird. Anträge auf Parteiausschluss können nur
@@ -1292,7 +1233,7 @@ Besetzung des Gerichts und enthält eine Kopie der Anrufung sowie die
 Aufforderung an den Antragsgegner, binnen einer vom Gericht zu
 bestimmenden Frist zum Verfahren Stellung zu nehmen.
 
-<span id="C.9.2">(2)</span> Jeder Pirat hat zu jedem Zeitpunkt das
+<span id="C.9.2">(2)</span> Jeder Mitglied hat zu jedem Zeitpunkt das
 Recht, dem Gericht gegenüber einen Vertreter seines Vertrauens zu
 benennen, der ihn bis auf Widerruf vertritt. Im Eröffnungschreiben sind
 die Verfahrensbeteiligten darauf hinzuweisen.
@@ -1304,8 +1245,8 @@ den Vorstand bestimmt.
 
 <span id="C.9.4">(4)</span> Wird das Schiedsgericht aufgrund einer
 Ordnungsmaßnahme oder eines Parteiausschlussverfahrens gegen einen
-Piraten angerufen, so enthält das Schreiben zusätzlich die Nachfrage an
-den betroffenen Piraten, ob dieser ein nichtöffentliches Verfahren
+Mitglieder angerufen, so enthält das Schreiben zusätzlich die Nachfrage
+an den betroffenen Mitglieder, ob dieser ein nichtöffentliches Verfahren
 wünscht. Nichtöffentliche Verfahren sind von allen Verfahrensbeteiligten
 und dem Gericht vertraulich zu behandeln.
 
@@ -1320,9 +1261,9 @@ Gericht sorgt dafür, dass die Beteiligten auf alle relevanten
 Informationen gleichwertigen Zugriff haben.
 
 <span id="C.10.2">(2)</span> Zur Aufklärung des Sachverhaltes kann das
-Gericht jede Person einladen und befragen. Alle Organe der Piratenpartei
-sind verpflichtet, einer Einladung des Gerichtes zu folgen und dem
-Gericht Akteneinsicht zu gewähren.
+Gericht jede Person einladen und befragen. Alle Organe der
+Mitgliederpartei sind verpflichtet, einer Einladung des Gerichtes zu
+folgen und dem Gericht Akteneinsicht zu gewähren.
 
 <span id="C.10.3">(3)</span> Das Gericht bestimmt für das Verfahren
 einen beteiligten Richter als Berichterstatter. Die Parteien werden über
@@ -1349,7 +1290,7 @@ in der Ladung hinzuweisen.
 Verhandlung obliegt die Sitzungsleitung einem vom Gericht bestimmten
 Richter. Den Parteien ist angemessene Redezeit zu gewähren. Bei einer
 Verhandlung über eine Ordnungsmaßnahme oder einen Parteiausschluss hat
-der betroffene Pirat das letzte Wort.
+der betroffene Mitglied das letzte Wort.
 
 <span id="C.10.6">(6)</span> Tritt zwischen der letzten mündlichen
 Verhandlung und dem Urteilsspruch dem Schiedsgericht ein Richter hinzu,
@@ -1361,7 +1302,7 @@ Verfahrensbeteiligten erneut Gehör zu gewähren.
 öffentlich. Das Schiedsgericht kann die Öffentlichkeit ausschließen,
 wenn dies im Interesse der Partei oder eines Verfahrensbeteiligten
 geboten ist. Bei einer Verhandlung über eine Ordnungsmaßnahme oder einen
-Parteiausschluss eines Piraten ist die Öffentlichkeit auf Antrag des
+Parteiausschluss eines Mitglieds ist die Öffentlichkeit auf Antrag des
 Betroffenen, oder falls dieser nicht zur Verhandlung anwesend ist von
 Amts wegen, auszuschließen. Bei Verhandlungen zu nichtöffentlichen
 Verfahren ist die Öffentlichkeit immer ausgeschlossen.
