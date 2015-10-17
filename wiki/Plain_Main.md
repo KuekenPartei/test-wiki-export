@@ -1,6 +1,6 @@
 Die Programm Übersichtsseite.
 
-<categorytree depth=1>!programm</categorytree>
+<categorytree depth=1>Programm</categorytree>
 
 -   [Programm:Tagespolitik](/wiki/Programm:Tagespolitik "wikilink")
 -   [Programm:Program](/wiki/Programm:Program "wikilink")
