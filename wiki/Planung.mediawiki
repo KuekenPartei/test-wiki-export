@@ -1,9 +1,12 @@
+Eine grobe Übersicht über die Planungsphase.
 
 == Erster Schritt: Gründung ==
+
 
 * [[Formalien]]
 ** [[Satzung]]
 ** [[Go]]
+* [[Gründungssitzung]]
 
 === Kalender ===
 
