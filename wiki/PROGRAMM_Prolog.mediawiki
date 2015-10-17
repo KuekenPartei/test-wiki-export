@@ -26,3 +26,5 @@ Dies alles sind Kapriolen des Rationalen - Die Dialektik der Aufklärung. Diese 
 <references />
 
 [[Category:Programm]]
+
+Namespace : {{NAMESPACE}}

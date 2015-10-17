@@ -142,6 +142,7 @@ verknüpft, die zu Ende ginge ohne unsere Kinder. Traurig und leer ist
 die Welt der letzten Menschen.
 
 <references />
+Namespace :
 
 [1] Hier ist der Unterschied zwischen Verwaltung und Politik. Verwaltet
 wird die Gegenwart, das Primat der Politik ist die Gestaltung der
