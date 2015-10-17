@@ -1,10 +1,4 @@
-
-
-{{Programm-Antrag
-|titel=Kindergeld nicht auf Hartz4 Einkommen
-|antrags-text=Das Kinder Geld darf nicht als Einkommen der Kinder in der Bedarfsgemeinschaft gerechnet werden, weniger wegen 
-}}
-
+test
 
 
 [[Kategorie:Wirtschaft]]
