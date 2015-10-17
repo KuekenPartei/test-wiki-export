@@ -1,5 +1,8 @@
 Der Konkrete Programmkatalog.
 
+Bildung, Bildung, Bildung!
+--------------------------
+
 Nachhaltigkeit
 --------------
 
