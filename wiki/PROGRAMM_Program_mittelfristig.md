@@ -34,3 +34,5 @@ Pazifismus
 ----------
 
 -   Ausstieg aus der Kriegsgeräteproduktion
+
+[Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
