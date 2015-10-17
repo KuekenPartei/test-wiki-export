@@ -13,6 +13,7 @@ Starthilfen
 Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 \[//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch\].
 
+-   <Hilfe:Basic>
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration\_settings
     Liste der Konfigurationsvariablen\]
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ
