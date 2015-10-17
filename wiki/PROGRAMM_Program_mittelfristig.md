@@ -35,3 +35,4 @@ Pazifismus
 
 -   Ausstieg aus der Kriegsgeräteproduktion
 
+<Kategorie:Programm>
