@@ -1,5 +1,7 @@
 Die Programm Übersichtsseite.
 
+<Spezial:Kategoriebaum>
+
 -   <Programm:Tagespolitik>
 -   <Programm:Program>
 -   <Programm:Program_konkret>
