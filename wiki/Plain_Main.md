@@ -1,6 +1,6 @@
 Die Programm Übersichtsseite.
 
-<Spezial:Kategoriebaum>
+<categorytree depth=1>!programm</categorytree>
 
 -   <Programm:Tagespolitik>
 -   <Programm:Program>
