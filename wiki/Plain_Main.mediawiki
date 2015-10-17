@@ -1,30 +1,7 @@
-{{Box-hellblau|right|
-'''Kategorien im Programm:'''
 
-<categorytree >Programm</categorytree>
-}}
-
-Die Programm-Übersichtsseite.
-
-Das Programm des KUKeN unterteilt sich in drei Abschnitte, die primär zeitlich orientiert sind.
-
-Im [[Programm:Program_konkret| Konkreten Programmkatalog]] sind die auf die Gegenwart bezogenen Änderungen beschrieben. Diese sind ohne Voraussetzungen von jeder Partei gerade jetzt umsetzbar. Sie erfordern nur Mut, Einsicht, Besserungswillen. 
-
-Änderungen deren Voraussetzungen nicht gegeben sind, sind [[Programm:Program_mittelfristig| mittelfristige Änderungen]]. Sie sind planbar, bedürfen jedoch des konkreten Programmkataloges, um die Voraussetzungen herzustellen. 
-
-Das [[Programm:Program_langfristig| langfristige Programm]], es ist der Horizont, an dem sich Dinge andeuten und wir sie "in die Acht" nehmen.
-<br />
-
-
-
-
-
-== Seiten: ==
-
-*[[Programm:Tagespolitik| Tagespolitische]]
-*[[Programm:Program_konkret| konkretes Programm]]
-*[[Programm:Program_mittelfristig| mittelfristiges Programm]]
-*[[Programm:Program_langfristig| langfristges Programm]]
+*[[Programm:Tagespolitik]]
+*[[Programm:Program]]
+*[[Programm:Program_mittelfristig]]
 
 
 [[Kategorie:Programm]]
