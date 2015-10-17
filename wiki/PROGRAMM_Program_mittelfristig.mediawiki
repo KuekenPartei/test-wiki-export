@@ -1,5 +1,7 @@
 Mittelfristiger Programm Katalog
 
+_TOC_
+
 == Wahlsystem ==
 
 *An dem Wahlsystem wollen wir etwas ändern. https://de.wikipedia.org/wiki/Die_letzte_Wahl Änderungen am Wahlsystem sind strukturelle Änderungen, sie sind notwendig, um es den Menschen einfacher zu machen, sich zu beteiligen.
