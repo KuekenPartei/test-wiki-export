@@ -1,7 +1,9 @@
 
+== Erster Schritt: Gründung ==
 
-* [[Satzung]]
-* [[Go]]
+* [[Formalien]]
+** [[Satzung]]
+** [[Go]]
 
 === Kalender ===
 
