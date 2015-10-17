@@ -1,6 +1,6 @@
 Mittelfristiger Programm Katalog
 
-_TOC_
+__TOC__
 
 == Wahlsystem ==
 

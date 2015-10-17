@@ -1,7 +1,5 @@
 Mittelfristiger Programm Katalog
 
-\_TOC\_
-
 Wahlsystem
 ----------
 
