@@ -30,7 +30,8 @@ Wahlsystem
             ihr Wahlrecht wahrzunehmen, sie werden geprüft und können
             bei Eignung ihr Wahlrecht vor dem 18 Lebensjahr ausüben.
 
-<!-- -->
+Pazifismus
+----------
 
 -   Ausstieg aus der Kriegsgeräteproduktion
 
