@@ -20,3 +20,5 @@ Familie und Kinder
 ### Unterstützung von Kindern in Harz4
 
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
+
+[Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
