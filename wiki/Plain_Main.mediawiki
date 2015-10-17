@@ -1,7 +1,9 @@
 Die Programm Übersichtsseite.
 
+<categorytree >Programm</categorytree>
 
-<categorytree depth=1>Programm</categorytree>
+
+== Seiten: ==
 
 *[[Programm:Tagespolitik]]
 *[[Programm:Program]]
