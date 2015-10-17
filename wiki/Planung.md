@@ -1,5 +1,9 @@
--   [Satzung](/wiki/Satzung "wikilink")
--   [Go](/wiki/Go "wikilink")
+Erster Schritt: Gründung
+------------------------
+
+-   [Formalien](/wiki/Formalien "wikilink")
+    -   [Satzung](/wiki/Satzung "wikilink")
+    -   [Go](/wiki/Go "wikilink")
 
 ### Kalender
 
