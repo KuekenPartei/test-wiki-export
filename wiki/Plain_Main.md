@@ -1,5 +1,7 @@
 Die Programm Übersichtsseite.
 
+[Spezial:Kategoriebaum](/wiki/Spezial:Kategoriebaum "wikilink")
+
 -   [Programm:Tagespolitik](/wiki/Programm:Tagespolitik "wikilink")
 -   [Programm:Program](/wiki/Programm:Program "wikilink")
 -   [Programm:Program\_konkret](/wiki/Programm:Program_konkret "wikilink")
