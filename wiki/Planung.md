@@ -3,4 +3,6 @@
 
 ### Kalender
 
-<mscalendar>`Gründungsplaung`</mscalendar>
+Gründungsplanung, hier können wir Termine eintragen.
+
+<mscalendar>Gründungsplanung</mscalendar>
