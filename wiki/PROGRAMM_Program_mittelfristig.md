@@ -35,4 +35,9 @@ Pazifismus
 
 -   Ausstieg aus der Kriegsgeräteproduktion
 
+Sozial
+------
+
 <Kategorie:Programm>
+
+<accesscontrol>Administrators,urs,Basicuser</accesscontrol>
