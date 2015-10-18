@@ -13,4 +13,4 @@ Organ gemäß
 
 \_\_SHOWFACTBOX\_\_
 
-<Kategorie:Parteiorganisation> <Kategorie:Parteiorgan>
+<Kategorie:Parteiorganisation>
