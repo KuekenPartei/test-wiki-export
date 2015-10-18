@@ -20,4 +20,4 @@ Einzelnachweise
 [1] <http://de.wikipedia.org/wiki/Children_of_Men>
 
 [2] Byung-Chul Han. Transparenzgesellschaft. Berlin 2012. Verlag Matthes
-& Seit. 3. Auflage 2013. ISBN 978-3-88221-595-3. S.52
+& Seitz. 3. Auflage 2013. ISBN 978-3-88221-595-3. S.52
