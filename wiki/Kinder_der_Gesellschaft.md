@@ -6,6 +6,11 @@ keine Geschichte und ohne Geschichte auch keine sinnvolle Existenz.[1]
 Ohne jeden narrativen Schein ist das Ende immer ein absoluter Verlust,
 ein absoluter Mangel.”[2]
 
+Deshalb müssen unsere [sozialen Systeme](/wiki/Soziale_Systeme "wikilink") der
+Verantwortung in den Mittelpunkt rücken, die uns mündigen Menschen für
+die Bedürftigkeit der Kinder der Gesellschaft von Natur aus zu eigen
+ist.
+
 Einzelnachweise
 ---------------
 
