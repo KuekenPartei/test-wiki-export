@@ -8,4 +8,4 @@ hat [hat Mitglieder::6](hat_Mitglieder::6 "wikilink") Mitglider.
 
 \_\_SHOWFACTBOX\_\_
 
-<Kategoerie:Parteiorganisation>
+<Kategorie:Parteiorganisation>
