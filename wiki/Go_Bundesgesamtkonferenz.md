@@ -4,7 +4,7 @@ Allgemeines
 ### § 1 Teilnahme & Akkreditierung
 
 (1) Stimmberechtigte Mitglieder der Versammlung im Sinne dieser
-Geschäftsordnung sind alle akkreditierten Mitglieder der Partei.
+Geschäftsordnung sind alle akkreditierten Mitglieder der Piratenpartei.
 
 (2) Alle im Sinne der Satzung stimmberechtigten Mitglieder werden durch
 die dazu vom Bundesvorstand beauftragten Personen akkreditiert. Hierbei
@@ -666,8 +666,8 @@ Die auf dem Bundesparteitag nicht behandelten Anträge verfallen.
 ### § 17 Gültigkeit
 
 Diese Geschäftsordnung behält ihre Gültigkeit für folgende
-Bundesgesamtkonferenzen, bis sie vom einer Bundesgesamtkonferenz durch
-eine neue Geschäftsordnung ersetzt wird.
+Bundesparteitage, bis sie vom Bundesparteitag durch eine neue
+Geschäftsordnung ersetzt wird.
 
 ### § 18 Abweichen von der Geschäftsordnung
 
@@ -678,6 +678,3 @@ von der Geschäftsordnung abweichen.
 
 (1) Nur die in dem Abschnitt {Geschäftsordnungsanträge} §15 bis §15o
 benannten Geschäftsordnungsanträge sind als solche zulässig.
-
-[Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
-[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
