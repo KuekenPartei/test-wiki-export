@@ -81,10 +81,14 @@ beziehen und von dem wir uns in unserem gesamten Handeln leiten lassen.
 Der Mensch ist ein Wesen der Gemeinschaft. Ohne die anderen hätten wir
 keine Sprache, ohne die Sprache keinen Begriff von Ich.[1] [2] [3]
 
-Die Konzeption des Zoon Politikon basiert auf der aristotelischen
-Vorstellung der [Teleologie](https://de.wikipedia.org/wiki/Teleologie).
+Die Konzeption des [Zoon
+Politikon](https://de.wikipedia.org/wiki/Zoon_politikon) basiert auf der
+[aristotelischen](https://de.wikipedia.org/wiki/Aristoteles) Vorstellung
+der [Teleologie](https://de.wikipedia.org/wiki/Teleologie).
 
-Nach Buckminster Fuller ist die Sprache ein industrielles Produkt:
+Nach [Buckminster
+Fuller](https://de.wikipedia.org/wiki/Richard_Buckminster_Fuller) ist
+die Sprache ein industrielles Produkt:
 
 “*Alle Werkzeug-Extensionen der Menschheit können in zwei Hauptgruppen
 eingeteilt werden – in Handwerkzeuge und industrielle Werkzeuge. Ich
