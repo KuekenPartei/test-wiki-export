@@ -60,18 +60,20 @@ Teilhabe](gesellschaftliche_Teilhabe "wikilink") ermöglicht, können
 Kinder kulturangemessen aufwachsen und zu mündigen und
 gesellschaftkundigen Menschen heranreifen.
 
-8. **Bekenntnis zu den universellen Menschenrechten** - Die universellen
-Menschenrechte bilden die basale Grundlage für den Umgang der Menschen
-miteinander. Jedem Menschen diese Rechte zuzugestehen und ein
-dementsprechendes gesellschaftliches, juristisches und politisches
-Umfeld zu schaffen, wiederum bildet das wesentliche Fundament auf dem
-sich mündige, aufgeklärte und selbstständige Persönlichkeiten
-verantwortlich entwickeln können. Die Erziehung unserer Nachkommen zielt
-seit Generationen auf ebendiese Attribute ab. Die universellen
-Menschenrechte schützen das Individuum wie die Gesamtheit der Bürger und
-Bürgerinnen vor unverhältnismäßigen Eingriffen in ihre ureigenen
-Angelegenheiten sowie vor staatlicher Willkür. Daher ist ein Bekenntnis
-zu den universellen Menschenrechten ebenso ein Bekenntnis zu
+8. **Bekenntnis zu den universellen Menschenrechten** - [Die
+universellen
+Menschenrechte](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf)
+bilden die basale Grundlage für den Umgang der Menschen miteinander.
+Jedem Menschen diese Rechte zuzugestehen und ein dementsprechendes
+gesellschaftliches, juristisches und politisches Umfeld zu schaffen,
+wiederum bildet das wesentliche Fundament auf dem sich mündige,
+aufgeklärte und selbstständige Persönlichkeiten verantwortlich
+entwickeln können. Die Erziehung unserer Nachkommen zielt seit
+Generationen auf ebendiese Attribute ab. Die universellen Menschenrechte
+schützen das Individuum wie die Gesamtheit der Bürger und Bürgerinnen
+vor unverhältnismäßigen Eingriffen in ihre ureigenen Angelegenheiten
+sowie vor staatlicher Willkür. Daher ist ein Bekenntnis zu den
+universellen Menschenrechten ebenso ein Bekenntnis zu
 Rechtsstaatlichkeit und Mitbestimmung.
 
 Einzelnachweise
