@@ -66,7 +66,7 @@ und Bürgerinnen. Wir wollen eine allgemeine Schulpflicht und treten
 dafür ein, dass Schulen gerade für die jüngeren Kinder möglichst
 wohnortnah zur Verfügung stehen. Wo dies vorübergehend nicht
 gewährleistet werden kann, wird der Transport der Kinder zur Schule
-selbstverständlich von der gesammten Gemeinschaft finanziell getragen,
+selbstverständlich von der gesamten Gemeinschaft finanziell getragen,
 sodass die verantwortungsvolle und mündige Gemeinschaft auch hier ihrer
 Verantwortung für die [Kinder der
 Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") gerecht wird.
