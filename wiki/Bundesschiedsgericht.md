@@ -1,4 +1,4 @@
-Der [Ist Partei
+Das [Ist Partei
 Organ::Bundesschiedsgericht](/wiki/Ist_Partei_Organ::Bundesschiedsgericht "wikilink")
 ist ein Organ der Partei in der Gliederung [In
 Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
