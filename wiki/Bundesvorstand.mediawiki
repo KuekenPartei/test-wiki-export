@@ -6,4 +6,4 @@ Er hat [[hat Mitglieder::6]] Mitglider.
 __SHOWFACTBOX__
 
 
-[[Kategoerie:Parteiorganisation]]
+[[Kategorie:Parteiorganisation]]
