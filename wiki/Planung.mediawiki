@@ -6,8 +6,12 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 
 * [[Formalien]]
 ** [[Satzung]]
-** [[Go]]
+***[[Satzung#Abschnitt_B:_Finanzordnung|Finanzordnung]]
+***[[Satzung#Abschnitt_C:_Schiedsgerichtsordnung|Schiedsgerichtsordnung]]
+**[[Go|Wahl & Geschäftsordnung]]
 * [[Gründungsversammlung]]
+** [[Geschäftsordnung]]
+** [[Protokoll]]
 
 === Kalender ===
 

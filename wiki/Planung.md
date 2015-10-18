@@ -8,8 +8,12 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 
 -   [Formalien](/wiki/Formalien "wikilink")
     -   [Satzung](/wiki/Satzung "wikilink")
-    -   [Go](/wiki/Go "wikilink")
+        -   [Finanzordnung](/wiki/Satzung#Abschnitt_B:_Finanzordnung "wikilink")
+        -   [Schiedsgerichtsordnung](/wiki/Satzung#Abschnitt_C:_Schiedsgerichtsordnung "wikilink")
+    -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink")
 -   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
+    -   [Geschäftsordnung](/wiki/Geschäftsordnung "wikilink")
+    -   [Protokoll](/wiki/Protokoll "wikilink")
 
 ### Kalender
 
