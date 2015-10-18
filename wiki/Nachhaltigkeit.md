@@ -1,4 +1,4 @@
-Unter Nachhaltigkeit verstehen wir: 1. [ökologische
+Unter **Nachhaltigkeit** verstehen wir: 1. [ökologische
 Nachhaltigkeit](ökologische_Nachhaltigkeit "wikilink") (z.B. Umgang mit
 natürlichen Lebensgrundlagen und Ressourcen, Reinhaltung von Luft,
 Wasser, Erde u.ä.) 2. [soziale
