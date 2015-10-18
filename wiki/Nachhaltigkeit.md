@@ -1,4 +1,14 @@
-Unter **Nachhaltigkeit** verstehen wir:
+**Nachhaltigkeit** - Das bisher meist verwendete
+[Drei-Säulen-Modell](https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-Modell_%28Nachhaltigkeit%29)
+der
+[Nachhaltigkeitsforschung](https://de.wikipedia.org/wiki/Nachhaltigkeitswissenschaft)
+greift zu kurz: Wir verstehen Nachhaltigkeit in fünf Punkten als die
+Basis unseres gemeinschaftlichen Handelns, bis sich in vielen Millionen
+Jahren die Sonne aufbläht oder sich sonst ein Naturphänomen erreignet,
+das für das menschliche Leben auf der Erde verherrend ist - wie ein
+Meteoriteneinschlag, größere Vulkanausbrüche etc.
+
+Unter Nachhaltigkeit verstehen wir:
 
 -   [demographische
     Nachhaltigkeit](demographische_Nachhaltigkeit "wikilink")
@@ -17,17 +27,6 @@ Unter **Nachhaltigkeit** verstehen wir:
 -   [politische Nachhaltigkeit](politische_Nachhaltigkeit "wikilink")
     (Aufrechterhaltung von [Frieden](/wiki/Frieden "wikilink"), Stabilität
     u.ä.\]
-
-Das bisher meist verwendete
-[Drei-Säulen-Modell](https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-Modell_%28Nachhaltigkeit%29)
-der
-[Nachhaltigkeitsforschung](https://de.wikipedia.org/wiki/Nachhaltigkeitswissenschaft)
-greift zu kurz: Wir verstehen Nachhaltigkeit in allen fünf genannten
-Punkten als die Basis unseres gemeinschaftlichen Handelns, bis sich in
-vielen Millionen Jahren die Sonne aufbläht oder sich sonst ein
-Naturphänomen erreignet, das für das menschliche Leben auf der Erde
-verherrend ist - wie ein Meteoriteneinschlag, größere Vulkanausbrüche
-etc.
 
 [Kategorie:Umweltpolitik](/wiki/Kategorie:Umweltpolitik "wikilink")
 [Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
