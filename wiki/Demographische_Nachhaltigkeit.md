@@ -25,8 +25,18 @@ ernst.
 Steuerung durch Steuerpolitik
 -----------------------------
 
-BGE
----
+Bedingungsloses Grundeinkommen
+------------------------------
+
+Ziel ist die Einführung eines [bedingungslosen
+Grundeinkommens](/wiki/Bedingungsloses_Grundeinkommen "wikilink") (BGE) für
+jeden Bürger und jede Bürgerinn, sodass die kulturgerechte Versorgung
+der [Kinder der Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") zu
+jeder Zeit sichergestellt ist.
+
+Da wir uns im Klaren sind, dass ein solches BGE aller Wahrscheinlichkeit
+leider noch in weiterer Ferne liegt, haben wir Konzepte für die Zeit auf
+dem Weg zum BGE.
 
 ### Kindergeld - auf dem Weg zu BGE
 
