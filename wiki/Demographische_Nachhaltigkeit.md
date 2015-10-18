@@ -53,3 +53,6 @@ selbstverständlich von der gesammten Gemeinschaft finanziell getragen,
 sodass die verantwortungsvolle und mündige Gemeinschaft auch hier ihrer
 Verantwortung für die [Kinder der
 Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") gerecht wird.
+
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
+[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
