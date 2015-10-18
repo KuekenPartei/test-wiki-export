@@ -10,3 +10,8 @@ Vielmehr sollte die begründete Position aus dem dazugehörigen Text
 hervorgehen. --[Pat](/wiki/Benutzer:Pat "wikilink")
 ([Diskussion](/wiki/Benutzer_Diskussion:Pat "wikilink")) 16:38, 18. Okt. 2015
 (CEST)
+
+Lemma finde ich ganz gut, ich habe hier erst mal nur den Inhalt aus dem
+Pad rübergeholt. [Urs](/wiki/Benutzer:Urs "wikilink")
+([Diskussion](/wiki/Benutzer_Diskussion:Urs "wikilink")) 16:47, 18. Okt. 2015
+(CEST)
