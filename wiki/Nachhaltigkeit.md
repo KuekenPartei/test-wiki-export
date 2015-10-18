@@ -1,5 +1,8 @@
 Unter **Nachhaltigkeit** verstehen wir:
 
+-   [demographische
+    Nachhaltigkeit](demographische_Nachhaltigkeit "wikilink")
+    (Aufrechterhaltung der eigenen Art)
 -   [ökologische Nachhaltigkeit](ökologische_Nachhaltigkeit "wikilink")
     (z.B. Umgang mit natürlichen Lebensgrundlagen und Ressourcen,
     Reinhaltung von Luft, Wasser, Erde u.ä.)
@@ -11,9 +14,6 @@ Unter **Nachhaltigkeit** verstehen wir:
 -   [ökonomische Nachhaltigkeit](ökonomische_Nachhaltigkeit "wikilink")
     (z.B. langlebige Produkte, Kosteneinsparung, Bedarfdeckung,
     [Forschung](/wiki/Forschung "wikilink") & Entwicklung u.ä.)
--   [demographische
-    Nachhaltigkeit](demographische_Nachhaltigkeit "wikilink")
-    (Aufrechterhaltung der eigenen Art)
 -   [politische Nachhaltigkeit](politische_Nachhaltigkeit "wikilink")
     (Aufrechterhaltung von [Frieden](/wiki/Frieden "wikilink"), Stabilität
     u.ä.\]
