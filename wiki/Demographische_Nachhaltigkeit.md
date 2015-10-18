@@ -1,3 +1,8 @@
+| <big>! ACHTUNG !</big>                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diese Seite muss noch weiter bearbeitet werden. Es handelt sich noch um einen sogenannten Stumpenartikel, d.h. er muss noch weiter ausgearbeitet werden. |
+| Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                                         |
+
 **Demographische Nachhaltigkeit** - Das bisher meist verwendete
 [Drei-Säulen-Modell](https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-Modell_%28Nachhaltigkeit%29)
 der
