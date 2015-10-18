@@ -23,8 +23,8 @@ Das bisher meist verwendete
 der
 [Nachhaltigkeitsforschung](https://de.wikipedia.org/wiki/Nachhaltigkeitswissenschaft)
 greift zu kurz: Wir verstehen Nachhaltigkeit in allen fünf genannten
-Punkten als die Basis unseres gemeinschaftlichen Wirtschaftens, bis sich
-in vielen Millionen Jahren die Sonne aufbläht oder sich sonst ein
+Punkten als die Basis unseres gemeinschaftlichen Handelns, bis sich in
+vielen Millionen Jahren die Sonne aufbläht oder sich sonst ein
 Naturphänomen erreignet, das für das menschliche Leben auf der Erde
 verherrend ist - wie ein Meteoriteneinschlag, größere Vulkanausbrüche
 etc.
