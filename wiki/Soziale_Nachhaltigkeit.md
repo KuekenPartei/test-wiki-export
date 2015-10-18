@@ -51,7 +51,9 @@ ist eine möglichst hohe Bildung für jedes Kind. Langfristig zielen wir
 auf ein Abitur für alle, die es erwerben wollen und keine Behinderung
 aufweisen, die dieses Ziel verhindert. Die Schulverweildauer sollte
 hierbei keine Rolle spielen. Wir denken, dass wir es uns nicht leisten
-können, dieses aktivierbare Potential ungenutzt zu lassen.
+können, dieses aktivierbare Potential ungenutzt zu lassen. Bildung ist
+daher auch ein wesentlicher Punkt in unserem
+[Programm](/wiki/Programm "wikilink").
 
 #### Gerechtigkeit
 
