@@ -25,3 +25,4 @@ Gründungsplanung, hier können wir Termine eintragen.
 
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
+\[\[Kategorie:Formalien\]
