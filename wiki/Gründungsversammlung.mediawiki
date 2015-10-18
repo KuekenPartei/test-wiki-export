@@ -1,38 +1,4 @@
-{{Kalenderblatt
- |Typ    = Gründungsversammlung
- |Titel  = Gründungsversammlung
- |Link   = Gründungsversammlung
- |Datum  = 24.09.2016
- |Zeit   = (SS:MM)
- |Lokal  = hier die ....
- |Straße = ....
- |PLZ    = ...
- |Ort    = ..
-}}
-
-Die [[Ist Partei Organ::Gründungsversammlung]] ist ein Organ der Partei gemäß der [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
-
-Sie arbeitet nach ihrer [[Hat Geschäftsordnung::Go|Geschäftsortung]].
-
-== Akkreditierung ==
-
-== Tops ==
-
-# Eröffnung 
-# Wahl des Versammlungsleiters 
-# Wahl des Wahlleiters und des Protokollführers 
-# Wahl des Schriftführers gemäß EuWO und der zwei Personen, die neben dem Versammlungleiter die Versicherung an Eides statt gemäß EuWO abgeben 
-# Beschluss der Tages- und Geschäftsordnung 
-# Beschluss der Gründer der Partei KUEKeN
-# Wahlen
-## Satzung und neben Satzungen
-## Programm Katalog
-## Vorstand
-## Rechnungsprüfer
-## Schiedsgericht
-
-
-
+Die [[Ist Partei Organ::Gründungsversammlung]] die Bestimmungen der Satzung  [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
 
 
 __SHOWFACTBOX__
