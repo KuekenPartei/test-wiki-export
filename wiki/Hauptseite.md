@@ -1,7 +1,7 @@
 **Kinder - Verantwortung - Zukunft**
 
-***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
-[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")*
+<big>***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
+[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")* </big>
 
 -   [Prolog](/wiki/Prolog "wikilink")
 -   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
