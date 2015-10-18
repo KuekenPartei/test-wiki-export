@@ -1,7 +1,7 @@
-| ! ACHTUNG !                                      |
-|--------------------------------------------------|
-| Diese Seite muss noch weiter bearbeitet werden.  |
-| Falls Du Lust hast, kannst Du gerne mitarbeiten. |
+| ! ACHTUNG !                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diese Seite muss noch weiter bearbeitet werden. Es handelt sich noch um einen sogenannten Stumpenartikel, d.h. er muss noch weiter ausgearbeitet werden. |
+| Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                                         |
 
 **Ökologische Nachhaltigkeit** - Wir finden zurück zu einem
 verantwortungsvollen Umgang mit den natürlichen Lebensgrundlagen, der
