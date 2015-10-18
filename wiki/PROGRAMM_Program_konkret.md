@@ -6,7 +6,7 @@ Bildungspolitik
 Nachhaltigkeit
 --------------
 
-Bereich Umwelt und Wirtschaft.
+siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
 
 ### Gegen geplante Obsolezenz
 
