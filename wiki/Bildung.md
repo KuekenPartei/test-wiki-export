@@ -1,8 +1,15 @@
-**Bildung** - ist lebenswichtiger Bestandteil einer Gesellschaft. Gerade
-in einem rohstoffarmen Land sichert ein fundiertes Wissen aller
-Mitglieder der Gesellschaft matierielles und kulturelles Wohlergehen.
+**Bildung** - ist lebenswichtiger Bestandteil einer Gesellschaft sowie
+eines der menschlichen Grundbedürfnisse. Gerade in einem rohstoffarmen
+Land sichert ein fundiertes Wissen aller Mitglieder der Gesellschaft
+matierielles und kulturelles Wohlergehen.
 
-In diesem Bereich schneidet Deutschland seit vielen Jahren aber nicht
+Mit dem selbstverständlichen [Bekenntnis zu den
+Menschenrechten](/wiki/Grundbestimmungen "wikilink") bekennen wir uns ebenso
+selbstverständlich zu dem Recht jedes Menschen auf Bildung. Dafür Sorge
+zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben kann
+und auslebt, muss unser Anliegen sein.
+
+Im Bildungsbereich schneidet Deutschland seit vielen Jahren aber nicht
 mehr in den Spitzenpositionen ab, in denen ein rohstoffarmes Land sich
 aufhalten sollte, will es zukunftsfähig bleiben. Gerade in den
 MINT-Fächern, die für technische Erfindungen und Entwicklungen
