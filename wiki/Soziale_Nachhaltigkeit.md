@@ -80,6 +80,14 @@ beziehen und von dem wir uns in unserem gesamten Handeln leiten lassen.
 
 Der Mensch ist ein Wesen der Gemeinschaft. Ohne die anderen hätten wir
 keine Sprache, ohne die Sprache keinen Begriff von Ich.[1] [2] [3]
+Deshalb wollen wir gesellige Gemeinschaft und gemeinschaftliche
+Geselligkeit auch und vor allem außerhalb von Funktionszusammenhängen
+wie Produktionprozessen o.ä. besonders fördern. Denn nur in einer
+funktionierenden Gemeinschaft mit gemeinsamer Sprache und gemeinsamen
+Geschichten können die [Kinder der
+Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") gesund und behaglich
+zu verantwortungsvollen und emotional stabilen sowie mündigen
+Persönlichkeiten heranreifen.
 
 Die Konzeption des [Zoon
 Politikon](https://de.wikipedia.org/wiki/Zoon_politikon) basiert auf der
