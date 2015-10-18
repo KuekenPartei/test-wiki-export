@@ -15,9 +15,13 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 -   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
     -   [Geschäftsordnung](/wiki/Geschäftsordnung "wikilink")
     -   [Protokoll](/wiki/Protokoll "wikilink")
+-   [Programm](/wiki/Programm "wikilink")
 
 ### Kalender
 
 Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
+
+[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
