@@ -1,3 +1,12 @@
+{| class="wikitable"
+|-
+! Überschrift ACHTUNG
+|-
+| Diese Seite muss noch weiter bearbeitet werden.
+|-
+| Falls Du Lust hast, kannst Du gerne mitarbeiten.
+|}
+
 '''Ökologische Nachhaltigkeit''' - Wir finden zurück zu einem verantwortungsvollem Umgang mit den natürlichen Lebensgrundlagen, die den [[Kinder der Gesellschaft|Kindern der Gesellschaft]] auch in Zukunft ein normales Überleben auf dem Planeten sichert.
 
 == Umgang mit den Ressourcen unserer natürlichen Lebensgrundlagen ==
@@ -7,7 +16,7 @@
 ==== Verschmutzung von Flächen und Räumen ====
 
 === Ökologische Verwendung natürlicher Ressourcen ===
-==== Bisophärenreservate ====
+==== Biosphärenreservate ====
 ===== Naturschutzgebiete =====
 ===== Landschaftsschutzgebiete =====
 
