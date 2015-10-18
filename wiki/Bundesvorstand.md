@@ -14,3 +14,4 @@ Organ gemäß
 \_\_SHOWFACTBOX\_\_
 
 [Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation "wikilink")
+[Kategorie:Parteiorgan](/wiki/Kategorie:Parteiorgan "wikilink")
