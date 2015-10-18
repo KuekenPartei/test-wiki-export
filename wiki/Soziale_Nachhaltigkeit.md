@@ -3,12 +3,14 @@
 | Diese Seite muss noch weiter bearbeitet werden. Es handelt sich noch um einen sogenannten Stumpenartikel, d.h. er muss noch weiter ausgearbeitet werden. |
 | Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                                         |
 
-**Soziale Nachhaltigkeit** - Im Sinne einer Ethik der inter- und
-intragenerativen Gerechtigkeit muss sich eine verantwortungsvolle
-Politik den Aspekten der sozialen Nachhaltigkeit zuwenden und diese in
-gesellschaftliches Handeln übersetzen. Es geht darum unumkehrbare
-Veränderungen unserer Welt, die von kommenden Generationen oder
-andernorts lebenden Menschen nicht gewollt sein könnten, zu vermeiden.
+**Soziale Nachhaltigkeit** - Ist einer von fünf
+[Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit "wikilink"). Im Sinne einer
+Ethik der inter- und intragenerativen Gerechtigkeit muss sich eine
+verantwortungsvolle Politik den Aspekten der sozialen Nachhaltigkeit
+zuwenden und diese in gesellschaftliches Handeln übersetzen. Es geht
+darum unumkehrbare Veränderungen unserer Welt, die von kommenden
+Generationen oder andernorts lebenden Menschen nicht gewollt sein
+könnten, zu vermeiden.
 
 Eng mit der Frage nach der sozialen Nachhaltigkeit ist die nach dem
 [Lebenstandard](/wiki/Lebenstandard "wikilink") verknüpft, da ein hoher
