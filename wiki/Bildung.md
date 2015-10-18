@@ -23,8 +23,9 @@ Jedes Kind soll in einer Schule lernen können, die seinen Bedürfnissen
 und Talenten entgegenkommt, mit Personal, dass bedürfnisgerecht
 ausgebildet ist. Geeignet hierfür ist ein flächendeckendes nebeneinander
 aus Gesamtschulen und viergliedrigem Schulsystem mit glechzeitigen
-Angeboten von öffentlich geförderten Privatschulen \[Waldorf etc.\]. Da
-dies einem System entspricht, dass als unzulänglich verlassen wurde,
+Angeboten von öffentlich geförderten Privatschulen \[Waldorf etc.\].
+
+Da dies einem System entspricht, dass als unzulänglich verlassen wurde,
 muss klargestellt werden, dass wir zwar erkennen, dass es Probleme im
 'alten' System gab, hierfür aber als Lösung eher eine Anhebung der
 Standards in den Hauptschulen (diese waren vor allem von den Problemen
