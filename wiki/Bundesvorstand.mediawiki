@@ -1,5 +1,6 @@
-Der [[Ist Partei Organ::Bundesvorstand]] ist ein Organ der Partei. [[Hat Geschäftsordnung::Bundesvorstand_GO]]
-Er hat [[hat Mitglieder::6]]
+Der [[Ist Partei Organ::Bundesvorstand]] ist ein Organ der Partei. 
+Er arbeitet nach seiner [[Hat Geschäftsordnung::Bundesvorstand_GO|Geschäftsortung]]
+Er hat [[hat Mitglieder::6]] Mitglider.
 
 
 __SHOWFACTBOX__
