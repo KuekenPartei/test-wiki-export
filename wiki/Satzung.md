@@ -219,11 +219,14 @@ Einhaltung dieser Pflichten aufzufordern.
 
 ### § 9 - Organe der Bundespartei
 
-<span id="A.9.1">(1)</span> Organe sind der Vorstand, der
-Bundesparteitag, das Bundesschiedsgericht und die Gründungsversammlung.
+<span id="A.9.1">(1)</span> Organe sind der
+<ParteiOrgan::Bundesvorstand>, der <ParteiOrgan::Bundesparteitag>, das
+<ParteiOrgan::Bundesschiedsgericht> und die
+[ParteiOrgan::Gründungsversammlung](/wiki/ParteiOrgan::Gründungsversammlung "wikilink").
 
-<span id="A.9.2">(2)</span> Die Gründungsversammlung tagt nur einmal,
-und zwar am 10.09.2006.
+<span id="A.9.2">(2)</span> Die
+[ParteiOrgan::Gründungsversammlung](/wiki/ParteiOrgan::Gründungsversammlung "wikilink")
+tagt nur einmal, xxx.
 
 #### § 9a - Der <ParteiOrgan::Bundesvorstand>
 
