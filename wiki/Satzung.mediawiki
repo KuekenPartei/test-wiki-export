@@ -160,7 +160,7 @@ Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder Organe dies
 === § 9 - Organe der Bundespartei ===
 
 <span id="A.9.1">(1)</span>
-Organe sind der [[ParteiOrgan::Bundesvorstand]], der [[ParteiOrgan::Bundesparteitag]], das [[ParteiOrgan::Bundesschiedsgericht]] und die [[ParteiOrgan::Gründungsversammlung]].
+Organe sind der [[Ist Partei Organ::Bundesvorstand]], der [[Ist Partei Organ::Bundesparteitag]], das [[Ist Partei Organ::Bundesschiedsgericht]] und die [[Ist Partei Organ::Gründungsversammlung]].
 
 <span id="A.9.2">(2)</span>
 Die [[ParteiOrgan::Gründungsversammlung]] tagt nur einmal, xxx.
