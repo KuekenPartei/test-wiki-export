@@ -78,6 +78,30 @@ beziehen und von dem wir uns in unserem gesamten Handeln leiten lassen.
 
 #### Gemeinschaft
 
+Der Mensch ist ein Wesen der Gemeinschaft. Ohne die anderen hätten wir
+keine Sprache, ohne die Sprache keinen Begriff von Ich.[1] [2] [3]
+
+Die Konzeption des Zoon Politikon basiert auf der aristotelischen
+Vorstellung der [Teleologie](https://de.wikipedia.org/wiki/Teleologie).
+
+Nach Buckminster Fuller ist die Sprache ein industrielles Produkt:
+
+"*Alle Werkzeug-Extensionen der Menschheit können in zwei Hauptgruppen
+eingeteilt werden – in Handwerkzeuge und industrielle Werkzeuge. Ich
+definiere Handwerkzeuge als alle diejenigen, welche von einem Menschen,
+der ganz allein und nackt in der Wildnis anfängt, erfunden werden
+könnten, wobei er sich nur auf seine eigene Erfahrung und seine eigenen
+integralen Anlagen stützt. Unter diesen Isolationsbedingungen könnte er
+Speere, Schleudern, Pfeile, Bogen und ähnliches erfinden – was er auch
+tat. Unter industriellen Werkzeugen verstehe ich alle Werkzeuge, die
+nicht von einem Menschen allein produziert werden können, wie zum
+Beispiel die H.M.S. »Queen Mary«. Nach dieser Definition ist das
+gesprochene Wort, zu dessen Entwicklung mindestens zwei Menschen nötig
+waren, das erste industrielle Werkzeug. Es brachte die progressive
+Integration hervor, durch die alle individuellen Erfahrungen und
+Gedanken der gesamten Menschheit von Generation zu Generation überall
+und jederzeit weitergegeben werden konnten.*"[4]
+
 #### soziale Verantwortung
 
 Die vorgenannten Aspekte zeigen alle deutlich auf die soziale
@@ -87,3 +111,11 @@ werden, muss unser aller Aufgabe sein.
 
 [Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
 [Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
+
+[1] vgl. <https://de.wikipedia.org/wiki/Zoon_politikon>
+
+[2] vgl. <https://de.wikipedia.org/wiki/Lebewesen>
+
+[3] vgl. <https://de.wikipedia.org/wiki/Polis>
+
+[4] <http://www.irwish.de/PDF/Fuller%20-%20Raumschiff%20Erde.pdf>
