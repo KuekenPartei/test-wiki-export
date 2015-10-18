@@ -9,7 +9,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 -   [Formalien](/wiki/Formalien "wikilink")
     -   [Satzung](/wiki/Satzung "wikilink")
     -   [Go](/wiki/Go "wikilink")
--   [Gründungssitzung](/wiki/Gründungssitzung "wikilink")
+-   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
 
 ### Kalender
 
