@@ -109,6 +109,10 @@ Verantwortung, die dem mündigen Menschen und die einer
 verantwortungsvollen Politik zukommt. Dieser Verantwortung gerecht zu
 werden, muss unser aller Aufgabe sein.
 
+Einzelnachweise
+---------------
+
+<references />
 [Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
 [Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
 
