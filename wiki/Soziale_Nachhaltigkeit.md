@@ -53,7 +53,7 @@ aufweisen, die dieses Ziel verhindert. Die Schulverweildauer sollte
 hierbei keine Rolle spielen. Wir denken, dass wir es uns nicht leisten
 können, dieses aktivierbare Potential ungenutzt zu lassen. Bildung ist
 daher auch ein wesentlicher Punkt in unserem
-[Programm](/wiki/Programm "wikilink").
+[Programm](/wiki/Programm:Program_konkret "wikilink").
 
 #### Gerechtigkeit
 
