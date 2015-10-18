@@ -67,7 +67,9 @@ Menschen heranreifen. Gerechtigkeit gehört zu unseren
 Der Mensch ist ein Wesen der Gemeinschaft. Deshalb gilt unsere Sorge der
 Gemeinschaft, wie sie dem Individuum gelten muss. In der
 [Solidarität](/wiki/Solidarität "wikilink") drückt sich u.a. der verbindende
-Generationenvertrag aus.
+Generationenvertrag aus. Solidarität ist ebenso ein Wert, auf den wir
+uns schon in unseren [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
+beziehen und von dem wir uns in unserem gesamten Handeln leiten lassen.
 
 #### Gemeinschaft
 
