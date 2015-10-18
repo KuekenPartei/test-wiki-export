@@ -3,10 +3,6 @@
 ***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
 Nachhaltigkeit*
 
--   [Programm:Main](/wiki/Programm:Main "wikilink")
-
-<!-- -->
-
 -   [Prolog](/wiki/Prolog "wikilink")
 -   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
 -   [Satzung](/wiki/Satzung "wikilink")
