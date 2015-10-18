@@ -1,7 +1,7 @@
 Der konkrete Programmkatalog.
 
-Bildung, Bildung, Bildung!
---------------------------
+Bildungspolitik
+---------------
 
 Nachhaltigkeit
 --------------
