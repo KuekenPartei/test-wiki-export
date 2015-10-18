@@ -166,7 +166,7 @@ Organe sind der Vorstand, der Bundesparteitag, das Bundesschiedsgericht und die 
 Die Gründungsversammlung tagt nur einmal, und zwar am 10.09.2006.
 
 
-==== § 9a - Der [[ParteiOrgan:Bundesvorstand]] ====
+==== § 9a - Der [[ParteiOrgan::Bundesvorstand]] ====
 
 <span id="A.9a.1">(1)</span>
 Der Bundesvorstand besteht aus dem Vorsitzenden und dessen Stellvertreter, dem politischen Geschäftsführer und optional dessen Stellvertreter, dem Schatzmeister und optional dessen Stellvertreter, und dem Generalsekretär und dessen erstem, und optional zweitem Stellvertreter. Die Vorsitzenden und politischen Geschäftsführer sind für die politische Leitung und politische Außenvertretung, die Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre für die innerparteiliche Organisation und Verwaltung zuständig. Scheidet ein Amtsträger aus dem Vorstand aus, übernimmt dessen Stellvertreter sein Amt.
