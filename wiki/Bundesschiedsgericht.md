@@ -6,6 +6,8 @@ Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
 Er arbeitet nach seiner
 [Schiedsgerichtsordnung](/wiki/Hat_Geschäftsordnung::Satzung#Abschnitt_C:_Schiedsgerichtsordnung "wikilink").
 
+Er hat [hat Mitglieder::3](hat_Mitglieder::3 "wikilink") Mitglieder.
+
 Organ gemäß
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei "wikilink")
 
