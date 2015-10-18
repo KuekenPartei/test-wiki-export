@@ -4,7 +4,7 @@
 | Falls Du Lust hast, kannst Du gerne mitarbeiten. |
 
 **Ökologische Nachhaltigkeit** - Wir finden zurück zu einem
-verantwortungsvollen Umgang mit den natürlichen Lebensgrundlagen, die
+verantwortungsvollen Umgang mit den natürlichen Lebensgrundlagen, der
 den [Kindern der Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") auch
 in Zukunft ein gesundes Überleben auf dem Planeten sichert.
 
