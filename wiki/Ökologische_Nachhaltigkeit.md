@@ -40,7 +40,7 @@ Strände. Wir treten ein für eine Art
 [Jedermannsrecht](https://de.wikipedia.org/wiki/Jedermannsrecht) nach
 dem Vorbild etwa skandinavischer Länder.
 
-#### Naherholgungsgebiete
+#### Naherholungsgebiete
 
 ##### Wälder
 
