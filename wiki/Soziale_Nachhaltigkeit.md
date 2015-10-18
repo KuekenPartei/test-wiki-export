@@ -76,3 +76,6 @@ Die vorgenannten Aspekte zeigen alle deutlich auf die soziale
 Verantwortung, die dem mündigen Menschen und die einer
 verantwortungsvollen Politik zukommt. Dieser Verantwortung gerecht zu
 werden, muss unser aller Aufgabe sein.
+
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
+[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
