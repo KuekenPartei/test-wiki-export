@@ -29,21 +29,24 @@ Umgang mit den Ressourcen unserer natürlichen Lebensgrundlagen
 
 ### Soziale Verwendung natürlicher Ressourcen
 
+Der Zugang zu natürlichen und künstlichen Naherholungsgbieten jeder Art
+muss jedem jederzeit kostenfrei möglich sein. Sogenannte Kurtaxe wie sie
+an den Stränden der Nord- und Ostsee üblich geworden sind, verstoßen
+gegen den Grundsatz der Solidarität. Denn hier werden Menschen
+einkommensunabhängig zur Kasse gebeten, was sozial ungerecht ist. Zudem
+müssen öffentliche Aufgaben aus Steuern finanziert werden, nicht aus
+Eintritten zu öffentlichen Flächen und Räumen wie Parks, Wälder oder
+Strände. Wir treten ein für eine Art
+[Jedermannsrecht](https://de.wikipedia.org/wiki/Jedermannsrecht) nach
+dem Vorbild etwa skandinavischer Länder.
+
 #### Naherholgungsgebiete
 
-#### Wälder
+##### Wälder
 
-#### Gewässer
+##### Gewässer
 
-Der Zugang zu natürlichen Gewässern jeder Art muss jedem jederzeit
-kostenfrei möglich sein. Sogenannte Kurtaxe wie sie an den Stränden der
-Nord- und Ostsee üblich geworden sind, verstoßen gegen den Grundsatz der
-Solidarität. Denn hier werden Menschen einkommensunabhängig zur Kasse
-gebeten, was sozial ungerecht ist. Zudem müssen öffentliche Aufgaben aus
-Steuern finanziert werden, nicht aus Eintritten zu öffentlichen Flächen
-und Räumen wie Parks, Wälder oder Strände.
-
-#### Parks
+##### Parks
 
 Reinhaltung der Elemente
 ------------------------
