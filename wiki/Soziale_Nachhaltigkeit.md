@@ -59,7 +59,8 @@ Nur in einer Gesellschaft, die strukturbedingte Benachteiligungen in den
 Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem
 Menschen die gesellschaftliche Teilhabe ermöglicht, können Kinder
 kulturangemessen aufwachsen und zu mündigen und gesellschaftkundigen
-Menschen heranreifen.
+Menschen heranreifen. Gerechtigkeit gehört zu unseren
+[Grundbestimmungen](/wiki/Grundbestimmungen "wikilink").
 
 #### Solidarität
 
