@@ -4,31 +4,33 @@ tags:
 Grundbestimmungen
 -----------------
 
-1.**Pazifismus** – Pazifismus ist die konsequente Folge aus der
-Verantwortung für unsere Kinder. Er muss in dem Sinne radikal sein, als
-wir verstehen müssen, dass Krieg nur mit Kriegsgerät stattfinden kann
-und wir aufhören müssen welches zu produzieren.
+1.**Pazifismus** – [Pazifismus](/wiki/Pazifismus "wikilink") ist die
+konsequente Folge aus der Verantwortung für unsere Kinder. Er muss in
+dem Sinne radikal sein, als wir verstehen müssen, dass Krieg nur mit
+Kriegsgerät stattfinden kann und wir damit aufhören müssen, es zu
+produzieren.
 
-2.**Säkularismus** – Auch der Säkularismus ist eine Folge dieser
-Verantwortung. Wenn wir ein höheres Wesen, einen Gott, annehmen, dann
-trägt dieses höhere Wesen am Ende die Verantwortung, die Verantwortung
-für den Zustand der Welt. -Die Verantwortung, insbesondere der
-menschlichen Gesellschaft und unsere Kinder gegenüber, selbst zu
-übernehmen, erscheint hingegen natürlich.
+2.**Säkularismus** – Auch der [Säkularismus](/wiki/Säkularismus "wikilink")
+ist eine Folge dieser Verantwortung. Wenn wir ein höheres Wesen, einen
+Gott, annehmen, dann trägt dieses höhere Wesen am Ende die
+Verantwortung, die Verantwortung für den Zustand der Welt. Die
+Verantwortung, insbesondere der menschlichen Gesellschaft und unsere
+Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich.
 
 3. **Gegenwartsbezogenheit** – Wir müssen in der Verantwortung bei den
 existierenden Menschen bleiben, die Gegenwart ist der Raum, in der die
 Zukunft gestaltbar ist, nicht die Zukunft. Konkrete Menschen können Ziel
-unsere Verantwortung sein, nicht mögliche Menschen.
+unserer Verantwortung sein, nicht mögliche Menschen.
 
 4. **Strukturelle Unabgeschlossenheit** – Wir, als lebende Menschen,
 sind strukturell unabgeschlossen. Darin genau besteht unsere Möglichkeit
 zur Entwicklung. Jedes unserer sozialen Produkte gleicht uns darin: Die
 Partei ist strukturell unabgeschlossen, unablässig müssen wir die
-Strukturen der Partei verändern, so die der Gesellschaft. Es kann nicht
-unser Ziel sein, eine perfekte Gesellschaft zu bauen, eine solche kann
-es unter diesen Voraussetzungen nicht geben. Unser Ziel kann nur die
-Entwicklung der Gesellschaft sein.
+Strukturen der Partei verändern, so auch die der Gesellschaft. Es kann
+nicht unser Ziel sein, eine perfekte Gesellschaft zu bauen, eine solche
+kann es unter diesen Voraussetzungen nicht geben. Unser Ziel kann nur
+die positive und [nachhaltige](/wiki/Nachhaltigkeit "wikilink") Entwicklung
+der Gesellschaft sein.
 
 5. **Erhalt der natürlichen Lebensgrundlagen** - Ein konservierender
 Umgang mit - bzw. die Wiederherstellung - einer gesunden und
@@ -42,20 +44,21 @@ muss daher als verantwortungsloses Handeln gegen unsere Kinder und
 Kindeskinder gewertet werden. Wir bekennen uns zum Antropozän und der
 daraus resultierenden Verantwortung. Die Wirkung von uns Menschen auf
 die Erde ist inzwischen so groß, dass wir Hans Jonas Erweiterung des
-Kategorischen Imperativ gewahr sein müssen, “Handle so, daß die
+Kategorischen Imperativs berücksichtigen müssen, “Handle so, daß die
 Wirkungen deiner Handlungen verträglich sind mit der Permanentz echten
-menschlichen Lebens auf Erden.”\[hj 36\]
+menschlichen Lebens auf Erden.”[1]
 
-6. **Solidarisch** - Der Mensch ist ein Wesen der Gemeinschaft. Deshalb
+6. **Solidarität** - Der Mensch ist ein Wesen der Gemeinschaft. Deshalb
 gilt unsere Sorge der Gemeinschaft, wie sie dem Individuum gelten muss.
-In der Solidarität drückt sich u.a. der verbindende Generationenvertrag
-aus.
+In der [Solidarität](/wiki/Solidarität "wikilink") drückt sich u.a. der
+verbindende Generationenvertrag aus.
 
 7. **Gerechtigkeit** - Nur in einer Gesellschaft, die strukturbedingte
 Benachteiligungen in den Möglichkeiten der individuellen Teilhabe
-ausgleicht und so jedem Menschen die gesellschaftliche Teilhabe
-ermöglicht, können Kinder kulturangemessen aufwachsen und zu mündigen
-und gesellschaftkundigen Menschen heranreifen.
+ausgleicht und so jedem Menschen die [gesellschaftliche
+Teilhabe](gesellschaftliche_Teilhabe "wikilink") ermöglicht, können
+Kinder kulturangemessen aufwachsen und zu mündigen und
+gesellschaftkundigen Menschen heranreifen.
 
 8. **Bekenntnis zu den universellen Menschenrechten** - Die universellen
 Menschenrechte bilden die basale Grundlage für den Umgang der Menschen
@@ -70,3 +73,12 @@ Bürgerinnen vor unverhältnismäßigen Eingriffen in ihre ureigenen
 Angelegenheiten sowie vor staatlicher Willkür. Daher ist ein Bekenntnis
 zu den universellen Menschenrechten ebenso ein Bekenntnis zu
 Rechtsstaatlichkeit und Mitbestimmung.
+
+Einzelnachweise
+---------------
+
+<references />
+
+[1] Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die
+technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp
+Taschenbuch 1984. ISBN 3-518-39992-6. S.85
