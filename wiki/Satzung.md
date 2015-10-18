@@ -225,7 +225,7 @@ Bundesparteitag, das Bundesschiedsgericht und die Gründungsversammlung.
 <span id="A.9.2">(2)</span> Die Gründungsversammlung tagt nur einmal,
 und zwar am 10.09.2006.
 
-#### § 9a - Der Bundesvorstand
+#### § 9a - Der [ParteiOrgan:Bundesvorstand](/wiki/ParteiOrgan:Bundesvorstand "wikilink")
 
 <span id="A.9a.1">(1)</span> Der Bundesvorstand besteht aus dem
 Vorsitzenden und dessen Stellvertreter, dem politischen Geschäftsführer
