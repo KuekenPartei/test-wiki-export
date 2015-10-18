@@ -16,7 +16,7 @@ bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
 auch Politikern.
 
 Wir alle leben mit mehr oder weniger großen Kompromissen im Denken, mit
-kognitiver Dissonanz.</ref>
+kognitiver Dissonanz.
 
 Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
@@ -170,8 +170,8 @@ S.21
 
 [4] Ebenda S.30
 
-[5] Horkheimer/Ardono: Dialektik der Aufklärung. ORT?. 1988. VERLAG? 21.
-Auflage. 2013. ISBN? S. 215
+[5] Horkheimer/Ardono: Dialektik der Aufklärung. Frankfurt/M. 1988.
+Fischer. 21. Auflage. 2013. ISBN? S.215
 
 [6] Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die
 technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp
