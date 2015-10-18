@@ -13,9 +13,14 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 * [[Gründungsversammlung]]
 ** [[Geschäftsordnung]]
 ** [[Protokoll]]
+*[[Programm]]
 
 === Kalender ===
 
 Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
+
+
+[[Kategorie:Planung]]
+[[Kategorie:inBearbeitung]]
