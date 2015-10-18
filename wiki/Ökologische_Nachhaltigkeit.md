@@ -1,3 +1,8 @@
+| Überschrift ACHTUNG                              |
+|--------------------------------------------------|
+| Diese Seite muss noch weiter bearbeitet werden.  |
+| Falls Du Lust hast, kannst Du gerne mitarbeiten. |
+
 **Ökologische Nachhaltigkeit** - Wir finden zurück zu einem
 verantwortungsvollem Umgang mit den natürlichen Lebensgrundlagen, die
 den [Kindern der Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") auch
@@ -16,7 +21,7 @@ Umgang mit den Ressourcen unserer natürlichen Lebensgrundlagen
 
 ### Ökologische Verwendung natürlicher Ressourcen
 
-#### Bisophärenreservate
+#### Biosphärenreservate
 
 ##### Naturschutzgebiete
 
