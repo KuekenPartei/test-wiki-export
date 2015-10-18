@@ -9,7 +9,7 @@ Er arbeitet nach seiner
 Er hat [hat Mitglieder::6](hat_Mitglieder::6 "wikilink") Mitglider.
 
 Organ gemäß
-[Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9b_-_Der_Bundesparteitag "wikilink").
+[Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9a_-_Der_Bundesvorstand "wikilink").
 
 \_\_SHOWFACTBOX\_\_
 
