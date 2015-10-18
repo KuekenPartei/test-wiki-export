@@ -141,6 +141,9 @@ individuelle Geschichte ist auf wohl und wehe mit der Kollektiven
 verknüpft, die zu Ende ginge ohne unsere Kinder. Traurig und leer ist
 die Welt der letzten Menschen.
 
+Einzelnachweise
+---------------
+
 <references />
 Namespace :
 
