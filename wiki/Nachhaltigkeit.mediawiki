@@ -1,16 +1,7 @@
-'''Nachhaltigkeit''' - Das bisher meist verwendete [https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-Modell_%28Nachhaltigkeit%29 Drei-Säulen-Modell] der [https://de.wikipedia.org/wiki/Nachhaltigkeitswissenschaft Nachhaltigkeitsforschung] greift zu kurz: Wir verstehen Nachhaltigkeit in fünf Punkten als die Basis unseres gemeinschaftlichen Handelns, bis sich in vielen Millionen Jahren die Sonne aufbläht oder sich sonst ein Naturphänomen erreignet, das für das menschliche Leben auf der Erde verherrend ist - wie ein Meteoriteneinschlag, größere Vulkanausbrüche etc.
-
 Unter Nachhaltigkeit verstehen wir:
+1. [[ökologische Nachhaltigkeit]] (z.B. Umgang mit natürlichen Lebensgrundlagen und Ressourcen, Reinhaltung von Luft, Wasser, Erde u.ä.)
+2. [[soziale Nachhaltigkeit]] (z.B. [[Lebensstandard]], [[Bildung]], Gemeinschaft, [[Gerechtigkeit]], [[soziale Verantwortung]])
+3. [[ökonomische Nachhaltigkeit]] (z.B. langlebige Produkte, Kosteneinsparung, Bedarfdeckung, [[Forschung]] & Entwicklung)
+4. [[demographische Nachhaltigkeit]] (Aufrechterhaltung der eigenen Art)
 
-* [[demographische Nachhaltigkeit]] (Aufrechterhaltung der eigenen Art)
-* [[ökologische Nachhaltigkeit]] (z.B. Umgang mit natürlichen Lebensgrundlagen und Ressourcen, Reinhaltung von Luft, Wasser, Erde u.ä.)
-* [[soziale Nachhaltigkeit]] (z.B. [[Lebensstandard]], [[Bildung]], Gemeinschaft, [[Gerechtigkeit]], [[soziale Verantwortung]] u.ä.)
-* [[ökonomische Nachhaltigkeit]] (z.B. langlebige Produkte, Kosteneinsparung, Bedarfdeckung, [[Forschung]] & Entwicklung u.ä.)
-* [[politische Nachhaltigkeit]] (Aufrechterhaltung von [[Frieden]], Stabilität u.ä.] 
-
-[[Kategorie:Umweltpolitik]]
-[[Kategorie:Wirtschaftspolitik]]
-[[Kategorie:Bildungspolitik]]
-[[Kategorie:Sozialpolitik]]
-[[Kategorie:Außenpolitik]]
-[[Kategorie:Verteidigungspolitik]]
+Wir verstehen Nachhaltigkeit in allen vier Punkten als die Basis unseres gemeinschaftlichen Wirtschaftens, bis sich in vielen Millionen Jahren die Sonne aufbläht oder sich sonst ein Naturphänomen erreignet, das für das menschliche Leben auf der Erde verherrend ist - wie ein Meteoriteneinschlag, größere Vulkanausbrüche etc.
