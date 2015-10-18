@@ -79,6 +79,7 @@ Einzelnachweise
 
 <references />
 
-[1] Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die
-technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp
-Taschenbuch 1984. ISBN 3-518-39992-6. S.85
+[1] [Hans Jonas](https://de.wikipedia.org/wiki/Hans_Jonas): Das Prinzip
+Verantwortung: Versuch einer Ethik für die technologische Zivilisation.
+Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN
+3-518-39992-6. S.85
