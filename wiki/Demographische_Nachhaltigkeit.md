@@ -13,6 +13,11 @@ greift zu kurz. Es übersieht u.a. die demographische Nachhaltigkeit.
 Diese ist darauf ausgerichtet, die eigene Art quantitativ
 aufrechtzuerhalten ggf. gar anwachsen zu lassen.
 
+Dieser demographischen Nachhaltigkeit sind die anderen Aspekte von
+[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink") untergeordnet, weil sie eben
+auch insbesondere und vor allem dem Ziel der eigenen Arterhaltung
+dienen.
+
 Wir fördern Nachwuchs durch vielerlei Maßnahmen und nehmen als erste
 politische Partei überhaupt genau diese Verantwortung endlich einmal
 ernst.
