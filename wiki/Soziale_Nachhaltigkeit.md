@@ -38,23 +38,28 @@ Entwicklungen unabdingbar sind, nimmt die [Bildung](/wiki/Bildung "wikilink")
 deutscher Schüler\_innen besorgniserregend ab. Wir setzen uns ein für
 bewährte Erfolgskonzepte und eine Beendigung bildungspolitischer
 Großraumexperimente, die nur zu einer Abwertung von Bildungsabschlüssen
-führen und hauptsächlich ein Einparmodell sind. Jedes Kind soll in einer
-Schule lernen können, die seinen Bedürfnissen und Talenten
-entgegenkommt, mit Personal, dass bedürfnisgerecht ausgebildet ist.
-Geeignet hierfür ist ein flächendeckendes nebeneinander aus
-Gesamtschulen und viergliedrigem Schulsystem mit glechzeitigen Angeboten
-von öffentlich geförderten Privatschulen \[Waldorf etc.\]. Da dies einem
-System entspricht, dass als unzulänglich verlassen wurde, muss
-klargestellt werden, dass wir zwar erkennen, dass es Probleme im 'alten'
-System gab, hierfür aber als Lösung eher eine Anhebung der Standards in
-den Hauptschulen (diese waren vor allem von den Problemen betroffen)
-sehen. Die Durchlässigkeit im viergliedrigen System muss in alle
-Richtungen gewährleistet sein. Ziel ist eine möglichst hohe
-[Bildung](/wiki/Bildung "wikilink") für jedes Kind. Langfristig zielen wir auf
-ein Abitur für alle, die es erwerben wollen und keine Behinderung
-aufweisen, die dieses Ziel verhindert. Die Schulverweildauer sollte
-hierbei keine Rolle spielen. Wir denken, dass wir es uns nicht leisten
-können, dieses aktivierbare Potential ungenutzt zu lassen.
+führen und hauptsächlich ein Einsparmodell sind.
+
+Jedes Kind soll in einer Schule lernen können, die seinen Bedürfnissen
+und Talenten entgegenkommt, mit Personal, dass bedürfnisgerecht
+ausgebildet ist. Geeignet hierfür ist ein flächendeckendes nebeneinander
+aus Gesamtschulen und viergliedrigem Schulsystem mit glechzeitigen
+Angeboten von öffentlich geförderten Privatschulen \[Waldorf etc.\].
+
+Da dies einem System entspricht, dass als unzulänglich verlassen wurde,
+muss klargestellt werden, dass wir zwar erkennen, dass es Probleme im
+'alten' System gab, hierfür aber als Lösung eher eine Anhebung der
+Standards in den Hauptschulen (diese waren vor allem von den Problemen
+betroffen) sehen. Die Durchlässigkeit im viergliedrigen System muss in
+alle Richtungen gewährleistet sein. Ziel ist eine möglichst hohe
+[Bildung](/wiki/Bildung "wikilink") für jedes Kind.
+
+Langfristig zielen wir auf ein Abitur für alle, die es erwerben wollen
+und keine Behinderung aufweisen, die dieses Ziel verhindert. Die
+Schulverweildauer sollte hierbei keine Rolle spielen. Wir denken, dass
+wir es uns nicht leisten können, dieses aktivierbare Potential ungenutzt
+zu lassen.
+
 [Bildung](/wiki/Bildung "wikilink") ist daher auch ein wesentlicher Punkt in
 unserem [Programm](/wiki/Programm:Program_konkret "wikilink").
 
