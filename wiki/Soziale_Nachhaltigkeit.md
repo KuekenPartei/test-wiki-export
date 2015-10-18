@@ -1,8 +1,3 @@
-| <big>! ACHTUNG !</big>                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Diese Seite muss noch weiter bearbeitet werden. Es handelt sich noch um einen sogenannten Stumpenartikel, d.h. er muss noch weiter ausgearbeitet werden. |
-| Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                                         |
-
 **Soziale Nachhaltigkeit** - Ist einer von fünf
 [Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit "wikilink"). Im Sinne einer
 Ethik der inter- und intragenerativen Gerechtigkeit muss sich eine
