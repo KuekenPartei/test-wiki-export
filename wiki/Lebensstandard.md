@@ -46,9 +46,9 @@ eher traumwandlerische Unterwerfung unter das Konsumdiktat, welches
 viele zu einem Tausch von Zeit gegen Konsumgüter zwingt, raubt uns die
 kostbare Zeit, um unseren Wunsch nach Beschäftigung mit unseren
 Mitmenschen, insbesondere mit den [Kindern der
-Gesellschaft](/wiki/Kindern_der_Gesellschaft "wikilink"), zu befriedigen und
-so unserer sozialen Verantwortung wirklich gerecht zu werden. Hierin
-liegt das eigentliche Potential, unsere
+Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), zu befriedigen und so
+unserer sozialen Verantwortung wirklich gerecht zu werden. Hierin liegt
+das eigentliche Potential, unsere
 [Lebensqualität](/wiki/Lebensqualität "wikilink") zu steigern.
 
 Stand des Lebensstandards international
