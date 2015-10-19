@@ -9,6 +9,18 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 ***[[Satzung#Abschnitt_B:_Finanzordnung|Finanzordnung]]
 ***[[Satzung#Abschnitt_C:_Schiedsgerichtsordnung|Schiedsgerichtsordnung]]
 **[[Go|Wahl & Geschäftsordnung]]
+
+{{Kalenderblatt
+ |Typ    = Gründungsversammlung
+ |Titel  = Gründungsversammlung
+ |Link   = Gründungsversammlung
+ |Datum  = 01.01.2016
+ |Zeit   = (SS:MM)
+ |Lokal  = hier die ....
+ |Straße = ....
+ |PLZ    = ...
+ |Ort    = ..
+}}
 *Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
 * [[Gründungsversammlung]]
 ** [[Geschäftsordnung]]
