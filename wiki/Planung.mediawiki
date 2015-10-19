@@ -29,18 +29,6 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 
 === Kalender ===
 
-
-{{Kalenderblatt
- |Typ    = Gründungssitzung
- |Titel  = Gründungssitzung
- |Link   = Gründungssitzung
- |Datum  = 01.01.2016
- |Zeit   = (SS:MM)
- |Lokal  = hier die ....
- |Straße = ....
- |PLZ    = ...
- |Ort    = ..
-}}
 Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
