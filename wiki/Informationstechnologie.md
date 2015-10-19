@@ -22,43 +22,32 @@ Punkte in unsere Hände.
 Netzpolitik
 -----------
 
-Für uns gilt der einfache Grundsatz, Transparenz für den Staat,
-Privatheit für die Menschen. Die ausufernde Umkehrung dieses Prinzip,
-die weiter voranschreitenden Überwachung der Menschen bei gleichzeitig
-immer weniger nachvollziehbar agierender Geheimdienste sehen wir als
-eine äußerst gefährliche Entwicklung, die unsere Gemeinschaft im Herzen
-Bedroht, der wir uns entscheidend entgegenstellen.
+### Überwachung
 
-siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
+Da eine Gesellschaft der Totalüberwachung jegliche Freiheit und jede
+freie Kommunikation zerstört, wirkt eine solche Gesellschaft auch sozial
+erodierend. Ganz nebenbei verstößt eine solche Überwachung auch gegen
+die universellen Menschenrechte sowie gegen die im Grundgesetz
+verbrieften Grundrechte. Nicht nur dem Staat auch privaten Unternehmen
+müssen in ihrem Datenhunger Schranken gesetzt werden. Der
+[Datenschutz](/wiki/Datenschutz "wikilink") muss ernst genommen und in
+Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
+weiterentwickelt werden.[2]
 
-Soziale Netzwerke
------------------
+### Netzneutralität
 
-Soziale Netzwerke lassen sich leicht in zwei Klassen unterteilen,
-solchen welche der Gemeinschaft dienen, und jenen die Teil des
-sogenannten Plattform Kapitalismus sind. Wir wollen explizit dezentrale
-von den Benutzen selbst betriebene soziale Netzwerke und Plattformen
-fördern.
+Wir treten ein für Netzneutralität.
 
-Teil unsere Netzwerk Strategie ist das wir uns aus den Zentralen
-Sozialen Netzwerk raus halten und nur auf den alternativen präsent sind.
-Durch die ungeheure Konzentration, richten wir sogenannte "Drop Acounts"
-ein die nur indirekt bespielt werden.
+### Verhinderung von Zensur
+
+Wir treten für ein unzensiertes Internet ein, dass auch in Deutschland
+alle internationalen Inhalte unverändert darstellt. Das verbriefte Recht
+auf Meinungs- und Informationsfreiheit soll durchgesetzt werden, wobei
+Beleidigungen, Hetzparolen u.ä. weiterhin keinen Platz im öffentlichen
+Raum haben dürfen.
 
 Förderung von offenen Standards
 -------------------------------
-
-Der sicherlich erfolgreichste offene Standard ist die Sprache, alle
-unsere weiteren Kulturleistungen und damit unser gesamter Wohlstand
-leiten sich aus der Offenheit dieses Standards ab. Ein Offener Standard
-ist ohne Zugangsbeschränkung, er kann von jedem Benutzt werden, und er
-ist verbindlich.
-
-Offene Standard erlauben das kommunizieren der Menschen über einen
-gemeinsamen Gegenstand.
-
-Es muss sichergestellt sein das alle verbindlichen Standards von jedem
-benutzt werden können, ohne Zugangsbeschränkung.
 
 Förderung von Open Source Software
 ----------------------------------
@@ -75,24 +64,8 @@ vertiefen.
     Kernel .... )
 -   Fachverfahren als OS
 
-Wir unterstützen explizit die die [pubic money, public
-code](https://publiccode.eu/de/) Initiative der FSFE (Free Software
-Foundation Europe).
-
-In unseren Augen entspricht Opensource Software auch viel stärker dem
-Leistungsprinzips, Software Entwickler werden für die Stunden ihrer
-Lebenszeit entlohnt. Eine Erzielung von Einkommen durch das
-weiterverkaufen einer bereits erbrachten Leistung, das verkaufen von
-Software Lizenzen, sehen wir als die Erzielung von Leistungslosen
-Einkommen an.
-
-Einzelnachweise
----------------
-
-<references />
-[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
-[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik "wikilink")
-[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik "wikilink")
-
 [1] vgl.
 <https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte>
+
+[2] vgl.
+<http://www.heise.de/newsticker/meldung/Verfassungsrichter-eine-private-ueberwachungsgesellschaft-internationalen-Ausmasses-192205.html>
