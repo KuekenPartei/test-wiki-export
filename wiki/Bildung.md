@@ -50,5 +50,5 @@ Einzelnachweise
 <references />
 [Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
 
-[1] vgl. Art.26
-<http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf>
+[1] vgl. [Art.26, Allgemeine Erklärung der
+Menschenrechte](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf)
