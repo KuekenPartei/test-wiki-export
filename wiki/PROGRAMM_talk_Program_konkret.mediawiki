@@ -1,7 +1,10 @@
-=== Lemma ===
+== Lemma ==
 Dieses Lemma kann man so sicherlich aufnehmen. Da der Text aber unübersichtlich lang würde, sollten hier lediglich die einzelnen Punkte - meintewegen mit Unterpunkten - aufgelistet und intern verlinkt werden, sodass dann etwa [[Nachhaltigkeit]] ein eigenes Lemma erhält, wo wiederum ein Punkt 'geplante Obsol.' ist. 
 In den Kapitelüberschrift sollte IMHO kein 'gegen' oder 'für' enthalten sein. Vielmehr sollte die begründete Position aus dem dazugehörigen Text hervorgehen.
 --[[Benutzer:Pat|Pat]] ([[Benutzer Diskussion:Pat|Diskussion]]) 16:38, 18. Okt. 2015 (CEST)
 
-
 Lemma finde ich ganz gut, ich habe hier erst mal nur den Inhalt aus dem Pad rübergeholt. [[Benutzer:Urs|Urs]] ([[Benutzer Diskussion:Urs|Diskussion]]) 16:47, 18. Okt. 2015 (CEST)
+
+== Open Source Software ==
+Hierzu gibt es in der 'Gemeinde' durchaus kritische Perspektiven. Urs wird sich da besser auskennen. Ich habe gerade folgenden kritischen Aufsatz einmal überflogen: [http://www.gnu.org/philosophy/open-source-misses-the-point.de.html Warum Open Source das Ziel Freie Software verfehlt].
+--[[Benutzer:Pat|Pat]] ([[Benutzer Diskussion:Pat|Diskussion]]) 00:46, 20. Okt. 2015 (CEST)
