@@ -11,6 +11,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
         -   [Finanzordnung](/wiki/Satzung#Abschnitt_B:_Finanzordnung "wikilink")
         -   [Schiedsgerichtsordnung](/wiki/Satzung#Abschnitt_C:_Schiedsgerichtsordnung "wikilink")
     -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink")
+
 -   Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
 -   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
     -   [Geschäftsordnung](/wiki/Geschäftsordnung "wikilink")
