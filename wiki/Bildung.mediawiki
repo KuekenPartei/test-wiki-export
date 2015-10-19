@@ -1,6 +1,6 @@
 '''Bildung''' - ist lebenswichtiger Bestandteil einer Gesellschaft sowie eines der menschlichen Grundbedürfnisse. Gerade in einem rohstoffarmen Land sichert ein fundiertes Wissen aller Mitglieder der Gesellschaft matierielles und kulturelles Wohlergehen.
 
-Mit dem selbstverständlichen [[Grundbestimmungen|Bekenntnis zu den Menschenrechten]] bekennen wir uns ebenso selbstverständlich zu dem Recht jedes Menschen auf Bildung. Dafür Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben kann und auslebt, muss unser Anliegen sein.
+Mit dem selbstverständlichen [[Grundbestimmungen|Bekenntnis zu den Menschenrechten]] bekennen wir uns ebenso selbstverständlich zu dem Recht jedes Menschen auf Bildung.<ref>vgl. Art.26 http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf</ref> Dafür Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben kann und auslebt, muss unser Anliegen sein.
 
 Im Bildungsbereich schneidet Deutschland seit vielen Jahren aber nicht mehr in den Spitzenpositionen ab, in denen ein rohstoffarmes Land sich aufhalten sollte, will es zukunftsfähig bleiben. Gerade in den MINT-Fächern, die für technische Erfindungen und Entwicklungen unabdingbar sind, nimmt die Bildung deutscher Schüler_innen besorgniserregend ab. Wir setzen uns ein für bewährte Erfolgskonzepte und eine Beendigung bildungspolitischer Großraumexperimente, die nur zu einer Abwertung von Bildungsabschlüssen führen und hauptsächlich ein Einsparmodell sind. 
 
@@ -11,5 +11,8 @@ Da dies einem System entspricht, dass als unzulänglich verlassen wurde, muss kl
 Langfristig zielen wir auf ein Abitur für alle, die es erwerben wollen und keine Behinderung aufweisen, die dieses Ziel verhindert. Die Schulverweildauer sollte hierbei keine Rolle spielen. Wir denken, dass wir es uns nicht leisten können, dieses aktivierbare Potential ungenutzt zu lassen.
 
 Bildung ist daher auch ein wesentlicher Punkt in unserem [[Programm:Program_konkret|Programm]] sowie selbstverständlicher Bestandteil unserer Überlegungen zur [[Soziale Nachhaltigkeit|sozialen Nachhaltigkeit]].
+
+== Einzelnachweise ==
+<references />
 
 [[Kategorie:Bildungspolitik]]
