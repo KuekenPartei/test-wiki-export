@@ -13,7 +13,8 @@ Pazifismus
 Sozial
 ------
 
--   [BGE](/wiki/BGE "wikilink")
+-   [Bedingungslosen
+    Grundeinkommens](/wiki/Bedingungsloses_Grundeinkommen "wikilink") (BGE)
 
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
 
