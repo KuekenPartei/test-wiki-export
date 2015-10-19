@@ -6,6 +6,13 @@
 -   [Prolog](/wiki/Prolog "wikilink")
 -   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
 
+<!-- -->
+
+-   <Programm:Main>
+    -   <Programm:Program_konkret>
+    -   <Programm:Program_mittelfristig>
+    -   <Programm:Program_langfristig>
+
 Starthilfen
 -----------
 
@@ -13,13 +20,7 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 \[//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch\].
 
 -   <Hilfe:Basic>
--   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration\_settings
-    Liste der Konfigurationsvariablen\]
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ
     MediaWiki-FAQ\]
--   [Mailingliste neuer
-    MediaWiki-Versionen](https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce)
--   \[//www.mediawiki.org/wiki/Special:MyLanguage/Localisation\#Translation\_resources
-    Lokalisiere MediaWiki für deine Sprache\]
 
 <Kategorie:InBearbeitung>
