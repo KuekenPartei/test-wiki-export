@@ -8,9 +8,9 @@ seiner publizierten
 Ideen](https://de.wikipedia.org/wiki/Die_letzte_Wahl).
 
 Änderungen am Wahlsystem sind Teil unseres
-[Programms](/wiki/PROGRAMM:Program_mittelfristig "wikilink") und sie sind
+[Programms](/wiki/PROGRAMM:Program_mittelfristig "wikilink"). Sie sind
 strukturelle Änderungen und notwendig, um den Menschen die demokratische
-Teilhabe und somit die Wahrnehmung ihrer
+Teilhabe sowie die Wahrnehmung ihrer
 [Menschenrechte](http://www.un.org/Depts/german/menschenrechte/aemr.pdf)
 zu erleichtern.
 
