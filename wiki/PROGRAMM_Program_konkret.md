@@ -46,8 +46,8 @@ Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
 
-Edv
----
+Informationstechnologie
+-----------------------
 
 ### Förderung von Offenen Standards
 
