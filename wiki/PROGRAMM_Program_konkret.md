@@ -53,11 +53,12 @@ Edv
 
 ### Förderung von Opensource Software
 
-Weite teile der edv Infrastruktur werden schon jetzt durch Open Source
-Software betrieben. Open Source ist ein Software Modell das sowohl das
+Open Source ist ein Software Modell das sowohl das
 [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink") als auch die
 Eigenverantwortung und den Sinn für Gemeinschaftliches Handelns
-beinhaltet, es wird von uns ausdrücklich unterstützt.
+beinhaltet. Es wird von uns ausdrücklich unterstützt. Weite teile der
+edv Infrastruktur werden schon jetzt durch Open Source Software
+betrieben. Wir wollen den Einsatz weiter vertiefen.
 
 -   Finanzielle Förderung Essentieller Software Komponenten (SSL, Linux
     Kernel .... )
