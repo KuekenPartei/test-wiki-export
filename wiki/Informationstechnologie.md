@@ -42,5 +42,13 @@ vertiefen.
     Kernel .... )
 -   Fachverfahren als OS
 
+Einzelnachweise
+---------------
+
+<references />
+[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
+[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik "wikilink")
+[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik "wikilink")
+
 [1] vgl.
 <https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte>
