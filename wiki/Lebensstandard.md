@@ -12,6 +12,34 @@ Die allgemeinen Menschenrechte sichern sprechen in Art. 25 jedem
 Menschen das Recht auf „einen Lebensstandard, der seine und seiner
 Familie Gesundheit und Wohl gewährleistet“ zu.[1]
 
+Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Kosum
+hinterher und unsere [Lebensqualität](/wiki/Lebensqualität "wikilink") leidet.
+Wir wollen uns besinnen. So schlägt die Journalistin Anna Haag schon
+1955 diese Besinnung vor, wenn sie schreibt:
+
+"Möglicherweise wäre es gut, wenn wir uns manchmal die
+Haushaltungsbücher unserer Groß- und Urgroßeltern anschauen würden.
+Vieles, was in solchen Aufzeichnungen zu lesen ist, paßt natürlich nicht
+mehr in unsere heutige, von so vielen Bedürfnissen erfüllte Gegenwart.
+Dieser Tage habe ich in dem Haushaltsbuch einer Urgroßmutter geblättert.
+Auf der ersten Seite stand gleichsam als Motto: 'Einen Gulden weniger
+verbraucht im Monat bedeutet Wohlstand, aber nur ein paar Batzen zuviel
+hinausgeblättert in der Woche macht Armeleutegeruch.'"[2]
+
+Auch [Byung-Chul Han](https://de.wikipedia.org/wiki/Byung-Chul_Han)
+verstehen wir so, dass die internen Instanzen zur Selbstausbeutung
+insbesondere auf den Wunsch nach einem höheren Lebensstandard
+ausgerichtet sind. Er erkennt den Konsumzwang, der von der Masse als
+Freiwilligkeit erlebt wird.[3] Ebendiese scheinbar freiwillige aber doch
+eher traumwandlerische Unterwerfung unter das Konsumdiktat, welches
+viele zu einem Tausch von Zeit gegen Konsumgüter zwingt, raubt uns die
+kostbare Zeit, um unseren Wunsch nach Beschäftigung mit unseren
+Mitmenschen, insbesondere mit den [Kindern der
+Gesellschaft](/wiki/Kindern_der_Gesellschaft "wikilink"), zu befriedigen und
+so unserer sozialen Verantwortung wirklich gerecht zu werden. Hierin
+liegt das eigentliche Potential, unsere
+[Lebensqualität](/wiki/Lebensqualität "wikilink") zu steigern.
+
 Stand des Lebensstandards in unserer Gesellschaft
 -------------------------------------------------
 
@@ -53,3 +81,8 @@ Einzelnachweise
 Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik "wikilink")
 
 [1] vgl. <http://www.un.org/Depts/german/menschenrechte/aemr.pdf>
+
+[2] <http://www.zeit.de/1955/14/hoher-lebensstandard-ist-nicht-wohlstand/seite-2>
+
+[3] vgl.
+<http://www.zeit.de/zeit-wissen/2014/05/byung-chul-han-philosophie-neoliberalismus/seite-2>
