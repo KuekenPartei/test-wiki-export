@@ -32,7 +32,7 @@ Daher müssen wir eine Politik betreiben, die ein Bewusstsein für
 nachhaltiges Konsumverhalten und Anreize für langlebige Produkte in der
 Herstellung schafft.
 
-Familie und Kinder
+Kinder und Familie
 ------------------
 
 siehe auch [Demographische
