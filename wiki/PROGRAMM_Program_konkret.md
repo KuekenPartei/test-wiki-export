@@ -10,7 +10,27 @@ Nachhaltigkeit
 
 siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
 
-### Gegen geplante Obsolezenz
+### langlebige Produkte
+
+Alleine schon im Interesse unserer Kinder und Kindeskinder befürworten
+wir einen schonenden Umgang mit den natürlichen Lebensgrundlagen und
+somit auch mit den vorhandenen Rohstoffen. Als Verbraucher haben wir
+Interesse an Qualitätsprodukten. Es ist gut, wenn beispielsweise ein
+Fahrrad auch in einhundert Jahren noch gut funktioniert, wenn das
+Brotmesser so stabil gebaut ist, dass man es vererben kann.
+
+[Geplante
+Obsoleszenz](https://de.wikipedia.org/wiki/Geplante_Obsoleszenz)
+dagegen, die abslichtlich die Lebensdauer eines Produktes verringert,
+ist geradezu absurd und nicht nur Betrug am Kunden sondern auch an den
+nachkommenden Generationen. Wer mit geplanter Obsoleszenz arbeitet,
+arbeitet daher vorsätzlich verantwortungslos. Diese Art der
+Verantwortungslosigkeit, die geeignet ist, anderen Menschen zu Schaden,
+halten wir nicht für hinnehmbar.
+
+Daher müssen wir eine Politik betreiben, die ein Bewusstsein für
+nachhaltiges Konsumverhalten und Anreize für langlebige Produkte in der
+Herstellung schafft.
 
 Familie und Kinder
 ------------------
