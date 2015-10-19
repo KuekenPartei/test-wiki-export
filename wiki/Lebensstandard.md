@@ -8,9 +8,20 @@ Der **Lebensstandard** - ist ein Faktor der
 das körperliche Wohlbefinden eines Menschen wie um den materiellen
 Wohlstand.
 
-Die allgemeinen Menschenrechte sichern sprechen in Art. 25 jedem
-Menschen das Recht auf „einen Lebensstandard, der seine und seiner
-Familie Gesundheit und Wohl gewährleistet“ zu.[1]
+[Die allgemeinen
+Menschenrechte](http://www.un.org/Depts/german/menschenrechte/aemr.pdf)
+sprechen in Art. 25 jedem Menschen das Recht auf „einen Lebensstandard,
+der seine und seiner Familie Gesundheit und Wohl gewährleistet“ zu.[1]
+
+Stand des Lebensstandards in unserer Gesellschaft
+-------------------------------------------------
+
+Unsere Gesellschaft in Deutschland wie in Europa hat im diachronen wie
+im synchronen Vergleich einen hohen Lebensstandard erreicht. Hier liegt
+vielmehr ein [Solidaritätsproblem](/wiki/Solidarität "wikilink") vor. Der
+Lebensstandard hat im statistischen Durchschnitt jedenfalls ein Niveau
+erreicht mit dem dieser Teil der Menschenrechte als gewährleistet und
+erfüllt gelten kann.
 
 Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Kosum
 hinterher und unsere [Lebensqualität](/wiki/Lebensqualität "wikilink") leidet.
@@ -39,16 +50,6 @@ Gesellschaft](/wiki/Kindern_der_Gesellschaft "wikilink"), zu befriedigen und
 so unserer sozialen Verantwortung wirklich gerecht zu werden. Hierin
 liegt das eigentliche Potential, unsere
 [Lebensqualität](/wiki/Lebensqualität "wikilink") zu steigern.
-
-Stand des Lebensstandards in unserer Gesellschaft
--------------------------------------------------
-
-Unsere Gesellschaft in Deutschland wie in Europa hat im diachronen wie
-im synchronen Vergleich einen hohen Lebensstandard erreicht. Hier liegt
-vielmehr ein [Solidaritätsproblem](/wiki/Solidarität "wikilink") vor. Der
-Lebensstandard hat im statistischen Durchschnitt jedenfalls ein Niveau
-erreicht mit dem dieser Teil der Menschenrechte als gewährleistet und
-erfüllt gelten kann.
 
 Stand des Lebensstandards international
 ---------------------------------------
