@@ -35,6 +35,9 @@ Herstellung schafft.
 Familie und Kinder
 ------------------
 
+siehe auch [Demographische
+Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
+
 ### Steuervorteile dort, wo die Kinder sind
 
 ### Stärkere Unterstützung von allein Erziehenden.
