@@ -5,9 +5,9 @@ matierielles und kulturelles Wohlergehen.
 
 Mit dem selbstverständlichen [Bekenntnis zu den
 Menschenrechten](/wiki/Grundbestimmungen "wikilink") bekennen wir uns ebenso
-selbstverständlich zu dem Recht jedes Menschen auf Bildung. Dafür Sorge
-zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben kann
-und auslebt, muss unser Anliegen sein.
+selbstverständlich zu dem Recht jedes Menschen auf Bildung.[1] Dafür
+Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben
+kann und auslebt, muss unser Anliegen sein.
 
 Im Bildungsbereich schneidet Deutschland seit vielen Jahren aber nicht
 mehr in den Spitzenpositionen ab, in denen ein rohstoffarmes Land sich
@@ -44,4 +44,11 @@ Bildung ist daher auch ein wesentlicher Punkt in unserem
 selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen
 Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit "wikilink").
 
+Einzelnachweise
+---------------
+
+<references />
 [Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
+
+[1] vgl. Art.26
+<http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf>
