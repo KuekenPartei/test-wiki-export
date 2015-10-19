@@ -11,6 +11,6 @@ Er hat [hat Mitglieder::3](hat_Mitglieder::3 "wikilink") Mitglieder.
 Organ gemäß
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei "wikilink")
 
-\_\_SHOWFACTBOX\_\_
-
 <Kategorie:Parteiorganisation>
+
+\_\_SHOWFACTBOX\_\_
