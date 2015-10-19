@@ -59,4 +59,8 @@ Software betrieben. Open Source ist ein Software Modell das sowohl das
 Eigenverantwortung und den Sinn für Gemeinschaftliches Handelns
 beinhaltet, es wird von uns ausdrücklich unterstützt.
 
+-   Finanzielle Förderung Essentieller Software Komponenten (SSL, Linux
+    Kernel .... )
+-   Fachverfahren als OS
+
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
