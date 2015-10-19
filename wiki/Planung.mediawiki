@@ -22,7 +22,7 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
  |Typ    = Gründungssitzung
  |Titel  = Gründungssitzung
  |Link   = Gründungssitzung
- |Datum  = (TT.MM.JJJJ)
+ |Datum  = 01.01.2016
  |Zeit   = (SS:MM)
  |Lokal  = hier die ....
  |Straße = ....
