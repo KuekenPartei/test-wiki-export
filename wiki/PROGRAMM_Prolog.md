@@ -20,7 +20,7 @@ kognitiver Dissonanz.
 
 Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
-unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet. Als gute
+unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet? Als gute
 Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren,
 klügeren und besseren Menschen zu machen, als wir es sind. Es ist ein
 Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
@@ -54,7 +54,8 @@ und zuvorderst den [Kindern der
 Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") zu, unseren Kindern.
 Mit einer konsequenten Verfolgung der Kindesinteressen werden also
 ebenso die Interessen aller Mitglieder einer Gesellschaft vertreten und
-gleichzeitig eine zukunftsfähige und nachhaltige Politik betrieben.
+gleichzeitig eine zukunftsfähige und [nachhaltige
+Politik](/wiki/Nachhaltigkeit "wikilink") betrieben.
 
 In einer aufgeklärten Demokratie kommt der kritischen Öffentlichkeit
 eine spezifische Funktion zu: die der Selbstkontrolle. Diese Funktion
