@@ -15,7 +15,7 @@ Einzelnachweise
 ---------------
 
 <references />
-[Kategorie: Sozialpolitik](/wiki/Kategorie:_Sozialpolitik "wikilink")
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
 
 [1] <http://de.wikipedia.org/wiki/Children_of_Men>
 
