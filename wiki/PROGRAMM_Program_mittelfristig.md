@@ -13,6 +13,8 @@ Pazifismus
 Sozial
 ------
 
+-   [BGE](/wiki/BGE "wikilink")
+
 <Kategorie:Programm>
 
 <accesscontrol>Administrators,urs,Basicuser</accesscontrol>
