@@ -17,6 +17,35 @@ Pad rübergeholt. [Urs](/wiki/Benutzer:Urs "wikilink")
 ([Diskussion](/wiki/Benutzer_Diskussion:Urs "wikilink")) 16:47, 18. Okt. 2015
 (CEST)
 
+Mir ist gerade noch einmal aufgefallen, dass ich tatsächlich Probleme
+mit dem Lemma an sich habe. Bei dem mittelfristigen Programm habe ich
+mal eine Art Definition vorangestellt: Ein Programm, dass Punkte
+enthält, die man in 10 Jahren umsetzen könnte. Aber was soll das
+konkrete Programm beinhalten? Da stehen ja keine kurzfristig umsetzbaren
+Punkte drin (z.B. Nachhaltigkeit,...). Oder muss das neu strukuriert
+werden?
+
+Unterscheiden andere Parteien überhaupt konkrete, mittelfristige und
+langfristige Programme? Strategien vielleicht,... aber Programme? Sind
+die nicht immer mehr oder weniger konkret? Ausgerichtet an den Themen,
+die vor der Wahl aktuell sind?
+
+Die Grundsätze, Grundbestimmungen bei uns (man könnte es auch Grundwerte
+nennen) sind doch sowas wie ein langfristiges Programm. Etwas, das der
+Partei grundsätzlich zu eigen ist und eher auch bleibt / bleiben soll.
+
+Das konkrete Programm mittelt dann zwischen diesen Werten und der
+angetroffenen Realität in bestimmten Bereichen. Das ist zwar in Teilen
+mit langfristigen, mittelfristigen und eher kurzfristigen Zielsetzungen
+verbunden - aber an sich doch immer halbwegs konkret.
+
+Ich verstehe also die Unterscheidung nicht recht und würde sie sonst
+auch gerne aufgeben.
+
+--[Pat](/wiki/Benutzer:Pat "wikilink")
+([Diskussion](/wiki/Benutzer_Diskussion:Pat "wikilink")) 01:03, 20. Okt. 2015
+(CEST)
+
 Open Source Software
 --------------------
 
