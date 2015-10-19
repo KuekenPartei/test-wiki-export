@@ -5,11 +5,6 @@
 
 -   [Prolog](/wiki/Prolog "wikilink")
 -   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
--   [Satzung](/wiki/Satzung "wikilink")
-
-<!-- -->
-
--   [Planung](/wiki/Planung "wikilink")
 
 Starthilfen
 -----------
