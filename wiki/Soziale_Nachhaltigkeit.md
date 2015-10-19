@@ -8,7 +8,7 @@ Generationen oder andernorts lebenden Menschen nicht gewollt sein
 könnten, zu vermeiden.
 
 Eng mit der Frage nach der sozialen Nachhaltigkeit ist die nach dem
-[Lebenstandard](/wiki/Lebenstandard "wikilink") verknüpft, da ein hoher
+[Lebensstandard](/wiki/Lebensstandard "wikilink") verknüpft, da ein hoher
 Lebensstandard langfristig nur in einer sozial nachhaltigen Gesellschaft
 empfunden werden kann.
 
