@@ -9,8 +9,10 @@ Ideen](https://de.wikipedia.org/wiki/Die_letzte_Wahl).
 
 Änderungen am Wahlsystem sind Teil unseres
 [Programms](/wiki/PROGRAMM:Program_mittelfristig "wikilink") und sie sind
-strukturelle Änderungen, sie sind notwendig, um es den Menschen
-einfacher zu machen, sich zu beteiligen.
+strukturelle Änderungen und notwendig, um den Menschen die demokratische
+Teilhabe und somit die Wahrnehmung ihrer
+[Menschenrechte](http://www.un.org/Depts/german/menschenrechte/aemr.pdf)
+zu erleichtern.
 
 Negativstimme
 -------------
