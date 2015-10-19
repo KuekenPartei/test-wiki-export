@@ -7,12 +7,8 @@ Weyh](https://de.wikipedia.org/wiki/Florian_Felix_Weyh) mit [einigen
 seiner publizierten
 Ideen](https://de.wikipedia.org/wiki/Die_letzte_Wahl).
 
-Änderungen am Wahlsystem sind Teil unseres
-[Programms](/wiki/PROGRAMM:Program_mittelfristig "wikilink"). Sie sind
-strukturelle Änderungen und notwendig, um den Menschen die demokratische
-Teilhabe sowie die Wahrnehmung ihrer
-[Menschenrechte](http://www.un.org/Depts/german/menschenrechte/aemr.pdf)
-zu erleichtern.
+Änderungen am Wahlsystem sind strukturelle Änderungen, sie sind
+notwendig, um es den Menschen einfacher zu machen, sich zu beteiligen.
 
 Negativstimme
 -------------

@@ -1,19 +1,15 @@
-'''Wahlsystem''' - Da das Wahlsystem immer wieder durch das Bundesverfassungsgericht gerügt wird <ref>vgl. http://www.zeit.de/politik/deutschland/2011-09/wahlrecht-verfassungsgericht</ref> <ref>vgl. http://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-erklaert-wahlrecht-fuer-verfassungswidrig-a-846221.html</ref> <ref>vgl. http://www.wahlrecht.de/wahlpruefungsbeschwerde/</ref>  und es auch nicht unseren Vorstellungen einer fairen und demokratischen Mitbestimmung entspricht, wollen wir hier tätig werden. Wertvolle Anregungen hierzu liefert etwa [https://de.wikipedia.org/wiki/Florian_Felix_Weyh Florian Felix Weyh] mit [https://de.wikipedia.org/wiki/Die_letzte_Wahl einigen seiner publizierten Ideen].
+'''Wahlsystem''' - Da das Wahlsystem immer wieder durch das Bundesverfassungsgericht gerügt wird <ref>vgl. http://www.zeit.de/politik/deutschland/2011-09/wahlrecht-verfassungsgericht</ref> <ref>vgl. http://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-erklaert-wahlrecht-fuer-verfassungswidrig-a-846221.html</ref> <ref>vgl. http://www.wahlrecht.de/wahlpruefungsbeschwerde/</ref>  und es auch nicht unseren Vorstellungen einer fairen und demokratischen Mitbestimmung entspricht, wollen wir hier tätig werden. Wertvolle Anregungen hierzu liefert etwa [https://de.wikipedia.org/wiki/Florian_Felix_Weyh Florian Felix Weyh] mit [https://de.wikipedia.org/wiki/Die_letzte_Wahl einigen seiner publizierten Ideen].  
 
-Änderungen am Wahlsystem sind Teil unseres [[PROGRAMM:Program_mittelfristig|Programms]]. Sie sind strukturelle Änderungen und notwendig, um den Menschen die demokratische Teilhabe sowie die Wahrnehmung ihrer [http://www.un.org/Depts/german/menschenrechte/aemr.pdf Menschenrechte] zu erleichtern.
+Änderungen am Wahlsystem sind strukturelle Änderungen, sie sind notwendig, um es den Menschen einfacher zu machen, sich zu beteiligen.
 
 == Negativstimme ==
 In Ergänzung zu der positiven Stimme für eine Partei wollen wir eine Negativstimme einführen. Diese wird in der Zählung dann von den positiven Stimmen abgezogen.
-
 == Strukturreset ==
 Wie jedes komplexe technische System braucht es einen 'Auf-Werkeinstellung-zurücksetzten-Mechanismus', der eine neue verfassunggebende Versammlung einberuft; z.B. wenn die Wahlbeteiligung eine gewisse Grenze unterschreitet. Etwa bei 10%.
-
 == Veränderung der Grundgesamtheit ==
 Anstelle der abgegebenen Stimmen werden andere Basen genommen; z.B. werden Enthaltungen mitgezählt, alle möglichen Wähler werden als Basis genommen, o.ä.
-
 == Die Kinderstimme ==
 Die Grundgesamtheit ist im Augenblick willkürlich beschnitten. Denn erst ab 18 dürfen deutsche Bürger_innen wählen. Die Kinderstimme, das Wählen der Erziehungsberechtigen für seine Kinder, stellt das Prinzip 'ein Mensch, eine Stimme' wieder her. Die Kinderstimme ist teilbar, sie wird im Verhältnis des Sorgerechts geteilt.<ref>vgl. https://de.wikipedia.org/wiki/Kinderwahlrecht</ref> <ref>vgl. http://www.zeit.de/online/2008/28/kinder-wahlrecht</ref> <ref>vgl. http://www.kinderwahlrecht.de/</ref>
-
 == Bildungszensus ==
 Ab 12 können Kinder beantragen, selbst ihr Wahlrecht wahrzunehmen, sie werden geprüft und können bei Eignung ihr Wahlrecht vor dem 18. Lebensjahr ausüben.
 
