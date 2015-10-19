@@ -1,4 +1,5 @@
-Der konkrete Programmkatalog.
+**Konkreter Programmkatalog** - Unter diesem Katalog verstehen wir ein
+Programm, dass ...
 
 Bildungspolitik
 ---------------
