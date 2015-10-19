@@ -22,29 +22,7 @@ Punkte in unsere Hände.
 Netzpolitik
 -----------
 
-### Überwachung
-
-Da eine Gesellschaft der Totalüberwachung jegliche Freiheit und jede
-freie Kommunikation zerstört, wirkt eine solche Gesellschaft auch sozial
-erodierend. Ganz nebenbei verstößt eine solche Überwachung auch gegen
-die universellen Menschenrechte sowie gegen die im Grundgesetz
-verbrieften Grundrechte. Nicht nur dem Staat auch privaten Unternehmen
-müssen in ihrem Datenhunger Schranken gesetzt werden. Der
-[Datenschutz](/wiki/Datenschutz "wikilink") muss ernst genommen und in
-Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
-weiterentwickelt werden.[2]
-
-### Netzneutralität
-
-Wir treten ein für Netzneutralität.
-
-### Verhinderung von Zensur
-
-Wir treten für ein unzensiertes Internet ein, dass auch in Deutschland
-alle internationalen Inhalte unverändert darstellt. Das verbriefte Recht
-auf Meinungs- und Informationsfreiheit soll durchgesetzt werden, wobei
-Beleidigungen, Hetzparolen u.ä. weiterhin keinen Platz im öffentlichen
-Raum haben dürfen.
+siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 
 Förderung von offenen Standards
 -------------------------------
@@ -66,6 +44,3 @@ vertiefen.
 
 [1] vgl.
 <https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte>
-
-[2] vgl.
-<http://www.heise.de/newsticker/meldung/Verfassungsrichter-eine-private-ueberwachungsgesellschaft-internationalen-Ausmasses-192205.html>
