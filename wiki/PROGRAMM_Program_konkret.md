@@ -49,16 +49,17 @@ Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
 Informationstechnologie
 -----------------------
 
-### Förderung von Offenen Standards
+### Förderung von offenen Standards
 
-### Förderung von Opensource Software
+### Förderung von Open Source Software
 
-Open Source ist ein Software Modell das sowohl das
-[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink") als auch die
-Eigenverantwortung und den Sinn für Gemeinschaftliches Handelns
-beinhaltet. Es wird von uns ausdrücklich unterstützt. Weite teile der
-edv Infrastruktur werden schon jetzt durch Open Source Software
-betrieben. Wir wollen den Einsatz weiter vertiefen.
+[Open Source](https://de.wikipedia.org/wiki/Open_Source) ist ein
+Software-Modell das sowohl [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
+als auch die Eigenverantwortung und den Sinn für gemeinschaftliches
+Handelns beinhaltet. Es wird von uns ausdrücklich unterstützt. Weite
+teile der informationstechnologischen Infrastruktur werden schon jetzt
+durch Open Source Software betrieben. Wir wollen diesen Einsatz weiter
+vertiefen.
 
 -   Finanzielle Förderung Essentieller Software Komponenten (SSL, Linux
     Kernel .... )
