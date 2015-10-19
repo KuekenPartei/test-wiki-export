@@ -12,5 +12,3 @@ Organ gemäß
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9a_-_Der_Bundesvorstand "wikilink").
 
 \_\_SHOWFACTBOX\_\_
-
-[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation "wikilink")
