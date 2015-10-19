@@ -1,6 +1,5 @@
-**Netzpolitik** - stellt wie die
-[Informationstechnologie](/wiki/Informationstechnologie "wikilink") heute
-besondere Anforderungen an Gesellschaft und Politik.
+**Netzpolitik** - stellt heute besondere Anforderungen an Gesellschaft
+und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
@@ -17,8 +16,8 @@ Bürger\_innen heute eine Selbstverständlichkeit, mit Computer, Tablet,
 Smartphone und ähnlichem Gerät nahezu ständig mit dem Internet in
 Verbindung zu stehen.
 
-Beendigung der flächendeckenden Überwachung und Datensouveränität
------------------------------------------------------------------
+Beendigung der flächendeckenden Überwachung
+-------------------------------------------
 
 Da eine Gesellschaft der Totalüberwachung jegliche Freiheit und jede
 freie Kommunikation zerstört, wirkt eine solche Gesellschaft auch sozial
@@ -29,14 +28,6 @@ müssen in ihrem Datenhunger Schranken gesetzt werden. Der
 [Datenschutz](/wiki/Datenschutz "wikilink") muss ernst genommen und in
 Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
 weiterentwickelt werden.[2]
-
-So unterstützen wir peer to peer Netzwerke und Projekte die die
-Infrastruktur in die Hände der "community" legt und so einem
-spezifischen Einfluss entzieht.
-
--   [ Dezentrale Websuche](http://www.yacy.de "wikilink")
--   [ diaspora pod](https://diasporafoundation.org "wikilink")
--   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin "wikilink")
 
 Netzneutralität
 ---------------
