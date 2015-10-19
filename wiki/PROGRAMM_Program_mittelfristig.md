@@ -1,4 +1,5 @@
-Mittelfristiger Programm Katalog
+**Mittelfristiger Programmkatalog** - Als mittelfristig sehen wir einen
+Zeitraum von etwa 10 Jahren an.
 
 Wahlsystem
 ----------
