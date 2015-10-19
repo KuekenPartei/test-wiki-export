@@ -1,6 +1,7 @@
 Der konkrete Programmkatalog.
 
 == Bildungspolitik ==
+siehe [[Bildung]]
 
 == Nachhaltigkeit ==
 siehe [[Nachhaltigkeit]]

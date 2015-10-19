@@ -3,6 +3,8 @@ Der konkrete Programmkatalog.
 Bildungspolitik
 ---------------
 
+siehe [Bildung](/wiki/Bildung "wikilink")
+
 Nachhaltigkeit
 --------------
 
