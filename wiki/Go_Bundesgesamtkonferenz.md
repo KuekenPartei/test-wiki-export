@@ -4,7 +4,7 @@ Allgemeines
 ### § 1 Teilnahme & Akkreditierung
 
 (1) Stimmberechtigte Mitglieder der Versammlung im Sinne dieser
-Geschäftsordnung sind alle akkreditierten Mitglieder der Piratenpartei.
+Geschäftsordnung sind alle akkreditierten Mitglieder der Partei.
 
 (2) Alle im Sinne der Satzung stimmberechtigten Mitglieder werden durch
 die dazu vom Bundesvorstand beauftragten Personen akkreditiert. Hierbei
