@@ -46,4 +46,17 @@ Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
 
+Edv
+---
+
+### Förderung von Offenen Standards
+
+### Förderung von Opensource Software
+
+Weite teile der edv Infrastruktur werden schon jetzt durch Open Source
+Software betrieben. Open Source ist ein Software Modell das sowohl das
+[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink") als auch die
+Eigenverantwortung und den Sinn für Gemeinschaftliches Handelns
+beinhaltet, es wird von uns ausdrücklich unterstützt.
+
 <Kategorie:Programm>
