@@ -17,8 +17,8 @@ Bürger\_innen heute eine Selbstverständlichkeit, mit Computer, Tablet,
 Smartphone und ähnlichem Gerät nahezu ständig mit dem Internet in
 Verbindung zu stehen.
 
-Beendigung der flächendeckenden Überwachung
--------------------------------------------
+Beendigung der flächendeckenden Überwachung und Datensouveränität
+-----------------------------------------------------------------
 
 Da eine Gesellschaft der Totalüberwachung jegliche Freiheit und jede
 freie Kommunikation zerstört, wirkt eine solche Gesellschaft auch sozial
