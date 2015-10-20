@@ -38,9 +38,12 @@ gegen den Grundsatz der Solidarität. Denn hier werden Menschen
 einkommensunabhängig zur Kasse gebeten, was sozial ungerecht ist. Zudem
 müssen öffentliche Aufgaben aus Steuern finanziert werden, nicht aus
 Eintritten zu öffentlichen Flächen und Räumen wie Parks, Wälder oder
-Strände. Wir treten ein für eine Art
+Strände. Wir treten ein für eine Umwandlung des
+[Betretungsrechts](https://de.wikipedia.org/wiki/Betretungsrecht_%28Erholung,_Sport%29)
+in eine Art
 [Jedermannsrecht](https://de.wikipedia.org/wiki/Jedermannsrecht) nach
-dem Vorbild etwa skandinavischer Länder.
+dem Vorbild etwa skandinavischer Länder. Dieses Jedermannsrecht soll
+Aufnahme in das Grundgesetz erhalten.
 
 #### Naherholungsgebiete
 
