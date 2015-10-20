@@ -24,4 +24,4 @@ Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
 
-<Kategorie:Planung> <Kategorie:inBearbeitung> \[\[Kategorie:Formalien\]
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
