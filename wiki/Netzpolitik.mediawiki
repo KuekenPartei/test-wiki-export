@@ -1,4 +1,4 @@
-'''Netzpolitik''' - stellt heute besondere Anforderungen an Gesellschaft und Politik. 
+'''Netzpolitik''' - stellt wie die [[Informationstechnologie]] heute besondere Anforderungen an Gesellschaft und Politik. 
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre um minderjährige [[Kinder der Gesellschaft]], die zu hohen Strafzahlungen genötigt wurden, um Geheimdienste, die moderne Technologien für eine Totalüberwachung einschließlich wirtschaftlicher Spionage nutzen.<ref>vgl. https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte</ref> Mit [https://de.wikipedia.org/wiki/PRISM PRISM] und [https://de.wikipedia.org/wiki/Tempora TEMPORA] erinnern wir hier nur an die Spitze des Eisbergs der [https://de.wikipedia.org/wiki/Globale_%C3%9Cberwachungs-_und_Spionageaff%C3%A4re globalen Überwachung].
 
