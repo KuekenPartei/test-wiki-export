@@ -9,6 +9,14 @@ selbstverständlich zu dem Recht jedes Menschen auf Bildung.[1] Dafür
 Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben
 kann und auslebt, muss unser Anliegen sein.
 
+Bildung ist daher auch ein wesentlicher Punkt in unserem
+[Programm](/wiki/Programm:Program_konkret "wikilink") sowie
+selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen
+Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit "wikilink").
+
+Schule
+------
+
 Im Bildungsbereich schneidet Deutschland seit vielen Jahren aber nicht
 mehr in den Spitzenpositionen ab, in denen ein rohstoffarmes Land sich
 aufhalten sollte, will es zukunftsfähig bleiben. Gerade in den
@@ -39,10 +47,8 @@ Schulverweildauer sollte hierbei keine Rolle spielen. Wir denken, dass
 wir es uns nicht leisten können, dieses aktivierbare Potential ungenutzt
 zu lassen.
 
-Bildung ist daher auch ein wesentlicher Punkt in unserem
-[Programm](/wiki/Programm:Program_konkret "wikilink") sowie
-selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen
-Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit "wikilink").
+Universität
+-----------
 
 Einzelnachweise
 ---------------
