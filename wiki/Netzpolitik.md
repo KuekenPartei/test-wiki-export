@@ -1,5 +1,6 @@
-**Netzpolitik** - stellt heute besondere Anforderungen an Gesellschaft
-und Politik.
+**Netzpolitik** - stellt wie die
+[Informationstechnologie](/wiki/Informationstechnologie "wikilink") heute
+besondere Anforderungen an Gesellschaft und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
