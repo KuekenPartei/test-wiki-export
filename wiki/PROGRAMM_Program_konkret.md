@@ -54,4 +54,14 @@ siehe [Informationstechnologie](/wiki/Informationstechnologie "wikilink")
 
 siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 
+Politik und Verwaltung
+----------------------
+
+Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz und
+Lobby Kontrolle. Wir schliessen uns hier den Forderungen von
+lobbycontrol an.
+
+-   \[<https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf>\|\]
+-   [1](https://lobbypedia.de/wiki/Nebeneink%C3%BCnfte_von_Abgeordneten)
+
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
