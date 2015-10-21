@@ -57,10 +57,14 @@ siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 Politik und Verwaltung
 ----------------------
 
-Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz und
-Lobby Kontrolle. Wir schliessen uns hier den Forderungen von
+Als Menschen Orientieren wir uns an anderen Menschen, das machen wir
+seit Geburt an. So orientieren wir uns auch an unseren Politikern. Es
+muss Politikern daher leicht gemacht werden sich Vorbildlich zu
+benehmen, um ein gutes Beispiel zu geben. Dafür braucht es strenge
+Regeln. Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz
+und Lobby Kontrolle. Wir schliessen uns hier den Forderungen von
 lobbycontrol an.
 
--   [LobbyControl-Positonspapier](https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf "wikilink")
+[LobbyControl-Positonspapier.pdf](https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf)
 
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
