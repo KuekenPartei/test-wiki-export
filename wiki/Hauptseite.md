@@ -35,6 +35,9 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ
     MediaWiki-FAQ\]
 
+##### notes
+
+<references />
 [Kategorie:InBearbeitung](/wiki/Kategorie:InBearbeitung "wikilink")
 
 [1] [Bernard Stiegler](https://de.wikipedia.org/wiki/Bernard_Stiegler)
