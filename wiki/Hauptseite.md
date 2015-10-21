@@ -15,8 +15,8 @@
 
 „Wenn Mündigkeit darin besteht, selbst zu denken, existiert dieses
 Denken nur als Denken vor einem Lesenden Publikum (die einzig mögliche
-Grundlage für eine dem Demokratische Mündigkeit), als eine Zirkulation
-des Denkens, das sich stets selbst übersteigt, das ein Denken für den
+Grundlage für eine Demokratische Mündigkeit), als eine Zirkulation des
+Denkens, das sich stets selbst übersteigt, das ein Denken für den
 anderen und vom anderen her ist. Insofern sind Denken und Intelligenz
 immer schon kollektiv: ein Individationsprozeß, der einer
 metastabilisierenden Ko-Individuation des Transindividuellen entspricht,
