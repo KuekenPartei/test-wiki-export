@@ -1,5 +1,6 @@
 **Konkreter Programmkatalog** - Unter diesem Katalog verstehen wir ein
-Programm, dass ...
+Programm, dass von **jeder Partei** *gerade jetzt* umgesetzt werden
+könnte.
 
 Bildungspolitik
 ---------------
@@ -22,8 +23,8 @@ Brotmesser so stabil gebaut ist, dass man es vererben kann.
 
 [Geplante
 Obsoleszenz](https://de.wikipedia.org/wiki/Geplante_Obsoleszenz)
-dagegen, die abslichtlich die Lebensdauer eines Produktes verringert,
-ist geradezu absurd und nicht nur Betrug am Kunden sondern auch an den
+dagegen, die absichtlich die Lebensdauer eines Produktes verringert, ist
+geradezu absurd und nicht nur Betrug am Kunden sondern auch an den
 nachkommenden Generationen. Wer mit geplanter Obsoleszenz arbeitet,
 arbeitet daher vorsätzlich verantwortungslos. Diese Art der
 Verantwortungslosigkeit, die geeignet ist, anderen Menschen zu Schaden,
@@ -46,6 +47,8 @@ Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 ### Unterstützung von Kindern in ALG II-abhängigen Lebensgemeinschaften
 
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
+
+### Sozialer Wohnungsbau
 
 Informationstechnologie
 -----------------------
