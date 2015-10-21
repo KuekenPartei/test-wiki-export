@@ -46,6 +46,34 @@ auch gerne aufgeben.
 ([Diskussion](/wiki/Benutzer_Diskussion:Pat "wikilink")) 01:03, 20. Okt. 2015
 (CEST)
 
+Ich dachte das so ungefähr, wie du das ahnst, das Konkrete sollten
+direkt umsetzbare Programm Punkte sein. Das was man tun könnte wäre man
+die Regierung.
+
+Die Mittelfristigen Forderungen stellen eine Gedankliche Pinnwand dar an
+der wir die Änderungen skizzieren von denen wir glauben das sind die
+Richtigen Schritte zu unternehmen die Gesellschaft umzuformen. Der
+Zeithorizont sollte 10-50 Jahre beinhalten.
+
+Als Beispiel wäre das Kriegsgerät:
+
+Kurzfristig: Drosselung von Export bis zu Export Verbot. Mittelfistig:
+Verzicht auf Kriegsgeräts Poduktion
+
+Bei den langfristigen Programm denke ich sehr langfristig, bin noch
+nicht dazu gekommen es zu exemplarisieren. Mein erstes Exemplar einer
+solchen Forderung wäre etwa: Langfristig, das heißt sehr lange von jetzt
+an, aber nicht am Ende der Zeit, müssen wir Weltraumkolonien
+konstruieren. In 800 Millionen Jahren bewegt sich die Erde aus der
+\[<https://de.wikipedia.org/wiki/Habitable_Zone>\|"Habitable Zone" der
+Sonne. Bis dahin müssen wir auswandern.
+
+Die langfristigen Programm Punkte sind was für die Star Treckies, wir
+brauchen ja Sachen mit denen wir charmant anecken.
+[Urs](/wiki/Benutzer:Urs "wikilink")
+([Diskussion](/wiki/Benutzer_Diskussion:Urs "wikilink")) 20:03, 21. Okt. 2015
+(CEST)
+
 Open Source Software
 --------------------
 
