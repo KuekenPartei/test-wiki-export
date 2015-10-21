@@ -31,6 +31,8 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wi
 * [[Hilfe:Basic]]
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki-FAQ]
 
+===== notes =====
+<references />
 
 
 [[Kategorie:InBearbeitung]]
