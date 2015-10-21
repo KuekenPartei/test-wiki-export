@@ -39,4 +39,4 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 
 [1] [Bernard Stiegler](https://de.wikipedia.org/wiki/Bernard_Stiegler)
 Die Logik der Sorge - Verlust der Aufklärung durch Technik und Medien.
-suhrkamp 2008 ISBN: 978-3-518-26006-7 S. 57
+suhrkamp 2008 ISBN 978-3-518-26006-7 S. 57
