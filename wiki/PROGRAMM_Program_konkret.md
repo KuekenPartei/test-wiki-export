@@ -70,4 +70,9 @@ lobbycontrol an.
 
 [LobbyControl-Positonspapier.pdf](https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf)
 
+Einschränkung von Werbung die auf Kinder zielt
+----------------------------------------------
+
+Marketing
+
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
