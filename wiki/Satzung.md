@@ -9,7 +9,7 @@ Abschnitt A: Grundlagen
 <span id="A.1.1">(1)</span> KUKeN ist eine Partei im Sinne des
 Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
 
-<span id="A.1.2">(2)</span> Die xxx führt einen Namen und eine
+<span id="A.1.2">(2)</span> KUKeN führt einen Namen und eine
 Kurzbezeichnung. Der Name lautet: Kreis für Umwelt, Erwachsene, Kinder
 und ernsthafte Nachhaltigkeit Die offizielle Abkürzung des Parteinamens
 lautet: KUKeN Landesverbände führen den Namen KUKeN verbunden mit dem
@@ -22,24 +22,24 @@ Bundesrepublik Deutschland.
 
 ### § 2 - Mitgliedschaft
 
-<span id="A.2.1">(1)</span> Mitglied der xxx kann jeder Deutsche im
+<span id="A.2.1">(1)</span> Mitglied des KUKeN kann jeder Deutsche im
 Sinne des Grundgesetzes und jede Person mit Wohnsitz in Deutschland
 werden, die das 16. Lebensjahr vollendet hat und die Grundsätze sowie
 die Satzung der xxx anerkennt.
 
-<span id="A.2.2">(2)</span> Mitglied der xxx können nur natürliche
+<span id="A.2.2">(2)</span> Mitglied des KUKeN können nur natürliche
 Personen sein. Die Bundespartei führt ein zentrales
 Mitgliederverzeichnis.
 
-<span id="A.2.3">(3)</span> Die gleichzeitige Mitgliedschaft in der xxx
+<span id="A.2.3">(3)</span> Die gleichzeitige Mitgliedschaft im KUKeN
 und bei einer anderen (mit ihr im Wettbewerb stehenden) Partei oder
 Wählergruppe ist nicht ausgeschlossen. Die Mitgliedschaft in einer
-Organisation oder Vereinigung, deren Zielsetzung den Zielen der xxx
+Organisation oder Vereinigung, deren Zielsetzung den Zielen des KUKeN
 widerspricht, ist nicht zulässig.
 
 ### § 3 - Erwerb der Mitgliedschaft
 
-<span id="A.3.1">(1)</span> Die Mitgliedschaft in der xxx wird auf
+<span id="A.3.1">(1)</span> Die Mitgliedschaft im KUKeN wird auf
 Grundlage dieser Satzung erworben. Die Mitgliedschaft wird zunächst
 unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer
 Gliederungen wird
@@ -97,14 +97,14 @@ Mitgliedsausweis.
 
 <span id="A.4.1">(1)</span> Jeder Mitglied hat das Recht und die
 Pflicht, im Rahmen dieser Satzung und der Satzung seines Landesverbandes
-die Zwecke der xxx zu fördern und sich an der politischen und
-organisatorischen Arbeit der xxx zu beteiligen. Jeder Mitglied hat das
+die Zwecke des KUKeN zu fördern und sich an der politischen und
+organisatorischen Arbeit des KUKeN zu beteiligen. Jeder Mitglied hat das
 Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im
 Rahmen der Satzung teilzunehmen. Ein Mitglied kann nur in den Vorstand
 eines Gebietsverbandes gewählt werden, dessen Mitglied er ist (Passives
 Wahlrecht). Eine Ämterkumulation ist nur in den Fällen zulässig, in
 denen die Mitgliederversammlung der Gliederung dies für den konkreten
-Einzelfall explizit beschließt.
+Einzelfall explizit beschliesst.
 
 <span id="A.4.2">(2)</span> Interna können per mehrheitlichem Beschluss
 als Verschlusssache deklariert werden. Über Verschlusssachen ist
@@ -135,42 +135,42 @@ dem Ausschluss aus der Partei.
 Mitgliedsausweis zurückzugeben. Ein Anspruch auf Rückzahlung von
 Beiträgen besteht nicht.
 
-### § 6 - Ordnungsmaßnahmen
+### § 6 - Ordnungsmassnahmen
 
-<span id="A.6.1">(1)</span> Verstößt ein Mitglied gegen die Satzung oder
-gegen Grundsätze oder Ordnung der xxx und fügt ihr damit Schaden zu, so
-kann der Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung,
-Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein
-Parteiamt zu bekleiden, Ausschluss aus der xxx. Der Vorstand muss dem
-Mitglied vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren.
-Der Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen
-zu überstellen.
+<span id="A.6.1">(1)</span> Verstösst ein Mitglied gegen die Satzung
+oder gegen Grundsätze oder Ordnung des KUKeN und fügt ihr damit Schaden
+zu, so kann der Bundesvorstand folgende Ordnungsmassnahmen anordnen:
+Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der
+Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus dem KUKeN. Der
+Vorstand muss dem Mitglied vor dem Beschluss der Ordnungsmassnahme eine
+Anhörung gewähren. Der Beschluss ist dem Mitglied in Schriftform unter
+Angabe von Gründen zu überstellen.
 
 <span id="A.6.2">(2)</span> Ein Mitglied kann nur dann ausgeschlossen
 werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die
-Grundsätze oder die Ordnung der xxx verstößt und ihr damit schweren
+Grundsätze oder die Ordnung des KUKeN verstösst und ihr damit schweren
 Schaden zufügt. Der Ausschluss wird vom Bundesvorstand beim zuständigen
 Schiedsgericht beantragt. In dringenden und schwerwiegenden Fällen, die
 sofortiges Eingreifen erfordern, kann der Vorstand das Mitglied von der
 Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts
-ausschließen.
+ausschliessen.
 
 <span id="A.6.3">(3)</span> Untergliederungen können in ihren Satzungen
-eigene Regelungen zu Ordnungsmaßnahmen treffen. Auch Ordnungsmaßnahmen
+eigene Regelungen zu Ordnungsmassnahmen treffen. Auch Ordnungsmassnahmen
 einer Untergliederung wirken für die Gesamtpartei.
 
 <span id="A.6.4">(4)</span> Die Mitgliedschaft ruht im Falle eines
 Ausschlusses bis zum Abschluss eines möglichen Berufungsverfahrens.
 
-<span id="A.6.5">(5)</span> Die parlamentarischen Gruppen der xxx sind
+<span id="A.6.5">(5)</span> Die parlamentarischen Gruppen des KUKeN sind
 gehalten, einen rechtskräftig ausgeschlossenen oder einen ausgetretenen
-Mitglieder aus ihrer Gruppe auszuschließen.
+Mitglieder aus ihrer Gruppe auszuschliessen.
 
-<span id="A.6.6">(6)</span> Verstößt ein Gebietsverband schwerwiegend
-gegen die Grundsätze oder die Ordnung der xxx sind folgende
-Ordnungsmaßnahmen gegen nachgeordnete Gebietsverbände sind möglich:
+<span id="A.6.6">(6)</span> Verstösst ein Gebietsverband schwerwiegend
+gegen die Grundsätze oder die Ordnung des KUKeN sind folgende
+Ordnungsmassnahmen gegen nachgeordnete Gebietsverbände sind möglich:
 Auflösung, Ausschluss, Amtsenthebung des Vorstandes nachgeordneter
-Gebietsverbände. Als schwerwiegender Verstoß gegen die Ordnung und die
+Gebietsverbände. Als schwerwiegender Verstoss gegen die Ordnung und die
 Grundsätze der Partei ist es zu werten, wenn die Gebietsverbände die
 Bestimmungen der Satzung beharrlich missachten, Beschlüsse
 übergeordneter Parteiorgane nicht durchführen oder in wesentlichen
@@ -208,7 +208,7 @@ Bundesverband und die Landesverbände.
 ### § 8 - Bundespartei und Landesverbände
 
 <span id="A.8.1">(1)</span> Die Landesverbände sind verpflichtet, alles
-zu tun, um die Einheit der xxx zu sichern, sowie alles zu unterlassen,
+zu tun, um die Einheit des KUKeN zu sichern, sowie alles zu unterlassen,
 was sich gegen die Grundsätze, die Ordnung oder das Ansehen der xxx
 richtet. Sie haben auch ihre Organe zu einer gleichen Verhaltensweise
 anzuhalten.
@@ -241,7 +241,7 @@ und optional dessen Stellvertreter, dem Schatzmeister und optional
 dessen Stellvertreter, und dem Generalsekretär und dessen erstem, und
 optional zweitem Stellvertreter. Die Vorsitzenden und politischen
 Geschäftsführer sind für die politische Leitung und politische
-Außenvertretung, die Schatzmeister für die Finanzangelegenheiten, und
+Aussenvertretung, die Schatzmeister für die Finanzangelegenheiten, und
 die Generalsekretäre für die innerparteiliche Organisation und
 Verwaltung zuständig. Scheidet ein Amtsträger aus dem Vorstand aus,
 übernimmt dessen Stellvertreter sein Amt.
