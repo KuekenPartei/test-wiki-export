@@ -6,17 +6,18 @@ Abschnitt A: Grundlagen
 
 ### § 1 - Name, Sitz und Tätigkeitsgebiet
 
-<span id="A.1.1">(1)</span> Die xxx ist eine Partei im Sinne des
+<span id="A.1.1">(1)</span> KUKeN ist eine Partei im Sinne des
 Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
 
 <span id="A.1.2">(2)</span> Die xxx führt einen Namen und eine
-Kurzbezeichnung. Der Name lautet: xxx Die offizielle Abkürzung des
-Parteinamens lautet: XXX Landesverbände führen den Namen xxx verbunden
-mit dem Namen des jeweiligen Bundeslandes.
+Kurzbezeichnung. Der Name lautet: Kreis für Umwelt, Erwachsene, Kinder
+und ernsthafte Nachhaltigkeit Die offizielle Abkürzung des Parteinamens
+lautet: KUKeN Landesverbände führen den Namen KUKeN verbunden mit dem
+Namen des jeweiligen Bundeslandes.
 
 <span id="A.1.3">(3)</span> Der Sitz der Partei ist Berlin.
 
-<span id="A.1.4">(4)</span> Das Tätigkeitsgebiet der xxx ist die
+<span id="A.1.4">(4)</span> Das Tätigkeitsgebiet des KUKeN ist die
 Bundesrepublik Deutschland.
 
 ### § 2 - Mitgliedschaft
