@@ -1,12 +1,5 @@
 '''Kinder - Verantwortung - Zukunft'''
 
-{{Box-hellblau|right|
-[[Programm:Main]]
-<br />
-*[[Programm:Program_konkret]]
-*[[Programm:Program_mittelfristig]]
-*[[Programm:Program_langfristig]]
-}}
 
 <big>'''''KUEKeN''' Kreis für Umwelt, Erwachsene, Kinder und ernsthafte [[Nachhaltigkeit]]''
 </big>
