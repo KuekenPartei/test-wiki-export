@@ -18,7 +18,8 @@ Landesverbände führen den Namen KUKeN verbunden mit dem Namen des jeweiligen B
 Der Sitz der Partei ist Berlin.
 
 <span id="A.1.4">(4)</span>
-Der Zweck der Partei ist durch die [[Grundbestimmungen]] markiert. 
+Der Zweck der Partei ist durch die [[Grundbestimmungen]] markiert.
+ 
 <span id="A.1.5">(5)</span>
 Das Tätigkeitsgebiet des KUKeN ist die Bundesrepublik Deutschland.
 
