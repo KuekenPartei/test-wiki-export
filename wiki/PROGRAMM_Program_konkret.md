@@ -73,6 +73,6 @@ lobbycontrol an.
 Einschränkung von Werbung die auf Kinder zielt
 ----------------------------------------------
 
-Marketing
+[Marketing](/wiki/Marketing "wikilink")
 
 <Kategorie:Programm>
