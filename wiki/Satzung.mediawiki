@@ -3,7 +3,7 @@ __TOC__
 == Abschnitt A: Grundlagen ==
 
 
-=== § 1 - Name, Sitz und Tätigkeitsgebiet ===
+=== § 1 - Name, Sitz, Zweck und Tätigkeitsgebiet ===
 
 <span id="A.1.1">(1)</span>
 KUKeN ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
@@ -18,6 +18,8 @@ Landesverbände führen den Namen KUKeN verbunden mit dem Namen des jeweiligen B
 Der Sitz der Partei ist Berlin.
 
 <span id="A.1.4">(4)</span>
+Der Zweck der Partei ist durch die [[Grundbestimmungen]] markiert. 
+<span id="A.1.5">(5)</span>
 Das Tätigkeitsgebiet des KUKeN ist die Bundesrepublik Deutschland.
 
 === § 2 - Mitgliedschaft ===
