@@ -34,6 +34,13 @@ Daher müssen wir eine Politik betreiben, die ein Bewusstsein für
 nachhaltiges Konsumverhalten und Anreize für langlebige Produkte in der
 Herstellung schafft.
 
+### Wiederverwendung
+
+Wir fördern und initiieren sog. “reuse” Läden, in denen es möglich ist
+Dinge, die für den eigenen Gebrauch nicht mehr funktional sind, einfach
+ab zu geben, und in denen man sich von eben diesen Gegenständen bedienen
+kann.
+
 Kinder und Familie
 ------------------
 
@@ -49,6 +56,8 @@ Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
 
 ### Sozialer Wohnungsbau
+
+Massiver Ausbau des SW.
 
 Informationstechnologie
 -----------------------
@@ -69,6 +78,13 @@ und Lobby Kontrolle. Wir schliessen uns hier den Forderungen von
 lobbycontrol an.
 
 [LobbyControl-Positonspapier.pdf](https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf)
+
+### Dauerhaftes einrichten einer Enquete-Kommission Wachstum, Wohlstand, Lebensqualität
+
+### Erhebung der Lebensqualität alle 2 Jahre
+
+Es werden 200 Teilnehmer gelost.(Bzw. ist der Schlüssel komplizierter
+und sollte sich ~ an die Wahlkeisvorgaben halten)
 
 Einschränkung von Werbung die auf Kinder zielt
 ----------------------------------------------
