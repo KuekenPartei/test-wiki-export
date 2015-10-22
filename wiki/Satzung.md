@@ -19,6 +19,7 @@ Namen des jeweiligen Bundeslandes.
 
 <span id="A.1.4">(4)</span> Der Zweck der Partei ist durch die
 [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") markiert.
+
 <span id="A.1.5">(5)</span> Das Tätigkeitsgebiet des KUKeN ist die
 Bundesrepublik Deutschland.
 
