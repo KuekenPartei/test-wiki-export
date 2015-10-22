@@ -84,7 +84,9 @@ lobbycontrol an.
 ### Erhebung der Lebensqualität alle 2 Jahre
 
 Es werden 200 Teilnehmer gelost.(Bzw. ist der Schlüssel komplizierter
-und sollte sich ~ an die Wahlkeisvorgaben halten)
+und sollte sich ~ an die Wahlkeisvorgaben halten) Damit verbunden ist
+ein offizielles Zeugnis für die Regierung. So gibt es immer ein zwischen
+Zeugnis und ein Abschluss Zeugnis.
 
 Einschränkung von Werbung die auf Kinder zielt
 ----------------------------------------------
