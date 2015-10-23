@@ -194,7 +194,7 @@ oder beantragten auch eine mildere Ordnungsmaßnahme aussprechen.
 
 ### § 7 - Gliederung
 
-<span id="A.7.1">(1)</span> Die xxx gliedert sich in Landesverbände. Die
+<span id="A.7.1">(1)</span> KUEKeN gliedert sich in Landesverbände. Die
 Landesverbände können nach ihren örtlichen Bedürfnissen
 Untergliederungen schaffen. Innerhalb der staatsrechtlichen Grenzen
 eines Landes gibt es nur einen Landesverband.
@@ -207,6 +207,13 @@ Kreise, kreisfreien Städte und Gemeinden sind.
 <span id="A.7.3">(3)</span> Gebietsverbände und Auslandsgruppen sollen
 sich nicht wirtschaftlich betätigen, ausgenommen hiervon sind der
 Bundesverband und die Landesverbände.
+
+<span id="A.7.4">(4)</span> Die Orts-, Kreis-, Regional- und
+Landesverbände haben Programm-, Satzungs-, Finanz- und
+Personalautono­mie auf ihrer jeweiligen Ebene. Entscheidende Organe sind
+die jeweiligen Mitgliederversammlungen. Die Ent­scheidungen der
+jeweiligen Ebene dürfen den programmatischen und den basisdemokratischen
+Grundsätzen und Zielen der Partei nicht widersprechen.
 
 ### § 8 - Bundespartei und Landesverbände
 
