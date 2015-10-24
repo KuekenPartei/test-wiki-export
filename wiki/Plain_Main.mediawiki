@@ -1,5 +1,17 @@
 Die Programm Übersichtsseite.
 
+Das Programm des KUKeN unterteilt sich in drei Abschnitte, die primär Zeitlich Orientiert sind.
+
+Im [[Programm:Program_konkret| Konkreten Programmkatalog]] sind die auf die Gegenwart bezogenen Änderungen. Sie sind ohne Voraussetzungen von jeder Partei gerade jetzt umsetzbar. Sie erfordern nur Mut, Einsicht, Besserungswilligkeit. 
+
+Änderungen deren Voraussetzungen nicht gegeben sind sind [[Programm:Program_mittelfristig| Mittelfristige Änderungen]], sie sind Planbar aber bedürfen des Konkreten Programmkataloges um die Voraussetzungen herzustellen. 
+
+Das [[Programm:Program_langfristig| Langfristige]], es ist der Horizont, an dem sich Dinge andeuten und wir sie "in die acht" nehmen.
+<br />
+
+
+'''Kategorien im Programm:'''
+
 <categorytree >Programm</categorytree>
 
 
