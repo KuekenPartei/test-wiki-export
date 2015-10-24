@@ -18,5 +18,3 @@ Sozial
     Grundeinkommen](/wiki/Bedingungsloses_Grundeinkommen "wikilink") (BGE)
 
 <Kategorie:Programm>
-
-<accesscontrol>Administrators,urs,Basicuser</accesscontrol>
