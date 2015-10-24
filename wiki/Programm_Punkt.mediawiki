@@ -1,0 +1,13 @@
+{{Programm-Punkt
+|Name=Stärkung des Sozialen Wohnungsbaus
+|Text=
+Der Mietpreis hängt an der Verfügbarkeit von Wohnraum. Es ist Aufgabe der Gesellschaft günstigen Wohnraum für alle bereit zu stellen. Im Wohnraum entfaltet sich das Heim.
+
+|Begründung=
+Gerade Familien mit Kindern müssen mehr Geld im Verhältnis zu ihrem Einkommen für den Wohnraum ausgeben.
+
+Eine Günstige Bereitstellung von Staatlich geförderten Wohnraum ist geboten.
+
+|Gliederung=Bund
+|Kategorien=Sozialpolitik| Wirtschaftspolitik
+}}
