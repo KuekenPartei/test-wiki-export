@@ -1,6 +1,6 @@
-'''Konkreter Programmkatalog''' - Unter diesem Katalog verstehen wir ein Programm, dass von '''jeder Partei''' ''gerade jetzt'' umgesetzt werden könnte. 
-
 {{ProgrammNavigation}}
+
+'''Konkreter Programmkatalog''' - Unter diesem Katalog verstehen wir ein Programm, dass von '''jeder Partei''' ''gerade jetzt'' umgesetzt werden könnte. 
 
 == Bildungspolitik ==
 siehe [[Bildung]]
