@@ -23,5 +23,3 @@ siehe [[Wahlsystem]]
 *[[Bedingungsloses Grundeinkommen|Bedingungsloses Grundeinkommen]] (BGE)
 
 [[Kategorie:Programm]]
-
-<accesscontrol>Administrators,urs,Basicuser</accesscontrol>
