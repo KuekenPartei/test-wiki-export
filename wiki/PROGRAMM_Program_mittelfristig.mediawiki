@@ -1,13 +1,6 @@
 '''Mittelfristiger Programmkatalog''' - Als mittelfristig sehen wir einen Zeitraum von etwa 10 Jahren an.
 
-{{Box-hellblau|
-right|
-'''Programm Navigation'''
-*[[Programm:Main]]
-**[[Programm:Program_konkret]]
-**[[Programm:Program_mittelfristig]]
-**[[Programm:Program_langfristig]]
-}}
+{{ProgrammNavigation}}
 
 __TOC__
 
