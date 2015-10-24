@@ -1,5 +1,14 @@
 '''Konkreter Programmkatalog''' - Unter diesem Katalog verstehen wir ein Programm, dass von '''jeder Partei''' ''gerade jetzt'' umgesetzt werden könnte. 
 
+{{Box-hellblau|
+right|
+'''Programm Navigation'''
+*[[Programm:Main]]
+**[[Programm:Program_konkret]]
+**[[Programm:Program_mittelfristig]]
+**[[Programm:Program_langfristig]]
+}}
+
 == Bildungspolitik ==
 siehe [[Bildung]]
 
