@@ -16,10 +16,6 @@ Voraussetzungen herzustellen.
 Das [ Langfristige](/wiki/Programm:Program_langfristig "wikilink"), es ist der
 Horizont, an dem sich Dinge andeuten und wir sie "in die acht" nehmen.  
 
-**Kategorien im Programm:**
-
-<categorytree >Programm</categorytree>
-
 Seiten:
 -------
 
