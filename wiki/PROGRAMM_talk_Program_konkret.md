@@ -84,3 +84,19 @@ verfehlt](http://www.gnu.org/philosophy/open-source-misses-the-point.de.html).
 --[Pat](/wiki/Benutzer:Pat "wikilink")
 ([Diskussion](/wiki/Benutzer_Diskussion:Pat "wikilink")) 00:46, 20. Okt. 2015
 (CEST)
+
+Da hast du sehr gut aufgepasst und recht, Opensource ist ein schwammiger
+Begriff und der
+[Stallman](https://de.wikipedia.org/wiki/Richard_Stallman "wikilink")
+hat schon recht wenn er sagt nur "Freie" Software ist richtig. Und er
+hat wirklich recht, wenn man genau und in längeren Zeiträumen denkt, nur
+Freie Software ermöglicht das dieser "Schatz" - so kann man eine
+Software Kategorisieren, schafft sie Reichtum, Zeit Reichtum - auf ewig
+der Allgemeinheit zur Verfügung steht. Es lohnt sich dem Stallman mal zu
+zu schauen/hören.
+
+Wir können den Unterschied ruhig darstellen, und du hast recht wenn wir
+noch eher Freie Software meinen. Opensource ist geschmeidig, das war der
+Grund warum ich den Begriff gewählt habe. [Urs](/wiki/Benutzer:Urs "wikilink")
+([Diskussion](/wiki/Benutzer_Diskussion:Urs "wikilink")) 10:40, 24. Okt. 2015
+(CEST)
