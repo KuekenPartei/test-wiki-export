@@ -55,9 +55,17 @@ Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 
 Kindergeld kein Einkommen der Kinder bzw. Bedarfsgemeinschaft.
 
+Soziales
+--------
+
 ### Sozialer Wohnungsbau
 
 Massiver Ausbau des SW.
+
+### Öffnung des öffentlichen Raumes
+
+Der öffentliche Raum muss als Begenungsstätte für Menschen wieder
+hergestellt werden.
 
 Informationstechnologie
 -----------------------
