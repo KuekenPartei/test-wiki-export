@@ -86,10 +86,10 @@ verfehlt](http://www.gnu.org/philosophy/open-source-misses-the-point.de.html).
 (CEST)
 
 Da hast du sehr gut aufgepasst und recht, Opensource ist ein schwammiger
-Begriff und der
-[Stallman](https://de.wikipedia.org/wiki/Richard_Stallman "wikilink")
-hat schon recht wenn er sagt nur “Freie” Software ist richtig. Und er
-hat wirklich recht, wenn man genau und in längeren Zeiträumen denkt, nur
+Begriff und der [
+Stallman](https://de.wikipedia.org/wiki/Richard_Stallman "wikilink") hat
+schon recht wenn er sagt nur “Freie” Software ist richtig. Und er hat
+wirklich recht, wenn man genau und in längeren Zeiträumen denkt, nur
 Freie Software ermöglicht das dieser “Schatz” - so kann man eine
 Software Kategorisieren, schafft sie Reichtum, Zeit Reichtum - auf ewig
 der Allgemeinheit zur Verfügung steht. Es lohnt sich dem Stallman mal zu
