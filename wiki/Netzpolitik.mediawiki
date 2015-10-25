@@ -8,6 +8,13 @@ Während andere sich hier auf Neuland wähnen, ist es für viele Bürger_innen h
 Da eine Gesellschaft der Totalüberwachung jegliche Freiheit und jede freie Kommunikation zerstört, wirkt eine solche Gesellschaft auch sozial erodierend. Ganz nebenbei verstößt eine solche Überwachung auch gegen die universellen Menschenrechte sowie gegen die im Grundgesetz verbrieften Grundrechte. 
 Nicht nur dem Staat auch privaten Unternehmen müssen in ihrem Datenhunger Schranken gesetzt werden. Der [[Datenschutz]] muss ernst genommen und in Richtung einer [[Datensouveränität]] weiterentwickelt werden.<ref>vgl. http://www.heise.de/newsticker/meldung/Verfassungsrichter-eine-private-ueberwachungsgesellschaft-internationalen-Ausmasses-192205.html</ref>
 
+So unterstützen wir peer to peer Netzwerke und Projekte die die Infrastruktur in die Hände der "community" legt und so einem spezifischen Einfluss entzieht.
+
+* [[http://www.yacy.de| Dezentrale Websuche]]
+* [[https://diasporafoundation.org| diaspora pod]]
+* [[https://de.wikipedia.org/wiki/Bitcoin| Bitcoin]]
+
+
 == Netzneutralität ==
 Wir treten ein für Netzneutralität.
 
