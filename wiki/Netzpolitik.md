@@ -30,6 +30,14 @@ müssen in ihrem Datenhunger Schranken gesetzt werden. Der
 Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
 weiterentwickelt werden.[2]
 
+So unterstützen wir peer to peer Netzwerke und Projekte die die
+Infrastruktur in die Hände der "community" legt und so einem
+spezifischen Einfluss entzieht.
+
+-   [ Dezentrale Websuche](http://www.yacy.de "wikilink")
+-   [ diaspora pod](https://diasporafoundation.org "wikilink")
+-   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin "wikilink")
+
 Netzneutralität
 ---------------
 
