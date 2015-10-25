@@ -44,6 +44,14 @@ auf Meinungs- und Informationsfreiheit soll durchgesetzt werden, wobei
 Beleidigungen, Hetzparolen u.ä. weiterhin keinen Platz im öffentlichen
 Raum haben dürfen.
 
+So unterstützen wir peer to peer Netzwerke und Projekte die die
+Infrastruktur in die Hände der “community” legt und so einem
+spezifischen Einfluss entzieht.
+
+-   [ Dezentrale Websuche](http://www.yacy.de "wikilink")
+-   [ diaspora pod](https://diasporafoundation.org "wikilink")
+-   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin "wikilink")
+
 Einzelnachweise
 ---------------
 
