@@ -1,5 +1,10 @@
 Eine grobe Übersicht über die Planungsphase.
 
+Planungs Treffen
+----------------
+
+-   [ Berlin](/wiki/Planungstreffen_Berlin "wikilink")
+
 Erster Schritt: Gründung
 ------------------------
 
