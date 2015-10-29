@@ -44,6 +44,12 @@ Kinder, die Vorfahren und Nachkommen, die Generationen, zwischen denen
 der Geist waltet – *pneuma, ruah, spiritus* -, miteinander verbindet.“
 [1]
 
+Planungstreffen
+---------------
+
+In Berlin ist jeden zweiten Mittwoch [
+Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
+
 Starthilfen
 -----------
 
