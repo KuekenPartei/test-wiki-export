@@ -91,6 +91,29 @@ Teilhabe](gesellschaftliche_Teilhabe "wikilink") ermöglicht, können
 Kinder kulturangemessen aufwachsen und zu mündigen und
 gesellschaftkundigen Menschen heranreifen.
 
+Lebenszeit als Schatz
+---------------------
+
+Das die Lebenszeit ein entscheidender Wert ist folgt aus aus der
+Feststellung H.J. das das Leben einen Zweck für das Leben darstellt. Die
+Zeit unseres Lebens ist unwiederbringlich und vergeht, darum ist sie ein
+Schatz. Ein schatz den es zu Teilen gilt, mit den Kindern, mit den
+Menschen, den Lieben. Als Primaten sind wir ein Wesen der Gemeinschaft,
+und Lebenszeit verbracht mit anderen Menschen ist ein Geschenk. Wir
+müssen diesen Schatz wieder heben, ist er vergraben unter dem Konsum der
+uns dazu bringt Lebenszeit für Geld zu tauschen, stattdessen müssen wir
+weniger Geld ausgeben, weniger Produkte verbrauchen, nicht nur aus
+Nachhaltigkeitsgründen, wenn wir weniger Geld ausgeben, müssen wir
+weniger Geld verdienen und haben mehr freie Zeit.
+
+Kooperation statt Wetbewerb
+---------------------------
+
+Der Wettbewerb ist ein Feind der Gemeinschaft, er fördert die
+Vereinzelung des Menschen und stört die natürliche Offenheit und die
+kooperativen Fähigkeiten der Menschen. Damit macht er alle Menschen
+unglücklich, denn wir sind ein Wesen der Gemeinschaft.
+
 Bekenntnis zu den universellen Menschenrechten
 ----------------------------------------------
 
