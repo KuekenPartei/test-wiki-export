@@ -95,16 +95,16 @@ Lebenszeit als Schatz
 ---------------------
 
 Das die Lebenszeit ein entscheidender Wert ist folgt aus aus der
-Feststellung H.J. das das Leben einen Zweck für das Leben darstellt. Die
-Zeit unseres Lebens ist unwiederbringlich und vergeht, darum ist sie ein
-Schatz. Ein schatz den es zu Teilen gilt, mit den Kindern, mit den
-Menschen, den Lieben. Als Primaten sind wir ein Wesen der Gemeinschaft,
-und Lebenszeit verbracht mit anderen Menschen ist ein Geschenk. Wir
-müssen diesen Schatz wieder heben, ist er vergraben unter dem Konsum der
-uns dazu bringt Lebenszeit für Geld zu tauschen, stattdessen müssen wir
-weniger Geld ausgeben, weniger Produkte verbrauchen, nicht nur aus
-Nachhaltigkeitsgründen, wenn wir weniger Geld ausgeben, müssen wir
-weniger Geld verdienen und haben mehr freie Zeit.
+Feststellung Hans Jonas das das Leben einen Zweck für das Leben
+darstellt[2]. Die Zeit unseres Lebens ist unwiederbringlich und vergeht,
+darum ist sie ein Schatz. Ein schatz den es zu Teilen gilt, mit den
+Kindern, mit den Menschen, den Lieben. Als Primaten sind wir ein Wesen
+der Gemeinschaft, und Lebenszeit verbracht mit anderen Menschen ist ein
+Geschenk. Wir müssen diesen Schatz wieder heben, ist er vergraben unter
+dem Konsum der uns dazu bringt Lebenszeit für Geld zu tauschen,
+stattdessen müssen wir weniger Geld ausgeben, weniger Produkte
+verbrauchen, nicht nur aus Nachhaltigkeitsgründen, wenn wir weniger Geld
+ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
 Kooperation statt Wetbewerb
 ---------------------------
@@ -143,3 +143,8 @@ Einzelnachweise
 Verantwortung: Versuch einer Ethik für die technologische Zivilisation.
 Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN
 3-518-39992-6. S.85
+
+[2] [Hans Jonas](https://de.wikipedia.org/wiki/Hans_Jonas): Das Prinzip
+Verantwortung: Versuch einer Ethik für die technologische Zivilisation.
+Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN
+3-518-39992-6. S.142
