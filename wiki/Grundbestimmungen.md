@@ -97,13 +97,13 @@ Lebenszeit als Schatz
 Das die Lebenszeit ein entscheidender Wert ist, folgt aus aus der
 Feststellung Hans Jonas, wonach das Leben einen Zweck für das Leben
 darstellt[2]. Die Zeit unseres Lebens ist unwiederbringlich und vergeht,
-darum ist sie ein Schatz. Ein schatz den es zu Teilen gilt, mit den
-Kindern, mit den Menschen, den Lieben. Als Primaten sind wir ein Wesen
-der Gemeinschaft, und Lebenszeit verbracht mit anderen Menschen ist ein
+darum ist sie ein Schatz. Ein Schatz den es zu teilen gilt, mit den
+Kindern, mit den Menschen, den Lieben. Als Primaten sind wir Wesen der
+Gemeinschaft, und Lebenszeit verbracht mit anderen Menschen ist ein
 Geschenk. Wir müssen diesen Schatz wieder heben, ist er vergraben unter
-dem Konsum der uns dazu bringt Lebenszeit für Geld zu tauschen,
-stattdessen müssen wir weniger Geld ausgeben, weniger Produkte
-verbrauchen, nicht nur aus Nachhaltigkeitsgründen, wenn wir weniger Geld
+dem Konsum, der uns dazu bringt Lebenszeit für Geld zu tauschen.
+Stattdessen müssen wir weniger Geld ausgeben, weniger Produkte
+verbrauchen, nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld
 ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
 Kooperation statt Wetbewerb
