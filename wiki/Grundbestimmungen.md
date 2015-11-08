@@ -123,11 +123,11 @@ bilden die basale Grundlage für den Umgang der Menschen miteinander.
 
 Jedem Menschen diese Rechte zuzugestehen und ein dementsprechendes
 gesellschaftliches, juristisches und politisches Umfeld zu schaffen,
-wiederum bildet das wesentliche Fundament auf dem sich mündige,
+bildet wiederum das wesentliche Fundament auf dem sich mündige,
 aufgeklärte und selbstständige Persönlichkeiten verantwortlich
 entwickeln können. Die Erziehung unserer Nachkommen zielt seit
 Generationen auf ebendiese Attribute ab. Die universellen Menschenrechte
-schützen das Individuum wie die Gesamtheit der Bürger und Bürgerinnen
+schützen das Individuum, wie die Gesamtheit der Bürger und Bürgerinnen,
 vor unverhältnismäßigen Eingriffen in ihre ureigenen Angelegenheiten
 sowie vor staatlicher Willkür.
 
