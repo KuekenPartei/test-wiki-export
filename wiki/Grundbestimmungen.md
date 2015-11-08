@@ -94,8 +94,8 @@ gesellschaftkundigen Menschen heranreifen.
 Lebenszeit als Schatz
 ---------------------
 
-Das die Lebenszeit ein entscheidender Wert ist folgt aus aus der
-Feststellung Hans Jonas das das Leben einen Zweck für das Leben
+Das die Lebenszeit ein entscheidender Wert ist, folgt aus aus der
+Feststellung Hans Jonas, wonach das Leben einen Zweck für das Leben
 darstellt[2]. Die Zeit unseres Lebens ist unwiederbringlich und vergeht,
 darum ist sie ein Schatz. Ein schatz den es zu Teilen gilt, mit den
 Kindern, mit den Menschen, den Lieben. Als Primaten sind wir ein Wesen
