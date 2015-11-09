@@ -43,7 +43,7 @@ Herstellung schafft.
     Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz "wikilink"),
     lehnen wir vollständig ab. Sie ist ein vom Marketing gestiftetes
     Phänomen und lässt sich nur durch die Einschränkung Marketing und
-    Werbung erreichen.
+    Werbung unterbinden.
 
 ### Wiederverwendung
 
