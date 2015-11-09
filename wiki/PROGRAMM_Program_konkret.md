@@ -34,6 +34,17 @@ Daher müssen wir eine Politik betreiben, die ein Bewusstsein für
 nachhaltiges Konsumverhalten und Anreize für langlebige Produkte in der
 Herstellung schafft.
 
+1.  Lebensdauer-Informationen - Produkte müssen mit einer
+    Lebensdauer-Information versehen werden, damit es dem Konsumenten
+    überhaupt möglich ist eine rationale Entscheidung zu treffe, die
+    Hersteller müssen verpflichtet werden derartige Produktinformationen
+    zur Verfügung zu stellen.
+2.  Psychische Obsoleszenz - [ Die Psychische
+    Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz "wikilink"),
+    lehnen wir vollständig ab. Sie ist ein vom Marketing gestiftetes
+    Phänomen und lässt sich nur durch die Einschränkung Marketing und
+    Werbung erreichen.
+
 ### Wiederverwendung
 
 Wir fördern und initiieren sog. “reuse” Läden, in denen es möglich ist
