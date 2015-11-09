@@ -1,4 +1,30 @@
+{{Baustein-no-image
+|color = #1e90ff
+|background = #fbfbfb
+|text =
+"Heute, da der freie Markt zu Ende geht verschanzt sich in ihr [der Reklame] die Herrschaft des Systems. Nur wer die exorbitanten Gebühren, welche die Reklameagenturen, allen voran das Radio selbst, erheben, laufend bezahlen kann, also wer schon dazu gehört oder auf Grund des Beschlusses von Bank- und Industriekapital kooptiert wird, darf überhaupt den Pseudomarkt als Verkäufer Betreten."
+''Horkheimer/Adorno, "Dialektik der Aufklärung", Fischer Verlag 21 Auflage 2013, S.171''
+}}
 
-Den öffentlichen Raum frei von Werbung machen : http://www.theguardian.com/cities/2015/aug/11/can-cities-kick-ads-ban-urban-billboards dies ist Teil des Öffnens des öffentlichen Raumes für die Menschen.
+
+<br />
+
+Marketing und Werbung spielen eine wichtige Rolle in dem bestehenden Wirtschaftsgeschehen, ohne sie ist eine Nachfrage-orientierte Wirtschaft nicht möglich, mit ihnen ist eine Bedürfnis-orientierte Wirtschaft nicht möglich.
+
+* Kinder vor dem Einfluss des Marketing schützen.
+* Den öffentlichen Raum frei von Werbung machen : http://www.theguardian.com/cities/2015/aug/11/can-cities-kick-ads-ban-urban-billboards dies ist Teil des Öffnens des öffentlichen Raumes für die Menschen.
+* Psychische Obsoleszenz vermeiden.
+
+
+<br />
+
+{{Baustein-no-image
+|color = #1e90ff
+|background = #fbfbfb
+|text =
+„Es ist nicht ''unausweichlich'', daß das Marketing sich die Zeit der jugendlichen Hirne aneignet, diese monopolisiert und sie weitestgehend ihres Bewußtseins beraubt, daß ihre Erziehung zum Teil unmöglich geworden ist. Es ist gerade nicht ''unausweichlich'', daß erwachsene Hirne, die den selben Bedingungen unterworfen sind, dadurch ihre Verantwortung beraubt werden und ihrer Fähigkeit, sich diesen Tatbestand zu widersetzten.“
+''[https://de.wikipedia.org/wiki/Bernard_Stiegler Bernard Stiegler] Die Logik der Sorge - Verlust der Aufklärung durch Technik und Medien. suhrkamp 2008  ISBN 978-3-518-26006-7  S. 57''
+}}
+
 
 [[Kategorie:Sozialpolitik]]
