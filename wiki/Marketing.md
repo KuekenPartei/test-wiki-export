@@ -9,6 +9,8 @@ möglich.
     <http://www.theguardian.com/cities/2015/aug/11/can-cities-kick-ads-ban-urban-billboards>
     dies ist Teil des Öffnens des öffentlichen Raumes für die Menschen.
 -   Psychische Obsoleszenz vermeiden.
+-   Einflussnahmen unterbinden.
+    <http://www.transform-magazin.de/warum-journalismus-und-werbung-nicht-zusammengehen/>
 
   
 
