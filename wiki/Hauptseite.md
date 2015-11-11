@@ -32,9 +32,21 @@ Wandel der Perspektive.
     -   <Programm:Program_langfristig>
 
   
+\_\_NOTOC\_\_
 
-Planungstreffen
----------------
+Mitmachen
+---------
+
+Wir sind ganz am Anfang, es gibt viel zu tun.
+
+Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
+Menschen weitergeben.
+
+Willst du uns Kennen lernen, Fragen stellen, Anregungen geben,
+mitmachen. Komm zu einem der [
+Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
+
+### Planungstreffen
 
 In Berlin ist jeden zweiten Mittwoch [
 Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
@@ -49,7 +61,4 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ
     MediaWiki-FAQ\]
 
-##### notes
-
-<references />
 <Kategorie:InBearbeitung>

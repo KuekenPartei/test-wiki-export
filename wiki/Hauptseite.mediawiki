@@ -16,15 +16,26 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 **[[Programm:Program_mittelfristig]]
 **[[Programm:Program_langfristig]]
 
-<br />
+<br />__NOTOC__
 
 {{Baustein-no-image
 |color = #1e90ff
 |background = #fbfbfb
 |text =
-„Wenn Mündigkeit darin besteht, selbst zu denken, existiert dieses Denken nur als Denken vor einem Lesenden Publikum (die einzig mögliche Grundlage für eine Demokratische Mündigkeit), als eine Zirkulation des Denkens, das sich stets selbst übersteigt, das ein Denken für den anderen und vom anderen Denkenden her ist. Insofern sind Denken und Intelligenz immer schon kollektiv: ein Individuationsprozeß, der einer metastabilisierenden Ko-Individuation des Transindividuellen entspricht, in der die Intelligenz – als ein ''interlegere'' -  ein organologisches Milieu bildet, welches die Unmündigen und die Mündigen, die Eltern und Kinder, die Vorfahren und Nachkommen, die Generationen, zwischen denen der Geist waltet – ''pneuma, ruah, spiritus'' -, miteinander verbindet.“ <ref>[https://de.wikipedia.org/wiki/Bernard_Stiegler Bernard Stiegler] Die Logik der Sorge - Verlust der Aufklärung durch Technik und Medien. suhrkamp 2008  ISBN 978-3-518-26006-7  S. 57</ref>
+„Wenn Mündigkeit darin besteht, selbst zu denken, existiert dieses Denken nur als Denken vor einem Lesenden Publikum (die einzig mögliche Grundlage für eine Demokratische Mündigkeit), als eine Zirkulation des Denkens, das sich stets selbst übersteigt, das ein Denken für den anderen und vom anderen Denkenden her ist. Insofern sind Denken und Intelligenz immer schon kollektiv: ein Individuationsprozeß, der einer metastabilisierenden Ko-Individuation des Transindividuellen entspricht, in der die Intelligenz – als ein ''interlegere'' -  ein organologisches Milieu bildet, welches die Unmündigen und die Mündigen, die Eltern und Kinder, die Vorfahren und Nachkommen, die Generationen, zwischen denen der Geist waltet – ''pneuma, ruah, spiritus'' -, miteinander verbindet.“ 
+
+''[https://de.wikipedia.org/wiki/Bernard_Stiegler Bernard Stiegler] Die Logik der Sorge - Verlust der Aufklärung durch Technik und Medien. suhrkamp 2008  ISBN 978-3-518-26006-7  S. 57''
 }}
-== Planungstreffen ==
+
+== Mitmachen ==
+
+Wir sind ganz am Anfang, es gibt viel zu tun.
+
+Du könntest [[Infomaterial]] an interessierte Menschen weitergeben.
+
+Willst du uns Kennen lernen, Fragen stellen, Anregungen geben, mitmachen. Komm zu einem der [[Hauptseite#Planungstreffen| Planungstreffen]].
+
+=== Planungstreffen ===
 
 
 In Berlin ist jeden zweiten Mittwoch [[Planungstreffen_Berlin| Planungstreffen]].
@@ -36,9 +47,6 @@ Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wi
 
 * [[Hilfe:Basic]]
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki-FAQ]
-
-===== notes =====
-<references />
 
 
 [[Kategorie:InBearbeitung]]
