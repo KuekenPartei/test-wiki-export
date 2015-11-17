@@ -680,3 +680,4 @@ von der Geschäftsordnung abweichen.
 benannten Geschäftsordnungsanträge sind als solche zulässig.
 
 [Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
+[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
