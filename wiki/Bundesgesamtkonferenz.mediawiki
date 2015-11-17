@@ -10,4 +10,5 @@ __SHOWFACTBOX__
 
 [[Kategorie:Planung]]
 [[Kategorie:inBearbeitung]]
-[[Kategorie:Partei Organ]]
+[[Kategorie:Formalien]]
+[[Kategorie:Parteiorganisation]]

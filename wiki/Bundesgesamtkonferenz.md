@@ -12,5 +12,5 @@ Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_10_Die_Bundesgesamtkonfe
 
 \_\_SHOWFACTBOX\_\_
 
-<Kategorie:Planung> <Kategorie:inBearbeitung> [Kategorie:Partei
-Organ](/wiki/Kategorie:Partei_Organ "wikilink")
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
+<Kategorie:Parteiorganisation>
