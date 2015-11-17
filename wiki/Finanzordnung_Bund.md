@@ -1,10 +1,11 @@
-Abschnitt C: Finanzordnung
+Abschnitt B: Finanzordnung
 ==========================
 
-### § 1 Zuständigkeit
+§ 1 Zuständigkeit
+-----------------
 
-Dem [ Schatzmeister](/wiki/Schatzmeister "wikilink") obliegen die Verwaltung
-der Finanzen und die Führung der Bücher.
+Dem Schatzmeister obliegen die Verwaltung der Finanzen und die Führung
+der Bücher.
 
 A. RECHENSCHAFTSBERICHT
 -----------------------
@@ -12,18 +13,16 @@ A. RECHENSCHAFTSBERICHT
 ### § 2 Rechenschaftsbericht Bundesverband
 
 Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des
-Rechenschaftsberichtes gemäß dem [sechsten Abschnitt des
-Parteiengesetzes](http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377)
+Rechenschaftsberichts gemäß dem sechsten Abschnitt des Parteiengesetzes
 bei dem Präsidenten des Deutschen Bundestages. Zu diesem Zweck legen die
-Schatzmeister der Landesverbände ihm, bis spätestens zum 31. Mai eines
-jeden Jahres, die Rechenschaftsberichte der Landesverbände vor.
+Schatzmeister der Landesverbände ihm bis spätestens zum 31. Mai eines
+jeden Jahres die Rechenschaftsberichte der Länderverbände vor.
 
 ### § 3 Rechenschaftsbericht Landesverband
 
 Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31.
-März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben,
-nach Maßgabe der Bestimmungen des [§ 24
-Parteiengesetz](http://www.gesetze-im-internet.de/partg/__24.html), ab.
+März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben
+nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab.
 
 ### § 4 Durchgriffsrecht
 
@@ -31,13 +30,12 @@ Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner
 unmittelbaren Gliederungen. Er hat das Recht auch in deren Gliederungen
 die ordnungsgemäße Buchführung zu kontrollieren und gewährleistet damit,
 dass jederzeit die zur Erstellung des Prüfvermerks für den
-Rechenschaftsbericht nach [§ 29 Abs.3
-Parteiengesetz](http://www.gesetze-im-internet.de/partg/__29.html)
-vorgeschriebenen Stichproben möglich sind. Ist die rechtzeitige Abgabe
-des Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene
-gefährdet, so hat der jeweils höhere Gebietsverband das Recht und die
-Pflicht durch geeignete Maßnahmen die ordnungsgemäße Buchführung seiner
-Gliederungen zu gewährleisten.
+Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz vorgeschriebenen
+Stichproben möglich sind. Ist die rechtzeitige Abgabe des
+Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene gefährdet,
+so hat der jeweils höhere Gebietsverband das Recht und die Pflicht durch
+geeignete Maßnahmen die ordnungsgemäße Buchführung seiner Gliederungen
+zu gewährleisten.
 
 B. MITGLIEDSBEITRAG
 -------------------
@@ -46,11 +44,9 @@ B. MITGLIEDSBEITRAG
 
 (1) Der Mitgliedsbeitrag beträgt
 
--   42 Euro
--   23 Euro als ermäßigter Beitrag (Schüler\_innen / Studierende /
-    Erwerbslose)  
-    pro Kalenderjahr und ist bis spätestens zum 15.01. eines jeden
-    Jahres fällig.
+-   43 Euro
+-   23 Euro als ermäßigter Beitrag (Schüler/Studenten/Erwerbslose)  
+    pro Kalenderjahr und ist am 01.01. eines jeden Jahres fällig.
 
 (2) Bei Eintritt im Laufe eines Jahres ist der anteilige
 Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt
@@ -67,8 +63,8 @@ Gliederung zu entrichten.
 das Mitglied zuständige Gliederung, sofern die Landessatzung nichts
 Gegenteiliges regelt.
 
-(6) Der [ Finanzrat](/wiki/Finanzrat "wikilink") erarbeitet
-Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
+(6) Der Finanzrat erarbeitet Änderungsvorschläge zur Höhe des
+Mitgliedsbeitrages.
 
 ### § 6 Aufteilung Mitgliedsbeitrag
 
@@ -87,21 +83,22 @@ Mitglied zuständiger Ortsverband und/oder Kreisverband und/oder
 Bezirksverband existieren, fällt der ihm zustehende Anteil an die
 nächsthöhere Gliederung.
 
+(4) Der Finanzrat erarbeitet Änderungsvorschläge zur Verteilung des
+Mitgliedsbeitrages.
+
 ### § 7 Verzug
 
 (1) Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag
-nicht zur [
-Fälligkeit](/wiki/Finanzordnung_Bund#.C2.A7_5_H.C3.B6he_Mitgliedsbeitrag "wikilink")
-entrichtet wurde.
+nicht zur Fälligkeit entrichtet wurde.
 
 (2) Ein Mitglied, das sich mit seinem Beitrag um mehr als 12 Monate im
 Verzug befindet, kann aus der Mitgliederdatenbank gestrichen werden und
-verliert dadurch seine Mitgliedschaft in allen Gliederungen des KUEken.
-Vor der Streichung ist das Mitglied mindestens zweimal zu mahnen.
-Zwischen den Mahnungen muss ein Abstand von mindestens 30 Tagen liegen.
+verliert dadurch seine Mitgliedschaft in allen Gliederungen das
+Mitgliedenpartei. Vor der Streichung ist das Mitglied mindestens zweimal
+zu mahnen. Zwischen den Mahnungen muss ein Abstand von mindestens 30
+Tagen liegen.
 
-(3) Zuständig für die Streichungen ist der [
-Bundesvorstand](/wiki/Bundesvorstand "wikilink").
+(3) Zuständig für die Streichungen ist der Bundesverband.
 
 (4) Die Streichung ist dem Mitglied mitzuteilen. Gegen die Streichung
 ist Widerspruch beim zuständigen Schiedsgericht zulässig.
@@ -122,12 +119,9 @@ C. SPENDEN
 
 (1) Bundesebene, Landesverbände und weitere Teilgliederungen sind
 berechtigt, Spenden anzunehmen. Ausgenommen sind Spenden, die im Sinne
-von [§ 25
-Parteiengesetz](http://www.gesetze-im-internet.de/partg/__25.html)
-unzulässig sind. Können unzulässige Spenden nicht zurückgegeben werden,
-sind diese über die Landesverbände und die Bundesebene unverzüglich an
-den [Präsidenten des Deutschen
-Bundestages](http://www.bundestag.de/bundestag/praesidium)
+von § 25 Parteiengesetz unzulässig sind. Können unzulässige Spenden
+nicht zurückgegeben werden, sind diese über die Landesverbände und die
+Bundesebene unverzüglich an den Präsidenten des Deutschen Bundestages
 weiterzuleiten.
 
 (2) Erbschaften und Vermächtnisse werden ohne Begrenzung angenommen.
@@ -145,16 +139,13 @@ Spendernamen, Summe und ggf. Verwendungszweck veröffentlicht.
 
 ### § 12 Strafvorschrift
 
-Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß [
-§ 10, Abs. 1](/wiki/Finanzordnung_Bund#.C2.A7_10_Vereinnahmung "wikilink") an
-den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte
-Spenden nach [ §
-11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung "wikilink") nicht
-im Rechenschaftsbericht veröffentlicht, so verliert er gemäß [§ 31a
-Parteiengesetz](http://www.gesetze-im-internet.de/partg/__31a.html) den
-ihm nach der jeweiligen Beschlusslage zustehenden Anspruch auf
-staatliche Teilfinanzierung in Höhe des Zweifachen der rechtswidrig
-erlangten oder nicht veröffentlichten Spenden.
+Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß
+Nr. 10 an den Präsidenten des Deutschen Bundestages weiterzuleiten, oder
+erlangte Spenden nach Nr. 11 nicht im Rechenschaftsbericht
+veröffentlicht, so verliert er gemäß § 31a Parteiengesetz den ihm nach
+der jeweiligen Beschlusslage zustehenden Anspruch auf staatliche
+Teilfinanzierung in Höhe des Zweifachen der rechtswidrig erlangten oder
+nicht veröffentlichten Spenden.
 
 ### § 13 Spendenbescheinigung
 
@@ -178,10 +169,8 @@ Mittel.
 (2) Der Bundesschatzmeister führt jährlich bis spätestens zum 31. März
 den innerparteilichen Finanzausgleich durch.
 
-(3) Landesverbände, deren Festsetzungsbeträge nach [§ 19a (6)
-PartG](http://www.gesetze-im-internet.de/partg/__19a.html) für das
-Anspruchsjahr die Eigeneinnahmen nach [§ 24 (4) Nr. 1 bis 7
-PartG](http://www.gesetze-im-internet.de/partg/__24.html) des
+(3) Landesverbände, deren Festsetzungsbeträge nach § 19a (6) PartG für
+das Anspruchsjahr die Eigeneinnahmen nach § 24 (4) Nr. 1 bis 7 PartG des
 entsprechenden Rechenschaftsjahres übersteigen, zahlen diesen
 Differenzbetrag zu 100% in den innerparteilichen Finanzausgleich. Ein
 Landesverband kann durch begründeten Beschluss bis zum 30. November des
@@ -190,9 +179,7 @@ erhöhen oder verringern, aber nicht auf unter 80% senken.
 
 (4) Der Bundesverband beteiligt sich am innerparteilichen
 Finanzausgleich mit dem vollständigen Bundesanteil des
-Festsetzungsbetrages nach [§ 19a (6)
-PartG](http://www.gesetze-im-internet.de/partg/__19a.html) für das
-Anspruchsjahr.
+Festsetzungsbetrages nach § 19a (6) PartG für das Anspruchsjahr.
 
 (5) Der Bundesverband erhält aus dem innerparteilichen Finanzausgleich
 15% des Festsetzungsbetrages für die Gesamtpartei.
@@ -215,10 +202,9 @@ E. ETAT
 ### § 16 Haushaltsplan
 
 (1) Der Schatzmeister stellt jedes Kalenderjahr vorab einen
-Haushaltsplan auf, der vom [Vorstand](/wiki/Bundesvorstand "wikilink")
-beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht
-ausreicht, hat der Schatzmeister unverzüglich einen Nachtragshaushalt
-einzubringen.
+Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar,
+dass der Haushaltsansatz nicht ausreicht, hat der Schatzmeister
+unverzüglich einen Nachtragshaushalt einzubringen.
 
 (2) Der Schatzmeister ist bis zu dessen Verabschiedung an die Grundsätze
 einer vorläufigen Haushaltsführung gebunden.
@@ -248,5 +234,7 @@ G. WIRTSCHAFTLICHER GESCHÄFTSBETRIEB
 
 ### § 24 Wirtschaftlicher Geschäftsbetrieb
 
-Das Eröffnen und Unterhalten von wirtschaftlichen Geschäftsbetrieben ist
-dem Bundesverband und Landesverbänden vorbehalten.
+Es ist den Gliederungen das Mitgliedenpartei nicht gestattet, einen
+wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die
+Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten
+zu besorgen, der vom Bundesvorstand bestellt wird.
