@@ -1,3 +1,11 @@
+Eine Darstellung der Strukturen des KUKeN.
+
+
+== Gliederungen ==
+
+
+== Organe im Bund ==
+
 Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 [[Datei:Organigram-KUEKeN-Bund.png|gerahmt]]
@@ -7,18 +15,18 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 
 
-== Bundesgesamtkonferenz ==
+=== Bundesgesamtkonferenz ===
 
 [[Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz| §10 Die Bundesgesamtkonferenz]]
 
 
 [[Go_Bundesgesamtkonferenz| Geschäftsordnung der Bundesgesamtkonferenz]]
 
-== Bundesvorstand ==
+=== Bundesvorstand ===
 
 [[Satzung#.C2.A7_11_Der_Bundesvorstand| §11 Der Bundesvorstand]]
 
-== ständige Mitgliederversammlung ==
+=== ständige Mitgliederversammlung ===
 
 
-== Die überregionalen Projektbereiche ==
+=== Die überregionalen Projektbereiche ===
