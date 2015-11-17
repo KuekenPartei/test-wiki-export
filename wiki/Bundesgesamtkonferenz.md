@@ -11,3 +11,7 @@ Sie ist ein Organ gemäß [
 Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink").
 
 \_\_SHOWFACTBOX\_\_
+
+[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
+[Kategorie:Partei Organ](/wiki/Kategorie:Partei_Organ "wikilink")
