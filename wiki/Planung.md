@@ -23,8 +23,8 @@ notwendigen Unterlagen beim Bundeswahlleiter.
         -   [ständige
             Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink")
             -   [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")
-        -   [Die überregionalen
-            Projektbereiche](/wiki/Die_überregionalen_Projektbereiche "wikilink")
+        -   Die [überregionalen
+            Projektbereiche](überregionalen_Projektbereiche "wikilink")
             -   [go](go "wikilink")
         -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
         -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")
