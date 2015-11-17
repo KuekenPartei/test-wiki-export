@@ -83,32 +83,29 @@ Zeitpunkt der Eröffnung der SMVB müssen folgende Voraussetzungen erfüllt
 sein:
 
 -   a) Mindestens 4 Akkreditierungsveranstaltungen haben vor der
-    Eröffnung der SMVB in Berlin stattgefunden.
--   b) Mindestens 50 Piraten sind akkreditiert.
+    Eröffnung der SMV in Berlin stattgefunden.
+-   b) Mindestens 50 Mitglieder sind akkreditiert.
 -   c) Es muss ordnungsgemäß durch den Vorstand zur Akkreditierung
     entsprechend § 7b, Abs. 2 der Satzung des Landesverbandes eingeladen
     worden sein.
--   d) Die Wahl der Versammlungsleitung der SMVB entsprechend § 7b, Abs.
+-   d) Die Wahl der Versammlungsleitung der SMV entsprechend § 7b, Abs.
     7 muss erfolgt sein.
 
-(2) Beschlussfähigkeit - Die SMVB ist beschlussfähig, sobald folgende
+(2) Beschlussfähigkeit - Die SMV ist beschlussfähig, sobald folgende
 Bedingungen erfüllt sind
 
 -   a) die Eröffnung gemäß §3(1) der GO wurde absolviert
--   b) Die Anzahl der akkreditierten Piraten beträgt mindestens 90.
+-   b) Die Anzahl der akkreditierten Mitglieder beträgt mindestens XX.
 
-(3) Betrieb der SMVB während zeitlich und räumlich zusammentretender
-Landesmitgliederversammlung - Die SMVB kann keine Abstimmungen während
-der Landesmitgliederversammlung gem. § 7a , Abs. (1) der Satzung der
-Piratenpartei Deutschland Berlin abschließen. Alle laufenden
-Abstimmungen, die zum Zeitpunkt der zeitlich und räumlich
-zusammentretenden Landesmitgliederversammlung enden, werden so
-verlängert, dass die Abstimmung erst am Ende des ersten Tages danach
-beendet wird.
+(3) Betrieb der SMV während zeitlich und räumlich zusammentretender
+Bundesgesamtkonferenz - Alle laufenden Abstimmungen, die zum Zeitpunkt
+der zeitlich und räumlich zusammentretenden Landesmitgliederversammlung
+enden, werden so verlängert, dass die Abstimmung erst am Ende des ersten
+Tages danach beendet wird.
 
 ### 4. Versammlung
 
-(1) Die SMVB stimmt ausschliesslich offen und elektronisch ab. Geheime
+(1) Die SMV stimmt ausschliesslich offen und elektronisch ab. Geheime
 Abstimmungen sind ausgeschlossen.
 
 (2) Abstimmungsverfahren werden möglichst so gestaltet, dass Mitglieder
@@ -130,25 +127,25 @@ dokumentiert. Alle Änderungen dieser Geschäftsordnung werden fortlaufend
 dokumentiert, über beschlossene Änderungen werden alle SMV-Mitglieder in
 geeigneter Weise direkt informiert.
 
-### 5. Systeme der Ständigen Mitgliederversammlung Berlin
+### 5. Systeme der Ständigen Mitgliederversammlung
 
 (1) Zur Durchführung der ständig tagenden Mitgliederversammlung wird
-LiquidFeedback mindestens in der Version, Core v3.0.4, Frontend v3.0.2
-eingesetzt. Sofern für die Software eine neuere Version zur Verfügung
-steht, kann dieses durch die vom Vorstand für das System beauftragten
-Administratoren eingespielt werden. Wenn das Update Einfluss auf
-wesentliche Funktionsmerkmale des Systems hat, bedarf das Einspielen
-eines vorherigen Beschlusses der Versammlungsteilnehmer.
+LiquidFeedback mindestens in der Version, Core v3.0.4XXX, Frontend
+v3.0.2XXX eingesetzt. Sofern für die Software eine neuere Version zur
+Verfügung steht, kann dieses durch die vom Vorstand für das System
+beauftragten Administratoren eingespielt werden. Wenn das Update
+Einfluss auf wesentliche Funktionsmerkmale des Systems hat, bedarf das
+Einspielen eines vorherigen Beschlusses der Versammlungsteilnehmer.
 
-(2) Die Ständige Mitgliederversammlung SMVB stellt über das verwendete
+(2) Die Ständige Mitgliederversammlung SMV stellt über das verwendete
 System zur Antragserarbeitung und -abstimmung hinaus zusätzliche
-Diskussionsplattformen zur Verfügung, die alle Mitglieder der
-Piratenpartei nutzen können.
+Diskussionsplattformen zur Verfügung, die alle Mitglieder des KUKeN
+nutzen können.
 
 (3) Themenbereiche - Die Mitarbeit in den einzelnen Themenbereichen
 steht allen Versammlungsmitgliedern offen. Grundsätzlich gestalten und
 entscheiden die Versammlungsmitglieder selbst über die Einrichtung oder
-das Schließen von Themenbereichen. Zur Eröffnung der SMVB werden durch
+das Schließen von Themenbereichen. Zur Eröffnung der SMV werden durch
 die beauftragten Administratoren des Vorstands folgende Themenbereiche
 eingerichtet:
 
@@ -169,7 +166,7 @@ eingerichtet:
 Diese Themenbereiche sind ebenfalls durch die Versammlungsmitglieder
 veränderbar.
 
-(4) Beschluss durch 2/3 Mehrheit - Ein Antrag an die SMVB, der eine 2/3
+(4) Beschluss durch 2/3 Mehrheit - Ein Antrag an die SMV, der eine 2/3
 Mehrheit erfordert, ist erfolgreich abgestimmt, falls
 
 a) sein Schulze-Rang besser als der Schulze-Rang des Status Quo ist,
@@ -180,7 +177,7 @@ der Ablehnungen ist und
 c) kein anderer Antrag, der die Bedingungen a) und b) erfüllt, einen
 besseren Schulze-Rang aufweist.
 
-(5) Beschluss durch Einfache Mehrheit - Ein Antrag an die SMVB, der eine
+(5) Beschluss durch Einfache Mehrheit - Ein Antrag an die SMV, der eine
 einfache Mehrheit erfordert, ist erfolgreich abgestimmt, falls
 
 a) sein Schulze-Rang besser als der Schulze-Rang des Status Quo ist,
@@ -241,7 +238,7 @@ Tage nicht im Online-System der SMVB angemeldet hat.
 
 (2) Ausgehende Delegationen müssen spätestens nach 100 Tagen durch den
 Delegationsgeber bestätigt oder zurückgezogen werden. Bei Überschreiten
-dieses Zeitraumes wird der Anmeldung zur SMVB ein Bestätigungsdialog
+dieses Zeitraumes wird der Anmeldung zur SMV ein Bestätigungsdialog
 vorgeschaltet.
 
 ### 7. Antrag auf Vertagung
@@ -260,11 +257,9 @@ enthält.
 
 (3) Wird ein Antrag auf Vertagung nach §7(2) der Geschäftsordnung der
 SMVB angenommen, wird das zu vertagende Thema nicht weiter innerhalb der
-SMVB behandelt. Eine Behandlung auf der nächsten
-Landesmitgliederversammlung oder einer späteren örtlichen und zeitlichen
-Zusammentritt nach § 7a Abs. 1 der Satzung ist aber weiterhin möglich.
-Dort kann ggf. der Antrag auf geheime Abstimmung laut Wahlordnung des
-Landesverbandes Berlin gestellt werden.
+SMVB behandelt. Eine Behandlung auf der nächsten Bundesgesamtkonferenz
+oder einer späteren örtlichen und zeitlichen Zusammentritt nach § 7a
+Abs. 1 der Satzung ist aber weiterhin möglich.
 
 (4) In einem Thema, das nach §7(3) erfolgreich vertagt wurde, werden
 keine Abstimmungsergebnisse ermittelt. Von der Software eventuell
@@ -281,8 +276,3 @@ stellen.
 (2) Unterbrechung - Bei Störungen von mehr als zwölf Stunden werden
 laufende Antragsverfahren und deren Regelwerke bis zur Behebung der
 Störungen unterbrochen.
-
-### 9. Inkrafttreten
-
-(1) Inkrafttreten - Die Geschäftsordnung tritt unmittelbar nach
-Beschlussfassung der Landesmitgliederversammlung LMVB141 in Kraft.
