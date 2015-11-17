@@ -22,13 +22,17 @@ notwendigen Unterlagen beim Bundeswahlleiter.
             -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
         -   [ständige
             Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink")
-            -   [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")
+            -   [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink") \[erste
+                Version\]
         -   Die [überregionalen
             Projektbereiche](überregionalen_Projektbereiche "wikilink")
-            -   [go](go "wikilink")
+            -   [go](go "wikilink") \[erste Version\]
             -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
-        -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")
+                -   [go\_Bundeskoordinationsrat](go_Bundeskoordinationsrat "wikilink")
+        -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink") \[erste
+            Version\]
         -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
+            \[erste Version\]
     -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste Version\]
 
 -   Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
@@ -36,6 +40,17 @@ notwendigen Unterlagen beim Bundeswahlleiter.
     -   [ Geschäftsordung](/wiki/Go "wikilink") \[erste Version\]
     -   [Protokoll](/wiki/Protokoll "wikilink")
 -   [Programm](/wiki/Programm "wikilink")
+
+Formalien todo
+
+| Name                                                               | Entwurf | V1  | V2  | Final |
+|--------------------------------------------------------------------|---------|-----|-----|-------|
+| [Satzung](/wiki/Satzung "wikilink")                                      | X       |     |     |       |
+| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | X       |     |     |       |
+| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | X       |     |     |       |
+| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | X       |     |     |       |
+| [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")                         | X       |     |     |       |
+| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
 
 ### Kalender
 

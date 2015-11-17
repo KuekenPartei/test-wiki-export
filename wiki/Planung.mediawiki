@@ -17,12 +17,13 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 ***[[Bundesvorstand]]
 ****[[go_bundesvorstand]]
 ***[[ständige Mitgliederversammlung]]
-****[[Go_smv| Geschäftsordnung SMV]]
+****[[Go_smv| Geschäftsordnung SMV]] [erste Version]
 ***Die [[überregionalen Projektbereiche]]
-****[[go]]
+****[[go]] [erste Version]
 ****[[Bundeskoordinationsrat]]
-***[[Finanzordnung_Bund|Finanzordnung]]
-***[[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]]
+*****[[go_Bundeskoordinationsrat]]
+***[[Finanzordnung_Bund|Finanzordnung]] [erste Version]
+***[[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] [erste Version]
 **[[Go|Wahl & Geschäftsordnung]] [erste Version]
 
 {{Kalenderblatt
@@ -41,6 +42,26 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 ** [[Go| Geschäftsordung]] [erste Version]
 ** [[Protokoll]]
 *[[Programm]]
+
+Formalien todo
+
+{| class="wikitable"
+|-
+! Name !! Entwurf !! V1 !! V2 !! Final
+|-
+| [[Satzung]] || X ||  ||  ||
+|-
+| [[Go|Wahl & Geschäftsordnung]] || X ||  ||  ||
+|-
+| [[Finanzordnung_Bund|Finanzordnung]] || X ||  ||   ||
+|-
+| [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || X ||  ||   ||
+|-
+| [[Go_smv| Geschäftsordnung SMV]] || X ||  ||   ||
+|-
+| [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] ||  ||  ||   ||
+|}
+
 
 === Kalender ===
 
