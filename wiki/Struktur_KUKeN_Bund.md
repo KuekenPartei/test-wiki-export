@@ -25,4 +25,6 @@ Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 
 ### ständige Mitgliederversammlung
 
+[ Geschäftsordung](go_smv "wikilink")
+
 ### Die überregionalen Projektbereiche
