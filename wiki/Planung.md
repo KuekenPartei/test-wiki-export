@@ -26,7 +26,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
         -   Die [überregionalen
             Projektbereiche](überregionalen_Projektbereiche "wikilink")
             -   [go](go "wikilink")
-        -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
+            -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
         -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")
         -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
     -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste Version\]
