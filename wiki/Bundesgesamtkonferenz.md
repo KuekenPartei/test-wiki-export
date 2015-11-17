@@ -9,3 +9,5 @@ Geschäftsordnung](/wiki/Hat_Geschäftsordnung::Go_Bundesgesamtkonferenz "wikili
 
 Sie ist ein Organ gemäß [
 Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink").
+
+\_\_SHOWFACTBOX\_\_
