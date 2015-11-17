@@ -794,3 +794,5 @@ werden.
 
 (8) Ein transparentes Blockchain basiertes System soll eingesetzt werden
 wenn es technisch zur Verfügung steht.
+
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
