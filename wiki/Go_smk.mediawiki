@@ -129,3 +129,7 @@ Diese Regelwerke können ebenfalls von den Versammlungsmitgliedern verändert we
 (1) Zuständigkeit - Für den Systembetrieb ist die Versammlungsleitung zuständig. Störungen im Systembetrieb sind dem Landesvorstand unverzüglich anzuzeigen. Der Landesvorstand hat der Versammlungsleitung die zum Betrieb notwendigen administrativen Ressourcen zur Verfügung zu stellen. 
 
 (2) Unterbrechung - Bei Störungen von mehr als zwölf Stunden werden laufende Antragsverfahren und deren Regelwerke bis zur Behebung der Störungen unterbrochen.
+
+[[Kategorie:Planung]]
+[[Kategorie:inBearbeitung]]
+[[Kategorie:Formalien]]
