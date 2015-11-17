@@ -1,5 +1,6 @@
 Eine grobe Übersicht über die Planungsphase.
 
+[[Struktur_KUKeN_Bund| Struktur]] des KUKeN.
 
 == Planungs Treffen ==
 
