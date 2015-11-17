@@ -19,10 +19,10 @@ Horizont, an dem sich Dinge andeuten und wir sie “in die acht” nehmen.
 Seiten:
 -------
 
--   <Programm:Tagespolitik>
--   <Programm:Program>
--   <Programm:Program_konkret>
--   <Programm:Program_mittelfristig>
--   <Programm:Program_langfristig>
+-   [ Tagespolitische](/wiki/Programm:Tagespolitik "wikilink")
+-   [ konkretes Programm](/wiki/Programm:Program_konkret "wikilink")
+-   [ mittelfristiges
+    Programm](/wiki/Programm:Program_mittelfristig "wikilink")
+-   [ langfristges Programm](/wiki/Programm:Program_langfristig "wikilink")
 
 <Kategorie:Programm>

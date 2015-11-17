@@ -21,11 +21,10 @@ Das [[Programm:Program_langfristig| Langfristige]], es ist der Horizont, an dem 
 
 == Seiten: ==
 
-*[[Programm:Tagespolitik]]
-*[[Programm:Program]]
-*[[Programm:Program_konkret]]
-*[[Programm:Program_mittelfristig]]
-*[[Programm:Program_langfristig]]
+*[[Programm:Tagespolitik| Tagespolitische]]
+*[[Programm:Program_konkret| konkretes Programm]]
+*[[Programm:Program_mittelfristig| mittelfristiges Programm]]
+*[[Programm:Program_langfristig| langfristges Programm]]
 
 
 [[Kategorie:Programm]]
