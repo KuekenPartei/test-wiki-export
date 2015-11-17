@@ -8,6 +8,9 @@ Bundesgesamtkonferenz
 [ §10 Die
 Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
 
+[ Geschäftsordnung der
+Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink")
+
 Bundesvorstand
 --------------
 
