@@ -11,10 +11,10 @@ Eine grobe Übersicht über die Planungsphase.
 Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 * [[Formalien]]
-** [[Satzung]]
+** [[Satzung]] [erste Version]
 ***[[Satzung#Abschnitt_B:_Finanzordnung|Finanzordnung]]
 ***[[Satzung#Abschnitt_C:_Schiedsgerichtsordnung|Schiedsgerichtsordnung]]
-**[[Go|Wahl & Geschäftsordnung]]
+**[[Go|Wahl & Geschäftsordnung]] [erste Version]
 
 {{Kalenderblatt
  |Typ    = Gründungsversammlung
@@ -29,7 +29,7 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 }}
 *Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
 * [[Gründungsversammlung]]
-** [[Geschäftsordnung]]
+** [[Go| Geschäftsordung]] [erste Version]
 ** [[Protokoll]]
 *[[Programm]]
 
