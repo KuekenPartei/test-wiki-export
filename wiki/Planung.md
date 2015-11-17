@@ -15,6 +15,18 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 
 -   [Formalien](/wiki/Formalien "wikilink")
     -   [Satzung](/wiki/Satzung "wikilink") \[erste Version\]
+        -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
+            -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste
+                Version\]
+        -   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
+            -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
+        -   [ständige
+            Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink")
+            -   [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")
+        -   [Die überregionalen
+            Projektbereiche](/wiki/Die_überregionalen_Projektbereiche "wikilink")
+            -   [go](go "wikilink")
+        -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
         -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")
         -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
     -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste Version\]
