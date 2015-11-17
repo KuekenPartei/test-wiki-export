@@ -1,10 +1,10 @@
-Abschnitt D: Schiedsgerichtsordnung
+Abschnitt C: Schiedsgerichtsordnung
 ===================================
 
 ### § 1 Grundlagen
 
-(1) Die Schiedsgerichtsordnung regelt das Verfahren vor den [
-Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink").
+(1) Die Schiedsgerichtsordnung regelt das Verfahren vor den
+Schiedsgerichten.
 
 (2) Sie ist für Schiedsgerichte jeder Ordnung bindend. Eine Erweiterung
 oder Abänderung durch andere Gliederungen ist nur an den Stellen und in
@@ -12,19 +12,18 @@ dem Rahmen zulässig, soweit dies diese Ordnung ausdrücklich vorsieht.
 
 ### § 2 Schiedsgericht
 
-(1) Auf Bundes- und Landesebene werden Schiedsgerichte eingerichtet.
+(1) Auf der Bundes- und Landesebene werden Schiedsgerichte eingerichtet.
 Durch Satzung können die Landesverbände die Einrichtung von
 Schiedsgerichten auf einer untergeordneten Gliederungsebene zulassen.
 
-(2) Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen von
-anderen Parteiorganen oder anderen Interessengruppen gebunden.
+(2) Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen
+gebunden.
 
 (3) Die Richter fällen ihre Entscheidungen nach bestem Wissen und
-Gewissen auf Grundlage der Satzungen und [gesetzlichen
-Vorgaben](http://www.gesetze-im-internet.de/partg/__14.html).
+Gewissen auf Grundlage der Satzungen und gesetzlichen Vorgaben.
 
-(4) Während eines Verfahrens haben die Richter ihre Arbeit, außerhalb
-des Richtergremiums, nicht zu kommentieren. Mit der Annahme ihres Amtes
+(4) Während eines Verfahrens haben Richter ihre Arbeit außerhalb des
+Richtergremiums nicht zu kommentieren. Mit der Annahme ihres Amtes
 verpflichten sich die Richter, alle Vorgänge, die ihnen in dieser
 Eigenschaft bekannt werden, auch über ihre Amtszeit hinaus vertraulich
 zu behandeln, soweit diese Ordnung nicht etwas anderes vorsieht.
@@ -32,9 +31,8 @@ zu behandeln, soweit diese Ordnung nicht etwas anderes vorsieht.
 (5) Wird von irgendeiner Seite versucht das Verfahren zu beeinflussen,
 so macht das Schiedsgericht dies unverzüglich öffentlich bekannt.
 
-(6) Die Schiedsgerichte geben sich eine [
-Geschäftsordnung](/wiki/Go_Schiedsgericht "wikilink"). Diese enthält
-insbesondere Regelungen:
+(6) Die Schiedsgerichte geben sich eine Geschäftsordnung. Diese enthält
+insbesondere Regelungen
 
 -   zur internen Geschäftsverteilung und der Verwaltungsorganisation,
 -   über die Bestimmung von Berichterstattern, die Einberufung und den
@@ -47,11 +45,9 @@ insbesondere Regelungen:
 
 ### § 3 Richterwahl
 
-(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") wählt
-drei Mitglieder zu Richtern. Diese wählen aus ihren Reihen einen
-Vorsitzenden Richter, der das [
-Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") leitet und die
-Geschäfte führt.
+(1) Die Bundesgesamtkonferenz wählt drei Mitglieder zu Richtern. Diese
+wählen aus ihren Reihen einen Vorsitzenden Richter, der das
+Schiedsgericht leitet und die Geschäfte führt.
 
 (2) In einer weiteren Wahl werden zwei Ersatzrichter bestimmt. Die
 Stimmenzahl entscheidet über die Rangfolge der Ersatzrichter. Bei
@@ -61,25 +57,29 @@ Stimmengleichheit entscheidet das Los.
 Beschluss der Mitgliederversammlung oder durch Satzungsbestimmung
 erhöht, aber nicht verringert werden.
 
-(4) Schiedsgerichtswahlen finden mindestens in jedem zweiten
+(4) Für das Bundesschiedsgericht werden abweichend von Absatz 1
+mindestens fünf Richter gewählt. Diese Zahl kann durch Beschluss der
+Mitgliederversammlung erhöht werden.
+
+(5) Schiedsgerichtswahlen finden mindestens in jedem zweiten
 Kalenderjahr statt. Durch Satzungsbestimmung kann hiervon abgewichen
 werden. Nachwahlen führen zu keiner Amtszeitverlängerung. Das
 Schiedsgericht bleibt bis zur abgeschlossenen Wahl eines neuen
 Schiedsgerichts im Amt.
 
-(5) Richter können nicht zugleich Mitglied eines Vorstandes der Partei
+(6) Richter können nicht zugleich Mitglied eines Vorstandes der Partei
 oder eines Gebietsverbandes sein, in einem Dienstverhältnis zu der
 Partei oder einem Gebietsverband stehen oder von ihnen regelmäßige
 Einkünfte beziehen.
 
-(6) Mit dem Ende der Mitgliedschaft im KUEKeN endet auch das Richteramt.
+(7) Mit dem Ende der Mitgliedschaft im KUKeN endet auch das Richteramt.
 
-(7) Ein Richter kann durch Erklärung an das Gericht sein Amt beenden.
+(8) Ein Richter kann durch Erklärung an das Gericht sein Amt beenden.
 
-(8) Scheidet ein Richter aus dem Schiedsgericht aus, so rückt für ihn
+(9) Scheidet ein Richter aus dem Schiedsgericht aus, so rückt für ihn
 der nach der Rangfolge nächste Ersatzrichter dauerhaft nach.
 
-(9) Steht beim Ausscheiden eines Richters kein Ersatzrichter mehr zur
+(10) Steht beim Ausscheiden eines Richters kein Ersatzrichter mehr zur
 Verfügung, so kann die unbesetzte Richterposition durch Nachwahl besetzt
 werden. Ebenso können Ersatzrichter nachgewählt werden. Die
 ursprüngliche Zahl an Richtern und Ersatzrichtern darf dabei jedoch
@@ -87,7 +87,7 @@ nicht überschritten werden. Nachgewählte Ersatzrichter schließen sich in
 der Rangfolge an noch vorhandene Ersatzrichter an. Nachwahlen gelten nur
 für den Rest der Amtszeit.
 
-(10) Ist das Bundesschiedsgericht mit mindestens 6 Richtern besetzt, so
+(11) Ist das Bundesschiedsgericht mit mindestens 6 Richtern besetzt, so
 kann es durch Geschäftsordnung ein Kammersystem einrichten. Es sind
 dabei 2 Spruchkammern mit je mindestens 3 Richtern zu bilden, die sodann
 jeweils alleine die Funktion des Bundesschiedsgerichtes übernehmen. Die
@@ -104,8 +104,8 @@ Geschäftsordnung kann auch vorsehen, dass in bestimmten Fällen trotz
 Bestehens von Spruchkammern der Senat zuständig ist. Die
 Geschäftsordnung kann eine von § 3 Abs. 2 abweichende, kammerspezifische
 Rangfolge für Ersatzrichter festlegen. Insbesondere kann die
-Geschäftsordnung vorsehen, dass Ersatzrichter in der Rangfolge vor den
-in der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der
+Geschäftsordnung vorsehen dass Ersatzrichter in der Rangfolge vor den in
+der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der
 Richter im Bundesschiedsgericht auf unter 6, entfallen die Spruchkammern
 und die verbliebenen Richter entscheiden gemeinschaftlich.
 
