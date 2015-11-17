@@ -276,3 +276,5 @@ stellen.
 (2) Unterbrechung - Bei Störungen von mehr als zwölf Stunden werden
 laufende Antragsverfahren und deren Regelwerke bis zur Behebung der
 Störungen unterbrochen.
+
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
