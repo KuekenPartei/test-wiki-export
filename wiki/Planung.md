@@ -14,14 +14,14 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der
 notwendigen Unterlagen beim Bundeswahlleiter.
 
 -   [Formalien](/wiki/Formalien "wikilink")
-    -   [Satzung](/wiki/Satzung "wikilink")
+    -   [Satzung](/wiki/Satzung "wikilink") \[erste Version\]
         -   [Finanzordnung](/wiki/Satzung#Abschnitt_B:_Finanzordnung "wikilink")
         -   [Schiedsgerichtsordnung](/wiki/Satzung#Abschnitt_C:_Schiedsgerichtsordnung "wikilink")
-    -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink")
+    -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste Version\]
 
 -   Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
 -   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
-    -   [Geschäftsordnung](/wiki/Geschäftsordnung "wikilink")
+    -   [ Geschäftsordung](/wiki/Go "wikilink") \[erste Version\]
     -   [Protokoll](/wiki/Protokoll "wikilink")
 -   [Programm](/wiki/Programm "wikilink")
 
