@@ -679,4 +679,4 @@ von der Geschäftsordnung abweichen.
 (1) Nur die in dem Abschnitt {Geschäftsordnungsanträge} §15 bis §15o
 benannten Geschäftsordnungsanträge sind als solche zulässig.
 
-<Kategorie:Formalien>
+<Kategorie:Formalien> <Kategorie:Planung>
