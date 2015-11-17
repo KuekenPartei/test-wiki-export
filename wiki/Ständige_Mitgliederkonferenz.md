@@ -10,3 +10,6 @@ Organ gemäß
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_20_ST.C3.84NDIGE_MITGLIEDERVERSAMMLUNG "wikilink").
 
 \_\_SHOWFACTBOX\_\_
+
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
+<Kategorie:Parteiorganisation>
