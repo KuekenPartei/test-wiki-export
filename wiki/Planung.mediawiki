@@ -43,25 +43,32 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 ** [[Protokoll]]
 *[[Programm]]
 
+<br />
+
+
 Formalien todo
 
 {| class="wikitable"
 |-
 ! Name !! Entwurf !! V1 !! V2 !! Final
 |-
-| [[Satzung]] || X ||  ||  ||
+| [[Satzung]] || W ||  ||  ||
 |-
-| [[Go|Wahl & Geschäftsordnung]] || X ||  ||  ||
+| [[Go|Wahl & Geschäftsordnung]] || W ||  ||  ||
 |-
-| [[Finanzordnung_Bund|Finanzordnung]] || X ||  ||   ||
+| [[Finanzordnung_Bund|Finanzordnung]] || W ||  ||   ||
 |-
-| [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || X ||  ||   ||
+| [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || W ||  ||   ||
 |-
-| [[Go_smv| Geschäftsordnung SMV]] || X ||  ||   ||
+| [[Go_smv| Geschäftsordnung SMV]] || W ||  ||   ||
 |-
 | [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] ||  ||  ||   ||
+|-
+| [[go_go_bundesvorstand| Bundesvorstand GO]] ||  ||  ||   ||
 |}
+'''W'''- in work
 
+'''X'''- done
 
 === Kalender ===
 

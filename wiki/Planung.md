@@ -41,16 +41,23 @@ notwendigen Unterlagen beim Bundeswahlleiter.
     -   [Protokoll](/wiki/Protokoll "wikilink")
 -   [Programm](/wiki/Programm "wikilink")
 
+  
+
 Formalien todo
 
 | Name                                                               | Entwurf | V1  | V2  | Final |
 |--------------------------------------------------------------------|---------|-----|-----|-------|
-| [Satzung](/wiki/Satzung "wikilink")                                      | X       |     |     |       |
-| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | X       |     |     |       |
-| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | X       |     |     |       |
-| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | X       |     |     |       |
-| [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")                         | X       |     |     |       |
+| [Satzung](/wiki/Satzung "wikilink")                                      | W       |     |     |       |
+| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | W       |     |     |       |
+| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | W       |     |     |       |
+| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | W       |     |     |       |
+| [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")                         | W       |     |     |       |
 | [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
+| [ Bundesvorstand GO](go_go_bundesvorstand "wikilink")              |         |     |     |       |
+
+**W**- in work
+
+**X**- done
 
 ### Kalender
 
