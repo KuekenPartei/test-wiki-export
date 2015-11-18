@@ -45,8 +45,7 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 
 <br />
 
-
-Formalien todo
+'''Formalien todo'''
 
 {| class="wikitable"
 |-

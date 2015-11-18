@@ -42,8 +42,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 -   [Programm](/wiki/Programm "wikilink")
 
   
-
-Formalien todo
+**Formalien todo**
 
 | Name                                                               | Entwurf | V1  | V2  | Final |
 |--------------------------------------------------------------------|---------|-----|-----|-------|
