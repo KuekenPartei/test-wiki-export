@@ -106,8 +106,8 @@ Deutschlands haben, entscheidet der Bundesvorstand.
 
 (6) jedes Mitglied erhält einen Mitgliedsausweis.
 
-§ 4 Rechte und Pflichten das Mitglieden
----------------------------------------
+§ 4 Rechte und Pflichten das Mitgliedern
+----------------------------------------
 
 (1) Jedes Mitglied hat das Recht und die Pflicht, im Rahmen dieser
 Satzung und der Satzung seines Landesverbandes die Zwecke des KUKeN zu
@@ -116,9 +116,7 @@ KUKeN zu beteiligen. Jedes Mitglied hat das Recht an der politischen
 Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung
 teilzunehmen. Ein Mitglied kann nur in den Vorstand eines
 Gebietsverbandes gewählt werden dessen Mitglied er ist (Passives
-Wahlrecht). Eine Ämterkumulation ist nur in den Fällen zulässig, in
-denen die Mitgliederversammlung der Gliederung dies für den konkreten
-Einzelfall explizit beschließt.
+Wahlrecht).
 
 (2) Interna können per mehrheitlichem Beschluss als Verschlusssache
 deklariert werden. Über Verschlusssachen ist Verschwiegenheit zu wahren.
@@ -151,7 +149,7 @@ zurückzugeben. Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
 § 6 Ordnungsmaßnahmen
 ---------------------
 
-(1) Verstößt Ein Mitglied gegen die Satzung oder gegen Grundsätze oder
+(1) Verstößt ein Mitglied gegen die Satzung oder gegen Grundsätze oder
 Ordnung des KUKeN und fügt ihr damit Schaden zu, so kann der
 Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis,
 Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt
@@ -333,15 +331,10 @@ Europawahlen zwischen den Landesverbänden und dem Bundesverband,
 6. die Beschlussfassung über ein Verfahren zur Wahl von Delegierten für
 die Bundeskonferenz,
 
-7. Die Wahl von angestellten gleichberechtigten
-BundesgeschäftsführerInnen. Ihre Amtszeit beträgt vier Jahre. Eine
-einmalige Wiederwahl für die Dauer von zwei Jahren ist mit der Mehrheit
-von zwei Dritteln möglich,
-
-8. die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge
+7. die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge
 und die Zulassung von Dringlichkeitsanträgen und
 
-9. die Beschlussfassung über die Auflösung der Organisation oder die
+8. die Beschlussfassung über die Auflösung der Organisation oder die
 Verschmelzung mit einer anderen Organisation.
 
 (6) Eine außerordentliche Bundesgesamtkonferenz ist einzuberufen
@@ -359,15 +352,7 @@ Kreisverbände und
 (7) Anträge, die auf der Bundeskonferenz behandelt werden sollen, müssen
 mindestens 6 Wochen (Poststempel) vor der Konferenz dem Bundesvorstand
 vorliegen. Sie sollen in der Ständigen Mitgliederversammlung abgestimmt
-und angenommen worden sein. Spätestens 4 Wochen (Poststempel) vor der
-Konferenz sollen die Anträge an die Kreisverbände bzw. an die
-Delegierten und an die Mitglieder, die dies schriftlich beantragen,
-verschickt werden. Antragsberechtigt sind die Konferenzen aller
-Gliederungsebenen, der Bundeskoordinationsrat, der
-BundessprecherInnenrat, die Projektbereiche sowie 10 Personen (auch
-Nichtmitglieder), die gemeinschaftlich einen Antrag stellen.
-Dringlichkeitsanträge im Laufe der Konferenz sind möglich, wenn ihrer
-Behandlung von der Mehrheit der Delegierten zugestimmt wird.
+und angenommen worden sein.
 
 (8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu
 protokollieren und außer von den ProtokollführerInnen von mindestens
@@ -377,15 +362,13 @@ zwei KonferenzleiterInnen zu unterzeichnen.
 -----------------------
 
 (1) Der Bundesvorstand besteht aus dem Vorsitzenden und dessen
-Stellvertreter, dem politischen Geschäftsführer und optional dessen
 Stellvertreter, dem Schatzmeister und optional dessen Stellvertreter,
 und dem Generalsekretär und dessen erstem, und optional zweitem
-Stellvertreter. Die Vorsitzenden und politischen Geschäftsführer sind
-für die politische Leitung und politische Außenvertretung, die
-Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre
-für die innerparteiliche Organisation und Verwaltung zuständig. Scheidet
-ein Amtsträger aus dem Vorstand aus, übernimmt dessen Stellvertreter
-sein Amt.
+Stellvertreter. Die Vorsitzenden sind für die politische Leitung und
+politische Außenvertretung, die Schatzmeister für die
+Finanzangelegenheiten, und die Generalsekretäre für die innerparteiliche
+Organisation und Verwaltung zuständig. Scheidet ein Amtsträger aus dem
+Vorstand aus, übernimmt dessen Stellvertreter sein Amt.
 
 (2) Der Bundesvorstand vertritt den KUKeN nach innen und außen. Er führt
 die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
@@ -407,11 +390,12 @@ erfolgen.
 
 (5) Auf Antrag der ständigen Mitgliederversammlung kann der
 Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen
-Fragestellungen befasst werden.
+Fragestellungen befasst werden. Oder auf anraten des
+Bundeskoordinationsrat.
 
 (6) Der Bundesvorstand beschließt über alle organisatorischen und
-politischen Fragen im Sinne der Beschlüsse des Bundesparteitages bzw.
-der Gründungsversammlung.
+politischen Fragen im Sinne der Beschlüsse der Bundesgesamtkonferenz
+bzw. der Gründungsversammlung.
 
 (7) Der Bundesvorstand gibt sich eine Geschäftsordnung und
 veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
@@ -455,6 +439,10 @@ Landesverbandsvorstand kommissarisch die Geschäfte bis ein von ihm
 einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden
 und einen neuen Bundesvorstand gewählt hat.
 
+(12) Der Bundesvorstand hat Schuld, diese ist wie folgt unter den
+Vorstandsmitgliedern aufgeteilt : Der erste und zweite Vorsitzende hat
+immer Schuld, alle anderen Vorstandsmitglieder habe eine Teilschuld.
+
 § 12 Die überregionalen Projektbereiche
 ---------------------------------------
 
@@ -494,10 +482,7 @@ arbeitende KoordinatorInnen. Die KoordinatorInnen können für ihre
 Tätigkeit eine Aufwandspauschale erhalten, wenn die Bundeskonferenz dies
 in einer Entschädigungssatzung beschließt.
 
-(6) Der Projektbereichs-SprecherInnenrat wählt aus seiner Mitte bis zu
-acht VertreterInnen in den Bundeskoordinationsrat.
-
-(7) Die Anerkennung eines überregionalen Projektbereichs erfolgt durch
+(6) Die Anerkennung eines überregionalen Projektbereichs erfolgt durch
 Beschluss der Bundeskonferenz. Weitere Regelungen (thematische
 Aufteilung u.ä.) trifft der Bundeskoordinationsrat. Im Rahmen des durch
 die Bundeskonferenz beschlossenen Haushaltes verwaltet der
@@ -505,7 +490,7 @@ Bundeskoordinationsrat die Mittel selbst. Er stellt jährlich einen
 Aktionshaushalt auf, in dessen Rahmen die überregionalen Projektbereiche
 ihre Tätigkeit selbständig durchführen.
 
-(8) Es können Strömungen in der Organisation gebildet werden. Wenn eine
+(7) Es können Strömungen in der Organisation gebildet werden. Wenn eine
 Strömung gegenüber dem Bundesvorstand darlegt, dass sich mindestens 5%
 der Mitglieder gegenüber dem Bundesvorstand der Strömung zurechnen, sind
 die Absätze 2 und 3 anzuwenden, wobei hierfür zusätzliche Mittel im
@@ -522,10 +507,7 @@ sind öffentlich.
 (1) Die SprecherInnen der überregionalen Projektbereiche bilden den
 Bundeskoordinationsrat.
 
-(2) Der Bundeskoordinationsrat berät den Bundesvorstand bei der Führung
-der Geschäfte.
-
-(3) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
+(2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
 Mitgliederversammlung.
 
 § 14 Bewerberaufstellung für die Wahlen zu Volksvertretungen
@@ -616,7 +598,7 @@ einheitlich geregelt. Abweichende Regelungen der nachgeordneten
 Gliederungen dürfen die Regelungen des Landesverbandes nicht
 überschreiten.
 
-§ 20 STÄNDIGE MITGLIEDERVERSAMMLUNG
+§ 20 Ständige Mitgliederversammlung
 -----------------------------------
 
 (1) Die Ständige Mitgliederversammlung (Kurzform SMV) ist der
@@ -674,62 +656,6 @@ Versammlungsleitung.
 (9) Der Diskussions- und Abstimmungsprozess sowie der weitere
 Akkreditierungsprozess wird in der Geschäftsordnung der SMV geregelt.
 
-(10) Die SMV bietet die Möglichkeit, einen Antrag auf eine örtliche und
-zeitliche Zusammenkunft nach § 7a zu vertagen. Das nähere regelt die
-Geschäftsordnung.
-
-(1) Die Mitglieder fassen in einem Basisentscheid einen Beschluss, der
-einem des Bundesparteitags gleichsteht. Ein Beschluss zu Sachverhalten,
-die dem Bundesparteitag vorbehalten sind oder eindeutig dem
-Parteiprogramm widersprechen, gilt als Basisbefragung mit lediglich
-empfehlenden Charakter. Urabstimmungen gemäß §6 (2) Nr.11 PartG werden
-in Form eines Basisentscheids durchgeführt, zu dem alle
-stimmberechtigten Mitglieder in Textform eingeladen werden. Die
-nachfolgenden Bestimmungen für Anträge bzw. Abstimmungen gelten
-sinngemäß auch für Personen bzw. Wahlen.
-
-(2) Teilnahmeberechtigt sind alle persönlich identifizierten, am Tag der
-Teilnahme stimmberechtigten Mitglieder gemäß §4(4), die mit ihren
-Mitgliedsbeiträgen nicht im Rückstand sind. Um für Quoren und
-Abstimmungen berücksichtigt zu werden, müssen sich die
-teilnahmeberechtigten Mitglieder zur Teilnahme anmelden.
-
-(3) Über einen Antrag wird nur abgestimmt, wenn er innerhalb eines
-Zeitraums ein Quorum von Teilnehmern als Unterstützer erreicht oder vom
-Bundesparteitag eingebracht wird. Der Bundesvorstand darf
-organisatorische Anträge einbringen. Konkurrierende Anträge zu einem
-Sachverhalt können rechtzeitig vor der Abstimmung eingebracht und für
-eine Abstimmung gebündelt werden. Eine erneute Abstimmung über den
-gleichen oder einen sehr ähnlichen Antrag ist erst nach Ablauf einer
-Frist zulässig, es sei denn die Umstände haben sich seither maßgeblich
-geändert. Über bereits erfüllte, unerfüllbare oder zurückgezogene
-Anträge wird nicht abgestimmt. Der Bundesparteitag soll die bisher nicht
-abgestimmten Anträge behandeln.
-
-(4) Vor einer Abstimmung werden die Anträge angemessen vorgestellt und
-zu deren Inhalt eine für alle Teilnehmer zugängliche Debatte gefördert.
-Die Teilnahme an der Debatte und Abstimmung muss für die Mitglieder
-zumutbar und barrierefrei sein. Anträge werden nach gleichen Maßstäben
-behandelt. Mitglieder bzw. Teilnehmer werden rechtzeitig über mögliche
-Abstimmungstermine bzw. die Abstimmungen in Textform informiert.
-
-(5) Die Teilnehmer haben gleiches Stimmrecht, das sie selbstständig und
-frei innerhalb des Abstimmungszeitraums ausüben. Abstimmungen außerhalb
-des Parteitags erfolgen entweder pseudonymisiert oder geheim. Bei
-pseudonymisierter Abstimmung kann jeder Teilnehmer die unverfälschte
-Erfassung seiner eigenen Stimme im Ergebnis überprüfen und nachweisen.
-Bei personellen Sachverhalten oder auf Antrag einer Minderheit muss die
-Abstimmung geheim erfolgen. In einer geheimen Abstimmung sind die
-einzelnen Schritte für jeden Teilnehmer ohne besondere Sachkenntnisse
-nachvollziehbar und die Stimmabgabe erfolgt nicht elektronisch. Die
-Manipulation einer Abstimmung oder die Veröffentlichung von
-Teilergebnissen vor Abstimmungsende sind ein schwerer Verstoß gegen die
-Ordnung der Partei.
-
-(6) Das Nähere regelt die Entscheidsordnung, welche durch die
-Bundesgesmtkonferen beschlossen wird und auch per Basisentscheid
-geändert werden kann.
-
 § 21 LIQUID DEMOCRACY
 ---------------------
 
@@ -779,8 +705,7 @@ ist davon ausgenommen.
 Democracy System positiv beschieden wurden, vorrangig zu behandeln.
 
 (6) Teilnahmeberechtigt ist jedes Mitglied, das nach dieser Satzung in
-der Mitgliederversammlung stimmberechtigt ist. Die Mitgliederversammlung
-kann über außerordentliche Teilnahmeberechtigungen entscheiden. Jeder
+der Mitgliederversammlung stimmberechtigt ist. Jeder
 Teilnahmeberechtigte erhält genau einen persönlichen Zugang, der nur von
 ihm genutzt werden darf.
 
@@ -796,5 +721,7 @@ werden.
 wenn es technisch zur Verfügung steht.
 
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
+
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
+
 [Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
