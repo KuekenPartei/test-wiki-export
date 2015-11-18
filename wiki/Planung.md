@@ -22,7 +22,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
             -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
         -   [ständige
             Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink")
-            -   [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink") \[erste
+            -   [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink") \[erste
                 Version\]
         -   Die [überregionalen
             Projektbereiche](überregionalen_Projektbereiche "wikilink")
@@ -51,7 +51,7 @@ Formalien todo
 | [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | W       |     |     |       |
 | [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | W       |     |     |       |
 | [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | W       |     |     |       |
-| [ Geschäftsordnung SMV](/wiki/Go_smv "wikilink")                         | W       |     |     |       |
+| [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | W       |     |     |       |
 | [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
 | [ Bundesvorstand GO](go_go_bundesvorstand "wikilink")              |         |     |     |       |
 

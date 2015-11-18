@@ -17,7 +17,7 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen
 ***[[Bundesvorstand]]
 ****[[go_bundesvorstand]]
 ***[[ständige Mitgliederversammlung]]
-****[[Go_smv| Geschäftsordnung SMV]] [erste Version]
+****[[Go_smk| Geschäftsordnung SMK]] [erste Version]
 ***Die [[überregionalen Projektbereiche]]
 ****[[go]] [erste Version]
 ****[[Bundeskoordinationsrat]]
@@ -60,7 +60,7 @@ Formalien todo
 |-
 | [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || W ||  ||   ||
 |-
-| [[Go_smv| Geschäftsordnung SMV]] || W ||  ||   ||
+| [[Go_smk| Geschäftsordnung SMK]] || W ||  ||   ||
 |-
 | [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] ||  ||  ||   ||
 |-
