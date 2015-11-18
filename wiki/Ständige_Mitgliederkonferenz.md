@@ -1,5 +1,5 @@
 Die [Ist Partei
-Organ::Ständige\_Mitgliederversammlung](/wiki/Ist_Partei_Organ::Ständige_Mitgliederversammlung "wikilink")
+Organ::Ständige\_Mitgliederkonferenz](/wiki/Ist_Partei_Organ::Ständige_Mitgliederkonferenz "wikilink")
 ist ein Organ der Partei in der Gliederung [In
 Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
 
