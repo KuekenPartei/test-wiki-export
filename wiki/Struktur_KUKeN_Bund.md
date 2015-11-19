@@ -10,7 +10,7 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 ![gerahmt](Organigram-KUEKeN-Bund.png "fig:gerahmt")  
 
-### Bundesgesamtkonferenz
+### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
 
 [ §10 Die
 Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
@@ -18,12 +18,12 @@ Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikili
 [ Geschäftsordnung der
 Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink")
 
-### Bundesvorstand
+### [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
 
 [ §11 Der
 Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 
-### ständige Mitgliederkonerenz
+### [ständige Mitgliederkonerenz](ständige_Mitgliederkonerenz "wikilink")
 
 [ Geschäftsordung](go_smk "wikilink")
 
