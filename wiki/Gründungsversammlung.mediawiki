@@ -1,6 +1,21 @@
+{{Kalenderblatt
+ |Typ    = Gründungsversammlung
+ |Titel  = Gründungsversammlung
+ |Link   = Gründungsversammlung
+ |Datum  = 01.01.2016
+ |Zeit   = (SS:MM)
+ |Lokal  = hier die ....
+ |Straße = ....
+ |PLZ    = ...
+ |Ort    = ..
+}}
+
 Die [[Ist Partei Organ::Gründungsversammlung]] die Bestimmungen der Satzung  [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
 
-
 Sie arbeitet nach ihrer [[Hat Geschäftsordnung::Go|Geschäftsortung]].
+
+== Akkreditierung ==
+
+== Tops ==
 
 __SHOWFACTBOX__
