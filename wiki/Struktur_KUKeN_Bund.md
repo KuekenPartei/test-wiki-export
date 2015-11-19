@@ -23,8 +23,8 @@ Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink")
 [ §11 Der
 Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 
-### ständige Mitgliederversammlung
+### ständige Mitgliederkonerenz
 
-[ Geschäftsordung](go_smv "wikilink")
+[ Geschäftsordung](go_smk "wikilink")
 
 ### Die überregionalen Projektbereiche
