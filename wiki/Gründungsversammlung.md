@@ -6,4 +6,10 @@ die Bestimmungen der Satzung
 Sie arbeitet nach ihrer
 [Geschäftsortung](/wiki/Hat_Geschäftsordnung::Go "wikilink").
 
+Akkreditierung
+--------------
+
+Tops
+----
+
 \_\_SHOWFACTBOX\_\_
