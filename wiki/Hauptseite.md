@@ -46,6 +46,10 @@ Willst du uns Kennen lernen, Fragen stellen, Anregungen geben,
 mitmachen. Komm zu einem der [
 Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
 
+Willst du über den Gründungsprozess auf dem Laufenden gehalten werden
+kannst du die entsprechende mailingliste abonnieren:
+[http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g)
+
 ### Planungstreffen
 
 In Berlin ist jeden zweiten Mittwoch [
