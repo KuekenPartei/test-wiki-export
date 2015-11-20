@@ -1,6 +1,15 @@
-Eine grobe Übersicht über die Planungsphase.
+Eine Übersicht über die Planungsphase.
 
 [ Struktur](/wiki/Struktur_KUKeN_Bund "wikilink") des KUKeN.
+
+Zur Gründungsplanung haben wir einen mainlingliste eingerichtet, ihr
+könnt euch dort eintragen um über die Gründungsaktivitäten auf dem
+laufenden gehalten zu werden:
+[http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g)
+
+Habt ihr euch dort registriert könnt ihr Nachrichten an alle
+eingetragenen Benutzer schicken:
+[mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de](mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de)
 
 Planungs Treffen
 ----------------
