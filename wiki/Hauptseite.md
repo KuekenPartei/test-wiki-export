@@ -1,4 +1,4 @@
-**Kinder - Verantwortung - Zukunft**
+<big>**Kinder - Verantwortung - Zukunft**</big>
 
 <big>***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
 [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")* </big>
@@ -12,10 +12,10 @@ zeichnet sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit
 liegt bei uns, den mündigen Bürgern etwa als Eltern, Großeltern,
 Erziehern und auch Politikern.
 
-Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie
+Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: **Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
-unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet? Als gute
-Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren,
+unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?** Als
+gute Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren,
 klügeren und besseren Menschen zu machen, als wir es sind. Es ist ein
 Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
 Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
