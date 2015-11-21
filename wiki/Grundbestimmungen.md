@@ -2,7 +2,7 @@ tags:
  - Programm
 
 Abschnitt B
------------
+===========
 
 Die **Grundbestimmungen** - zeigen unsere wesentlichen Werte auf und
 geben die grundsätzliche Richtung unserer gesellschaftlichen und
