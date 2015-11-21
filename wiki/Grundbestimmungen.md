@@ -112,7 +112,7 @@ Kooperation statt Wetbewerb
 Der Wettbewerb ist ein Feind der Gemeinschaft, er fördert die
 Vereinzelung des Menschen und stört die natürliche Offenheit und die
 kooperativen Fähigkeiten der Menschen. Damit macht er alle Menschen
-unglücklich, denn wir sind ein Wesen der Gemeinschaft.
+unglücklich, denn Menschen sind Wesen der Gemeinschaft.
 
 Bekenntnis zu den universellen Menschenrechten
 ----------------------------------------------
