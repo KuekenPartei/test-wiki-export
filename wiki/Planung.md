@@ -23,7 +23,7 @@ Ziel der Gründung ist die Gründungssitzung und die Einreichung der
 notwendigen Unterlagen beim Bundeswahlleiter.
 
 -   [Formalien](/wiki/Formalien "wikilink")
-    -   [Satzung](/wiki/Satzung "wikilink") \[erste Version\]
+    -   [Satzung\_Bund](/wiki/Satzung_Bund "wikilink") \[erste Version\]
         -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
             -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste
                 Version\]
