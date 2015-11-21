@@ -1,4 +1,4 @@
-Abschnitt B: Finanzordnung
+Abschnitt C: Finanzordnung
 ==========================
 
 § 1 Zuständigkeit
