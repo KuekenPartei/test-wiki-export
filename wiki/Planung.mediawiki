@@ -19,7 +19,7 @@ mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de
 Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 * [[Formalien]]
-** [[Satzung]] [erste Version]
+** [[Satzung_Bund]] [erste Version]
 ***[[Bundesgesamtkonferenz]]
 ****[[Go|Wahl & Geschäftsordnung]] [erste Version]
 ***[[Bundesvorstand]]
