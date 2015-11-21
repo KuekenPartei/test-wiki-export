@@ -1,4 +1,4 @@
-Abschnitt C: Schiedsgerichtsordnung
+Abschnitt D: Schiedsgerichtsordnung
 ===================================
 
 ### § 1 Grundlagen
