@@ -12,4 +12,12 @@ Akkreditierung
 Tops
 ----
 
+1.  Eröffnung
+2.  Wahl des Versammlungsleiters
+3.  Wahl des Wahlleiters und des Protokollführers
+4.  Wahl des Schriftführers gemäß EuWO und der zwei Personen, die neben
+    dem Versammlungleiter die Versicherung an Eides statt gemäß EuWO
+    abgeben
+5.  Beschluss der Tages- und Geschäftsordnung
+
 \_\_SHOWFACTBOX\_\_
