@@ -1,6 +1,20 @@
 Eine Darstellung der Strukturen des KUKeN.
 
 
+{{#ask:[[Kategorie:Parteiorganisation]]
+
+|?Ist definiert in Satzung
+|?Hat Geschäftsordnung
+|?In Gliederung
+|?Hat Mitglieder
+|format=table
+|link=all
+|headers=show
+|searchlabel=… weitere Ergebnisse
+|class=sortable wikitable smwtable
+}}
+
+
 == Gliederungen ==
 
 
@@ -26,7 +40,7 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 [[Satzung#.C2.A7_11_Der_Bundesvorstand| §11 Der Bundesvorstand]]
 
-=== [[ständige Mitgliederkonerenz]] ===
+=== [[Ständige_Mitgliederkonferenz| Ständige Mitgliederkonferenz]] ===
 
 [[go_smk| Geschäftsordung]]
 
