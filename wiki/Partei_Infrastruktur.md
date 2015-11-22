@@ -11,3 +11,4 @@ Elektronische Infrastruktur
     \[[http://pad.klarmachen-ändert.de/mypads/?/login](http://pad.klarmachen-ändert.de/mypads/?/login)|
     Etherpad\] können wir Planungsblätter anlegen.
 
+<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Infrastruktur>
