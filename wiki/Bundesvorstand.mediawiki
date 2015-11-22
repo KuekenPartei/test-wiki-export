@@ -2,7 +2,7 @@ Der [[Ist Partei Organ::Bundesvorstand]] ist ein Organ der Partei in der Glieder
 
 Der Bundesvorstand vertritt den KUKeN nach innen und außen. Er führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
-Er arbeitet nach seiner [[Hat Geschäftsordnung::Bundesvorstand_GO|Geschäftsortung]]
+Er arbeitet nach seiner [[Hat Geschäftsordnung::go_bundesvorstand|Geschäftsortung]]
 
 Er hat [[hat Mitglieder::7]] Mitglieder.
 
