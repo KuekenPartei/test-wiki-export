@@ -1,5 +1,11 @@
 Eine Darstellung der Strukturen des KUKeN.
 
+{{\#ask:<Kategorie:Parteiorganisation>
+
+|?Ist definiert in Satzung |?Hat Geschäftsordnung |?In Gliederung |?Hat
+Mitglieder |format=table |link=all |headers=show |searchlabel=… weitere
+Ergebnisse |class=sortable wikitable smwtable }}
+
 Gliederungen
 ------------
 
@@ -23,7 +29,7 @@ Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink")
 [ §11 Der
 Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 
-### [ständige Mitgliederkonerenz](ständige_Mitgliederkonerenz "wikilink")
+### [ Ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
 
 [ Geschäftsordung](go_smk "wikilink")
 
