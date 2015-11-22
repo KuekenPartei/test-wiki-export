@@ -22,8 +22,9 @@ Planungs Treffen
 Erster Schritt: Gründung
 ------------------------
 
-Ziel der Gründung ist die Gründungssitzung und die Einreichung der
-notwendigen Unterlagen beim Bundeswahlleiter.
+Ziel der Gründung ist die
+[Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") und die
+Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 -   [Formalien](/wiki/Formalien "wikilink")
     -   [Satzung\_Bund](/wiki/Satzung_Bund "wikilink") \[erste Version\]
@@ -75,6 +76,12 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
+
+Zweiter Schritt: Gründung von Landesverbänden
+---------------------------------------------
+
+Dritter Schritt: Sammlung von Unterschriften, zur Teilnahme an Wahlen
+---------------------------------------------------------------------
 
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
