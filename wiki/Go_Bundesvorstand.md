@@ -243,19 +243,19 @@ Die Tätigkeitsbereiche der Vorstandsmitglieder sind:
 
 ##### Stellvertretender Vorsitzender: xxx
 
-##### Schatzmeister: xxx
+##### Schatzmeister: Stefan Bartels
 
-##### Stellvertretender Schatzmeister: xxx
+##### Stellvertretender Schatzmeister: Lothar Krauß
 
-##### Generalsekretär: xxx
+##### Generalsekretär: Stephanie Schmiedke
 
-##### 1. Stellvertretender Generalsekretär: xxx
+##### 1. Stellvertretender Generalsekretär: Mark Huger
 
-##### 2. Stellvertretender Generalsekretär: xxx
+##### 2. Stellvertretender Generalsekretär: Kristof Zerbe
 
 #### §9 Vertretung gegenüber Banken und sonstigen Finanzinstituten
 
-Die Vertretung gegenüber Banken und sonstigen Finanzinstituten erfolgt
+Die Vertretung gegenüber Banken und sonstiigen Finanzinstituten erfolgt
 durch den Schatzmeister xxxx und den stellvertretenden Schatzmeister
 xxx. Beide sind diesbezüglich jeweils Einzelvertretungsberechtigt und
 können Untervollmachten erteilen.
