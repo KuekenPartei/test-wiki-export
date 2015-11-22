@@ -18,7 +18,7 @@ mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de
 
 == Erster Schritt: Gründung ==
 
-Ziel der Gründung ist die Gründungssitzung und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
+Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 * [[Formalien]]
 ** [[Satzung_Bund]] [erste Version]
@@ -86,6 +86,9 @@ Gründungsplanung, hier können wir Termine eintragen.
 <mscalendar>Gründungsplanung</mscalendar>
 
 
+== Zweiter Schritt: Gründung von Landesverbänden ==
+
+== Dritter Schritt: Sammlung von Unterschriften, zur Teilnahme an Wahlen ==
 
 
 [[Kategorie:Planung]]
