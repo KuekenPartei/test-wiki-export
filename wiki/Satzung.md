@@ -36,8 +36,8 @@ Bundeslandes.
 
 (3) Der Sitz der Partei ist Berlin.
 
-(4) Der Zweck der Partei ist durch die Grundbestimmungen und die
-Präambel markiert.
+(4) Der Zweck der Partei ist durch die Grundbestimmungen Abschnitt B und
+der Präambel markiert.
 
 (5) Das Tätigkeitsgebiet des KUKeN ist die Bundesrepublik Deutschland.
 
@@ -318,7 +318,7 @@ c) die Entlastung des Bundesvostands,
 RechnungsprüferInnen,
 
 3. die Beschlussfassung über die Satzung und die Grundsätze des KUKeN (§
-1), die Programme und die Schiedsgerichtsordnung,
+1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung,
 
 4. die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung
 und eine den Vorschriften des Parteiengesetzes entsprechende
@@ -342,17 +342,17 @@ Verschmelzung mit einer anderen Organisation.
 1. auf Beschluss der ordentlichen Bundesgesamtkonferenz oder des
 Bundesvorstand,
 
-2. auf mit 2/3 Mehrheit gefassten Beschluss des BundessprecherInnenrats,
+2. auf mit 2/3 Mehrheit gefassten Beschluss des Bundesvorstands,
 
 3. auf Antrag eines Zehntels der Mitglieder oder eines Zehntels der
 Kreisverbände und
 
 4. auf Antrag von zwei Landeskonferenzen.
 
-(7) Anträge, die auf der Bundeskonferenz behandelt werden sollen, müssen
-mindestens 6 Wochen (Poststempel) vor der Konferenz dem Bundesvorstand
-vorliegen. Sie sollen in der Ständigen Mitgliederversammlung abgestimmt
-und angenommen worden sein.
+(7) Anträge, die auf der Bundesgesamtkonferenz behandelt werden sollen,
+müssen mindestens 6 Wochen (Poststempel) vor der Konferenz dem
+Bundesvorstand vorliegen. Sie sollen in der Ständigen
+Mitgliederkonferenz abgestimmt und angenommen worden sein.
 
 (8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu
 protokollieren und außer von den ProtokollführerInnen von mindestens
@@ -483,7 +483,7 @@ Tätigkeit eine Aufwandspauschale erhalten, wenn die Bundeskonferenz dies
 in einer Entschädigungssatzung beschließt.
 
 (6) Die Anerkennung eines überregionalen Projektbereichs erfolgt durch
-Beschluss der Bundeskonferenz. Weitere Regelungen (thematische
+Beschluss der Bundesgesamtkonferenz. Weitere Regelungen (thematische
 Aufteilung u.ä.) trifft der Bundeskoordinationsrat. Im Rahmen des durch
 die Bundeskonferenz beschlossenen Haushaltes verwaltet der
 Bundeskoordinationsrat die Mittel selbst. Er stellt jährlich einen
@@ -509,6 +509,9 @@ Bundeskoordinationsrat.
 
 (2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
 Mitgliederversammlung.
+
+(3) Der Bundeskoordinationsrat kann den Vorstand beratend zur Seite
+stehen.
 
 § 14 Bewerberaufstellung für die Wahlen zu Volksvertretungen
 ------------------------------------------------------------
@@ -598,15 +601,15 @@ einheitlich geregelt. Abweichende Regelungen der nachgeordneten
 Gliederungen dürfen die Regelungen des Landesverbandes nicht
 überschreiten.
 
-§ 20 Ständige Mitgliederversammlung
------------------------------------
+§ 20 Ständige Mitgliederkonferenz
+---------------------------------
 
-(1) Die Ständige Mitgliederversammlung (Kurzform SMV) ist der
+(1) Die Ständige Mitgliederkonferenz (Kurzform SMK) ist der
 grundsätzlich ständig und online tagende Zusammentritt der Mitglieder
 des KUKeN.
 
 (2) Mitglieder des KUKeN müssen sich akkreditieren, um an der SMV
-teilnehmen zu können. Die Akkreditierung der Teilnehmer der SMV erfolgt
+teilnehmen zu können. Die Akkreditierung der Teilnehmer der SMK erfolgt
 auf öffentlichen Präsenzveranstaltungen, zu denen die
 Versammlungsleitung zum Zweck der Akkreditierung mittels
 Veröffentlichung auf der Website des s KUKeN eingeladen hat, wobei die
@@ -614,7 +617,7 @@ Einladung mindestens 7 Tage vor Beginn der Veranstaltung zu
 veröffentlichen ist oder durch eine qualifizierte Akkreditierung der
 Teilnehmer in den Geschäftsstellen des Verbandes.
 
-(3) Die SMVB arbeitet transparent und nachvollziehbar. Es finden
+(3) Die SMK arbeitet transparent und nachvollziehbar. Es finden
 ausschließlich namentliche Abstimmungen statt, bei denen jedes Mitglied
 des KUKUeN innerhalb einer Nachvollziehbarkeitsfrist das
 Abstimmungsverhalten jeder abstimmenden Person einsehen und der
@@ -633,17 +636,17 @@ akkreditierten Teilnehmer wird anschließend erfasst und allen
 akkreditierten Versammlungsmitgliedern in geeigneter Weise online
 angezeigt.
 
-(5) Die SMV arbeitet online nach den Prinzipien der Liquid Democracy
+(5) Die SMK arbeitet online nach den Prinzipien der Liquid Democracy
 entsprechend § 21 dieser Satzung. Delegationen sind zeitlich begrenzt.
 Näheres regelt die Geschäftsordnung.
 
-(6) Die SMV verwendet technische Systeme, die bevorzugt asynchrone
+(6) Die SMK verwendet technische Systeme, die bevorzugt asynchrone
 Zusammenarbeit bei der Meinungs- und Willensbildung ermöglichen. Das
 KUKeN betreibt die hierzu notwendigen technischen Systeme.
 
 (7) Bei räumlichen und zeitlichen Zusammentritten der
-Landesmitgliederversammlung wird eine Versammlungsleitung für die SMVB
-in geheimer Wahl für maximal 500 Tage gewählt. Die Amtszeit endet
+Landesmitgliederversammlung wird eine Versammlungsleitung für die SMK in
+geheimer Wahl für maximal 500 Tage gewählt. Die Amtszeit endet
 spätestens mit der Wahl einer neuen Versammlungsleitung. Die Wiederwahl
 ist zulässig.
 
@@ -654,10 +657,10 @@ Entscheidungsbefugnis bei Uneinigkeit der Mitglieder der
 Versammlungsleitung.
 
 (9) Der Diskussions- und Abstimmungsprozess sowie der weitere
-Akkreditierungsprozess wird in der Geschäftsordnung der SMV geregelt.
+Akkreditierungsprozess wird in der Geschäftsordnung der SMK geregelt.
 
-§ 21 LIQUID DEMOCRACY
----------------------
+§ 21 Liquid Democary
+--------------------
 
 (1) Zwischen den Mitgliederversammlungen nutzt das KUKeN das Konzept der
 Liquid Democracy zur Willensbildung über das Internet. Hierzu betreibt
@@ -719,9 +722,3 @@ werden.
 
 (8) Ein transparentes Blockchain basiertes System soll eingesetzt werden
 wenn es technisch zur Verfügung steht.
-
-[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
-
-[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
-
-[Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
