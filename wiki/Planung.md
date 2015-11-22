@@ -11,6 +11,9 @@ Habt ihr euch dort registriert könnt ihr Nachrichten an alle
 eingetragenen Benutzer schicken:
 [mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de](mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de)
 
+Infrastruktur
+-------------
+
 Planungs Treffen
 ----------------
 
