@@ -1,6 +1,6 @@
-Der [Ist Partei
+Die [Ist Partei
 Organ::Überregionalen\_Projektbereiche](/wiki/Ist_Partei_Organ::Überregionalen_Projektbereiche "wikilink")
-ist ein Organ der Partei in der Gliederung [In
+sind ein Organ der Partei in der Gliederung [In
 Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
 
 Er arbeitet nach seiner
