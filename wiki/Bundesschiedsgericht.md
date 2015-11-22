@@ -3,8 +3,8 @@ Organ::Bundesschiedsgericht](/wiki/Ist_Partei_Organ::Bundesschiedsgericht "wikil
 ist ein Organ der Partei in der Gliederung [In
 Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
 
-Er arbeitet nach seiner
-[Schiedsgerichtsordnung](/wiki/Hat_Geschäftsordnung::Satzung#Abschnitt_C:_Schiedsgerichtsordnung "wikilink").
+Er arbeitet nach seiner [Hat
+Geschäftsordnung::Schiedsgerichtsordnung\_Bund](/wiki/Hat_Geschäftsordnung::Schiedsgerichtsordnung_Bund "wikilink").
 
 Er hat [hat Mitglieder::3](hat_Mitglieder::3 "wikilink") Mitglieder.
 
