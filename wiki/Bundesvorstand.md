@@ -7,7 +7,7 @@ Der Bundesvorstand vertritt den KUKeN nach innen und außen. Er führt die
 Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
 Er arbeitet nach seiner
-[Geschäftsortung](/wiki/Hat_Geschäftsordnung::Bundesvorstand_GO "wikilink")
+[Geschäftsortung](/wiki/Hat_Geschäftsordnung::go_bundesvorstand "wikilink")
 
 Er hat [hat Mitglieder::7](hat_Mitglieder::7 "wikilink") Mitglieder.
 
