@@ -35,3 +35,7 @@ Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 [ Geschäftsordung](go_smk "wikilink")
 
 ### Die überregionalen Projektbereiche
+
+### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+
+[ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
