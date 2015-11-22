@@ -1,0 +1,7 @@
+Eine Übersicht über die verfügbare Partei Infrastruktur.
+
+== Elektronische Infrastruktur ==
+
+* Dieses [[Hauptseite| Wiki]]
+* Die [[http://list.klarmachen-ändert.de/listinfo/kpartei-g | Gründungsmailingliste]]
+* Mit [[http://pad.klarmachen-ändert.de/mypads/?/login| Etherpad]] können wir Planungsblätter anlegen.
