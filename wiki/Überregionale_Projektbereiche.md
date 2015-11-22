@@ -4,7 +4,7 @@ ist ein Organ der Partei in der Gliederung [In
 Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
 
 Er arbeitet nach seiner
-[Geschäftsortnung](/wiki/Hat_Geschäftsordnung::Bundesvorstand_GO "wikilink")
+[Geschäftsordnung](/wiki/Hat_Geschäftsordnung::Go "wikilink")
 
 Organ gemäß
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_12_Die_.C3.BCberregionalen_Projektbereiche "wikilink").
