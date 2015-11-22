@@ -61,7 +61,7 @@ notwendigen Unterlagen beim Bundeswahlleiter.
 | [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | W       |     |     |       |
 | [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | W       |     |     |       |
 | [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
-| [ Bundesvorstand GO](go_go_bundesvorstand "wikilink")              |         |     |     |       |
+| [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | W       |     |     |       |
 
 **W**- in work
 
