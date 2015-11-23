@@ -35,6 +35,11 @@ Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 
 ### Die überregionalen Projektbereiche
 
+-   [Frieden](/wiki/Frieden "wikilink")
+-   Sozialer Wohnungsbau
+-   Bildung
+-   Grundeinkommen
+
 ### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
 
 [ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
