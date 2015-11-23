@@ -10,6 +10,10 @@ Eine Darstellung der Strukturen des KUKeN.
 Gliederungen
 ------------
 
+-   Bund
+-   Land
+-   Keis/Bezirk
+
 Organe im Bund
 --------------
 
