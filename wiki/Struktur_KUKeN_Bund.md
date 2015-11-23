@@ -9,6 +9,10 @@ Ergebnisse |class=sortable wikitable smwtable }}
 Gliederungen
 ------------
 
+-   Bund
+-   Land
+-   Keis/Bezirk
+
 Organe im Bund
 --------------
 
