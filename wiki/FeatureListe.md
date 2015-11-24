@@ -7,8 +7,7 @@ für die mündigen Büger\_innen eine gegenwartsbezogene und in der
 Gegenwart wahrzunehmende Verantwortung erwächst, die auf die Zukunft
 ausgerichtet ist. Sie gestaltet im Heute das Morgen. Die Reihenfolge
 scheint mir also auch eine logische Kaskade zu sein. Jeder kann zudem
-sofort antworten, wenn gefragt wird, wofür der KUEKEN denn stehen? Was
-die wollen.
+sofort antworten, wenn gefragt wird, wofür der KUEKEN denn stehen?
 
 Aus der Verantwortung erwächst eben unter anderem ein Streben zu
 nachhaltigem Produzieren, Wirtschaften und Konsum. Es erwächst daraus
@@ -29,3 +28,10 @@ friedlich miteinander zusammenleben.
 -   Liquid Democracy per ständige Mitglieder Konferenz
 -   Geschlechter Quote
 -   Anbindung von Initiativen
+
+### Moderne Strukturen
+
+-   Per "smart contract" werden viele Verwaltungsvorgänge in eine
+    dezentrale transparente Blockchain verlegt.
+-   Möglichst viele Vorgänge werden über alternative Wirtschaftssysteme
+    wie Bitcoin abgewickelt.
