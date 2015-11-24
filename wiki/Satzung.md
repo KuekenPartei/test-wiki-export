@@ -251,32 +251,36 @@ aufzufordern.
 (3) Die Organe der Untergliederungen werden durch deren Satzung
 festgelegt.
 
-(4) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen
+(4) In allen Organen, Kommissionen und Ausschüssen sollen mindestens 40%
+eines Geschlechts vertreten sein. Ausgenommen direkt
+Geschlechtsspezifische Gruppen, Lesben/Schwule etc.
+
+(5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen
 öffentlich, Anwesende haben Rede- und Antragsrecht, soweit diese Satzung
 nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt
 sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD,
 dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren
 Auftrag tätig sind.
 
-(5) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ
+(6) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ
 mit Ausnahme der Bundesgesamtkonferenz und den Projektbereichen
 angehören.
 
-(6) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller
+(7) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller
 Ebenen können nur Mitglieder des KUKeN sein.
 
-(7) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder
+(8) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder
 Kreisparlamenten können nicht Mitglieder von Organen mit Ausnahme der
 Mitgliederkonferenzen und der Projektbereiche sein oder bleiben. Sie
 können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen
 kandidieren.
 
-(8) Mitglieder der Organisation, die in einem beruflichen oder
+(9) Mitglieder der Organisation, die in einem beruflichen oder
 finanziellen Abhängigkeitsverhältnis zum Bundesverband, einem Landes-
 oder einem Kreisverband oder einer Parlamentsfraktion dieser Ebenen
 stehen, können nicht Mitglieder von Koordinationsräten werden.
 
-(9) Mitglieder von Koordinationsräten dürfen keine bezahlten
+(10) Mitglieder des Bundesvorstands dürfen keine bezahlten
 Aufsichtsratsposten oder Beraterverträge ausüben.
 
 § 10 Die Bundesgesamtkonferenz
@@ -294,6 +298,9 @@ Mitgliederkonferenz bekommt jedes Mitglied ein Token mit einer Nummer.
 Dieses Token kann in die Lostrommel gegeben werden um an der Wahl als
 Kandidat Teilzunehmen. Die Nummer wird beim der Akkreditierung dem
 Mitglied zugeordnet.
+
+(2a) Sollte eine Blockchainbasierte Dezentrale Lotterielösung existieren
+wird es das Physikalische Losverfahren ersetzen.
 
 (3) Der Schlüssel für die Ermittlung der Delegiertenzahl wird durch die
 Bundesgesamtkonferenz beschlossen, wobei für jeden Kreisverband
