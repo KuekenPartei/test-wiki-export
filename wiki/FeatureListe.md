@@ -22,6 +22,16 @@ friedlich miteinander zusammenleben.
 
 -   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
     einen Konkreten Entscheidungskatalog.
+    -   Pazifismus
+    -   Säkularismus
+    -   Gegenwartsbezogenheit
+    -   Strukturelle Unabgeschlossenheit
+    -   Erhalt der natürlichen Lebensgrundlagen
+    -   Solidarität
+    -   Gerechtigkeit
+    -   Lebenszeit als Schatz
+    -   Kooperation statt Wetbewerb
+    -   Bekenntnis zu den universellen Menschenrechten
 
 ### Moderne Satzung
 
