@@ -1,11 +1,5 @@
 Eine Darstellung der Strukturen des KUKeN.
 
-{{\#ask:<Kategorie:Parteiorganisation>
-
-|?Ist definiert in Satzung |?Hat Geschäftsordnung |?In Gliederung |?Hat
-Mitglieder |format=table |link=all |headers=show |searchlabel=… weitere
-Ergebnisse |class=sortable wikitable smwtable }}
-
 Gliederungen
 ------------
 
@@ -47,3 +41,12 @@ Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
 ### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
 
 [ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
+
+Zusammenfassung
+---------------
+
+{{\#ask:<Kategorie:Parteiorganisation>
+
+|?Ist definiert in Satzung |?Hat Geschäftsordnung |?In Gliederung |?Hat
+Mitglieder |format=table |link=all |headers=show |searchlabel=… weitere
+Ergebnisse |class=sortable wikitable smwtable }}

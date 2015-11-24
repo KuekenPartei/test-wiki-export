@@ -1,20 +1,5 @@
 Eine Darstellung der Strukturen des KUKeN.
 
-
-{{#ask:[[Kategorie:Parteiorganisation]]
-
-|?Ist definiert in Satzung
-|?Hat Geschäftsordnung
-|?In Gliederung
-|?Hat Mitglieder
-|format=table
-|link=all
-|headers=show
-|searchlabel=… weitere Ergebnisse
-|class=sortable wikitable smwtable
-}}
-
-
 == Gliederungen ==
 
 * Bund
@@ -57,3 +42,21 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 === [[Bundesschiedsgericht]] ===
 
 [[Schiedsgerichtsordnung_Bund| Schiedsgerichtsordnung]]
+
+
+== Zusammenfassung ==
+
+
+
+{{#ask:[[Kategorie:Parteiorganisation]]
+
+|?Ist definiert in Satzung
+|?Hat Geschäftsordnung
+|?In Gliederung
+|?Hat Mitglieder
+|format=table
+|link=all
+|headers=show
+|searchlabel=… weitere Ergebnisse
+|class=sortable wikitable smwtable
+}}
