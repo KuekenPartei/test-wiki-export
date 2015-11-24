@@ -107,25 +107,29 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 
 (2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx
 
-(3) Die Organe der Untergliederungen werden durch deren Satzung festgelegt. 
+(3) Die Organe der Untergliederungen werden durch deren Satzung festgelegt.
 
-(4) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen öffentlich, Anwesende haben Rede- und Antragsrecht, soweit diese Satzung nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
+(4) In allen Organen, Kommissionen und Ausschüssen sollen mindestens 40% eines Geschlechts vertreten sein. Ausgenommen direkt Geschlechtsspezifische Gruppen, Lesben/Schwule etc.
 
-(5) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ mit Ausnahme der Bundesgesamtkonferenz und den Projektbereichen angehören. 
+(5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen öffentlich, Anwesende haben Rede- und Antragsrecht, soweit diese Satzung nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
 
-(6) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUKeN sein. 
+(6) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ mit Ausnahme der Bundesgesamtkonferenz und den Projektbereichen angehören. 
 
-(7) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder Kreisparlamenten können nicht Mitglieder von Organen mit Ausnahme der Mitgliederkonferenzen und der Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen kandidieren. 
+(7) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUKeN sein. 
 
-(8) Mitglieder der Organisation, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zum Bundesverband, einem Landes- oder einem Kreisverband oder einer Parlamentsfraktion dieser Ebenen stehen, können nicht Mitglieder von Koordinationsräten werden. 
+(8) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder Kreisparlamenten können nicht Mitglieder von Organen mit Ausnahme der Mitgliederkonferenzen und der Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen kandidieren. 
 
-(9) Mitglieder von Koordinationsräten dürfen keine bezahlten Aufsichtsratsposten oder Beraterverträge ausüben.
+(9) Mitglieder der Organisation, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zum Bundesverband, einem Landes- oder einem Kreisverband oder einer Parlamentsfraktion dieser Ebenen stehen, können nicht Mitglieder von Koordinationsräten werden. 
+
+(10) Mitglieder des Bundesvorstands dürfen keine bezahlten Aufsichtsratsposten oder Beraterverträge ausüben.
 
 
 == § 10 Die Bundesgesamtkonferenz ==
 (1) Die Bundesgesamtkonferenz findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal 800 Teilnehmern. Sollte der KUKeN mehr Mitglieder haben werden die Delegierten per Freiwilligen Losverfahren bestimmt. Die Vorschriften dieser Satzung sind hierbei einzuhalten. 
 
 (2) Das Freiwillige Losverfahren ist eine einfaches Personen Wahlverfahren. Die Teilnahme ist Freiwillig. Das Losverfahren ist Paritätisch, Gerecht, schnell und es unterdrückt Konkurrenz. Bei einer Mitgliederkonferenz bekommt jedes Mitglied ein Token mit einer Nummer. Dieses Token kann in die Lostrommel gegeben werden um an der Wahl als Kandidat Teilzunehmen. Die Nummer wird beim der Akkreditierung dem Mitglied zugeordnet.
+
+(2a) Sollte eine Blockchainbasierte Dezentrale Lotterielösung existieren wird es das Physikalische Losverfahren ersetzen.
 
 (3) Der Schlüssel für die Ermittlung der Delegiertenzahl wird durch die Bundesgesamtkonferenz beschlossen, wobei für jeden Kreisverband mindestens zwei Delegiertenmandate zu gewährleisten sind (Grundmandat). 
 
