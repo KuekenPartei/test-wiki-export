@@ -5,10 +5,10 @@ Elektronische Infrastruktur
 
 -   Dieses [ Wiki](/wiki/Hauptseite "wikilink")
 -   Die
-    **\[[http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g)|
-    Gründungsmailingliste\]**. Zur Gründungsplanung haben wir einen
-    mainlingliste eingerichtet, ihr könnt euch dort eintragen um über
-    die Gründungsaktivitäten auf dem laufenden gehalten zu werden:
+    **[Gründungsmailingliste](http://list.klarmachen-ändert.de/listinfo/kpartei-g)**.
+    Zur Gründungsplanung haben wir einen mainlingliste eingerichtet, ihr
+    könnt euch dort eintragen um über die Gründungsaktivitäten auf dem
+    laufenden gehalten zu werden:
     [http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g).
     Habt ihr euch dort registriert könnt ihr Nachrichten an alle
     eingetragenen Benutzer schicken:
