@@ -61,19 +61,19 @@ Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der not
 |-
 ! Name !! Entwurf !! V1 !! V2 !! Final
 |-
-| [[Satzung]] || W ||  ||  ||
+| [[Satzung]] || X ||  ||  ||
 |-
-| [[Go|Wahl & Geschäftsordnung]] || W ||  ||  ||
+| [[Go|Wahl & Geschäftsordnung]] || X ||  ||  ||
 |-
-| [[Finanzordnung_Bund|Finanzordnung]] || W ||  ||   ||
+| [[Finanzordnung_Bund|Finanzordnung]] || X ||  ||   ||
 |-
-| [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || W ||  ||   ||
+| [[Schiedsgerichtsordnung_Bund|Schiedsgerichtsordnung]] || X ||  ||   ||
 |-
-| [[Go_smk| Geschäftsordnung SMK]] || W ||  ||   ||
+| [[Go_smk| Geschäftsordnung SMK]] || X ||  ||   ||
 |-
 | [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] ||  ||  ||   ||
 |-
-| [[go_bundesvorstand| Bundesvorstand GO]] || W ||  ||   ||
+| [[go_bundesvorstand| Bundesvorstand GO]] || X ||  ||   ||
 |}
 '''W'''- in work
 
@@ -84,7 +84,6 @@ Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der not
 Gründungsplanung, hier können wir Termine eintragen.
 
 <mscalendar>Gründungsplanung</mscalendar>
-
 
 == Zweiter Schritt: Gründung von Landesverbänden ==
 

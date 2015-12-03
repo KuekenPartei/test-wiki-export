@@ -59,13 +59,13 @@ Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 | Name                                                               | Entwurf | V1  | V2  | Final |
 |--------------------------------------------------------------------|---------|-----|-----|-------|
-| [Satzung](/wiki/Satzung "wikilink")                                      | W       |     |     |       |
-| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | W       |     |     |       |
-| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | W       |     |     |       |
-| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | W       |     |     |       |
-| [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | W       |     |     |       |
+| [Satzung](/wiki/Satzung "wikilink")                                      | X       |     |     |       |
+| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | X       |     |     |       |
+| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | X       |     |     |       |
+| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | X       |     |     |       |
+| [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | X       |     |     |       |
 | [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
-| [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | W       |     |     |       |
+| [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | X       |     |     |       |
 
 **W**- in work
 
