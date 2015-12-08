@@ -34,6 +34,9 @@ Wandel der Perspektive.
   
 \_\_NOTOC\_\_
 
+Eine kleine Zusammenfassung der “Partei [
+features](/wiki/FeatureListe "wikilink")”.  
+
 Mitmachen
 ---------
 

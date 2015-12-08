@@ -18,6 +18,11 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann u
 
 <br />__NOTOC__
 
+Eine kleine Zusammenfassung der "Partei [[FeatureListe| features]]".
+<br />
+
+
+
 {{Baustein-no-image
 |color = #1e90ff
 |background = #fbfbfb
