@@ -37,7 +37,8 @@ Wandel der Perspektive.
 Mitmachen
 ---------
 
-Wir sind ganz am Anfang, es gibt viel zu tun.
+Wir sind ganz am Anfang, es gibt viel zu tun. Siehe
+[Planung](/wiki/Planung "wikilink").
 
 Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
 Menschen weitergeben.
