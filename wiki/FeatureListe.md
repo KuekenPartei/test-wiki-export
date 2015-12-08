@@ -42,5 +42,6 @@ friedlich miteinander zusammenleben.
 -   Per “smart contract” werden viele Verwaltungsvorgänge in eine
     dezentrale transparente Blockchain verlegt.
 -   Möglichst viele Vorgänge werden über alternative Wirtschaftssysteme
-    wie Bitcoin abgewickelt.
+    wie \[<https://de.wikipedia.org/wiki/Bitcoin>| Bitcoin\]
+    abgewickelt.
 
