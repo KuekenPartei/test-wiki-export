@@ -5,9 +5,7 @@ Wofür steht die Partei und wie macht sie es.
 Die Reihenfolge deutet die Priorität des Kindesinteresses an, aus der
 für die mündigen Büger\_innen eine gegenwartsbezogene und in der
 Gegenwart wahrzunehmende Verantwortung erwächst, die auf die Zukunft
-ausgerichtet ist. Sie gestaltet im Heute das Morgen. Die Reihenfolge
-scheint mir also auch eine logische Kaskade zu sein. Jeder kann zudem
-sofort antworten, wenn gefragt wird, wofür der KUEKEN denn stehen?
+ausgerichtet ist. Sie gestaltet im Heute das Morgen.
 
 Aus der Verantwortung erwächst eben unter anderem ein Streben zu
 nachhaltigem Produzieren, Wirtschaften und Konsum. Es erwächst daraus
