@@ -103,11 +103,9 @@ darstellt[2]. Die Zeit unseres Lebens ist unwiederbringlich und vergeht,
 darum ist sie ein Schatz. Ein Schatz den es zu teilen gilt, mit den
 Kindern, mit den Menschen, den Lieben. Als Primaten sind wir Wesen der
 Gemeinschaft und Lebenszeit verbracht mit anderen Menschen ist ein
-Geschenk. Wir müssen diesen Schatz wieder heben, denn er ist vergraben
-unter dem Konsum, der uns dazu bringt Lebenszeit für Geld zu tauschen.
-Stattdessen müssen wir weniger Geld ausgeben, weniger Produkte
-verbrauchen nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld
-ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
+Geschenk. Wir müssen weniger Geld ausgeben, weniger Produkte verbrauchen
+nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld ausgeben,
+müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
 Kooperation statt Wettbewerb
 ----------------------------
