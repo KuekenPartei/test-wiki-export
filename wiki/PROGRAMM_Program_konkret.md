@@ -107,6 +107,11 @@ und sollte sich ~ an die Wahlkeisvorgaben halten) Damit verbunden ist
 ein offizielles Zeugnis für die Regierung. So gibt es immer ein zwischen
 Zeugnis und ein Abschluss Zeugnis.
 
+Medien
+------
+
+Überregionale Gebühren finanzierte Tageszeitung.
+
 Einschränkung von Werbung die auf Kinder zielt
 ----------------------------------------------
 
