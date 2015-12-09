@@ -6,7 +6,7 @@ Die Reihenfolge deutet die Priorität des Kindesinteresses an, aus der für die 
 
 Aus der Verantwortung erwächst eben unter anderem ein Streben zu nachhaltigem Produzieren, Wirtschaften und Konsum. Es erwächst daraus ebenso eine möglichst optimale Bildung für Heranwachsende, freie und kostenlose Möglichkeiten sich in Vereinen (Sport, Musik, ...) zu betätigen. Selbstverständlich erwächst aus der Übernahme der Verantwortung, die wir für die Kinder der Gesellschaft  und damit für die Zukunft tragen, ganz genauso eine Welt, in der Menschen frei und friedlich miteinander zusammenleben.
 
-=== Grundbestimmungen und Programm ===
+=== Grundbestimmungen und [[PROGRAMM:Main| Programm]] ===
 
 * Die [[Grundbestimmungen]] enthalten einen Konkreten Entscheidungskatalog.
 ** Pazifismus
@@ -17,10 +17,10 @@ Aus der Verantwortung erwächst eben unter anderem ein Streben zu nachhaltigem P
 ** Solidarität
 ** Gerechtigkeit
 ** Lebenszeit als Schatz
-** Kooperation statt Wetbewerb
+** Kooperation statt Wettbewerb
 ** Bekenntnis zu den universellen Menschenrechten
 
-=== Moderne [[Satzung_Bund| Satzung] ===
+=== Moderne [[Satzung_Bund| Satzung]] ===
 
 * Liquid Democracy per [[Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz| ständige Mitglieder Konferenz]].
 * Geschlechter Quote

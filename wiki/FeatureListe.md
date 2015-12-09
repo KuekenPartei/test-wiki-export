@@ -16,7 +16,7 @@ Verantwortung, die wir für die Kinder der Gesellschaft und damit für die
 Zukunft tragen, ganz genauso eine Welt, in der Menschen frei und
 friedlich miteinander zusammenleben.
 
-### Grundbestimmungen und Programm
+### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main "wikilink")
 
 -   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
     einen Konkreten Entscheidungskatalog.
@@ -28,10 +28,10 @@ friedlich miteinander zusammenleben.
     -   Solidarität
     -   Gerechtigkeit
     -   Lebenszeit als Schatz
-    -   Kooperation statt Wetbewerb
+    -   Kooperation statt Wettbewerb
     -   Bekenntnis zu den universellen Menschenrechten
 
-### Moderne \[\[Satzung\_Bund\| Satzung\]
+### Moderne [ Satzung](/wiki/Satzung_Bund "wikilink")
 
 -   Liquid Democracy per [ ständige Mitglieder
     Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz "wikilink").
