@@ -31,7 +31,7 @@ friedlich miteinander zusammenleben.
     -   Kooperation statt Wetbewerb
     -   Bekenntnis zu den universellen Menschenrechten
 
-### Moderne Satzung
+### Moderne \[\[Satzung\_Bund\| Satzung\]
 
 -   Liquid Democracy per [ ständige Mitglieder
     Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz "wikilink").
