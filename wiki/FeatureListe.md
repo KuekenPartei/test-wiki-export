@@ -33,9 +33,11 @@ friedlich miteinander zusammenleben.
 
 ### Moderne Satzung
 
--   Liquid Democracy per ständige Mitglieder Konferenz
+-   Liquid Democracy per [ ständige Mitglieder
+    Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz "wikilink").
 -   Geschlechter Quote
--   Anbindung von Initiativen
+-   Anbindung von Initiativen durch die [ überregionalen
+    Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche "wikilink").
 
 ### Moderne Strukturen
 
