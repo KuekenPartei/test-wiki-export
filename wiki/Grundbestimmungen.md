@@ -109,8 +109,8 @@ Stattdessen müssen wir weniger Geld ausgeben, weniger Produkte
 verbrauchen nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld
 ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
-Kooperation statt Wetbewerb
----------------------------
+Kooperation statt Wettbewerb
+----------------------------
 
 Der Wettbewerb ist ein Feind der Gemeinschaft, er fördert die
 Vereinzelung des Menschen und stört die natürliche Offenheit und die
