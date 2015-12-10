@@ -54,9 +54,6 @@ Im Augenblick, wo unsere Infrastruktur noch am entstehen ist kannst du uns mit B
 [[Datei:Kueken-bitcoin-adress.png]]
 '''1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB'''
 
-<br />
-<br />
-<br />
 Mit bitcoins ist es möglich elektronische Infrastruktur zu bezahlen, Domain Namen und Server, wie auch Druckerzeugnisse.
 
 == Starthilfen ==
