@@ -47,6 +47,13 @@ Willst du über den Gründungsprozess auf dem Laufenden gehalten werden, kannst 
 
 In Berlin ist jeden zweiten Mittwoch [[Planungstreffen_Berlin| Planungstreffen]].
 
+=== Unterstützen ===
+
+Im Augenblick, wo unsere Infrastruktur noch am entstehen ist kannst du uns mit Bitcoin unterstützen.
+
+[[Datei:Kueken-bitcoin-adress.png]]
+'''1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB'''
+
 == Starthilfen ==
 
 Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im [//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch].

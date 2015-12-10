@@ -59,6 +59,14 @@ kannst du die entsprechende mailingliste abonnieren:
 In Berlin ist jeden zweiten Mittwoch [
 Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
 
+### Unterstützen
+
+Im Augenblick, wo unsere Infrastruktur noch am entstehen ist kannst du
+uns mit Bitcoin unterstützen.
+
+![](Kueken-bitcoin-adress.png "fig:Kueken-bitcoin-adress.png")
+**1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB**
+
 Starthilfen
 -----------
 
