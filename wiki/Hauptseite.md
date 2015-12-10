@@ -67,9 +67,6 @@ uns mit Bitcoin unterstützen.
 ![](Kueken-bitcoin-adress.png "fig:Kueken-bitcoin-adress.png")
 **1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB**
 
-  
-  
-  
 Mit bitcoins ist es möglich elektronische Infrastruktur zu bezahlen,
 Domain Namen und Server, wie auch Druckerzeugnisse.
 
