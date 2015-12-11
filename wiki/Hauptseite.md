@@ -61,7 +61,7 @@ Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
 
 ### Unterstützen
 
-Im Augenblick, wo unsere Infrastruktur noch am entstehen ist kannst du
+Im Augenblick da unsere Infrastruktur noch am entstehen ist kannst du
 uns mit Bitcoin unterstützen.
 
 ![](Kueken-bitcoin-adress.png "fig:Kueken-bitcoin-adress.png")
