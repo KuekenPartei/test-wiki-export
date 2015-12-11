@@ -45,7 +45,9 @@ Klassische Software Systeme mit einer zentralen Instanz:
 Seit Einführung der Blockchain Technologie wird auch an einen
 dezentralen, transparenten Voting System gearbeitet. Z.B.
 \[<https://medium.com/@DomSchiener/publicvotes-ethereum-based-voting-application-3b691488b926#.xzuc2k8u6>|
-PublicVotes: Ethereum-based Voting Application\]
+PublicVotes: Ethereum-based Voting Application\] oder
+\[<http://bravenewcoin.com/news/blockchain-based-voting-could-be-ready-for-2016-elections/>|
+Blockchain based voting could be ready for 2016 elections\].
 
 Durch die Verwendung von
 \[<https://en.wikipedia.org/wiki/Ring_signature>| Ring Signaturen\] und
