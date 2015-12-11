@@ -30,7 +30,19 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 === [[Ständige_Mitgliederkonferenz| Ständige Mitgliederkonferenz]] ===
 
-[[go_smk| Geschäftsordung]]
+Die ständige Mitgliederkonferenz gehört zum Konzept der sog. [https://de.wikipedia.org/wiki/Liquid_Democracy| Liquid Democracy]. Sie soll allen Mitgliedern ermöglichen sich an Programm und Struktur Arbeiten zu beteiligen.
+
+Der [[go_smk| Geschäftsordungsentwurf]] in der ersten Version.
+
+Klassische Software Systeme mit einer zentralen Instanz:
+* http://www.liquidfeedback.org/
+* https://adhocracy.de/
+* http://democracyos.org/
+
+Seit Einführung der Blockchain Technologie wird auch an einen dezentralen, transparenten Voting System gearbeitet.
+Z.B. [https://medium.com/@DomSchiener/publicvotes-ethereum-based-voting-application-3b691488b926#.xzuc2k8u6| PublicVotes: Ethereum-based Voting Application] 
+
+Durch die Verwendung von [https://en.wikipedia.org/wiki/Ring_signature| Ring Signaturen] und der dezentralen Blockchain ist es möglich den Widerspruch von [https://de.wikipedia.org/wiki/Liquid_Democracy#Unm.C3.B6glichkeit.2C_geheime_und_zugleich_nicht_manipulierbare_Abstimmungen_durchzuf.C3.BChren| elektronisch, transparent und geheim] aufzulösen.
 
 === Die überregionalen Projektbereiche ===
 
