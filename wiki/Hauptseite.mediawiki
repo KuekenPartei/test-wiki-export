@@ -49,7 +49,7 @@ In Berlin ist jeden zweiten Mittwoch [[Planungstreffen_Berlin| Planungstreffen]]
 
 === Unterstützen ===
 
-Im Augenblick, wo unsere Infrastruktur noch am entstehen ist kannst du uns mit Bitcoin unterstützen. 
+Im Augenblick da unsere Infrastruktur noch am entstehen ist kannst du uns mit Bitcoin unterstützen. 
 
 [[Datei:Kueken-bitcoin-adress.png]]
 '''1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB'''
