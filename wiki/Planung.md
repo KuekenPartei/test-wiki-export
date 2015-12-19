@@ -64,7 +64,7 @@ Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 | [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | X       |     |     |       |
 | [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | X       |     |     |       |
 | [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | X       |     |     |       |
-| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") |         |     |     |       |
+| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") | W       |     |     |       |
 | [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | X       |     |     |       |
 
 **W**- in work
