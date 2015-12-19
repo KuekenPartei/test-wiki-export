@@ -152,21 +152,22 @@ zurückzugeben. Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
 ---------------------
 
 (1) Verstößt ein Mitglied gegen die Satzung oder gegen Grundsätze oder
-Ordnung des KUKeN und fügt ihr damit Schaden zu, so kann der
-Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis,
-Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt
-zu bekleiden, Ausschluss aus des KUKeN. Der Vorstand muss dem Mitglied
-vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren. Der
-Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen zu
-überstellen.
+Ordnung des KUEKeN und fügt ihm damit Schaden zu, so kann der [
+Bundesvorstand](/wiki/Bundesvorstand "wikilink") folgende Ordnungsmaßnahmen
+anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt,
+Aberkennung der Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus dem
+KUEKeN. Der Vorstand muss dem Mitglied vor dem Beschluss der
+Ordnungsmaßnahme eine Anhörung gewähren. Der Beschluss ist dem Mitglied
+in Schriftform unter Angabe von Gründen zu überstellen.
 
-(2) Ein Mitglied kann nur dann ausgeschlossen werden, wenn er
+(2) Ein Mitglied kann nur dann ausgeschlossen werden, wenn es
 vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze oder
-die Ordnung des KUKeN verstößt und ihr damit schweren Schaden zufügt.
-Der Ausschluss wird vom Bundesvorstand beim zuständigen Schiedsgericht
-beantragt. In dringenden und schwerwiegenden Fällen, die sofortiges
-Eingreifen erfordern, kann der Vorstand das Mitglied von der Ausübung
-seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschließen.
+die Ordnung des KUEKeN verstößt und ihm damit schweren Schaden zufügt.
+Der Ausschluss wird vom Bundesvorstand beim zuständigen [
+Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") beantragt. In
+dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen
+erfordern, kann der Vorstand das Mitglied von der Ausübung seiner Rechte
+bis zur Entscheidung des Schiedsgerichts ausschließen.
 
 (3) Untergliederungen können in ihren Satzungen eigene Regelungen zu
 Ordnungsmaßnahmen treffen. Auch Ordnungsmaßnahmen einer Untergliederung
@@ -175,31 +176,33 @@ wirken für die Gesamtpartei.
 (4) Die Mitgliedschaft ruht im Falle eines Ausschlusses bis zum
 Abschluss eines möglichen Berufungsverfahrens.
 
-(5) Die parlamentarischen Gruppen des KUKeN sind gehalten, einen
-rechtskräftig ausgeschlossenen oder einen ausgetretenen Mitglieder aus
-ihrer Gruppe auszuschließen.
+(5) Die parlamentarischen Gruppen des KUEKeN sind gehalten, ein
+rechtskräftig ausgeschlossenes oder ein ausgetretenes Mitglied aus ihrer
+Gruppe auszuschließen.
 
 (6) Verstößt ein Gebietsverband schwerwiegend gegen die Grundsätze oder
-die Ordnung des KUKeN sind folgende Ordnungsmaßnahmen gegen
-nachgeordnete Gebietsverbände sind möglich: Auflösung, Ausschluss,
+die Ordnung des KUEKeN, sind folgende Ordnungsmaßnahmen gegen
+nachgeordnete Gebietsverbände möglich: Auflösung, Ausschluss,
 Amtsenthebung des Vorstandes nachgeordneter Gebietsverbände. Als
 schwerwiegender Verstoß gegen die Ordnung und die Grundsätze der Partei
 ist es zu werten, wenn die Gebietsverbände die Bestimmungen der Satzung
 beharrlich missachten, Beschlüsse übergeordneter Parteiorgane nicht
 durchführen oder in wesentlichen Fragen gegen die politische Zielsetzung
 der Partei handeln. Die Ordnungsmaßnahmen werden vom Vorstand eines
-höheren Gebietsverbandes getroffen. Die Mitgliederversammlung des die
-Ordnungsmaßnahme treffenden Gebietsverbandes hat die Ordnungsmaßnahme am
-nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten tritt
-die Maßnahme außer Kraft. Gegen die Ordnungsmaßnahme ist die Anrufung
-des nach der Schiedsgerichtsordnung zuständigen Schiedsgerichtes
-zuzulassen.
+höheren Gebietsverbandes getroffen. Die Mitgliederversammlung, des die
+Ordnungsmaßnahme treffenden Gebietsverbandes, hat die Ordnungsmaßnahme
+am nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten
+tritt die Maßnahme außer Kraft. Gegen die Ordnungsmaßnahme ist die
+Anrufung des nach der [
+Schiedsgerichtsordnung](/wiki/Satzung_Bund#Abschnitt_D:_Schiedsgerichtsordnung "wikilink")
+zuständigen Schiedsgerichtes zuzulassen.
 
-(7) Über die Ordnungsmaßnahmen i.S.d. § 6 Absatz 6 entscheidet der
-Bundesparteitag auf Antrag des Bundesvorstandes mit einfacher Mehrheit.
+(7) Über die Ordnungsmaßnahmen im Sinne § 6 Absatz 6 entscheidet die [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") auf Antrag des
+Bundesvorstandes mit einfacher Mehrheit.
 
-(8) Das Schiedsgericht kann statt der verhängten oder beantragten auch
-eine mildere Ordnungsmaßnahme aussprechen.
+(8) Das Schiedsgericht kann statt der verhängten oder beantragten
+Ordnungsmaßnahme auch eine mildere Ordnungsmaßnahme aussprechen.
 
 § 7 Gliederung
 --------------
