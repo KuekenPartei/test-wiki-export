@@ -71,7 +71,7 @@ Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der not
 |-
 | [[Go_smk| Geschäftsordnung SMK]] || X ||  ||   ||
 |-
-| [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] ||  ||  ||   ||
+| [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] || W ||  ||   ||
 |-
 | [[go_bundesvorstand| Bundesvorstand GO]] || X ||  ||   ||
 |}
