@@ -19,7 +19,7 @@ friedlich miteinander zusammenleben.
 ### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main "wikilink")
 
 -   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
-    einen Konkreten Entscheidungskatalog.
+    einen konkreten Entscheidungskatalog.
     -   Pazifismus
     -   Säkularismus
     -   Gegenwartsbezogenheit
