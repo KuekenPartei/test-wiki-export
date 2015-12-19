@@ -35,8 +35,6 @@ elektronisch, transparent und geheim\] aufzulösen.
 
 \_\_SHOWFACTBOX\_\_
 
-[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation "wikilink")
-
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
 [Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
