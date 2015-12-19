@@ -62,9 +62,10 @@ nicht zulässig.
 § 3 Erwerb der Mitgliedschaft
 -----------------------------
 
-(1) Die Mitgliedschaft in des KUKeN wird auf Grundlage dieser Satzung
-erworben. Die Mitgliedschaft wird zunächst unmittelbar bei der
-Bundespartei erworben. Nach der Gründung niederer Gliederungen wird
+(1) Die Mitgliedschaft im KUEKeN wird auf Grundlage dieser [ Satzung
+erworben](/wiki/Satzung_Bund "wikilink"). Die Mitgliedschaft wird zunächst
+unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer
+Gliederungen wird:
 
 1.  die Mitgliedschaft bei der niedrigsten Parteigliederung erworben,
     die den nach Abs. 3 Satz 2 bestimmten Wohnort umfasst.
@@ -72,20 +73,20 @@ Bundespartei erworben. Nach der Gründung niederer Gliederungen wird
     Mitglied dieser Gliederung.
 
 (2) Über die Aufnahme entscheidet der Vorstand der zuständigen
-Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt.
+Gliederung, solange die Satzung der Gliederung nichts anderes bestimmt.
 Die Ablehnung des Aufnahmeantrags muss dem/der BewerberIn gegenüber
 schriftlich begründet werden. Die Mitgliedschaft beginnt nach Annahme
 des Aufnahmeantrages mit der Entrichtung des ersten Mitgliedsbeitrages.
 
-(2a) jedes Mitglied gehört grundsätzlich der Parteigliederung an, in
-dessen Zuständigkeitsgebiet er seinen Wohnsitz hat. Bei
-nachvollziehbaren Gründen, die den Organisationsinteressen nicht
-entgegen stehen, kann das Mitglied die Zugehörigkeit in einer
-Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in
-eine andere Gliederung erfolgt in Schriftform und wird von der
-nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in
-Schriftform begründet werden und kann im Einspruchsverfahren zur letzten
-Entscheidung dem Schiedsgericht vorgelegt werden.
+(2a) Jedes Mitglied gehört grundsätzlich der Parteigliederung an, in
+dessen Zuständigkeitsgebiet sein Wohnsitz liegt. Bei nachvollziehbaren
+Gründen, die den Organisationsinteressen nicht entgegen stehen, kann das
+Mitglied die Zugehörigkeit in einer Parteigliederung seiner Wahl frei
+bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in
+Schriftform und wird von der nächsthöheren Gliederung entschieden. Ein
+ablehnender Bescheid muss in Schriftform begründet werden und kann im
+Einspruchsverfahren zur letzten Entscheidung dem [
+Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") vorgelegt werden.
 
 (2b) Mit der Aufnahme in eine andere Gliederung verliert das Mitglied
 das aktive und passive Wahlrecht in der alten Gliederung. Eventuell
@@ -94,18 +95,18 @@ unzulässig.
 
 (3) Die Aufnahme setzt voraus, dass der/die BewerberIn im Bereich der
 aufnehmenden Gliederung einen Wohnsitz hat und nicht schon Mitglied ist.
-Hat Ein Mitglied mehrere Wohnsitze, bestimmt er selbst, wo er Mitglied
+Hat ein Mitglied mehrere Wohnsitze, bestimmt er selbst, wo er Mitglied
 ist.
 
 (4) Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung
 geht die Mitgliedschaft über. Das Mitglied hat den Wohnsitzwechsel
-unverzüglich der dem alten Wohnsitz zuständigen niedrigsten Gliederung
-anzuzeigen.
+unverzüglich der, in dem alten Wohnsitz zuständigen, niedrigsten
+Gliederung anzuzeigen.
 
 (5) Über Aufnahmeanträge von Deutschen, die ihren Wohnsitz außerhalb
 Deutschlands haben, entscheidet der Bundesvorstand.
 
-(6) jedes Mitglied erhält einen Mitgliedsausweis.
+(6) Jedes Mitglied erhält einen Mitgliedsausweis.
 
 § 4 Rechte und Pflichten das Mitgliedern
 ----------------------------------------
