@@ -45,18 +45,18 @@ Präambel markiert.
 § 2 Mitgliedschaft
 ------------------
 
-(1) Mitglied des KUKeN kann jeder Deutsche im Sinne des Grundgesetzes
+(1) Mitglied des KUEKeN kann jeder Deutsche im Sinne des Grundgesetzes
 und jede Person mit Wohnsitz in Deutschland werden, die das 16.
 Lebensjahr vollendet hat und die Grundsätze sowie die Satzung und die
-Grundbestimmungen des KUKeN anerkennt.
+Grundbestimmungen des KUEKeN anerkennt.
 
-(2) Mitglied des KUKeN können nur natürliche Personen sein. Die
+(2) Mitglied des KUEKeN können nur natürliche Personen sein. Die
 Bundespartei führt ein zentrales Mitgliederverzeichnis.
 
-(3) Die gleichzeitige Mitgliedschaft im KUKeN und bei einer anderen (mit
+(3) Die gleichzeitige Mitgliedschaft im KUEKeN und in einer anderen (mit
 ihr im Wettbewerb stehenden) Partei oder Wählergruppe ist nicht
 ausgeschlossen. Die Mitgliedschaft in einer Organisation oder
-Vereinigung, deren Zielsetzung den Zielen des KUKeN widerspricht, ist
+Vereinigung, deren Zielsetzung den Zielen des KUEKeN widerspricht, ist
 nicht zulässig.
 
 § 3 Erwerb der Mitgliedschaft
