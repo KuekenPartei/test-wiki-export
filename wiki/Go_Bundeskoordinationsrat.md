@@ -30,9 +30,9 @@ laufenden Kalenderjahres in öffentlicher Sitzung.
 Bundesvorstand, durch mindestens 50 Prozent der SprecherInnen, beantragt
 werden.
 
-(3) Der Bundesvorstand läd die SprecherInnen zur
-Bundeskoordinationsratstreffen ein. Die Einladungsfrist beträgt
-mindestens vier Wochen vor der Tagung.
+(3) Der Bundesvorstand läd die SprecherInnen zum
+Bundeskoordinationsratstreffen ein, wobei die Einladung mindestens 4
+Wochen vor Beginn der Veranstaltung zu veröffentlichen ist.
 
 § 3 Nachvollziehbarkeit
 -----------------------
