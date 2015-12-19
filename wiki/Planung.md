@@ -66,6 +66,7 @@ Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 | [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | X       |     |     |       |
 | [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") | W       |     |     |       |
 | [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | X       |     |     |       |
+| [Mitgliedsantrag](/wiki/Mitgliedsantrag "wikilink")                      |         |     |     |       |
 
 **W**- in work
 
