@@ -34,7 +34,7 @@ Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
         -   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
             -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
         -   [ständige
-            Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink")
+            Mitgliederkonferenz](ständige_Mitgliederkonferenz "wikilink")
             -   [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink") \[erste
                 Version\]
         -   Die [überregionalen
