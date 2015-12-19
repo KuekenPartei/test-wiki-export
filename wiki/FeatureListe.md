@@ -16,6 +16,14 @@ Verantwortung, die wir für die Kinder der Gesellschaft und damit für die
 Zukunft tragen, ganz genauso eine Welt, in der Menschen frei und
 friedlich miteinander zusammenleben.
 
+### Mitbestimmung des öffentlichen Diskurses
+
+Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
+Thema der Gesellschaft zu lenken. Wir möchten das Feld des öffentlichen
+Diskurses nicht länger vorwiegend konsum- und profit-orientierten
+Interessengruppen überlassen, sondern Inhalt und Richtung aktiv
+mitgestalten.
+
 ### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main "wikilink")
 
 -   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
