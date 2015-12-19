@@ -274,7 +274,7 @@ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") und den
 angehören.
 
 (7) Mitglieder von [ Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink")
-und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUEKeN
+und Rechnungsprüfer\_innen aller Ebenen können nur Mitglieder des KUEKeN
 sein.
 
 (8) Mandatsträger\_innen des KUEKeN in Europa-, Bundes-, Landes- oder
