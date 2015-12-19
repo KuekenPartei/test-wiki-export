@@ -294,68 +294,71 @@ Aufsichtsratsposten oder Beraterverträge ausüben.
 § 10 Die Bundesgesamtkonferenz
 ------------------------------
 
-(1) Die Bundesgesamtkonferenz findet mindestens einmal im Kalenderjahr
-statt. Sie besteht aus maximal 800 Teilnehmern. Sollte der KUKeN mehr
-Mitglieder haben werden die Delegierten per Freiwilligen Losverfahren
-bestimmt. Die Vorschriften dieser Satzung sind hierbei einzuhalten.
+(1) Die [ Bundesgesamtkonferenz]([Bundesgesamtkonferenz "wikilink")
+findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal
+800 Teilnehmern. Sollte der KUEKeN mehr Mitglieder haben, werden die
+Delegierten durch das freiwillige Losverfahren bestimmt. Die
+Vorschriften dieser [ Satzung](/wiki/Satzung_Bund "wikilink") sind hierbei
+einzuhalten.
 
-(2) Das Freiwillige Losverfahren ist eine einfaches Personen
-Wahlverfahren. Die Teilnahme ist Freiwillig. Das Losverfahren ist
-Paritätisch, Gerecht, schnell und es unterdrückt Konkurrenz. Bei einer
-Mitgliederkonferenz bekommt jedes Mitglied ein Token mit einer Nummer.
-Dieses Token kann in die Lostrommel gegeben werden um an der Wahl als
-Kandidat Teilzunehmen. Die Nummer wird beim der Akkreditierung dem
+(2) Das freiwillige Losverfahren ist ein einfaches
+Personenwahlverfahren. Die Teilnahme ist freiwillig. Das Losverfahren
+ist paritätisch, gerecht, schnell und es vermeidet Konkurrenz. Bei einer
+Mitgliederkonferenz bekommt jedes Mitglied einen Token mit einer Nummer.
+Dieses Token kann in die Lostrommel gegeben werden, um an der Wahl als
+Kandidat teilzunehmen. Die Nummer wird bei der Akkreditierung dem
 Mitglied zugeordnet.
 
-(2a) Sollte eine Blockchainbasierte Dezentrale Lotterielösung existieren
-wird es das Physikalische Losverfahren ersetzen.
+(2a) Sollte eine blockchainbasierte, dezentrale Lotterielösung
+existieren, wird diese das physikalische Losverfahren ersetzen.
 
 (3) Der Schlüssel für die Ermittlung der Delegiertenzahl wird durch die
 Bundesgesamtkonferenz beschlossen, wobei für jeden Kreisverband
 mindestens zwei Delegiertenmandate zu gewährleisten sind (Grundmandat).
 
-(4) Die Einberufung der Bundesgesamtkonferenz erfolgt durch den
-Bundesvorstand acht Wochen (Poststempel) vorher durch schriftliche
-Einladung der gewählten Delegierten mit einer vorläufigen Tagesordnung.
+(4) Die Einberufung der Bundesgesamtkonferenz erfolgt, acht Wochen vor
+Stattfinden (Poststempel), durch den Bundesvorstand, durch schriftliche
+Einladung der gewählten Delegierten und unter Bekanntgabe einer
+vorläufigen Tagesordnung.
 
-(5) Die Bundesgesamtkonferenz ist oberstes Organ des KUKeN. Zu ihren
-Aufgaben gehören insbesondere
+(5) Die Bundesgesamtkonferenz ist oberstes Organ des KUEKeN. Zu ihren
+Aufgaben gehören insbesondere:
 
 1. Die Beschlussfassung über
 
-a) den Rechenschaftsbericht des Bundesvorstand,
+a) den Rechenschaftsbericht des Bundesvorstands,
 
 b) den Rechnungsprüfungsbericht und
 
-c) die Entlastung des Bundesvostands,
+c) die Entlastung des Bundesvorstands.
 
-2. die Wahl des Bundesvorstand, der Bundesschiedsgerichte und zweier
-RechnungsprüferInnen,
+2. Die Wahl des Bundesvorstand, der Bundesschiedsgerichte und zweier
+Rechnungsprüfer\_innen.
 
-3. die Beschlussfassung über die Satzung und die Grundsätze des KUKeN (§
-1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung,
+3. Die Beschlussfassung über die Satzung und die Grundsätze des KUEKeN
+(§ 1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung.
 
-4. die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung
-und eine den Vorschriften des Parteiengesetzes entsprechende
-Finanzordnung,
+4. Die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung
+und eine, den Vorschriften des Parteiengesetzes entsprechende,
+Finanzordnung.
 
-5. die Aufteilung des Beitrags- und nicht gebundenen Spendenaufkommens
+5. Die Aufteilung des Beitrags- und nicht gebundenen Spendenaufkommens
 sowie eventueller Wahlkampfkostenrückerstattungen aus Bundes- und
-Europawahlen zwischen den Landesverbänden und dem Bundesverband,
+Europawahlen zwischen den Landesverbänden und dem Bundesverband.
 
-6. die Beschlussfassung über ein Verfahren zur Wahl von Delegierten für
-die Bundeskonferenz,
+6. Die Beschlussfassung über ein Verfahren zur Wahl von Delegierten für
+die Bundeskonferenz.
 
-7. die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge
-und die Zulassung von Dringlichkeitsanträgen und
+7. Die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge
+und die Zulassung von Dringlichkeitsanträgen, sowie
 
 8. die Beschlussfassung über die Auflösung der Organisation oder die
 Verschmelzung mit einer anderen Organisation.
 
-(6) Eine außerordentliche Bundesgesamtkonferenz ist einzuberufen
+(6) Eine außerordentliche Bundesgesamtkonferenz ist einzuberufen:
 
 1. auf Beschluss der ordentlichen Bundesgesamtkonferenz oder des
-Bundesvorstand,
+Bundesvorstands,
 
 2. auf mit 2/3 Mehrheit gefassten Beschluss des Bundesvorstands,
 
@@ -370,8 +373,8 @@ Bundesvorstand vorliegen. Sie sollen in der Ständigen
 Mitgliederkonferenz abgestimmt und angenommen worden sein.
 
 (8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu
-protokollieren und außer von den ProtokollführerInnen von mindestens
-zwei KonferenzleiterInnen zu unterzeichnen.
+protokollieren und außer von den Protokollführer\_innen von mindestens
+zwei Konferenzleiter\_innen zu unterzeichnen.
 
 § 11 Der Bundesvorstand
 -----------------------
