@@ -115,6 +115,18 @@ Medien
 Einschränkung von Werbung die auf Kinder zielt
 ----------------------------------------------
 
+Wirtschaft und Geld
+-------------------
+
+Das internationale Geld- und Finanzsystem befindet sich seit Jahren in
+einer krisenhaften Situation. Das System selbst bedingt gar derartige
+Krisen, die bei echten Menschen echtes Leid auslösen. Ein System, dass
+vom Wachstumszwang befreit ist, steuert nicht derart zwangsläufig in
+existensbedrohende Krisen. Vielmehr lässt es uns nach der Befreiung vom
+Wachstumszwang wieder die Freiheit unserer eigentlichen Verantwortung,
+nämlich der für unsere Kinder, Mitmenschen und deren Zukunft gerecht zu
+werden.
+
 [Marketing](/wiki/Marketing "wikilink")
 
 [Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
