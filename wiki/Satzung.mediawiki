@@ -122,43 +122,43 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 (10) Mitglieder des Bundesvorstands dürfen keine bezahlten Aufsichtsratsposten oder Beraterverträge ausüben.
 
 == § 10 Die Bundesgesamtkonferenz ==
-(1) Die Bundesgesamtkonferenz findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal 800 Teilnehmern. Sollte der KUKeN mehr Mitglieder haben werden die Delegierten per Freiwilligen Losverfahren bestimmt. Die Vorschriften dieser Satzung sind hierbei einzuhalten. 
+(1) Die [[[Bundesgesamtkonferenz| Bundesgesamtkonferenz]] findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal 800 Teilnehmern. Sollte der KUEKeN mehr Mitglieder haben, werden die Delegierten durch das freiwillige Losverfahren bestimmt. Die Vorschriften dieser [[Satzung_Bund| Satzung]] sind hierbei einzuhalten. 
 
-(2) Das Freiwillige Losverfahren ist eine einfaches Personen Wahlverfahren. Die Teilnahme ist Freiwillig. Das Losverfahren ist Paritätisch, Gerecht, schnell und es unterdrückt Konkurrenz. Bei einer Mitgliederkonferenz bekommt jedes Mitglied ein Token mit einer Nummer. Dieses Token kann in die Lostrommel gegeben werden um an der Wahl als Kandidat Teilzunehmen. Die Nummer wird beim der Akkreditierung dem Mitglied zugeordnet.
+(2) Das freiwillige Losverfahren ist ein einfaches Personenwahlverfahren. Die Teilnahme ist freiwillig. Das Losverfahren ist paritätisch, gerecht, schnell und es vermeidet Konkurrenz. Bei einer Mitgliederkonferenz bekommt jedes Mitglied einen Token mit einer Nummer. Dieses Token kann in die Lostrommel gegeben werden, um an der Wahl als Kandidat teilzunehmen. Die Nummer wird bei der Akkreditierung dem Mitglied zugeordnet.
 
-(2a) Sollte eine Blockchainbasierte Dezentrale Lotterielösung existieren wird es das Physikalische Losverfahren ersetzen.
+(2a) Sollte eine blockchainbasierte, dezentrale Lotterielösung existieren, wird diese das physikalische Losverfahren ersetzen.
 
 (3) Der Schlüssel für die Ermittlung der Delegiertenzahl wird durch die Bundesgesamtkonferenz beschlossen, wobei für jeden Kreisverband mindestens zwei Delegiertenmandate zu gewährleisten sind (Grundmandat). 
 
-(4) Die Einberufung der Bundesgesamtkonferenz erfolgt durch den Bundesvorstand acht Wochen (Poststempel) vorher durch schriftliche Einladung der gewählten Delegierten mit einer vorläufigen Tagesordnung. 
+(4) Die Einberufung der Bundesgesamtkonferenz erfolgt, acht Wochen vor Stattfinden (Poststempel), durch den Bundesvorstand, durch schriftliche Einladung der gewählten Delegierten und unter Bekanntgabe einer vorläufigen Tagesordnung. 
 
-(5) Die Bundesgesamtkonferenz ist oberstes Organ des KUKeN. Zu ihren Aufgaben gehören insbesondere
+(5) Die Bundesgesamtkonferenz ist oberstes Organ des KUEKeN. Zu ihren Aufgaben gehören insbesondere:
 
 1. Die Beschlussfassung über 
 
-a) den Rechenschaftsbericht des Bundesvorstand, 
+a) den Rechenschaftsbericht des Bundesvorstands, 
 
 b) den Rechnungsprüfungsbericht und 
 
-c) die Entlastung des Bundesvostands, 
+c) die Entlastung des Bundesvorstands.
 
-2. die Wahl des Bundesvorstand, der Bundesschiedsgerichte und zweier RechnungsprüferInnen, 
+2. Die Wahl des Bundesvorstand, der Bundesschiedsgerichte und zweier Rechnungsprüfer_innen.
 
-3. die Beschlussfassung über die Satzung und die Grundsätze des KUKeN (§ 1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung, 
+3. Die Beschlussfassung über die Satzung und die Grundsätze des KUEKeN (§ 1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung. 
 
-4. die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung und eine den Vorschriften des Parteiengesetzes entsprechende Finanzordnung, 
+4. Die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung und eine, den Vorschriften des Parteiengesetzes entsprechende, Finanzordnung.
 
-5. die Aufteilung des Beitrags- und nicht gebundenen Spendenaufkommens sowie eventueller Wahlkampfkostenrückerstattungen aus Bundes- und Europawahlen zwischen den Landesverbänden und dem Bundesverband, 
+5. Die Aufteilung des Beitrags- und nicht gebundenen Spendenaufkommens sowie eventueller Wahlkampfkostenrückerstattungen aus Bundes- und Europawahlen zwischen den Landesverbänden und dem Bundesverband.
 
-6. die Beschlussfassung über ein Verfahren zur Wahl von Delegierten für die Bundeskonferenz, 
+6. Die Beschlussfassung über ein Verfahren zur Wahl von Delegierten für die Bundeskonferenz.
 
-7. die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge und die Zulassung von Dringlichkeitsanträgen und 
+7. Die Beschlussfassung über die ihr ordnungsgemäß vorgelegten Anträge und die Zulassung von Dringlichkeitsanträgen, sowie
 
 8. die Beschlussfassung über die Auflösung der Organisation oder die Verschmelzung mit einer anderen Organisation. 
 
-(6) Eine außerordentliche Bundesgesamtkonferenz ist einzuberufen 
+(6) Eine außerordentliche Bundesgesamtkonferenz ist einzuberufen: 
 
-1. auf Beschluss der ordentlichen Bundesgesamtkonferenz oder des Bundesvorstand, 
+1. auf Beschluss der ordentlichen Bundesgesamtkonferenz oder des Bundesvorstands, 
 
 2. auf mit 2/3 Mehrheit gefassten Beschluss des Bundesvorstands, 
 
@@ -168,8 +168,7 @@ c) die Entlastung des Bundesvostands,
 
 (7) Anträge, die auf der Bundesgesamtkonferenz behandelt werden sollen, müssen mindestens 6 Wochen (Poststempel) vor der Konferenz dem Bundesvorstand vorliegen. Sie sollen in der Ständigen Mitgliederkonferenz abgestimmt und angenommen worden sein. 
 
-(8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu protokollieren und außer von den ProtokollführerInnen von mindestens zwei KonferenzleiterInnen zu unterzeichnen.
-
+(8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu protokollieren und außer von den Protokollführer_innen von mindestens zwei Konferenzleiter_innen zu unterzeichnen.
 
 == § 11 Der Bundesvorstand  ==
 (1) Der Bundesvorstand besteht aus dem Vorsitzenden und dessen Stellvertreter, dem Schatzmeister und optional dessen Stellvertreter, und dem Generalsekretär und dessen erstem, und optional zweitem Stellvertreter. Die Vorsitzenden sind für die politische Leitung und politische Außenvertretung, die Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre für die innerparteiliche Organisation und Verwaltung zuständig. Scheidet ein Amtsträger aus dem Vorstand aus, übernimmt dessen Stellvertreter sein Amt.
