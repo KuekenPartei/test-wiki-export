@@ -477,7 +477,7 @@ ein Veto einlegen. Gegen ein solches Veto kann der überregionale
 Projektbereich bei der Bundesgesamtkonferenz Einspruch einlegen. Die
 Bundesgesamtkonferenz entscheidet abschließend mit einfacher Mehrheit.
 
-(4) Jeder überregionale Projektbereich wählt zwei ehrenamtliche
+(4) Jeder überregionale Projektbereich wählt maximal zwei ehrenamtliche
 SprecherInnen, die die Arbeit des Projektbereichs innerhalb des KUKeN
 und in der Öffentlichkeit vertreten. Sie können eine Aufwandspauschale
 erhalten, wenn die Bundesgesamtkonferenz dies in einer
