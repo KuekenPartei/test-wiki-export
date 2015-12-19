@@ -243,7 +243,7 @@ die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
 - der Bundesvorstand
 
-- ständige Mitgliederversammlung
+- ständige Mitgliederkonferenz
 
 - der Bundeskoordinationsrat
 
@@ -278,10 +278,10 @@ und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUEKeN
 sein.
 
 (8) Mandatsträger\_innen des KUEKeN in Europa-, Bundes-, Landes- oder
-Kreisparlamenten können nicht Mitglieder von Organen, mit Ausnahme der
-Mitgliederkonferenzen, und der Projektbereiche sein oder bleiben. Sie
-können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen
-kandidieren.
+Kreisparlamenten können nicht Mitglieder von Organen, mit Ausnahme der [
+Mitgliederkonferenzen](/wiki/Ständige_Mitgliederkonferenz "wikilink"), und der
+Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach
+Ablauf ihres Mandates zu Organen kandidieren.
 
 (9) Mitglieder der Organisation, die in einem beruflichen oder
 finanziellen Abhängigkeitsverhältnis zum Bundesverband, einem Landes-
