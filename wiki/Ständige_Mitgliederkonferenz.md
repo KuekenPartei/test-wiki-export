@@ -35,5 +35,7 @@ elektronisch, transparent und geheim\] aufzulösen.
 
 \_\_SHOWFACTBOX\_\_
 
+<Kategorie:Parteiorganisation>
+
 <Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
 <Kategorie:Parteiorganisation>
