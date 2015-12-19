@@ -294,7 +294,7 @@ Aufsichtsratsposten oder Beraterverträge ausüben.
 § 10 Die Bundesgesamtkonferenz
 ------------------------------
 
-(1) Die [ Bundesgesamtkonferenz]([Bundesgesamtkonferenz "wikilink")
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
 findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal
 800 Teilnehmern. Sollte der KUEKeN mehr Mitglieder haben, werden die
 Delegierten durch das freiwillige Losverfahren bestimmt. Die
