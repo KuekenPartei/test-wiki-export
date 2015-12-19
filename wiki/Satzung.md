@@ -224,14 +224,14 @@ ausgenommen hiervon sind der Bundesverband und die Landesverbände.
 -----------------------------------
 
 (1) Die Landesverbände sind verpflichtet, alles zu tun, um die Einheit
-des KUKeN zu sichern, sowie alles zu unterlassen, was sich gegen die
-Grundsätze, die Ordnung oder das Ansehen des KUKeN richtet. Sie haben
+des KUEKeN zu sichern, sowie alles zu unterlassen, was sich gegen die
+Grundsätze, die Ordnung oder das Ansehen des KUEKeN richtet. Sie haben
 auch ihre Organe zu einer gleichen Verhaltensweise anzuhalten.
 
 (2) Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder
-Organe diese Pflichten, ist der Bundesvorstand berechtigt und
-verpflichtet, die Landesverbände zur Einhaltung dieser Pflichten
-aufzufordern.
+Organe diese Pflichten, ist der [
+Bundesvorstand](/wiki/Bundesvorstand "wikilink") berechtigt und verpflichtet,
+die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
 § 9 Organe
 ----------
