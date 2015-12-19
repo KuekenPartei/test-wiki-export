@@ -62,10 +62,10 @@ nicht zulässig.
 § 3 Erwerb der Mitgliedschaft
 -----------------------------
 
-(1) Die Mitgliedschaft im KUEKeN wird auf Grundlage dieser [ Satzung
-erworben](/wiki/Satzung_Bund "wikilink"). Die Mitgliedschaft wird zunächst
-unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer
-Gliederungen wird:
+(1) Die Mitgliedschaft im KUEKeN wird auf Grundlage dieser [
+Satzung](/wiki/Satzung_Bund "wikilink") erworben. Die Mitgliedschaft wird
+zunächst unmittelbar bei der Bundespartei erworben. Nach der Gründung
+niederer Gliederungen wird:
 
 1.  die Mitgliedschaft bei der niedrigsten Parteigliederung erworben,
     die den nach Abs. 3 Satz 2 bestimmten Wohnort umfasst.
