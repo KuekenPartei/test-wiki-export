@@ -112,16 +112,16 @@ Deutschlands haben, entscheidet der Bundesvorstand.
 ----------------------------------------
 
 (1) Jedes Mitglied hat das Recht und die Pflicht, im Rahmen dieser
-Satzung und der Satzung seines Landesverbandes die Zwecke des KUKeN zu
+Satzung und der Satzung seines Landesverbandes die Zwecke des KUEKeN zu
 fördern und sich an der politischen und organisatorischen Arbeit des
-KUKeN zu beteiligen. Jedes Mitglied hat das Recht an der politischen
+KUEKeN zu beteiligen. Jedes Mitglied hat das Recht an der politischen
 Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung
 teilzunehmen. Ein Mitglied kann nur in den Vorstand eines
-Gebietsverbandes gewählt werden dessen Mitglied er ist (Passives
+Gebietsverbandes gewählt werden, dessen Mitglied er ist (Passives
 Wahlrecht).
 
-(2) Interna können per mehrheitlichem Beschluss als Verschlusssache
-deklariert werden. Über Verschlusssachen ist Verschwiegenheit zu wahren.
+(2) Interna können per Mehrheitsbeschluss als Verschlusssache deklariert
+werden. Über Verschlusssachen ist Verschwiegenheit zu wahren.
 Verschlusssachen können per mehrheitlichem Beschluss von diesem Status
 befreit werden.
 
@@ -133,7 +133,7 @@ Eintritt geleistet hat, sowie mit seinen Mitgliedsbeiträgen nicht mehr
 als drei Monate im Rückstand ist. Auf Parteitagen ist die Ausübung des
 Stimmrechts nur möglich, wenn alle Mitgliedsbeiträge entrichtet wurden.
 
-(5) jedes Mitglied ist jederzeit zum sofortigen Austritt aus der Partei
+(5) Jedes Mitglied ist jederzeit zum sofortigen Austritt aus der Partei
 berechtigt (Textform erforderlich). Bereits bezahlte Beiträge werden
 nicht zurückerstattet.
 
