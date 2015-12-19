@@ -517,7 +517,7 @@ Bundeskoordinationsrat.
 (2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
 Mitgliederkonferenz.
 
-(3) Der Bundeskoordinationsrat kann den Vorstand beratend zur Seite
+(3) Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite
 stehen.
 
 § 14 Bewerberaufstellung für die Wahlen zu Volksvertretungen
