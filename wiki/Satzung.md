@@ -207,9 +207,9 @@ Ordnungsmaßnahme auch eine mildere Ordnungsmaßnahme aussprechen.
 § 7 Gliederung
 --------------
 
-(1) KUKeN gliedert sich in Landesverbände. Die Landesverbände können
+(1) KUEKeN gliedert sich in Landesverbände. Die Landesverbände können
 nach ihren örtlichen Bedürfnissen Untergliederungen schaffen. Innerhalb
-der staatsrechtlichen Grenzen eines Landes gibt es nur einen
+der staatsrechtlichen Grenzen eines Bundeslandes gibt es nur einen
 Landesverband.
 
 (2) Die weitere Untergliederung der Landesverbände erfolgt in Orts-,
@@ -217,9 +217,8 @@ Kreis- und Bezirksverbände, die deckungsgleich mit den politischen
 Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden
 sind.
 
-(3) Gebietsverbände und Auslandsgruppen sollen sich nicht wirtschaftlich
-betätigen, ausgenommen hiervon sind der Bundesverband und die
-Landesverbände.
+(3) Gebietsverbände sollen sich nicht wirtschaftlich betätigen,
+ausgenommen hiervon sind der Bundesverband und die Landesverbände.
 
 § 8 Bundespartei und Landesverbände
 -----------------------------------
