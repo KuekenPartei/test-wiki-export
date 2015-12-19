@@ -108,7 +108,7 @@ Deutschlands haben, entscheidet der Bundesvorstand.
 
 (6) Jedes Mitglied erhält einen Mitgliedsausweis.
 
-§ 4 Rechte und Pflichten das Mitgliedern
+§ 4 Rechte und Pflichten von Mitgliedern
 ----------------------------------------
 
 (1) Jedes Mitglied hat das Recht und die Pflicht, im Rahmen dieser
