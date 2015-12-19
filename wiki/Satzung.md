@@ -515,7 +515,7 @@ sind öffentlich.
 Bundeskoordinationsrat.
 
 (2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
-Mitgliederversammlung.
+Mitgliederkonferenz.
 
 (3) Der Bundeskoordinationsrat kann den Vorstand beratend zur Seite
 stehen.
