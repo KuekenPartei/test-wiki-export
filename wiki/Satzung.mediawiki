@@ -89,7 +89,7 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 (2) Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder Organe diese Pflichten, ist der [[Bundesvorstand| Bundesvorstand]] berechtigt und verpflichtet, die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
 == § 9 Organe  ==
-(1) Organe im Sinne des PartG sind 
+(1) Organe im Sinne des [http://www.gesetze-im-internet.de/partg/ Parteiengesetzes] sind:
 
 - die Bundesgesamtkonferenz
 
@@ -103,24 +103,23 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 
 - die Gründungsversammlung
 
-(2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx
+(2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx.
 
 (3) Die Organe der Untergliederungen werden durch deren Satzung festgelegt.
 
-(4) In allen Organen, Kommissionen und Ausschüssen sollen mindestens 40% eines Geschlechts vertreten sein. Ausgenommen direkt Geschlechtsspezifische Gruppen, Lesben/Schwule etc.
+(4) In allen Organen, Kommissionen und Ausschüssen sollen mindestens 40% eines Geschlechts vertreten sein. Ausgenommen direkt geschlechtsspezifische Gruppen, Lesben/Schwule etc.
 
-(5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen öffentlich, Anwesende haben Rede- und Antragsrecht, soweit diese Satzung nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
+(5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen öffentlich. Anwesende haben Rede- und Antragsrecht, soweit diese [[Satzung_Bund| Satzung]] nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
 
-(6) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ mit Ausnahme der Bundesgesamtkonferenz und den Projektbereichen angehören. 
+(6) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ, mit Ausnahme der [[Bundesgesamtkonferenz| Bundesgesamtkonferenz]] und den [[Überregionale Projektbereichen| überregionalen Projektbereichen, angehören. 
 
-(7) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUKeN sein. 
+(7) Mitglieder von [[Bundesschiedsgericht| Schiedsgerichten]] und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUEKeN sein. 
 
-(8) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder Kreisparlamenten können nicht Mitglieder von Organen mit Ausnahme der Mitgliederkonferenzen und der Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen kandidieren. 
+(8) Mandatsträger_innen des KUEKeN in Europa-, Bundes-, Landes- oder Kreisparlamenten können nicht Mitglieder von Organen, mit Ausnahme der Mitgliederkonferenzen, und der Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen kandidieren. 
 
 (9) Mitglieder der Organisation, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zum Bundesverband, einem Landes- oder einem Kreisverband oder einer Parlamentsfraktion dieser Ebenen stehen, können nicht Mitglieder von Koordinationsräten werden. 
 
 (10) Mitglieder des Bundesvorstands dürfen keine bezahlten Aufsichtsratsposten oder Beraterverträge ausüben.
-
 
 == § 10 Die Bundesgesamtkonferenz ==
 (1) Die Bundesgesamtkonferenz findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal 800 Teilnehmern. Sollte der KUKeN mehr Mitglieder haben werden die Delegierten per Freiwilligen Losverfahren bestimmt. Die Vorschriften dieser Satzung sind hierbei einzuhalten. 
