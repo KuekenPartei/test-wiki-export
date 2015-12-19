@@ -1,8 +1,8 @@
 Das [[Ist Partei Organ::Bundesschiedsgericht]] ist ein Organ der Partei in der Gliederung [[In Gliederung::Bund]]. 
 
-Er arbeitet nach seiner [[Hat Geschäftsordnung::Schiedsgerichtsordnung_Bund| Schiedsgerichtsordnung]].
+Das Bundesschiedsgericht arbeitet nach seiner [[Hat Geschäftsordnung::Schiedsgerichtsordnung_Bund| Schiedsgerichtsordnung]].
 
-Er hat [[hat Mitglieder::3]] Mitglieder.
+Das Bundesschiedsgericht hat [[hat Mitglieder::3]] Mitglieder.
 
 Organ gemäß [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
 
