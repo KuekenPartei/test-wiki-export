@@ -41,8 +41,10 @@ friedlich miteinander zusammenleben.
 
 ### Moderne Strukturen
 
--   Per “smart contract” werden viele Verwaltungsvorgänge in eine
-    dezentrale transparente Blockchain verlegt.
+-   Per “smart contract” werden viele
+    \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>|
+    Verwaltungsvorgänge\] in eine dezentrale transparente Blockchain
+    verlegt.
 -   Möglichst viele Vorgänge werden über alternative Wirtschaftssysteme
     wie \[<https://de.wikipedia.org/wiki/Bitcoin>| Bitcoin\]
     abgewickelt.
