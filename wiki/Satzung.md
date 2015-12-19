@@ -25,21 +25,22 @@ Wandel der Perspektive.
 § 1 Name, Sitz, Zweck und Tätigkeitsgebiet
 ------------------------------------------
 
-(1) KUKeN ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik
+(1) KUEKeN ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik
 Deutschland und des Parteiengesetzes.
 
-(2) KUKeN führt einen Namen und eine Kurzbezeichnung. Der Name lautet:
-Kreis für Umwelt, Erwachsene, Kinder und ernsthafte Nachhaltigkeit Die
-offizielle Abkürzung des Parteinamens lautet: KUKeN Landesverbände
-führen den Namen KUKeN verbunden mit dem Namen des jeweiligen
+(2) KUEKeN führt einen Namen und eine Kurzbezeichnung. Der Name lautet:
+Kreis für Umwelt, Erwachsene, Kinder und ernsthafte Nachhaltigkeit. Die
+offizielle Abkürzung des Parteinamens lautet: KUEKeN. Landesverbände
+führen den Namen KUEKeN verbunden mit dem Namen des jeweiligen
 Bundeslandes.
 
-(3) Der Sitz der Partei ist Berlin.
+(3) Der Sitz der Partei ist in Berlin.
 
-(4) Der Zweck der Partei ist durch die Grundbestimmungen Abschnitt B und
-der Präambel markiert.
+(4) Der Zweck der Partei ist durch die Grundbestimmungen in [ Abschnitt
+B](/wiki/Satzung_Bund#Abschnitt_B:_Grundbestimmungen "wikilink") und der
+Präambel markiert.
 
-(5) Das Tätigkeitsgebiet des KUKeN ist die Bundesrepublik Deutschland.
+(5) Das Tätigkeitsgebiet des KUEKeN ist die Bundesrepublik Deutschland.
 
 § 2 Mitgliedschaft
 ------------------
