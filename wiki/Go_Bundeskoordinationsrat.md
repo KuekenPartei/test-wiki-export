@@ -23,7 +23,7 @@ in die Bundesvorstandssitzung einbringt.
 § 2 Tagung des Bundeskoordinationsrates
 ---------------------------------------
 
-(1) Der Bundeskoordinationsrat tagt mindestens drei Mal innerhalb des
+(1) Der Bundeskoordinationsrat tagt mindestens ein Mal innerhalb des
 laufenden Kalenderjahres in öffentlicher Sitzung.
 
 (2) Die öffentliche Sitzung des Bundeskoordinationsrates muss beim
