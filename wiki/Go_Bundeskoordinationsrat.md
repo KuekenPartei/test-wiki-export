@@ -12,5 +12,7 @@ ständige Mitgliederkonferenz einbringen. Ein Antrag kann in die ständige
 Mitgliederkonferenz eingebracht werden, wenn mindestens alle
 Sprecherinnen des entsprechenden Projektbereiches dem Antrag zustimmen.
 
-(4) Der Bundeskoordinationsrat kann den Vorstand beratend zur Seite
-stehen.
+(4) Der Bundeskoordinationsrat kann dem Bundesvorstand beratend zur
+Seite stehen, indem er [
+Anträge](/wiki/Go_bundesvorstand#.C2.A73_Antr.C3.A4ge "wikilink") in die
+Bundesvorstandssitzung einbringt.
