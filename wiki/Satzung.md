@@ -236,7 +236,8 @@ die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 § 9 Organe
 ----------
 
-(1) Organe im Sinne des PartG sind
+(1) Organe im Sinne des
+[Parteiengesetzes](http://www.gesetze-im-internet.de/partg/) sind:
 
 - die Bundesgesamtkonferenz
 
@@ -250,32 +251,35 @@ die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
 - die Gründungsversammlung
 
-(2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx
+(2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx.
 
 (3) Die Organe der Untergliederungen werden durch deren Satzung
 festgelegt.
 
 (4) In allen Organen, Kommissionen und Ausschüssen sollen mindestens 40%
 eines Geschlechts vertreten sein. Ausgenommen direkt
-Geschlechtsspezifische Gruppen, Lesben/Schwule etc.
+geschlechtsspezifische Gruppen, Lesben/Schwule etc.
 
 (5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen
-öffentlich, Anwesende haben Rede- und Antragsrecht, soweit diese Satzung
-nichts anderes vorschreibt. Die Öffentlichkeit der Sitzungen erstreckt
-sich nicht auf Personen, die dem BND, Verfassungsschutzämtern, dem MAD,
-dem BGS, der Polizei oder Staatsanwaltschaften zuarbeiten oder in deren
-Auftrag tätig sind.
+öffentlich. Anwesende haben Rede- und Antragsrecht, soweit diese [
+Satzung](/wiki/Satzung_Bund "wikilink") nichts anderes vorschreibt. Die
+Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem
+BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder
+Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
 
-(6) Mitglieder von Organen können nicht gleichzeitig einem anderen Organ
-mit Ausnahme der Bundesgesamtkonferenz und den Projektbereichen
+(6) Mitglieder von Organen können nicht gleichzeitig einem anderen
+Organ, mit Ausnahme der [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") und den
+\[\[Überregionale Projektbereichen| überregionalen Projektbereichen,
 angehören.
 
-(7) Mitglieder von Schiedsgerichten und RechnungsprüferInnen aller
-Ebenen können nur Mitglieder des KUKeN sein.
+(7) Mitglieder von [ Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink")
+und RechnungsprüferInnen aller Ebenen können nur Mitglieder des KUEKeN
+sein.
 
-(8) MandatsträgerInnen des KUKeN in Europa-, Bundes-, Landes- oder
-Kreisparlamenten können nicht Mitglieder von Organen mit Ausnahme der
-Mitgliederkonferenzen und der Projektbereiche sein oder bleiben. Sie
+(8) Mandatsträger\_innen des KUEKeN in Europa-, Bundes-, Landes- oder
+Kreisparlamenten können nicht Mitglieder von Organen, mit Ausnahme der
+Mitgliederkonferenzen, und der Projektbereiche sein oder bleiben. Sie
 können frühestens zwei Jahre nach Ablauf ihres Mandates zu Organen
 kandidieren.
 
