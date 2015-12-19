@@ -74,6 +74,8 @@ Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der not
 | [[go_Bundeskoordinationsrat| Bundeskoordinationsrat GO]] || W ||  ||   ||
 |-
 | [[go_bundesvorstand| Bundesvorstand GO]] || X ||  ||   ||
+|-
+| [[Mitgliedsantrag]] ||   ||  ||  ||
 |}
 '''W'''- in work
 
