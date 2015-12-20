@@ -484,9 +484,9 @@ Weiterentwicklung der programmatischen Grundlagen der Organisation und
 der fachlichen Zusammenarbeit mit interessierten Personen und
 Institutionen außerhalb des KUEKeN.
 
-(2) Für den Tagungsaufwand ([
-Aufwandshaushalt](/wiki/Aufwandshaushalt "wikilink")) und für die fachliche
-Arbeit ([ Aktionshaushalt](/wiki/Aktionshaushalt "wikilink")) sind Mittel im [
+(2) Für den Tagungsaufwand
+([Aufwandshaushalt](/wiki/Aufwandshaushalt "wikilink")) und für die fachliche
+Arbeit ([Aktionshaushalt](/wiki/Aktionshaushalt "wikilink")) sind Mittel im [
 Bundeshaushalt](/wiki/Bundeshaushalt "wikilink") der Organisation vorzusehen.
 
 (3) Mitglieder und Nichtmitglieder sind in den überregionalen
