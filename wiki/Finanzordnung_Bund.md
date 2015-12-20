@@ -31,12 +31,13 @@ Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner
 unmittelbaren Gliederungen. Er hat das Recht auch in deren Gliederungen
 die ordnungsgemäße Buchführung zu kontrollieren und gewährleistet damit,
 dass jederzeit die zur Erstellung des Prüfvermerks für den
-Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz vorgeschriebenen
-Stichproben möglich sind. Ist die rechtzeitige Abgabe des
-Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene gefährdet,
-so hat der jeweils höhere Gebietsverband das Recht und die Pflicht durch
-geeignete Maßnahmen die ordnungsgemäße Buchführung seiner Gliederungen
-zu gewährleisten.
+Rechenschaftsbericht nach [§ 29 Abs.3
+Parteiengesetz](http://www.gesetze-im-internet.de/partg/__29.html)
+vorgeschriebenen Stichproben möglich sind. Ist die rechtzeitige Abgabe
+des Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene
+gefährdet, so hat der jeweils höhere Gebietsverband das Recht und die
+Pflicht durch geeignete Maßnahmen die ordnungsgemäße Buchführung seiner
+Gliederungen zu gewährleisten.
 
 B. MITGLIEDSBEITRAG
 -------------------
