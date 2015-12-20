@@ -700,12 +700,13 @@ Versammlungsleitung.
 (9) Der Diskussions- und Abstimmungsprozess sowie der weitere
 Akkreditierungsprozess wird in der Geschäftsordnung der SMK geregelt.
 
-§ 21 Liquid Democary
---------------------
+§ 21 Liquid Democracy
+---------------------
 
-(1) Zwischen den Mitgliederversammlungen nutzt das KUKeN das Konzept der
-Liquid Democracy zur Willensbildung über das Internet. Hierzu betreibt
-sie eine geeignete Software, die folgende Mindestanforderungen erfüllt:
+(1) Zwischen den Mitgliederkonferenzen nutzt das KUEKeN das Konzept der
+\[<https://de.wikipedia.org/wiki/Liquid_Democracy>\| Liquid Democracy\]
+zur Willensbildung über das Internet. Hierzu betreibt sie eine geeignete
+Software, die folgende Mindestanforderungen erfüllt:
 
 a) Jedes Mitglied muss die Möglichkeit haben, Anträge im System zu
 stellen. Zulassungsquoren und Antragskontingente sind zulässig, müssen
@@ -726,32 +727,34 @@ benachteiligen. Mitgliedern muss es möglich sein, mehreren
 konkurrierenden Anträgen gleichzeitig zuzustimmen. Der Einsatz eines
 Präferenzwahlverfahrens ist hierbei zulässig.
 
-f) Es muss möglich sein, die eigene Stimme mindestens
-themenbereichsbezogen durch Delegation an ein anderes Mitglied zu
+f) Es muss möglich sein, die eigene Stimme, mindestens
+themenbereichsbezogen, durch Delegation an ein anderes Mitglied zu
 übertragen. Diese Delegationen müssen jederzeit widerrufbar sein und
-übertragenes Stimmgewicht muss weiter übertragen werden können.
-Selbstgenutztes Stimmgewicht darf nicht weiter übertragen werden.
+übertragenes Stimmgewicht muss weiter übertragen werden können. Selbst
+genutztes Stimmgewicht darf nicht weiter übertragen werden.
 
-(2) Der Vorstand stellt den dauerhaften und ordnungsgemäßen Betrieb des
-Systems sicher.
+(2) Der [ Bundesvorstand](/wiki/Bundesvorstand "wikilink") stellt den
+dauerhaften und ordnungsgemäßen Betrieb des Systems sicher.
 
 (3) Jedem Mitglied ist Einsicht in den abstimmungsrelevanten
 Datenbestand des Systems zu gewähren. Während einer Abstimmung darf der
 Zugriff auf die jeweiligen Abstimmdaten anderer Mitglieder vorübergehend
 gesperrt werden.
 
-(4) Die Organe sind gehalten, das Liquid-Democracy-System zur Einholung
-von Empfehlungen zur Grundlage ihrer Beschlüsse zu nutzen und von diesen
-Empfehlungen abweichende Entscheidungen zu begründen. Das Schiedsgericht
-ist davon ausgenommen.
+(4) Die [ Organe](/wiki/Category%3AParteiorganisation "wikilink") sind
+gehalten, das Liquid-Democracy-System zur Einholung von Empfehlungen als
+Grundlage ihrer Beschlüsse zu nutzen und von diesen Empfehlungen
+abweichende Entscheidungen zu begründen. Das [
+Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") ist davon ausgenommen.
 
-(5) Die Organe der Partei sind angehalten, die Anträge, die im Liquid
-Democracy System positiv beschieden wurden, vorrangig zu behandeln.
+(5) Die Organe der Partei sind angehalten, die Anträge, die im
+Liquid-Democracy-System positiv beschieden wurden, vorrangig zu
+behandeln.
 
 (6) Teilnahmeberechtigt ist jedes Mitglied, das nach dieser Satzung in
-der Mitgliederversammlung stimmberechtigt ist. Jeder
-Teilnahmeberechtigte erhält genau einen persönlichen Zugang, der nur von
-ihm genutzt werden darf.
+der Mitgliederkonferenz stimmberechtigt ist. Jeder Teilnahmeberechtigte
+erhält genau einen persönlichen Zugang, der nur von ihm genutzt werden
+darf.
 
 (7) Verstößt ein Nutzer wiederholt und in erheblichem Maße gegen die
 Nutzungsbedingungen des Systems, so kann der Vorstand als
@@ -761,5 +764,5 @@ auf das System, die von einem angemeldeten Benutzer ausgehen, kann
 dieses Benutzerkonto durch Administratoren vorübergehend gesperrt
 werden.
 
-(8) Ein transparentes Blockchain basiertes System soll eingesetzt werden
-wenn es technisch zur Verfügung steht.
+(8) Ein transparentes Blockchain basiertes System soll eingesetzt
+werden, wenn es technisch zur Verfügung steht.
