@@ -122,12 +122,13 @@ C. SPENDEN
 
 (1) Bundesebene, Landesverbände und weitere Teilgliederungen sind
 berechtigt, Spenden anzunehmen. Ausgenommen sind Spenden, die im Sinne
-von \[<http://www.gesetze-im-internet.de/partg/__25.html>| § 25
-Parteiengesetz\] unzulässig sind. Können unzulässige Spenden nicht
-zurückgegeben werden, sind diese über die Landesverbände und die
-Bundesebene unverzüglich an den
-\[<http://www.bundestag.de/bundestag/praesidium>| Präsidenten des
-Deutschen Bundestages\] weiterzuleiten.
+von [§ 25
+Parteiengesetz](http://www.gesetze-im-internet.de/partg/__25.html)
+unzulässig sind. Können unzulässige Spenden nicht zurückgegeben werden,
+sind diese über die Landesverbände und die Bundesebene unverzüglich an
+den [Präsidenten des Deutschen
+Bundestages](http://www.bundestag.de/bundestag/praesidium)
+weiterzuleiten.
 
 (2) Erbschaften und Vermächtnisse werden ohne Begrenzung angenommen.
 
