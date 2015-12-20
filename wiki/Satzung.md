@@ -381,44 +381,50 @@ zwei Konferenzleiter\_innen zu unterzeichnen.
 § 11 Der Bundesvorstand
 -----------------------
 
-(1) Der Bundesvorstand besteht aus dem Vorsitzenden und dessen
-Stellvertreter, dem Schatzmeister und optional dessen Stellvertreter,
-und dem Generalsekretär und dessen erstem, und optional zweitem
-Stellvertreter. Die Vorsitzenden sind für die politische Leitung und
-politische Außenvertretung, die Schatzmeister für die
-Finanzangelegenheiten, und die Generalsekretäre für die innerparteiliche
-Organisation und Verwaltung zuständig. Scheidet ein Amtsträger aus dem
-Vorstand aus, übernimmt dessen Stellvertreter sein Amt.
+(1) Der [ Bundesvorstand](/wiki/Bundesvorstand "wikilink") besteht aus dem [
+Vorsitzenden](/wiki/Go_Bundesvorstand "wikilink") und dessen Stellvertreter,
+dem [ Schatzmeister](/wiki/Finanzordnung_Bund "wikilink") und optional dessen
+Stellvertreter, und dem [ Generalsekretär](/wiki/Go_Bundesvorstand "wikilink")
+und dessen erstem, und optional zweitem Stellvertreter. Die Vorsitzenden
+sind für die politische Leitung und politische Außenvertretung, die
+Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre
+für die innerparteiliche Organisation und Verwaltung zuständig. Scheidet
+ein Amtsträger aus dem Vorstand aus, übernimmt dessen Stellvertreter
+sein Amt.
 
-(2) Der Bundesvorstand vertritt den KUKeN nach innen und außen. Er führt
-die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
+(2) Der Bundesvorstand vertritt den KUEKeN nach innen und außen. Er
+führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
-(3) Die Mitglieder des Bundesvorstands werden vom Bundesparteitag
-mindestens einmal im Kalenderjahr gewählt. Der Bundesvorstand bleibt bis
-zur Wahl eines neuen Bundesvorstands im Amt. Ist ein Vorstandsamt durch
-Rücktritt oder eine geheim abzustimmende Abwahl unbesetzt, so kann
-dieses vom Bundesparteitag durch Nachwahl neu besetzt werden. Die
-Amtszeit eines nachgewählten Vorstandsmitgliedes endet spätestens mit
-der Neuwahl des Vorstandes.
+(3) Die Mitglieder des Bundesvorstand werden von der [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mindestens alle
+zwei Kalenderjahre gewählt. Der Bundesvorstand bleibt bis zur Wahl eines
+neuen Bundesvorstands im Amt. Ist ein Vorstandsamt durch Rücktritt oder
+eine geheim abzustimmende Abwahl unbesetzt, so kann dieses von der
+Bundesgesamtkonferenz durch Nachwahl neu besetzt werden. Die Amtszeit
+eines nachgewählten Vorstandsmitgliedes endet spätestens mit der Neuwahl
+des Vorstandes.
 
 (4) Der Bundesvorstand tritt mindestens zweimal jährlich zusammen. Er
-wird vom Bundesvorsitzenden oder bei dessen Verhinderung von einem
+wird vom Bundesvorsitzenden oder, bei dessen Verhinderung, von einem
 seiner Stellvertreter schriftlich mit einer Frist von zwei Wochen unter
 Angabe der Tagesordnung und des Tagungsortes einberufen. Bei
 außerordentlichen Anlässen kann die Einberufung auch kurzfristiger
 erfolgen.
 
-(5) Auf Antrag der ständigen Mitgliederversammlung kann der
+(5) Auf Antrag der [ ständigen
+Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink") oder
+auf Anraten des [
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink") kann der
 Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen
-Fragestellungen befasst werden. Oder auf anraten des
-Bundeskoordinationsrat.
+Fragestellungen befasst werden
 
 (6) Der Bundesvorstand beschließt über alle organisatorischen und
 politischen Fragen im Sinne der Beschlüsse der Bundesgesamtkonferenz
-bzw. der Gründungsversammlung.
+bzw. der [ Gründungsversammlung](/wiki/Gründungsversammlung "wikilink").
 
-(7) Der Bundesvorstand gibt sich eine Geschäftsordnung und
-veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
+(7) Der Bundesvorstand gibt sich eine [
+Geschäftsordnung](/wiki/Go_Bundesvorstand "wikilink") und veröffentlicht diese
+angemessen. Sie umfasst u.a. Regelungen zu:
 
 1.  Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung
 2.  Aufgaben und Kompetenzen der Vorstandsmitglieder
@@ -428,16 +434,17 @@ veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
 6.  Beurkundung von Beschlüssen des Vorstandes
 7.  Die genaue Amtsbezeichnung der weiteren Mitglieder nach (1)
 
-(8) Die Führung der Bundesgeschäftsstelle wird durch den Vorstand
-beauftragt und beaufsichtigt.
+(8) Die Führung der [
+Bundesgeschäftsstelle](/wiki/Bundesgeschäftsstelle "wikilink") wird durch den
+Vorstand beauftragt und beaufsichtigt.
 
 (9) Der Bundesvorstand liefert zur Bundesgesamtkonferenz einen
-schriftlichen Tätigkeitsbericht ab. Dieser Umfasst alle
+schriftlichen Tätigkeitsbericht ab. Dieser umfasst alle
 Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in
 Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand
-insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der
-Bundesparteitag oder der neue Vorstand gegen ihn Ansprüche geltend
-machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich
+insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann die
+Bundesgesamtkonferenz oder der neue Vorstand gegen ihn Ansprüche geltend
+machen. Tritt ein Vorstandsmitglied zurück, hat dieses unverzüglich
 einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
 
 (10) Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben
@@ -449,18 +456,18 @@ handlungsfähig, wenn
 2.  der Vorstand sich selbst für handlungsunfähig erklärt.
 
 In einem solchen Fall ist unverzüglich eine außerordentliche
-Mitgliederversammlung einzuberufen und vom restlichen Bundesvorstand zur
+Bundesgesamtkonferenz einzuberufen und vom restlichen Bundesvorstand zur
 Weiterführung der Geschäfte eine kommissarische Vertretung zu ernennen.
 Diese endet mit der Neuwahl des gesamten Vorstandes.
 
 (11) Tritt der gesamte Vorstand geschlossen zurück oder kann seinen
 Aufgaben nicht mehr nachkommen, so führt der dienstälteste
-Landesverbandsvorstand kommissarisch die Geschäfte bis ein von ihm
-einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden
-und einen neuen Bundesvorstand gewählt hat.
+Landesverbandsvorstand kommissarisch die Geschäfte, bis ein von ihm
+einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden,
+und einen neuen Bundesvorstand gewählt, hat.
 
 (12) Der Bundesvorstand hat Schuld, diese ist wie folgt unter den
-Vorstandsmitgliedern aufgeteilt : Der erste und zweite Vorsitzende hat
+Vorstandsmitgliedern aufgeteilt: Der erste und zweite Vorsitzende haben
 immer Schuld, alle anderen Vorstandsmitglieder habe eine Teilschuld.
 
 § 12 Die überregionalen Projektbereiche
