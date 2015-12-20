@@ -3,8 +3,8 @@ Abschnitt D: Schiedsgerichtsordnung
 
 ### § 1 Grundlagen
 
-(1) Die Schiedsgerichtsordnung regelt das Verfahren vor den
-Schiedsgerichten.
+(1) Die Schiedsgerichtsordnung regelt das Verfahren vor den [
+Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink").
 
 (2) Sie ist für Schiedsgerichte jeder Ordnung bindend. Eine Erweiterung
 oder Abänderung durch andere Gliederungen ist nur an den Stellen und in
