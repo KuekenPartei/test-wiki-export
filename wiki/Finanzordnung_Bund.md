@@ -152,11 +152,10 @@ den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte
 Spenden nach [ §
 11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung "wikilink") nicht
 im Rechenschaftsbericht veröffentlicht, so verliert er gemäß
-\[<http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377>\|
-§ 31a Parteiengesetz\] den ihm nach der jeweiligen Beschlusslage
-zustehenden Anspruch auf staatliche Teilfinanzierung in Höhe des
-Zweifachen der rechtswidrig erlangten oder nicht veröffentlichten
-Spenden.
+\[<http://www.gesetze-im-internet.de/partg/__31a.html>\| § 31a
+Parteiengesetz\] den ihm nach der jeweiligen Beschlusslage zustehenden
+Anspruch auf staatliche Teilfinanzierung in Höhe des Zweifachen der
+rechtswidrig erlangten oder nicht veröffentlichten Spenden.
 
 ### § 13 Spendenbescheinigung
 
