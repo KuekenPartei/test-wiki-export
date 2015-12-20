@@ -150,11 +150,11 @@ Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß [
 den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte
 Spenden nach [ §
 11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung "wikilink") nicht
-im Rechenschaftsbericht veröffentlicht, so verliert er gemäß
-\[<http://www.gesetze-im-internet.de/partg/__31a.html>| § 31a
-Parteiengesetz\] den ihm nach der jeweiligen Beschlusslage zustehenden
-Anspruch auf staatliche Teilfinanzierung in Höhe des Zweifachen der
-rechtswidrig erlangten oder nicht veröffentlichten Spenden.
+im Rechenschaftsbericht veröffentlicht, so verliert er gemäß [§ 31a
+Parteiengesetz](http://www.gesetze-im-internet.de/partg/__31a.html) den
+ihm nach der jeweiligen Beschlusslage zustehenden Anspruch auf
+staatliche Teilfinanzierung in Höhe des Zweifachen der rechtswidrig
+erlangten oder nicht veröffentlichten Spenden.
 
 ### § 13 Spendenbescheinigung
 
