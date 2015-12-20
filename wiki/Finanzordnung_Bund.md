@@ -3,8 +3,8 @@ Abschnitt C: Finanzordnung
 
 ### § 1 Zuständigkeit
 
-Dem Schatzmeister obliegen die Verwaltung der Finanzen und die Führung
-der Bücher.
+Dem [ Schatzmeister](/wiki/Schatzmeister "wikilink") obliegen die Verwaltung
+der Finanzen und die Führung der Bücher.
 
 A. RECHENSCHAFTSBERICHT
 -----------------------
