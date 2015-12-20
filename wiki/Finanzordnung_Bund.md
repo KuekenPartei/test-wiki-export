@@ -24,8 +24,8 @@ Rechenschaftsberichte der Landesverbände vor.
 Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31.
 März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben,
 nach Maßgabe der Bestimmungen des
-\[<http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377>\|
-§ 24 Parteiengesetz\], ab.
+\[<http://www.gesetze-im-internet.de/partg/__24.html>\| § 24
+Parteiengesetz\], ab.
 
 ### § 4 Durchgriffsrecht
 
