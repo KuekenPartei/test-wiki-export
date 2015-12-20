@@ -91,16 +91,18 @@ nächsthöhere Gliederung.
 ### § 7 Verzug
 
 (1) Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag
-nicht zur Fälligkeit entrichtet wurde.
+nicht zur [
+Fälligkeit](/wiki/Finanzordnung_Bund#.C2.A7_5_H.C3.B6he_Mitgliedsbeitrag "wikilink")
+entrichtet wurde.
 
 (2) Ein Mitglied, das sich mit seinem Beitrag um mehr als 12 Monate im
 Verzug befindet, kann aus der Mitgliederdatenbank gestrichen werden und
-verliert dadurch seine Mitgliedschaft in allen Gliederungen das
-Mitgliedenpartei. Vor der Streichung ist das Mitglied mindestens zweimal
-zu mahnen. Zwischen den Mahnungen muss ein Abstand von mindestens 30
-Tagen liegen.
+verliert dadurch seine Mitgliedschaft in allen Gliederungen des KUEken.
+Vor der Streichung ist das Mitglied mindestens zweimal zu mahnen.
+Zwischen den Mahnungen muss ein Abstand von mindestens 30 Tagen liegen.
 
-(3) Zuständig für die Streichungen ist der Bundesverband.
+(3) Zuständig für die Streichungen ist der [
+Bundesvorstand](/wiki/Bundesvorstand "wikilink").
 
 (4) Die Streichung ist dem Mitglied mitzuteilen. Gegen die Streichung
 ist Widerspruch beim zuständigen Schiedsgericht zulässig.
