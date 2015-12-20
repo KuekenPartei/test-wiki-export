@@ -288,7 +288,7 @@ Die Satzungen der Landesverbände und ihrer Untergliederungen müssen mit den gr
 (9) Der Diskussions- und Abstimmungsprozess sowie der weitere Akkreditierungsprozess wird in der Geschäftsordnung der SMK geregelt.
 
 == § 21 Liquid Democracy ==
-(1) Zwischen den Mitgliederkonferenzen nutzt das KUEKeN das Konzept der [https://de.wikipedia.org/wiki/Liquid_Democracy| Liquid Democracy] zur Willensbildung über das Internet. Hierzu betreibt sie eine geeignete Software, die folgende Mindestanforderungen erfüllt: 
+(1) Zwischen den Mitgliederkonferenzen nutzt das KUEKeN das Konzept der [https://de.wikipedia.org/wiki/Liquid_Democracy Liquid Democracy] zur Willensbildung über das Internet. Hierzu betreibt sie eine geeignete Software, die folgende Mindestanforderungen erfüllt: 
 
 a) Jedes Mitglied muss die Möglichkeit haben, Anträge im System zu stellen. Zulassungsquoren und Antragskontingente sind zulässig, müssen jedoch für alle Mitglieder gleich sein. 
 
