@@ -91,10 +91,10 @@ Gerechtigkeit
 
 Nur in einer Gesellschaft, die strukturbedingte Benachteiligungen in den
 Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem
-Menschen die \[<https://de.wikipedia.org/wiki/Partizipation>|
-gesellschaftliche Teilhabe\] ermöglicht, können Kinder kulturangemessen
-aufwachsen und zu mündigen und gesellschaftskundigen Menschen
-heranreifen.
+Menschen die [gesellschaftliche
+Teilhabe](https://de.wikipedia.org/wiki/Partizipation) ermöglicht,
+können Kinder kulturangemessen aufwachsen und zu mündigen und
+gesellschaftskundigen Menschen heranreifen.
 
 Lebenszeit als Schatz
 ---------------------
