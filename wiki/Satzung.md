@@ -765,5 +765,7 @@ auf das System, die von einem angemeldeten Benutzer ausgehen, kann
 dieses Benutzerkonto durch Administratoren vorübergehend gesperrt
 werden.
 
-(8) Ein transparentes Blockchain basiertes System soll eingesetzt
-werden, wenn es technisch zur Verfügung steht.
+(8) Ein transparentes
+[Blockchain](https://en.wikipedia.org/wiki/Block_chain_%28database%29)
+basiertes System soll eingesetzt werden, wenn es technisch zur Verfügung
+steht.
