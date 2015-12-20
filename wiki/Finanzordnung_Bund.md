@@ -248,7 +248,5 @@ G. WIRTSCHAFTLICHER GESCHÄFTSBETRIEB
 
 ### § 24 Wirtschaftlicher Geschäftsbetrieb
 
-Es ist den Gliederungen das Mitgliedenpartei nicht gestattet, einen
-wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die
-Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten
-zu besorgen, der vom Bundesvorstand bestellt wird.
+Das Eröffnen und Unterhalten von wirtschaftlichen Geschäftsbetrieben ist
+dem Bundesverband und Landesverbänden vorbehalten.
