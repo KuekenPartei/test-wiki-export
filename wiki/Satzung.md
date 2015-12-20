@@ -642,53 +642,56 @@ Regelungen des Landesverbandes nicht überschreiten.
 § 20 Ständige Mitgliederkonferenz
 ---------------------------------
 
-(1) Die Ständige Mitgliederkonferenz (Kurzform SMK) ist der
-grundsätzlich ständig und online tagende Zusammentritt der Mitglieder
-des KUKeN.
+(1) Die [ Ständige
+Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink") (Kurzform
+SMK) ist der grundsätzlich ständig und online tagende Zusammentritt der
+Mitglieder des KUEKeN.
 
-(2) Mitglieder des KUKeN müssen sich akkreditieren, um an der SMV
-teilnehmen zu können. Die Akkreditierung der Teilnehmer der SMK erfolgt
-auf öffentlichen Präsenzveranstaltungen, zu denen die
-Versammlungsleitung zum Zweck der Akkreditierung mittels
-Veröffentlichung auf der Website des s KUKeN eingeladen hat, wobei die
-Einladung mindestens 7 Tage vor Beginn der Veranstaltung zu
-veröffentlichen ist oder durch eine qualifizierte Akkreditierung der
-Teilnehmer in den Geschäftsstellen des Verbandes.
+(2) Mitglieder des KUEKeN müssen sich akkreditieren, um an der SMK
+teilnehmen zu können. Die Akkreditierung der Teilnehmer\_innen der SMK
+erfolgt auf öffentlichen Präsenzveranstaltungen der Bundespartei oder
+der Landesverbände, zu denen die Versammlungsleitung zum Zweck der
+Akkreditierung mittels Veröffentlichung auf der Website des KUEKeN
+eingeladen hat, wobei die Einladung mindestens 7 Tage vor Beginn der
+Veranstaltung zu veröffentlichen ist oder durch eine qualifizierte
+Akkreditierung der Teilnehmer in den Geschäftsstellen des Verbandes.
 
 (3) Die SMK arbeitet transparent und nachvollziehbar. Es finden
 ausschließlich namentliche Abstimmungen statt, bei denen jedes Mitglied
-des KUKUeN innerhalb einer Nachvollziehbarkeitsfrist das
+des KUEKeN innerhalb einer Nachvollziehbarkeitsfrist das
 Abstimmungsverhalten jeder abstimmenden Person einsehen und der
 entsprechenden Person zuordnen kann. Nichtmitglieder können das
 Abstimmverhalten nicht einsehen. Nach Ablauf der
 Nachvollziehbarkeitsfrist werden die Daten zum Abstimmungsverhalten der
-Mitglieder aus dem System gelöscht. Das Nähere regelt die
-Geschäftsordnung.
+Mitglieder aus dem System gelöscht. Das Nähere regelt die [
+Geschäftsordnung](/wiki/Go_smk "wikilink").
 
 (4) Alle Mitglieder haben das Recht die Identitäten aller anderen
 akkreditierten Versammlungsmitglieder zu überprüfen. Um dies zu
 ermöglichen, stellt sich bei der Akkreditierung das zu akkreditierende
-Mitglied gegenüber den Anwesenden der Akkreditierungsveranstaltung mit
-bürgerlichem Namen vor. Mindestens der bürgerliche Name der
-akkreditierten Teilnehmer wird anschließend erfasst und allen
+Mitglied gegenüberden Anwesenden der Akkreditierungsveranstaltung mit
+bürgerlichem Namen vor. Mindestens der bürgerliche Name eines
+akkreditierten Teilnehmers wird anschließend erfasst und allen
 akkreditierten Versammlungsmitgliedern in geeigneter Weise online
 angezeigt.
 
-(5) Die SMK arbeitet online nach den Prinzipien der Liquid Democracy
-entsprechend § 21 dieser Satzung. Delegationen sind zeitlich begrenzt.
-Näheres regelt die Geschäftsordnung.
+(5) Die SMK arbeitet online nach den Prinzipien der
+\[<https://de.wikipedia.org/wiki/Liquid_Democracy>\| Liquid Democracy\]
+entsprechend \[\[Satzung\#.C2.A7\_21\_Liquid\_Democary\| § 21\] dieser
+Satzung. Delegationen sind zeitlich begrenzt. Näheres regelt die
+Geschäftsordnung.
 
 (6) Die SMK verwendet technische Systeme, die bevorzugt asynchrone
 Zusammenarbeit bei der Meinungs- und Willensbildung ermöglichen. Das
-KUKeN betreibt die hierzu notwendigen technischen Systeme.
+KUEKeN betreibt die hierzu notwendigen technischen Systeme.
 
 (7) Bei räumlichen und zeitlichen Zusammentritten der
-Landesmitgliederversammlung wird eine Versammlungsleitung für die SMK in
-geheimer Wahl für maximal 500 Tage gewählt. Die Amtszeit endet
+Landesgesamtkonferenz wird eine Versammlungsleitung für die SMK, in
+geheimer Wahl für maximal 500 Tage, gewählt. Die Amtszeit endet
 spätestens mit der Wahl einer neuen Versammlungsleitung. Die Wiederwahl
 ist zulässig.
 
-(8) Die Versammlungsleitung besteht aus mindestens zwei Piraten des
+(8) Die Versammlungsleitung besteht aus mindestens zwei Mitgliedern des
 Landesverbandes. Bei der Wahl ist eine eindeutige Reihenfolge der
 gewählten Kandidaten zu bestimmen. Die Reihenfolge entscheidet über die
 Entscheidungsbefugnis bei Uneinigkeit der Mitglieder der
