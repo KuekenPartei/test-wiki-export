@@ -548,12 +548,14 @@ stehen.
 § 14 Bewerberaufstellung für die Wahlen zu Volksvertretungen
 ------------------------------------------------------------
 
-(1) Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen
-gelten die Bestimmungen der Wahlgesetze und der Satzungen der
-Bundespartei und der zuständigen Gebietsverbände.
+(1) Für die Aufstellung der Bewerber\_innen für Wahlen zu [
+Volksvertretungen](/wiki/Volksvertretungen "wikilink") gelten die Bestimmungen
+der aktuellen \[<https://de.wikipedia.org/wiki/Wahlgesetz>|
+Wahlgesetze\] und der Satzungen des Bundespartei und der zuständigen
+Gebietsverbände.
 
-(2) Landeslistenbewerber sollen ihren Wohnsitz im entsprechenden
-Bundesland haben, Kreisbewerber im entsprechenden Wahlkreis.
+(2) Landeslistenbewerber\_innen sollen ihren Wohnsitz im entsprechenden
+Bundesland haben, Kreisbewerber\_innen im entsprechenden Wahlkreis.
 
 § 15 Zulassung von Gästen
 -------------------------
