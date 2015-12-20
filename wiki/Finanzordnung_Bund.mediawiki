@@ -16,8 +16,8 @@ Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner unmittel
 === § 5 Höhe Mitgliedsbeitrag ===
 (1) Der Mitgliedsbeitrag beträgt
 
-* 43 Euro 
-* 23 Euro als ermäßigter Beitrag (Schüler/Studenten/Erwerbslose)<br/> pro Kalenderjahr und ist am 01.01. eines jeden Jahres fällig.
+* 42 Euro 
+* 23 Euro als ermäßigter Beitrag (Schüler_innen / Studierende / Erwerbslose)<br/> pro Kalenderjahr und ist bis spätestens zum 15.01. eines jeden Jahres fällig.
 
 (2) Bei Eintritt im Laufe eines Jahres ist der anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt monatsgenau, beginnend mit dem Monat in dem der Eintritt stattfindet.
 
@@ -27,7 +27,7 @@ Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner unmittel
 
 (5) Über Beitragsminderungen bei finanziellen Härten entscheidet die für das Mitglied zuständige Gliederung, sofern die Landessatzung nichts Gegenteiliges regelt.
 
-(6) Der Finanzrat erarbeitet Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
+(6) Der [[Finanzrat| Finanzrat]] erarbeitet Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
 
 === § 6 Aufteilung Mitgliedsbeitrag ===
 (1) Der Mitgliedsbeitrag ist vom zuständigen Landesverband aufzuteilen. 40% des Beitrages erhält der Bundesverband.
