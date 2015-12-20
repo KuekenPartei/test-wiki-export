@@ -215,9 +215,10 @@ E. ETAT
 ### § 16 Haushaltsplan
 
 (1) Der Schatzmeister stellt jedes Kalenderjahr vorab einen
-Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar,
-dass der Haushaltsansatz nicht ausreicht, hat der Schatzmeister
-unverzüglich einen Nachtragshaushalt einzubringen.
+Haushaltsplan auf, der vom [Vorstand](/wiki/Bundesvorstand "wikilink")
+beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht
+ausreicht, hat der Schatzmeister unverzüglich einen Nachtragshaushalt
+einzubringen.
 
 (2) Der Schatzmeister ist bis zu dessen Verabschiedung an die Grundsätze
 einer vorläufigen Haushaltsführung gebunden.
