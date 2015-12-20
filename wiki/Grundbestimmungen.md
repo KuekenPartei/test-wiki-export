@@ -83,7 +83,7 @@ Solidarität
 
 Der Mensch ist ein Wesen der Gemeinschaft. Deshalb gilt unsere Sorge der
 Gemeinschaft, wie sie dem Individuum gelten muss. In der
-\[<https://de.wikipedia.org/wiki/Solidarit%C3%A4t>| Solidarität\] drückt
+[Solidarität](https://de.wikipedia.org/wiki/Solidarit%C3%A4t) drückt
 sich u.a. der verbindende Generationenvertrag aus.
 
 Gerechtigkeit
