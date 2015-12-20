@@ -47,9 +47,11 @@ B. MITGLIEDSBEITRAG
 
 (1) Der Mitgliedsbeitrag beträgt
 
--   43 Euro
--   23 Euro als ermäßigter Beitrag (Schüler/Studenten/Erwerbslose)  
-    pro Kalenderjahr und ist am 01.01. eines jeden Jahres fällig.
+-   42 Euro
+-   23 Euro als ermäßigter Beitrag (Schüler\_innen / Studierende /
+    Erwerbslose)  
+    pro Kalenderjahr und ist bis spätestens zum 15.01. eines jeden
+    Jahres fällig.
 
 (2) Bei Eintritt im Laufe eines Jahres ist der anteilige
 Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt
@@ -66,8 +68,8 @@ Gliederung zu entrichten.
 das Mitglied zuständige Gliederung, sofern die Landessatzung nichts
 Gegenteiliges regelt.
 
-(6) Der Finanzrat erarbeitet Änderungsvorschläge zur Höhe des
-Mitgliedsbeitrages.
+(6) Der [ Finanzrat](/wiki/Finanzrat "wikilink") erarbeitet
+Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
 
 ### § 6 Aufteilung Mitgliedsbeitrag
 
