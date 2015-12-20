@@ -371,7 +371,7 @@ Kreisverbände und
 
 (7) Anträge, die auf der Bundesgesamtkonferenz behandelt werden sollen,
 müssen mindestens 6 Wochen (Poststempel) vor der Konferenz dem
-Bundesvorstand vorliegen. Sie sollen in der Ständigen
+Bundesvorstand vorliegen. Sie sollen in der ständigen
 Mitgliederkonferenz abgestimmt und angenommen worden sein.
 
 (8) Beschlüsse und Wahlergebnisse der Bundesgesamtkonferenz sind zu
