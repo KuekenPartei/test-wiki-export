@@ -337,8 +337,10 @@ c) die Entlastung des Bundesvorstands.
 2. Die Wahl des Bundesvorstand, der Bundesschiedsgerichte und zweier
 Rechnungsprüfer\_innen.
 
-3. Die Beschlussfassung über die Satzung und die Grundsätze des KUEKeN
-(§ 1) bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung.
+3. Die Beschlussfassung über die Satzung und die Grundsätze des KUEKeN [
+(§
+1)](/wiki/Satzung#.C2.A7_1_Name.2C_Sitz.2C_Zweck_und_T.C3.A4tigkeitsgebiet "wikilink")
+bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung.
 
 4. Die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung
 und eine, den Vorschriften des Parteiengesetzes entsprechende,
