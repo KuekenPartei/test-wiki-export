@@ -12,18 +12,19 @@ dem Rahmen zulässig, soweit dies diese Ordnung ausdrücklich vorsieht.
 
 ### § 2 Schiedsgericht
 
-(1) Auf der Bundes- und Landesebene werden Schiedsgerichte eingerichtet.
+(1) Auf Bundes- und Landesebene werden Schiedsgerichte eingerichtet.
 Durch Satzung können die Landesverbände die Einrichtung von
 Schiedsgerichten auf einer untergeordneten Gliederungsebene zulassen.
 
-(2) Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen
-gebunden.
+(2) Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen von
+anderen Parteiorganen oder anderen Interessengruppen gebunden.
 
 (3) Die Richter fällen ihre Entscheidungen nach bestem Wissen und
-Gewissen auf Grundlage der Satzungen und gesetzlichen Vorgaben.
+Gewissen auf Grundlage der Satzungen und [gesetzlichen
+Vorgaben](http://www.gesetze-im-internet.de/partg/__14.html).
 
-(4) Während eines Verfahrens haben Richter ihre Arbeit außerhalb des
-Richtergremiums nicht zu kommentieren. Mit der Annahme ihres Amtes
+(4) Während eines Verfahrens haben die Richter ihre Arbeit, außerhalb
+des Richtergremiums, nicht zu kommentieren. Mit der Annahme ihres Amtes
 verpflichten sich die Richter, alle Vorgänge, die ihnen in dieser
 Eigenschaft bekannt werden, auch über ihre Amtszeit hinaus vertraulich
 zu behandeln, soweit diese Ordnung nicht etwas anderes vorsieht.
@@ -31,8 +32,9 @@ zu behandeln, soweit diese Ordnung nicht etwas anderes vorsieht.
 (5) Wird von irgendeiner Seite versucht das Verfahren zu beeinflussen,
 so macht das Schiedsgericht dies unverzüglich öffentlich bekannt.
 
-(6) Die Schiedsgerichte geben sich eine Geschäftsordnung. Diese enthält
-insbesondere Regelungen
+(6) Die Schiedsgerichte geben sich eine [
+Geschäftsordnung](/wiki/Go_Schiedsgericht "wikilink"). Diese enthält
+insbesondere Regelungen:
 
 -   zur internen Geschäftsverteilung und der Verwaltungsorganisation,
 -   über die Bestimmung von Berichterstattern, die Einberufung und den
