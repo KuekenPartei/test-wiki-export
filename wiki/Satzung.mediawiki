@@ -91,17 +91,17 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie kann unse
 == § 9 Organe  ==
 (1) Organe im Sinne des [http://www.gesetze-im-internet.de/partg/ Parteiengesetzes] sind:
 
-- die Bundesgesamtkonferenz
+- [[Bundesgesamtkonferenz| die Bundesgesamtkonferenz]]
 
-- der Bundesvorstand
+- [[Bundesvorstand| der Bundesvorstand]]
 
-- ständige Mitgliederkonferenz
+- [[Ständige Mitgliederkonferenz| ständige Mitgliederkonferenz]]
 
-- der Bundeskoordinationsrat 
+- [[Bundeskoordinationsrat| der Bundeskoordinationsrat]]
 
-- die überregionalen Projektbereiche.
+- [[Überregionale Projektbereiche| die überregionalen Projektbereiche]]
 
-- die Gründungsversammlung
+- [[Gründungsversammlung| die Gründungsversammlung]]
 
 (2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx.
 

@@ -239,17 +239,19 @@ die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 (1) Organe im Sinne des
 [Parteiengesetzes](http://www.gesetze-im-internet.de/partg/) sind:
 
-\- die Bundesgesamtkonferenz
+\- [ die Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
 
-\- der Bundesvorstand
+\- [ der Bundesvorstand](/wiki/Bundesvorstand "wikilink")
 
-\- ständige Mitgliederkonferenz
+\- [ ständige
+Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
 
-\- der Bundeskoordinationsrat
+\- [ der Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
 
-\- die überregionalen Projektbereiche.
+\- [ die überregionalen
+Projektbereiche](Überregionale_Projektbereiche "wikilink")
 
-\- die Gründungsversammlung
+\- [ die Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
 
 (2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx.
 
