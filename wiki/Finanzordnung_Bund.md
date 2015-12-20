@@ -178,21 +178,21 @@ Mittel.
 (2) Der Bundesschatzmeister führt jährlich bis spätestens zum 31. März
 den innerparteilichen Finanzausgleich durch.
 
-(3) Landesverbände, deren Festsetzungsbeträge nach
-\[<http://www.gesetze-im-internet.de/partg/__19a.html>| § 19a (6)
-PartG\] für das Anspruchsjahr die Eigeneinnahmen nach
-\[<http://www.gesetze-im-internet.de/partg/__24.html>| § 24 (4) Nr. 1
-bis 7 PartG\] des entsprechenden Rechenschaftsjahres übersteigen, zahlen
-diesen Differenzbetrag zu 100% in den innerparteilichen Finanzausgleich.
-Ein Landesverband kann durch begründeten Beschluss bis zum 30. November
-des Anspruchsjahres den einzuzahlenden Anteil an diesem Differenzbetrag
+(3) Landesverbände, deren Festsetzungsbeträge nach [§ 19a (6)
+PartG](http://www.gesetze-im-internet.de/partg/__19a.html) für das
+Anspruchsjahr die Eigeneinnahmen nach [§ 24 (4) Nr. 1 bis 7
+PartG](http://www.gesetze-im-internet.de/partg/__24.html) des
+entsprechenden Rechenschaftsjahres übersteigen, zahlen diesen
+Differenzbetrag zu 100% in den innerparteilichen Finanzausgleich. Ein
+Landesverband kann durch begründeten Beschluss bis zum 30. November des
+Anspruchsjahres den einzuzahlenden Anteil an diesem Differenzbetrag
 erhöhen oder verringern, aber nicht auf unter 80% senken.
 
 (4) Der Bundesverband beteiligt sich am innerparteilichen
 Finanzausgleich mit dem vollständigen Bundesanteil des
-Festsetzungsbetrages nach
-\[<http://www.gesetze-im-internet.de/partg/__19a.html>| § 19a (6)
-PartG\] für das Anspruchsjahr.
+Festsetzungsbetrages nach [§ 19a (6)
+PartG](http://www.gesetze-im-internet.de/partg/__19a.html) für das
+Anspruchsjahr.
 
 (5) Der Bundesverband erhält aus dem innerparteilichen Finanzausgleich
 15% des Festsetzungsbetrages für die Gesamtpartei.
