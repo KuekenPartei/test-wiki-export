@@ -705,8 +705,8 @@ Akkreditierungsprozess wird in der Geschäftsordnung der SMK geregelt.
 ---------------------
 
 (1) Zwischen den Mitgliederkonferenzen nutzt das KUEKeN das Konzept der
-\[<https://de.wikipedia.org/wiki/Liquid_Democracy>\| Liquid Democracy\]
-zur Willensbildung über das Internet. Hierzu betreibt sie eine geeignete
+[Liquid Democracy](https://de.wikipedia.org/wiki/Liquid_Democracy) zur
+Willensbildung über das Internet. Hierzu betreibt sie eine geeignete
 Software, die folgende Mindestanforderungen erfüllt:
 
 a) Jedes Mitglied muss die Möglichkeit haben, Anträge im System zu
