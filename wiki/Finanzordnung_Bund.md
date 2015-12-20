@@ -12,16 +12,20 @@ A. RECHENSCHAFTSBERICHT
 ### § 2 Rechenschaftsbericht Bundesverband
 
 Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des
-Rechenschaftsberichts gemäß dem sechsten Abschnitt des Parteiengesetzes
-bei dem Präsidenten des Deutschen Bundestages. Zu diesem Zweck legen die
-Schatzmeister der Landesverbände ihm bis spätestens zum 31. Mai eines
-jeden Jahres die Rechenschaftsberichte der Länderverbände vor.
+Rechenschaftsberichtes gemäß dem
+\[<http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377>\|
+sechsten Abschnitt des Parteiengesetzes\] bei dem Präsidenten des
+Deutschen Bundestages. Zu diesem Zweck legen die Schatzmeister der
+Landesverbände ihm, bis spätestens zum 31. Mai eines jeden Jahres, die
+Rechenschaftsberichte der Landesverbände vor.
 
 ### § 3 Rechenschaftsbericht Landesverband
 
 Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31.
-März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben
-nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab.
+März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben,
+nach Maßgabe der Bestimmungen des
+\[<http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377>\|
+§ 24 Parteiengesetz\], ab.
 
 ### § 4 Durchgriffsrecht
 
