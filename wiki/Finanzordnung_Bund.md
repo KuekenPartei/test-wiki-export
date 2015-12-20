@@ -146,13 +146,17 @@ Spendernamen, Summe und ggf. Verwendungszweck veröffentlicht.
 
 ### § 12 Strafvorschrift
 
-Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß
-Nr. 10 an den Präsidenten des Deutschen Bundestages weiterzuleiten, oder
-erlangte Spenden nach Nr. 11 nicht im Rechenschaftsbericht
-veröffentlicht, so verliert er gemäß § 31a Parteiengesetz den ihm nach
-der jeweiligen Beschlusslage zustehenden Anspruch auf staatliche
-Teilfinanzierung in Höhe des Zweifachen der rechtswidrig erlangten oder
-nicht veröffentlichten Spenden.
+Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß [
+§ 10, Abs. 1](/wiki/Finanzordnung_Bund#.C2.A7_10_Vereinnahmung "wikilink") an
+den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte
+Spenden nach [ §
+11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung "wikilink") nicht
+im Rechenschaftsbericht veröffentlicht, so verliert er gemäß
+\[<http://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000900377>\|
+§ 31a Parteiengesetz\] den ihm nach der jeweiligen Beschlusslage
+zustehenden Anspruch auf staatliche Teilfinanzierung in Höhe des
+Zweifachen der rechtswidrig erlangten oder nicht veröffentlichten
+Spenden.
 
 ### § 13 Spendenbescheinigung
 
