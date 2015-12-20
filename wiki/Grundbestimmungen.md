@@ -27,9 +27,9 @@ produzieren und zu nutzen.
 Säkularismus
 ------------
 
-Auch der \[<https://de.wikipedia.org/wiki/S%C3%A4kularismus>|
-Säkularismus\] ist eine Folge dieser Verantwortung. Wenn wir ein höheres
-Wesen, einen Gott, annehmen, dann trägt dieses höhere Wesen am Ende die
+Auch der [Säkularismus](https://de.wikipedia.org/wiki/S%C3%A4kularismus)
+ist eine Folge dieser Verantwortung. Wenn wir ein höheres Wesen, einen
+Gott, annehmen, dann trägt dieses höhere Wesen am Ende die
 Verantwortung, die Verantwortung für den Zustand der Welt. Die
 Verantwortung, insbesondere der menschlichen Gesellschaft und unseren
 Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich.
