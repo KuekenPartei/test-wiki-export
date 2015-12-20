@@ -314,4 +314,4 @@ f) Es muss möglich sein, die eigene Stimme, mindestens themenbereichsbezogen, d
 
 (7) Verstößt ein Nutzer wiederholt und in erheblichem Maße gegen die Nutzungsbedingungen des Systems, so kann der Vorstand als Ordnungsmaßnahme dem Nutzer auf Zeit das Recht entziehen, Anträge oder andere Texte in das System einzustellen. Im Falle technischer Angriffe auf das System, die von einem angemeldeten Benutzer ausgehen, kann dieses Benutzerkonto durch Administratoren vorübergehend gesperrt werden. 
 
-(8) Ein transparentes Blockchain basiertes System soll eingesetzt werden, wenn es technisch zur Verfügung steht.
+(8) Ein transparentes [https://en.wikipedia.org/wiki/Block_chain_%28database%29 Blockchain] basiertes System soll eingesetzt werden, wenn es technisch zur Verfügung steht.
