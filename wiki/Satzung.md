@@ -560,8 +560,10 @@ Bundesland haben, Kreisbewerber\_innen im entsprechenden Wahlkreis.
 § 15 Zulassung von Gästen
 -------------------------
 
-(1) Der Bundesparteitag, der Bundesvorstand und die Gründungsversammlung
-können durch Beschluss Gäste zulassen.
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink"), der
+[ Bundesvorstand](/wiki/Bundesvorstand "wikilink") und die [
+Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") können durch
+Beschluss Gäste zulassen.
 
 (2) Ein Stimmrecht haben die Gäste nicht.
 
