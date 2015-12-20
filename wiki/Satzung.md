@@ -621,23 +621,23 @@ den grundsätzlichen Regelungen dieser Satzung übereinstimmen.
 § 19 Parteiämter
 ----------------
 
-(1) Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in des
-KUKeN und seiner Untergliederungen sind Ehrenämter. Eine Vergütung soll
-nur in begründeten Ausnahmefällen erfolgen und bedarf eines
+(1) Die nicht beruflich ausgeübten Funktionen und Tätigkeiten im KUEKeN
+und seinen Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in
+begründeten Ausnahmefällen erfolgen und bedarf eines
 Vorstandsbeschlusses.
 
-(2) Notwendige Kosten und Auslagen, die einem Amtsträger, einem
-Beauftragten oder einem Bewerber bei öffentlichen Wahlen, durch Ausübung
-des Amtes, des Auftrages oder der Kandidatur erwachsen, werden auf
-Antrag und nach Vorlage der notwendigen Nachweise erstattet. Durch
+(2) Notwendige Kosten und Auslagen, die einem/r Amtsträger\_in, einem/r
+Beauftragten oder einem/r Bewerber\_in bei öffentlichen Wahlen, durch
+Ausübung des Amtes, des Auftrages oder der Kandidatur erwachsen, werden
+auf Antrag und nach Vorlage der notwendigen Nachweise erstattet. Durch
 Vorstandsbeschluss kann eine pauschale Aufwandsvergütung festgesetzt
 werden.
 
-(3) Höhe und Umfang der Erstattungen werden vom Bundesvorstand und von
-den Landesverbänden für ihren jeweiligen Zuständigkeitsbereich
-einheitlich geregelt. Abweichende Regelungen der nachgeordneten
-Gliederungen dürfen die Regelungen des Landesverbandes nicht
-überschreiten.
+(3) Höhe und Umfang der Erstattungen werden vom [
+Bundesvorstand](/wiki/Bundesvorstand "wikilink") und von den Landesverbänden
+für ihren jeweiligen Zuständigkeitsbereich einheitlich geregelt.
+Abweichende Regelungen der nachgeordneten Gliederungen dürfen die
+Regelungen des Landesverbandes nicht überschreiten.
 
 § 20 Ständige Mitgliederkonferenz
 ---------------------------------
