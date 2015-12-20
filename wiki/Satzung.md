@@ -677,8 +677,8 @@ angezeigt.
 
 (5) Die SMK arbeitet online nach den Prinzipien der
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy>| Liquid Democracy\]
-entsprechend \[\[Satzung\#.C2.A7\_21\_Liquid\_Democary| § 21\] dieser
-Satzung. Delegationen sind zeitlich begrenzt. Näheres regelt die
+entsprechend [ § 21](/wiki/Satzung#.C2.A7_21_Liquid_Democary "wikilink")
+dieser Satzung. Delegationen sind zeitlich begrenzt. Näheres regelt die
 Geschäftsordnung.
 
 (6) Die SMK verwendet technische Systeme, die bevorzugt asynchrone
