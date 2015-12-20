@@ -18,7 +18,7 @@ Grundbestimmungen:
 Pazifismus
 ----------
 
-\[<https://de.wikipedia.org/wiki/Pazifismus>| Pazifismus\] ist die
+[Pazifismus](https://de.wikipedia.org/wiki/Pazifismus) ist die
 konsequente Folge aus der Verantwortung für unsere Kinder. Er muss in
 dem Sinne radikal sein, als wir verstehen müssen, dass Krieg nur mit
 Kriegsgerät stattfinden kann und wir damit aufhören müssen, es zu
