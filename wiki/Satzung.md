@@ -473,22 +473,25 @@ immer Schuld, alle anderen Vorstandsmitglieder habe eine Teilschuld.
 § 12 Die überregionalen Projektbereiche
 ---------------------------------------
 
-(1) Die überregionalen Projektbereiche setzen sich aus Mitgliedern und
-Nichtmitgliedern gleichberechtigt zusammen. Es sollen besonders
-InteressentInnen aus überregionalen Bewegungen, Fachinstitutionen u.ä.
-in die Arbeit einbezogen werden. Die überregionalen Projektbereiche
-dienen im Rahmen der Beschlüsse der Bundeskonferenz der
+(1) Die [ überregionalen
+Projektbereiche](Überregionale_Projektbereiche "wikilink") setzen sich
+gleichberechtigt aus Mitgliedern und Nichtmitgliedern zusammen. Es
+sollen besonders Interessent\_innen aus überregionalen Bewegungen,
+Fachinstitutionen u.ä. in die Arbeit einbezogen werden. Die
+überregionalen Projektbereiche dienen im Rahmen der Beschlüsse der [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") der
 Weiterentwicklung der programmatischen Grundlagen der Organisation und
 der fachlichen Zusammenarbeit mit interessierten Personen und
-Institutionen außerhalb des KUKeN.
+Institutionen außerhalb des KUEKeN.
 
-(2) Für den Tagungsaufwand (Aufwandshaushalt) und für die fachliche
-Arbeit (Aktionshaushalt) sind Mittel im Bundeshaushalt der Organisation
-vorzusehen.
+(2) Für den Tagungsaufwand ([
+Aufwandshaushalt](/wiki/Aufwandshaushalt "wikilink")) und für die fachliche
+Arbeit ([ Aktionshaushalt](/wiki/Aktionshaushalt "wikilink")) sind Mittel im [
+Bundeshaushalt](/wiki/Bundeshaushalt "wikilink") der Organisation vorzusehen.
 
 (3) Mitglieder und Nichtmitglieder sind in den überregionalen
 Projektbereichen gleichberechtigt, sie haben aktives und passives
-Wahlrecht für die ProjektbereichssprecherInnen. Die überregionalen
+Wahlrecht für die Projektbereichssprecher\_innen. Die überregionalen
 Projektbereiche erarbeiten eigenständig Diskussions- und
 Informationsmaterial und führen Fachtagungen durch. Sie informieren
 selbständig die Öffentlichkeit über ihre Arbeit. Gegen Projekte eines
@@ -498,21 +501,23 @@ Projektbereich bei der Bundesgesamtkonferenz Einspruch einlegen. Die
 Bundesgesamtkonferenz entscheidet abschließend mit einfacher Mehrheit.
 
 (4) Jeder überregionale Projektbereich wählt maximal zwei ehrenamtliche
-SprecherInnen, die die Arbeit des Projektbereichs innerhalb des KUKeN
+Sprecher\_innen, die die Arbeit des Projektbereichs innerhalb des KUEKeN
 und in der Öffentlichkeit vertreten. Sie können eine Aufwandspauschale
+erhalten, wenn die Bundesgesamtkonferenz dies in einer [
+Aufwandsentschädigungsordnung](/wiki/Aufwandsentschädigungsordnung "wikilink")
+beschließt.
+
+(5) Die Sprecher\_innen der überregionalen Projektbereiche bilden den [
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink"). Dieser wählt
+aus seiner Mitte zwei ehrenamtlich arbeitende Koordinator\_innen. Die
+Koordinator\_innen können für ihre Tätigkeit eine Aufwandspauschale
 erhalten, wenn die Bundesgesamtkonferenz dies in einer
 Aufwandsentschädigungsordnung beschließt.
-
-(5) Die SprecherInnen der überregionalen Projektbereiche bilden den
-Bundeskoordinationsrat. Dieser wählt aus seiner Mitte zwei ehrenamtlich
-arbeitende KoordinatorInnen. Die KoordinatorInnen können für ihre
-Tätigkeit eine Aufwandspauschale erhalten, wenn die Bundeskonferenz dies
-in einer Entschädigungssatzung beschließt.
 
 (6) Die Anerkennung eines überregionalen Projektbereichs erfolgt durch
 Beschluss der Bundesgesamtkonferenz. Weitere Regelungen (thematische
 Aufteilung u.ä.) trifft der Bundeskoordinationsrat. Im Rahmen des durch
-die Bundeskonferenz beschlossenen Haushaltes verwaltet der
+die Bundesgesamtkonferenz beschlossenen Haushaltes, verwaltet der
 Bundeskoordinationsrat die Mittel selbst. Er stellt jährlich einen
 Aktionshaushalt auf, in dessen Rahmen die überregionalen Projektbereiche
 ihre Tätigkeit selbständig durchführen.
