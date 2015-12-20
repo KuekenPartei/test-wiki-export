@@ -570,21 +570,22 @@ Beschluss Gäste zulassen.
 § 16 Satzungs- und Programmänderung
 -----------------------------------
 
-(1) Änderungen der Bundessatzung können nur von einer
-Bundesgesamtkonferenz mit einer 2/3 Mehrheit der abgegebenen gültigen
-Stimmen beschlossen werden. Besteht das dringende Erfordernis einer
-Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch
-geändert werden, wenn mindestens 2/3 der Partei Mitglieder sich mit dem
-Antrag/den Anträgen auf Änderung schriftlich einverstanden erklären.
+(1) Änderungen der Bundessatzung können nur von einer [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mit einer 2/3
+Mehrheit der abgegebenen gültigen Stimmen beschlossen werden. Besteht
+die dringende Erfordernis einer Sitzungsänderung zwischen zwei
+Parteitagen, so kann die Satzung auch geändert werden, wenn mindestens
+2/3 der Parteimitglieder sich mit dem Antrag / den Anträgen auf Änderung
+schriftlich einverstanden erklären.
 
 (2) Über einen Antrag auf Satzungsänderung auf einer
-Bundesgesamtkonferenz kann nur abgestimmt werden, wenn er mindestens
+Bundesgesamtkonferenz kann nur abgestimmt werden, wenn dieser mindestens
 vier Wochen vor Beginn der Bundesgesamtkonferenz beim Bundesvorstand
-eingegangen ist und dies im Wortlaut von zehn Mitglieder beantragt
+eingegangen ist und dies im Wortlaut von zehn Mitgliedern beantragt
 wurde.
 
 (3) Die Regelungen aus Absatz 1 und 2 gelten ebenso für eine Änderung
-des Programms des KUKeN.
+des Programms des KUEKeN.
 
 § 17 Auflösung und Verschmelzung
 --------------------------------
