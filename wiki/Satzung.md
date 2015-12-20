@@ -536,11 +536,11 @@ sind öffentlich.
 § 13 Der Bundeskoordinationsrat
 -------------------------------
 
-(1) Die SprecherInnen der überregionalen Projektbereiche bilden den
-Bundeskoordinationsrat.
+(1) Die Sprecher\_innen der überregionalen Projektbereiche bilden den [
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink").
 
-(2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen
-Mitgliederkonferenz.
+(2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der [ ständigen
+Mitgliederkonferenz](ständige_Mitgliederkonferenz "wikilink").
 
 (3) Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite
 stehen.
