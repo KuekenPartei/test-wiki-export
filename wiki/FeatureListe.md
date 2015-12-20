@@ -26,6 +26,12 @@ mitgestalten.
 
 ### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main "wikilink")
 
+Unser Programm ist an dem Menschen und seinen Bedürfnissen ausgerichtet.
+Als einfache Bestimmung der Menschlichen Bedürfnissen dienen die
+Bedürfnisse der Kinder, die unsere Sorge bedürfen. Diese durch
+Verantwortung gestiftete Sorge ist essentieller Leitfaden unser Politik
+und unseres Programms.
+
 -   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
     einen konkreten Entscheidungskatalog.
     -   Pazifismus
