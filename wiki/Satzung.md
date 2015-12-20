@@ -591,9 +591,10 @@ des Programms des KUEKeN.
 --------------------------------
 
 (1) Die Auflösung der Bundespartei oder ihre Verschmelzung mit einer
-anderen Partei kann nur durch einen Beschluss der Bundesgesamtkonferenz
-mit einer Mehrheit von 3/4 der zur Bundesgesamtkonferenz
-Stimmberechtigten beschlossen werden.
+anderen Partei kann nur durch einen Beschluss der [
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mit einer
+Mehrheit von 3/4 der zur Bundesgesamtkonferenz Stimmberechtigten
+beschlossen werden.
 
 (2) Die Auflösung eines Landesverbandes kann durch einen Beschluss der
 Bundesgesamtkonferenz mit einer Mehrheit von 3/4 der zur
@@ -601,7 +602,7 @@ Bundesgesamtkonferenz Stimmberechtigten beschlossen werden.
 
 (3) Ein Beschluss über Auflösung oder Verschmelzung muss durch eine
 Urabstimmung unter den Mitglieder bestätigt werden. Die Mitglieder
-äußern ihren Willen im Zusammenhang mit der Urabstimmung schriftlich.
+äußern ihren Willen in Zusammenhang mit der Urabstimmung schriftlich.
 
 (4) Über einen Antrag auf Auflösung oder Verschmelzung kann nur
 abgestimmt werden, wenn er mindestens vier Wochen vor Beginn der
