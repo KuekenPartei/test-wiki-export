@@ -88,9 +88,6 @@ Mitglied zuständiger Ortsverband und/oder Kreisverband und/oder
 Bezirksverband existieren, fällt der ihm zustehende Anteil an die
 nächsthöhere Gliederung.
 
-(4) Der Finanzrat erarbeitet Änderungsvorschläge zur Verteilung des
-Mitgliedsbeitrages.
-
 ### § 7 Verzug
 
 (1) Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag
