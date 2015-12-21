@@ -47,9 +47,11 @@ insbesondere Regelungen:
 
 ### § 3 Richterwahl
 
-(1) Die Bundesgesamtkonferenz wählt drei Mitglieder zu Richtern. Diese
-wählen aus ihren Reihen einen Vorsitzenden Richter, der das
-Schiedsgericht leitet und die Geschäfte führt.
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") wählt
+drei Mitglieder zu Richtern. Diese wählen aus ihren Reihen einen
+Vorsitzenden Richter, der das [
+Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") leitet und die
+Geschäfte führt.
 
 (2) In einer weiteren Wahl werden zwei Ersatzrichter bestimmt. Die
 Stimmenzahl entscheidet über die Rangfolge der Ersatzrichter. Bei
@@ -59,29 +61,25 @@ Stimmengleichheit entscheidet das Los.
 Beschluss der Mitgliederversammlung oder durch Satzungsbestimmung
 erhöht, aber nicht verringert werden.
 
-(4) Für das Bundesschiedsgericht werden abweichend von Absatz 1
-mindestens fünf Richter gewählt. Diese Zahl kann durch Beschluss der
-Mitgliederversammlung erhöht werden.
-
-(5) Schiedsgerichtswahlen finden mindestens in jedem zweiten
+(4) Schiedsgerichtswahlen finden mindestens in jedem zweiten
 Kalenderjahr statt. Durch Satzungsbestimmung kann hiervon abgewichen
 werden. Nachwahlen führen zu keiner Amtszeitverlängerung. Das
 Schiedsgericht bleibt bis zur abgeschlossenen Wahl eines neuen
 Schiedsgerichts im Amt.
 
-(6) Richter können nicht zugleich Mitglied eines Vorstandes der Partei
+(5) Richter können nicht zugleich Mitglied eines Vorstandes der Partei
 oder eines Gebietsverbandes sein, in einem Dienstverhältnis zu der
 Partei oder einem Gebietsverband stehen oder von ihnen regelmäßige
 Einkünfte beziehen.
 
-(7) Mit dem Ende der Mitgliedschaft im KUKeN endet auch das Richteramt.
+(6) Mit dem Ende der Mitgliedschaft im KUEKeN endet auch das Richteramt.
 
-(8) Ein Richter kann durch Erklärung an das Gericht sein Amt beenden.
+(7) Ein Richter kann durch Erklärung an das Gericht sein Amt beenden.
 
-(9) Scheidet ein Richter aus dem Schiedsgericht aus, so rückt für ihn
+(8) Scheidet ein Richter aus dem Schiedsgericht aus, so rückt für ihn
 der nach der Rangfolge nächste Ersatzrichter dauerhaft nach.
 
-(10) Steht beim Ausscheiden eines Richters kein Ersatzrichter mehr zur
+(9) Steht beim Ausscheiden eines Richters kein Ersatzrichter mehr zur
 Verfügung, so kann die unbesetzte Richterposition durch Nachwahl besetzt
 werden. Ebenso können Ersatzrichter nachgewählt werden. Die
 ursprüngliche Zahl an Richtern und Ersatzrichtern darf dabei jedoch
@@ -89,7 +87,7 @@ nicht überschritten werden. Nachgewählte Ersatzrichter schließen sich in
 der Rangfolge an noch vorhandene Ersatzrichter an. Nachwahlen gelten nur
 für den Rest der Amtszeit.
 
-(11) Ist das Bundesschiedsgericht mit mindestens 6 Richtern besetzt, so
+(10) Ist das Bundesschiedsgericht mit mindestens 6 Richtern besetzt, so
 kann es durch Geschäftsordnung ein Kammersystem einrichten. Es sind
 dabei 2 Spruchkammern mit je mindestens 3 Richtern zu bilden, die sodann
 jeweils alleine die Funktion des Bundesschiedsgerichtes übernehmen. Die
@@ -106,8 +104,8 @@ Geschäftsordnung kann auch vorsehen, dass in bestimmten Fällen trotz
 Bestehens von Spruchkammern der Senat zuständig ist. Die
 Geschäftsordnung kann eine von § 3 Abs. 2 abweichende, kammerspezifische
 Rangfolge für Ersatzrichter festlegen. Insbesondere kann die
-Geschäftsordnung vorsehen dass Ersatzrichter in der Rangfolge vor den in
-der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der
+Geschäftsordnung vorsehen, dass Ersatzrichter in der Rangfolge vor den
+in der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der
 Richter im Bundesschiedsgericht auf unter 6, entfallen die Spruchkammern
 und die verbliebenen Richter entscheiden gemeinschaftlich.
 
