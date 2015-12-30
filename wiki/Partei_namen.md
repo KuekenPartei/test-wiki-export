@@ -2,7 +2,6 @@ Der Namen muss eindeutig sein. Hier eine Liste der Verzeichneten
 Parteien:
 <http://www.bundeswahlleiter.de/de/parteien/downloads/Anschriftenverzeichnis_Parteien.pdf>
 
--   PEB - Partei für Erziehung und Bildung
 -   RFK –Rechte für Kinder
 -   GFK –Gerechtigkeit für Kinder
 -   KSOP –Kinder und Sorge Orientierte Parteien
@@ -19,7 +18,6 @@ Deutsche Kinderpartei
 -   ZVK– Zukunft, Verantwortung, Kinder
 -   PZK– Partei für die Zukunft unserer Kinder / des Kindes
 -   PDK– Partei des Kindes
--   VFK- Verantwortung für Kinder
 
 <!-- -->
 
