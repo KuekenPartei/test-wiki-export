@@ -52,6 +52,7 @@ und unseres Programms.
 -   Geschlechter Quote
 -   Anbindung von Initiativen durch die [ überregionalen
     Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche "wikilink").
+-   Formalisierung von Schuld
 
 ### Moderne Strukturen
 
