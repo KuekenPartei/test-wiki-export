@@ -45,6 +45,20 @@ und unseres Programms.
     -   Kooperation statt Wettbewerb
     -   Bekenntnis zu den universellen Menschenrechten
 
+<!-- -->
+
+-   [ konkretes Programm](/wiki/PROGRAMM:Program_konkret "wikilink")
+    -   Steuervorteile dort, wo die Kinder sind
+    -   Stärkere Unterstützung von allein Erziehenden
+    -   Sozialer Wohnungsbau
+    -   Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz
+        und Lobby Kontrolle
+-   [ mittelfristiges
+    Programm](/wiki/PROGRAMM:Program_mittelfristig "wikilink")
+    -   Die Kinderstimme und der Bildungszensus
+    -   Ausstieg aus der Kriegsgeräteproduktion
+    -   Bedingungsloses Grundeinkommen (BGE)
+
 ### Moderne [ Satzung](/wiki/Satzung_Bund "wikilink")
 
 -   Liquid Democracy per [ ständige Mitglieder
