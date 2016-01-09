@@ -20,6 +20,10 @@ Elektronische Infrastruktur
     \[[http://pad.klarmachen-ändert.de/mypads/?/login](http://pad.klarmachen-ändert.de/mypads/?/login)\|
     Etherpad\] können wir Planungsblätter anlegen.
 
+Soziale Netzwerke :
+
+Twitter : @KuekenPartei
+
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
 [Kategorie:Infrastruktur](/wiki/Kategorie:Infrastruktur "wikilink")
