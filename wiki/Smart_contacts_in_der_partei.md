@@ -12,12 +12,3 @@ Technisch besteht die Partei aus Organen und Mitgliedern, Organe halten
 Funktionen für Mitglieder bereit, zum Beispiel der Versammlungsleiter
 der Bundesgesamtkonferenz, aber auch der 1. und 2. Vorsitzenden im
 Bundesvorstand.
-
-Die Partei Organe im Überblick:
-
--   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
--   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
--   [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
-
-Wir benutzen Github als Kollaborationsplattform:
-<https://github.com/KuekenPartei>
