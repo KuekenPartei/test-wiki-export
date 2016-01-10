@@ -76,7 +76,9 @@ Massiver Ausbau des SW.
 ### Öffnung des öffentlichen Raumes
 
 Der öffentliche Raum muss als Begenungsstätte für Menschen wieder
-hergestellt werden.
+hergestellt werden. Das heißt er muss in Bearbeitung und Benutzung
+genommen werden von den Menschen, Beispiel dafür ist [Urbaner
+Gartenbau](https://de.wikipedia.org/wiki/Urbaner_Gartenbau).
 
 Informationstechnologie
 -----------------------
