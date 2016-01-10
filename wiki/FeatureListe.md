@@ -77,7 +77,8 @@ als blaupause für die Gesellschaftliche Veränderung angesehen werden. So
 lassen sich aus unseren Partei Erfahrungen konkrete Handlungsvorgaben
 und Empfehlungen ableiten. Dinge müssen ausprobiert werden.
 
--   Per “smart contract” werden viele
+-   Per [ “smart contract”](smart_contacts_in_der_partei "wikilink")
+    werden viele
     \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>|
     Verwaltungsvorgänge\] in eine dezentrale transparente Blockchain
     verlegt.
