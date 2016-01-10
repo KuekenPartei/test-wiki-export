@@ -70,6 +70,13 @@ und unseres Programms.
 
 ### Moderne Strukturen
 
+Die Partei als Labor, mit der Strukturellen unabgeschlossenheit ist es
+uns möglich neuartige Verfahren im Goverment und Management
+auszuprobieren und zu evaluieren. So kann die veränderte Parteistruktur
+als blaupause für die Gesellschaftliche Veränderung angesehen werden. So
+lassen sich aus unseren Partei Erfahrungen konkrete Handlungsvorgaben
+und Empfehlungen ableiten. Dinge müssen ausprobiert werden.
+
 -   Per “smart contract” werden viele
     \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>|
     Verwaltungsvorgänge\] in eine dezentrale transparente Blockchain
