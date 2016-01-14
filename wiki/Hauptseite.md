@@ -72,10 +72,9 @@ Domain Namen und Server, wie auch Druckerzeugnisse.
 
 Im Sozialen Netzwerk:
 
-Folge uns auf twitter: \[<https://twitter.com/KuekenPartei>\|
-@KuekenPartei\] oder diapora:
-\[<https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c>\|
-kuekenpartei@pod.geraspora.de\].
+Folge uns auf twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
+oder diapora:
+[kuekenpartei@pod.geraspora.de](https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c).
 
 Starthilfen
 -----------
