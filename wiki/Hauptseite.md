@@ -70,6 +70,13 @@ uns mit Bitcoin unterstützen.
 Mit bitcoins ist es möglich elektronische Infrastruktur zu bezahlen,
 Domain Namen und Server, wie auch Druckerzeugnisse.
 
+Im Sozialen Netzwerk:
+
+Folge uns auf twitter: \[<https://twitter.com/KuekenPartei>|
+@KuekenPartei\] oder diapora:
+\[<https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c>|
+kuekenpartei@pod.geraspora.de\].
+
 Starthilfen
 -----------
 
