@@ -2,9 +2,7 @@ KUEKeN im Sozialen Netzwerk
 ---------------------------
 
 Als Organisation sind wir nicht in allen verfügbaren Sozialen Netzwerken
-aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+. Da wir
-streng Wert-konservativ sind können wir auch ein wenig sonderlich sein,
-und abseits stehen.
+Aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+.
 
 Wie in der [Netzpolitik](/wiki/Netzpolitik "wikilink") dargestellt glauben wir
 an ein Internet für die Menschen nicht an ein Internet der Konzerne. Wir
@@ -28,9 +26,8 @@ der Blockchain versehen(ähnlich <https://github.com/yep/eth-tweet>).
 Durch die Blockchain Technologie ist dieser Kommunikationskanal Zensur
 Resistent, die Daten sind auf tausenden Computern gespeichert, sie
 können nicht geblockt oder gelöscht werden, die Nachrichten auf dem
-Kanal sind damit auch unveränderbar. Richtig Stellungen sind so immer
-echte richtig Stellungen, nie kann im Nachhinein eine Nachricht "still"
-korrigiert werden.
+Kanal sind unveränderbar, da die Daten auf tausenden von Rechnern
+gespeichert ist, können sie auch nicht verändert werden.
 
 Damit schaffen wir eine verlässliche Kommunikationsplattform.
 
@@ -38,7 +35,3 @@ Damit schaffen wir eine verlässliche Kommunikationsplattform.
 
 Solange diese Technologie noch nicht im produktiven Einsatz ist benutzen
 wir twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
-
-### Github
-
-<https://github.com/KuekenPartei>
