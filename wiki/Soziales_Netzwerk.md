@@ -26,8 +26,9 @@ der Blockchain versehen(ähnlich <https://github.com/yep/eth-tweet>).
 Durch die Blockchain Technologie ist dieser Kommunikationskanal Zensur
 Resistent, die Daten sind auf tausenden Computern gespeichert, sie
 können nicht geblockt oder gelöscht werden, die Nachrichten auf dem
-Kanal sind unveränderbar, da die Daten auf tausenden von Rechnern
-gespeichert ist, können sie auch nicht verändert werden.
+Kanal sind damit auch unveränderbar. Richtig Stellungen sind so immer
+echte richtig Stellungen, nie kann im Nachhinein eine Nachricht “still”
+korrigiert werden.
 
 Damit schaffen wir eine verlässliche Kommunikationsplattform.
 
