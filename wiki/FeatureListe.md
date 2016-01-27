@@ -3,7 +3,7 @@ Wofür steht die Partei und wie macht sie es.
 <big>Kinder - Verantwortung - Zukunft</big>
 
 Die Reihenfolge deutet die Priorität des Kindesinteresses an, aus der
-für die mündigen Büger\_innen eine gegenwartsbezogene und in der
+für die mündigen Bürger\_innen eine gegenwartsbezogene und in der
 Gegenwart wahrzunehmende Verantwortung erwächst, die auf die Zukunft
 ausgerichtet ist. Sie gestaltet im Heute das Morgen.
 
@@ -20,7 +20,7 @@ friedlich miteinander zusammenleben.
 
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Wir möchten das Feld des öffentlichen
-Diskurses nicht länger vorwiegend konsum- und profit-orientierten
+Diskurses nicht länger vorwiegend konsum- und profitorientierten
 Interessengruppen überlassen, sondern Inhalt und Richtung aktiv
 mitgestalten.
 
@@ -63,7 +63,7 @@ und unseres Programms.
 
 -   Liquid Democracy per [ ständige Mitglieder
     Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz "wikilink").
--   Geschlechter Quote
+-   Geschlechterquote
 -   Anbindung von Initiativen durch die [ überregionalen
     Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche "wikilink").
 -   Formalisierung von Schuld
