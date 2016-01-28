@@ -64,6 +64,7 @@ elektronisch, transparent und geheim\] aufzulösen.
 -   Sozialer Wohnungsbau
 -   Bildung
 -   Grundeinkommen
+-   Netzpolitik
 
 ### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
 
