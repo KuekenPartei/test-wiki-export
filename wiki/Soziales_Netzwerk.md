@@ -2,7 +2,9 @@ KUEKeN im Sozialen Netzwerk
 ---------------------------
 
 Als Organisation sind wir nicht in allen verfügbaren Sozialen Netzwerken
-aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+.
+aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+. Da wir
+streng Wert-konservativ sind können wir auch ein wenig sonderlich sein,
+und abseits stehen.
 
 Wie in der [Netzpolitik](/wiki/Netzpolitik "wikilink") dargestellt glauben wir
 an ein Internet für die Menschen nicht an ein Internet der Konzerne. Wir
