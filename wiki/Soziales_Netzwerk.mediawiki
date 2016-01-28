@@ -1,6 +1,16 @@
 == KUEKeN im Sozialen Netzwerk ==
 
 Als Organisation sind wir nicht in allen verfügbaren Sozialen Netzwerken aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+.
+Da wir streng Wert-konservativ sind können wir auch ein wenig sonderlich sein, und abseits stehen. 
+
+{{Baustein-no-image
+|color = #1e90ff
+|background = #fbfbfb
+|text =
+„Die Verdinglichung, kraft deren die einzig durch die Passivität der Massen ermöglichte Machtstruktur diesen selbst als eiserne Wirklichkeit entgegentritt, ist so dicht geworden, daß jede Spontanität, ja die Vorstellung vom wahren Sachverhalt notwendig zur verstiegenen Utopie, zum abwegigen Sektierertum geworden ist. Der Schein hat sich so konzentriert, daß ihn zu durchschauen objektiv den Charakter der Halluzination gewinnt.“ 
+
+''Horkheimer/Ardono, Dialektik der Aufklärung, S. 215, 21 Auflage, 2013''
+}}
 
 Wie in der [[Netzpolitik]] dargestellt glauben wir an ein Internet für die Menschen nicht an ein Internet der Konzerne. Wir unterstützen daher vornehmlich dezentrale Projekte nicht nur in der Politik auch im alltäglichen.
 
