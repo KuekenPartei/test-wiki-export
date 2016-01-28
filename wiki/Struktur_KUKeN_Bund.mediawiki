@@ -19,10 +19,12 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 === [[Bundesgesamtkonferenz]] ===
 
+
+Die Bundesgesamtkonferenz ist die Versammlung der Mitglieder des KUEKeN. Sie das oberstes Organ des KUEKeN.
+
 [[Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz| §10 Die Bundesgesamtkonferenz]]
 
-
-[[Go_Bundesgesamtkonferenz| Geschäftsordnung der Bundesgesamtkonferenz]]
+Sie arbeitet nach der [[Go_Bundesgesamtkonferenz| Geschäftsordnung der Bundesgesamtkonferenz]].
 
 === [[Bundesvorstand]] ===
 
