@@ -38,3 +38,7 @@ Damit schaffen wir eine verlässliche Kommunikationsplattform.
 
 Solange diese Technologie noch nicht im produktiven Einsatz ist benutzen
 wir twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
+
+### Github
+
+<https://github.com/KuekenPartei>
