@@ -10,6 +10,11 @@ Lebensgrundlagen, der den [Kindern der
 Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") auch in Zukunft ein
 gesundes Überleben auf dem Planeten sichert.
 
+Im wesentlichen schließen wir uns hierbei den Forderungen der
+Umweltverbände an, wie z.B.
+<http://www.bund-bawue.de/themen-projekte/landtagswahl-2016/forderungen-des-bund/>
+.
+
 Umgang mit den Ressourcen unserer natürlichen Lebensgrundlagen
 --------------------------------------------------------------
 
