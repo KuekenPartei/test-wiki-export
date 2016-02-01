@@ -76,7 +76,7 @@ Mitgliederkonferenz.
 
 Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite stehen.
 
-### Bundesschiedsgericht
+### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
 
 [ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
 
