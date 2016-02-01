@@ -54,7 +54,7 @@ Durch die Verwendung von [https://en.wikipedia.org/wiki/Ring_signature| Ring Sig
 * Grundeinkommen
 * Netzpolitik
 
-=== [[Bundeskoordinationsrat]] ===
+=== Bundeskoordinationsrat ===
 
 Die Sprecher_innen der überregionalen Projektbereiche bilden den Bundeskoordinationsrat.
 
@@ -63,7 +63,7 @@ Der Bundeskoordinationsrat hat Vorschlagsrecht in der ständigen Mitgliederkonfe
 Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite stehen. 
 
 
-=== [[Bundesschiedsgericht]] ===
+=== Bundesschiedsgericht ===
 
 [[Schiedsgerichtsordnung_Bund| Schiedsgerichtsordnung]]
 
