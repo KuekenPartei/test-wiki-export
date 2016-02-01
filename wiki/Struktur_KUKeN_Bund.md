@@ -66,7 +66,7 @@ elektronisch, transparent und geheim\] aufzulösen.
 -   Grundeinkommen
 -   Netzpolitik
 
-### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
+### Bundeskoordinationsrat
 
 Die Sprecher\_innen der überregionalen Projektbereiche bilden den
 Bundeskoordinationsrat.
@@ -76,7 +76,7 @@ Mitgliederkonferenz.
 
 Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite stehen.
 
-### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+### Bundesschiedsgericht
 
 [ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
 
