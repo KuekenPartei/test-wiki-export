@@ -66,7 +66,7 @@ elektronisch, transparent und geheim\] aufzulösen.
 -   Grundeinkommen
 -   Netzpolitik
 
-### Bundeskoordinationsrat
+### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
 
 Die Sprecher\_innen der überregionalen Projektbereiche bilden den
 Bundeskoordinationsrat.
