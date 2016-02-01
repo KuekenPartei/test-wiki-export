@@ -46,7 +46,7 @@ Z.B. [https://medium.com/@DomSchiener/publicvotes-ethereum-based-voting-applicat
 
 Durch die Verwendung von [https://en.wikipedia.org/wiki/Ring_signature| Ring Signaturen] und der dezentralen Blockchain ist es möglich den Widerspruch von [https://de.wikipedia.org/wiki/Liquid_Democracy#Unm.C3.B6glichkeit.2C_geheime_und_zugleich_nicht_manipulierbare_Abstimmungen_durchzuf.C3.BChren| elektronisch, transparent und geheim] aufzulösen.
 
-=== Die überregionalen Projektbereiche ===
+=== Die [[überregionalen Projektbereiche]] ===
 
 * [[Frieden]]
 * Sozialer Wohnungsbau

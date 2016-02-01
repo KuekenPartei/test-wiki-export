@@ -58,7 +58,7 @@ der dezentralen Blockchain ist es möglich den Widerspruch von
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy#Unm.C3.B6glichkeit.2C_geheime_und_zugleich_nicht_manipulierbare_Abstimmungen_durchzuf.C3.BChren>\|
 elektronisch, transparent und geheim\] aufzulösen.
 
-### Die überregionalen Projektbereiche
+### Die [überregionalen Projektbereiche](überregionalen_Projektbereiche "wikilink")
 
 -   [Frieden](/wiki/Frieden "wikilink")
 -   Sozialer Wohnungsbau
