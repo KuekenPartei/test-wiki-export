@@ -20,9 +20,12 @@ Elektronische Infrastruktur
     \[[http://pad.klarmachen-ändert.de/mypads/?/login](http://pad.klarmachen-ändert.de/mypads/?/login)\|
     Etherpad\] können wir Planungsblätter anlegen.
 
-Soziale Netzwerke :
+[ Soziale Netzwerke](/wiki/Soziales_Netzwerk "wikilink") :
 
-Twitter : @KuekenPartei
+Twitter : [@KuekenPartei](https://twitter.com/KuekenPartei)
+
+Diaspora\* :
+[kuekenpartei@pod.geraspora.de](https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c)
 
 [Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
 [Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
