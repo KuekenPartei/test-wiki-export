@@ -7,9 +7,11 @@ Eine Übersicht über die verfügbare Partei Infrastruktur.
 * Mit [http://pad.klarmachen-ändert.de/mypads/?/login| Etherpad] können wir Planungsblätter anlegen.
 
 
-Soziale Netzwerke :
+[[Soziales_Netzwerk| Soziale Netzwerke]] :
 
-Twitter : @KuekenPartei
+Twitter   : [https://twitter.com/KuekenPartei @KuekenPartei]
+
+Diaspora* : [https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c kuekenpartei@pod.geraspora.de]
 
 [[Kategorie:Planung]]
 [[Kategorie:inBearbeitung]]
