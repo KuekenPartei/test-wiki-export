@@ -1,18 +1,44 @@
 '''Kinder der Gesellschaft''' - Kinder sind immer auch Kinder der Gesellschaft. Ohne Kinder gibt es keine Zukunft, ohne Zukunft gibt es keine Geschichte und ohne Geschichte auch keine sinnvolle Existenz.<ref>http://de.wikipedia.org/wiki/Children_of_Men</ref>
 
-"Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das Ende immer ein absoluter Verlust, ein absoluter Mangel."<ref>[https://de.wikipedia.org/wiki/Byung-Chul_Han Byung-Chul Han]. Transparenzgesellschaft. Berlin 2012. Verlag Matthes & Seitz. 3. Auflage 2013. ISBN 978-3-88221-595-3. S.52</ref>
+{{Baustein-no-image
+|color = #1e90ff
+|background = #fbfbfb
+|text =
+„Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das Ende immer ein absoluter Verlust, ein absoluter Mangel.“ 
+
+''[https://de.wikipedia.org/wiki/Byung-Chul_Han Byung-Chul Han]. Transparenzgesellschaft. Berlin 2012. Verlag Matthes & Seitz. 3. Auflage 2013. ISBN 978-3-88221-595-3. S.52''
+}}
 
 Deshalb müssen unsere [[Soziale Systeme|sozialen Systeme]] die Verantwortung in den Mittelpunkt rücken, die uns mündigen Menschen für die Bedürftigkeit der Kinder der Gesellschaft von Natur aus zu eigen ist.
 
+[[Datei:Klamachen-ändert-Kinder.jpg|320px|right]]
+
+<br />
+<br />
+
+
 === Literatur die sich diesem Thema nähern ===
 
-Samuel Scheffler : '''Der Tod und das Leben danach''' 
+Samuel Scheffler: '''Der Tod und das Leben danach''' 
 
 Erschienen: 07.03.2015 Gebunden, 155 Seiten ISBN: 978-3-518-58623-5 
 
 ''Wie würden Sie reagieren, wenn Sie wüssten, dass 30 Tage nach Ihrem Tod die Erde und damit alles Leben auf ihr unwiederbringlich zerstört würden?''
 
 
+{{Baustein-no-image
+|color = #1e90ff
+|background = #fbfbfb
+|text =
+„Die Menschheit selbst, als fortdauerndes, historisches Projekt, bildet den impliziten Bezugsrahmen für den Großteil unsere Urteile darüber, was von Bedeutung ist. Entfernen wir diesen Bezugsrahmen, gerät unser Sinn dafür, was wichtig ist - egal wie individualistisch sein expliziter Gehalt sein mag -, ins Wanken und geht uns verloren. Damit viele unsere individuellen Ziele für uns jetzt von Bedeutung sind, muss die Menschheit eine Zukunft haben. Tatsächlich glaube ich, dass sogar noch mehr der Fall ist: Die Menschheit muss auch deshalb eine Zukunft haben, damit die bloße Vorstellung, dass manche Dinge ''von Bedeutung'' sind, einen sicheren Platz in unserem begrifflichen Repertoire behalten kann.“ 
+
+''[https://de.wikipedia.org/wiki/Samuel_Scheffler Samuel Scheffler] Der Tod und das Leben danach. suhrkamp 2015 ISBN 978-3-518-58623-5   S. 78''
+}}
+
+
+P. D. James: '''The Children of Men''' (Science Fiction) (Verfilmung [http://de.wikipedia.org/wiki/Children_of_Men| Children of Men] 2006)
+
+Deutsch: '''Im Land der leeren Häuser''', dt. von Christa Seibicke; Droemer Knaur, München 1993, ISBN 3-426-19324-8
 
 == Einzelnachweise ==
 <references />
