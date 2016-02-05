@@ -7,10 +7,11 @@ Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht,
 ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart
 gestaltbar ist. Das klarste Zeichen der Zukunft sind die Kinder. Es sind
-unsere Kinder und sie sind immer auch Kinder der Gesellschaft. In ihnen
-zeichnet sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit
-liegt bei uns, den mündigen Bürgern etwa als Eltern, Großeltern,
-Erziehern und auch Politikern.
+unsere Kinder und sie sind immer auch [ Kinder der
+Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"). In ihnen zeichnet
+sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt
+bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
+auch Politikern.
 
 Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: **Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
