@@ -26,6 +26,10 @@ Ziel der Gründung ist die
 [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") und die
 Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
+Anzeige der
+\[<https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wahlteilnahme/index.html>\|
+Wahlteilnahme\] zur Wahl zum 19. Deutschen Bundestag
+
 -   [Formalien](/wiki/Formalien "wikilink")
     -   [Satzung\_Bund](/wiki/Satzung_Bund "wikilink") \[erste Version\]
         -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
