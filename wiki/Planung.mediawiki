@@ -18,7 +18,9 @@ mailto:kpartei-g@list.xn--klarmachen-ndert-5nb.de
 
 == Erster Schritt: Gründung ==
 
-Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
+Ziel der Gründung ist die [[Gründungsversammlung]] und die Einreichung der notwendigen Unterlagen beim Bundeswahlleiter. 
+
+Anzeige der  [https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wahlteilnahme/index.html| Wahlteilnahme] zur Wahl zum 19. Deutschen Bundestag
 
 * [[Formalien]]
 ** [[Satzung_Bund]] [erste Version]
