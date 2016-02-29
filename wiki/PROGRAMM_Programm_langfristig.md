@@ -10,6 +10,6 @@ damit für uns unbewohnbar sein.
 Eine auf Permanenz des Menschlichen Lebens bezogene Politik muss
 vorbereitet sein.
 
-Wir werden Weltraumkolonien bauen müssen. Auf sehr lange Sicht hin.
+Wir werden Weltraumkolonien bauen müssen. Auf sehr sehr lange Sicht hin.
 
 [1] <http://www.scinexx.de/dossier-detail-275-5.html>
