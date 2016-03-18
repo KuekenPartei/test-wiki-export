@@ -17,7 +17,7 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: **Wie
 kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
 unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?** Als
 gute Gesellschaft möge die Fähigkeit gelten, unsere Kinder zu wahreren,
-klügeren und besseren Menschen zu machen, als wir es sind. Es ist ein
+klügeren und besseren Menschen zu machen, als wir es sind, es ist eine
 Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
 Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
 Wandel der Perspektive.
