@@ -124,6 +124,12 @@ und sollte sich ~ an die Wahlkeisvorgaben halten) Damit verbunden ist
 ein offizielles Zeugnis für die Regierung. So gibt es immer ein zwischen
 Zeugnis und ein Abschluss Zeugnis.
 
+### Einführung eines Zukunftsrates
+
+Einführung des Zukunftsrates wie es in der Publikation
+[1](https://www.academia.edu/22379414/Die_Konsultative._Mehr_Demokratie_durch_B%C3%BCrgerbeteiligung)
+von Patrizia Nanz und Claus Leggewie beschrieben ist.
+
 Medien
 ------
 
