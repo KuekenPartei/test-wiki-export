@@ -2,7 +2,7 @@
  |Typ    = Gründungsversammlung
  |Titel  = Gründungsversammlung
  |Link   = Gründungsversammlung
- |Datum  = 01.01.2016
+ |Datum  = 24.09.2016
  |Zeit   = (SS:MM)
  |Lokal  = hier die ....
  |Straße = ....
@@ -10,7 +10,7 @@
  |Ort    = ..
 }}
 
-Die [[Ist Partei Organ::Gründungsversammlung]] ist ein Organ der Partei gemäss der [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
+Die [[Ist Partei Organ::Gründungsversammlung]] ist ein Organ der Partei gemäß der [[Ist definiert in Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei|Satzung]]
 
 Sie arbeitet nach ihrer [[Hat Geschäftsordnung::Go|Geschäftsortung]].
 
