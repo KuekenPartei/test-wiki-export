@@ -42,7 +42,7 @@ Anzeige der  [https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wa
  |Typ    = Gründungsversammlung
  |Titel  = Gründungsversammlung
  |Link   = Gründungsversammlung
- |Datum  = 01.01.2016
+ |Datum  = 24.09.2016
  |Zeit   = (SS:MM)
  |Lokal  = hier die ....
  |Straße = ....
