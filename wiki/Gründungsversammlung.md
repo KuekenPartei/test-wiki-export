@@ -1,6 +1,6 @@
 Die [Ist Partei
 Organ::Gründungsversammlung](/wiki/Ist_Partei_Organ::Gründungsversammlung "wikilink")
-ist ein Organ der Partei gemäss der
+ist ein Organ der Partei gemäß der
 [Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_9_-_Organe_der_Bundespartei "wikilink")
 
 Sie arbeitet nach ihrer
