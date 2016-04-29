@@ -80,7 +80,7 @@ Wahlteilnahme\] zur Wahl zum 19. Deutschen Bundestag
 
 Gründungsplanung, hier können wir Termine eintragen.
 
-<mscalendar>Gründungsplanung</mscalendar>
+<mscalendar>Gründungsversammlungsplanung</mscalendar>
 
 Zweiter Schritt: Gründung von Landesverbänden
 ---------------------------------------------

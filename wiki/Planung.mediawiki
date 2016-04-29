@@ -87,7 +87,7 @@ Anzeige der  [https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wa
 
 Gründungsplanung, hier können wir Termine eintragen.
 
-<mscalendar>Gründungsplanung</mscalendar>
+<mscalendar>Gründungsversammlungsplanung</mscalendar>
 
 == Zweiter Schritt: Gründung von Landesverbänden ==
 
