@@ -74,7 +74,7 @@ Domain Namen und Server, wie auch Druckerzeugnisse.
 Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk "wikilink"):
 
 Folge uns auf twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
-oder diapora:
+oder diaspora:
 [kuekenpartei@pod.geraspora.de](https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c).
 
 Starthilfen
