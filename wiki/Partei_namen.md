@@ -18,6 +18,7 @@ Deutsche Kinderpartei
 -   ZVK– Zukunft, Verantwortung, Kinder
 -   PZK– Partei für die Zukunft unserer Kinder / des Kindes
 -   PDK– Partei des Kindes
+-   VFK- Verantwortung für Kinder
 
 <!-- -->
 
