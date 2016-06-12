@@ -33,6 +33,8 @@ Gott, annehmen, dann trägt dieses höhere Wesen am Ende die
 Verantwortung, die Verantwortung für den Zustand der Welt. Die
 Verantwortung, insbesondere der menschlichen Gesellschaft und unseren
 Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich.
+Der zentrale Punkt ist also die Selbstbestimmung die zentral für die
+Mündigkeit ist.
 
 Gegenwartsbezogenheit
 ---------------------
