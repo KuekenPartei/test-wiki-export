@@ -1,7 +1,7 @@
 Noch gibt es hier nur wenig Material.
 
 Eine Zusammenfassung des Prologs und des Faltblattes als eine kleine
-Broschüre. ![](Büchlein-kueken1.pdf "fig:Büchlein-kueken1.pdf")
+Broschüre: ![](Büchlein-kueken1.pdf "fig:Büchlein-kueken1.pdf")
 
 Der erste Aufkleber:
 ![](Klamachen-ändert-Kinder.jpg "fig:Klamachen-ändert-Kinder.jpg")
