@@ -51,10 +51,6 @@ Willst du uns Kennen lernen, Fragen stellen, Anregungen geben,
 mitmachen. Komm zu einem der [
 Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
 
-Oder du kommst am 5.7 19:30 in die KollektivbarES,
-(http://www.kollektivbar-es.de/) Pflügerstraße 52 12047 Berlin,
-Neukölln.
-
 Willst du über den Gründungsprozess auf dem Laufenden gehalten werden,
 kannst du die entsprechende mailingliste abonnieren:
 [http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g)
