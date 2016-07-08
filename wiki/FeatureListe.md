@@ -83,7 +83,7 @@ und Empfehlungen ableiten. Dinge dürfen und müssen ausprobiert werden.
     \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>|
     Verwaltungsvorgänge\] in eine dezentrale, transparente Blockchain
     verlegt.
--   Möglichst viele Vorgänge werden über alternative Wirtschaftssysteme
-    wie \[<https://de.wikipedia.org/wiki/Bitcoin>| Bitcoin\]
-    abgewickelt.
+-   Möglichst viele Vorgänge werden über [alternative
+    Wirtschaftssysteme](alternative_Wirtschaftssysteme "wikilink") wie
+    \[<https://de.wikipedia.org/wiki/Bitcoin>| Bitcoin\] abgewickelt.
 
