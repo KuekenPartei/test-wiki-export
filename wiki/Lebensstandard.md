@@ -29,19 +29,19 @@ Lebensstandard hat im statistischen Durchschnitt jedenfalls ein Niveau
 erreicht mit dem dieser Teil der Menschenrechte als gewährleistet und
 erfüllt gelten kann.
 
-Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Kosum
+Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Konsum
 hinterher und unsere [Lebensqualität](/wiki/Lebensqualität "wikilink") leidet.
 Wir wollen uns besinnen. So schlägt die Journalistin Anna Haag schon
 1955 diese Besinnung vor, wenn sie schreibt:
 
 “Möglicherweise wäre es gut, wenn wir uns manchmal die
 Haushaltungsbücher unserer Groß- und Urgroßeltern anschauen würden.
-Vieles, was in solchen Aufzeichnungen zu lesen ist, paßt natürlich nicht
-mehr in unsere heutige, von so vielen Bedürfnissen erfüllte Gegenwart.
-Dieser Tage habe ich in dem Haushaltsbuch einer Urgroßmutter geblättert.
-Auf der ersten Seite stand gleichsam als Motto: 'Einen Gulden weniger
-verbraucht im Monat bedeutet Wohlstand, aber nur ein paar Batzen zuviel
-hinausgeblättert in der Woche macht Armeleutegeruch.'”[3]
+Vieles, was in solchen Aufzeichnungen zu lesen ist, passt natürlich
+nicht mehr in unsere heutige, von so vielen Bedürfnissen erfüllte
+Gegenwart. Dieser Tage habe ich in dem Haushaltsbuch einer Urgroßmutter
+geblättert. Auf der ersten Seite stand gleichsam als Motto: 'Einen
+Gulden weniger verbraucht im Monat bedeutet Wohlstand, aber nur ein paar
+Batzen zuviel hinausgeblättert in der Woche macht Armeleutegeruch.'”[3]
 
 Auch [Byung-Chul Han](https://de.wikipedia.org/wiki/Byung-Chul_Han)
 verstehen wir so, dass die internen Instanzen zur Selbstausbeutung
@@ -65,7 +65,7 @@ Zielvorstellungen
 
 ### Ziele in Bezug auf den Lebensstandard unserer Gesellschaft
 
-Weitere Steigerungen des Lebensstandards im statistichen Durchschnitt
+Weitere Steigerungen des Lebensstandards im statistischen Durchschnitt
 halten wir insbesondere im materiellen Bereich für unnötig. Beim
 Individuum mag es hier und da anders zu bewerten sein. Gerade im
 medizinischen Bereich, was das körperliche Wohlbefinden betrifft, halten
