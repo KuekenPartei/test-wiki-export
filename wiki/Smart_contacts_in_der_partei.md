@@ -18,3 +18,6 @@ Die Partei Organe im Überblick:
 -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
 -   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
 -   [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+
+Wir benutzen Github als Kollaborationsplattform:
+<https://github.com/KuekenPartei>
