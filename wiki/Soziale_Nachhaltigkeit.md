@@ -114,6 +114,13 @@ Integration hervor, durch die alle individuellen Erfahrungen und
 Gedanken der gesamten Menschheit von Generation zu Generation überall
 und jederzeit weitergegeben werden konnten.*”[4]
 
+Es gab bei Arte einen attraktiven Film, “Revolution der Selbstlosen”
+
+Teil 1
+<http://www.dailymotion.com/video/x4ga307_die-revolution-der-selbstlosen-arte-doku-part-1_school>
+
+Teil 2 <http://www.dailymotion.com/video/x46myqo>
+
 #### soziale Verantwortung
 
 Die vorgenannten Aspekte zeigen alle deutlich auf die soziale
