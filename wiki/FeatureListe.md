@@ -81,6 +81,21 @@ uns bei der Findung von Lösungen im Wege weswegen wir sie Formalisieren.
 Um mit Camus zu sprechen : "Wo es Verantwortung gibt, gibt es keine
 Schuld."
 
+-   Wo es rechtlich Möglich ist wollen wir das sog. Freiwillige
+    Los-verfahren einsetzten. [
+    &10](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
+    Absatz (1) und (2). "Das freiwillige Losverfahren ist ein einfaches
+    Personenwahlverfahren. Die Teilnahme ist freiwillig. Das
+    Losverfahren ist paritätisch, gerecht, schnell und es vermeidet
+    Konkurrenz. Bei einer Mitgliederkonferenz bekommt jedes Mitglied
+    einen Token mit einer Nummer. Dieses Token kann in die Lostrommel
+    gegeben werden, um an der Wahl als Kandidat teilzunehmen. Die Nummer
+    wird bei der Akkreditierung dem Mitglied zugeordnet. "
+    -   <https://de.wikipedia.org/wiki/Losverfahren>
+    -   <https://de.wikipedia.org/wiki/Demarchie>
+    -   <http://www.bpb.de/apuz/191195/losverfahren-ein-beitrag-zur-staerkung-der-demokratie?p=all>
+    -   <http://www.welt.de/debatte/kommentare/article112843520/Lotterien-sorgen-fuer-eine-gerechtere-Politik.html>
+
 ### Moderne Strukturen
 
 Die [Partei als Labor](/wiki/Partei_als_Labor "wikilink"): Durch unsere
