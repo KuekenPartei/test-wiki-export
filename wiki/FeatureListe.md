@@ -67,6 +67,19 @@ und unseres Programms.
 -   Anbindung von Initiativen durch die [ überregionalen
     Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche "wikilink").
 -   Formalisierung von Schuld
+    -   Die Formalisierung der Schuld ist durch unsere Satzung
+        Definiert, [
+        §11](/wiki/Satzung_Bund#.C2.A7_11_Der_Bundesvorstand "wikilink")
+        Absatz 12. “(12) Der Bundesvorstand hat Schuld, diese ist wie
+        folgt unter den Vorstandsmitgliedern aufgeteilt: Der erste und
+        zweite Vorsitzende haben immer Schuld, alle anderen
+        Vorstandsmitglieder habe eine Teilschuld.”
+
+Schuld ist ein Prinzip dem wir als Christlich geprägte Gesellschaft
+immer noch Anhängen.(vlg. Erbschuld/Erbsünde) Diese Schuld Prinzip steht
+uns bei der Findung von Lösungen im Wege weswegen wir sie Formalisieren.
+Um mit Camus zu sprechen : “Wo es Verantwortung gibt, gibt es keine
+Schuld.”
 
 ### Moderne Strukturen
 
