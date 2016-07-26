@@ -19,5 +19,12 @@ Tops
     dem Versammlungleiter die Versicherung an Eides statt gemäß EuWO
     abgeben
 5.  Beschluss der Tages- und Geschäftsordnung
+6.  Beschluss der Gründer der Partei KUEKeN
+7.  Wahlen
+    1.  Satzung und neben Satzungen
+    2.  Programm Katalog
+    3.  Vorstand
+    4.  Rechnungsprüfer
+    5.  Schiedsgericht
 
 \_\_SHOWFACTBOX\_\_
