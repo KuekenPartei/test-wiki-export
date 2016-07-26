@@ -88,6 +88,40 @@ Terminliste:
 -   18.5.2017 Beteiligungsanzeige
 -   15.6.2017 Wahlvorschläge
 
+#### Gründungsveranstaltung
+
+-   Die Errichtung einer Partei bedarf eines Gründungsvertrages mit dem
+    Willen der Beteiligten, eine Partei zu gründen.
+-   Auf der Gründungsveranstaltung wird von den anwesenden Personen
+    zunächst über die Gründung der Partei beschlossen, im Anschluss
+    hieran beschließt die Gründungsversammlung das Programm und die
+    Satzung der Partei.
+-   Schließlich wählt sie den Parteivorstand in der Zusammensetzung, die
+    die Parteisatzung vorsieht.
+-   Über den Verlauf der Gründungsversammlung sowie über alle Beschlüsse
+    und Wahlen ist ein Protokoll zu führen.
+-   Die Wahlen der Vorstandsmitglieder und der Vertreter zu
+    Vertreterversammlungen und zu Organen höherer Gebietsverbände sind
+    geheim. Bei den übrigen Wahlen kann offen abgestimmt werden, wenn
+    sich auf Befragen kein Widerspruch erhebt.
+
+##### Anzeige der Gründung beim Wahlleiter
+
+Nach erfolgter Gründung der Partei hat der Vorstand dem Bundeswahlleiter
+
+1.  Satzung
+2.  Programm
+3.  Namen der Vorstandsmitglieder der Partei und der Landesverbände mit
+    Angabe ihrer Funktionen bekannt zu geben.
+
+Zur Legitimation der Parteigründung ist es notwendig, auch das
+Gründungsprotokoll einzureichen. Aus dem Gründungsprotokoll müssen neben
+der Beschlussfassung zur Parteigründung auch die Beschlussfassungen von
+Satzung (inklusive Nebenordnungen) und Programm sowie die demokratische
+und geheime Wahl des Vorstands ersichtlich sein. Das Protokoll sollte
+vom Vorsitzenden der Partei oder seinem Stellvertreter und von zwei
+weiteren Mitgliedern des Vorstandes handschriftlich unterzeichnet sein.
+
 #### Beteiligungsanzeige
 
 Der Beteiligungsanzeige sind die aktuelle Satzung und das aktuelle
