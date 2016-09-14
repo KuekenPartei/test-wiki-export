@@ -90,8 +90,11 @@ Gründungsplanung, hier können wir Termine eintragen.
 <mscalendar>Gründungsversammlungsplanung</mscalendar>
 
 Terminliste:
+Dieser Termin muss gestrichen werden: Damit sind alle weiteren Termine in Gefahr, bzw. ist das ganze Projekt in Schwebe gerade. Nur Wählen reicht nicht.
 
 * 24.9.2016 Gründungsveranstaltung Bundespartei
+
+
 * 18.5.2017 Beteiligungsanzeige 
 * 15.6.2017 Wahlvorschläge
 
