@@ -105,12 +105,12 @@ siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 Politik und Verwaltung
 ----------------------
 
-Als Menschen Orientieren wir uns an anderen Menschen, das machen wir
+Als Menschen orientieren wir uns an anderen Menschen, das machen wir
 seit Geburt an. So orientieren wir uns auch an unseren Politikern. Es
-muss Politikern daher leicht gemacht werden sich Vorbildlich zu
+muss Politikern daher leicht gemacht werden sich vorbildlich zu
 benehmen, um ein gutes Beispiel zu geben. Dafür braucht es strenge
 Regeln. Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz
-und Lobby Kontrolle. Wir schliessen uns hier den Forderungen von
+und Lobby Kontrolle. Wir schließen uns hier den Forderungen von
 lobbycontrol an.
 
 [LobbyControl-Positonspapier.pdf](https://www.lobbycontrol.de/wp-content/uploads/LobbyControl-Positonspapier.pdf)
