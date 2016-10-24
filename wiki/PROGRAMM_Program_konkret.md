@@ -55,6 +55,9 @@ kann.
 Kinder und Familie
 ------------------
 
+Unser Familien Bild ist einfach und offen. Familie ist da wo die Kinder
+sind.
+
 siehe auch [Demographische
 Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
 
