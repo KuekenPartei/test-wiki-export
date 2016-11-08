@@ -14,7 +14,9 @@ in Europe. 2015, S. 7
 
 Hier ein paar Beispiele:
 
-**AFD** ![AFD](Cdu-afd-flaschen.png "fig:AFD")
+**AFD**
+
+![AFD](Cdu-afd-flaschen.png "AFD")
 
 Hier gibt es keine Herzlichkeit.
 
