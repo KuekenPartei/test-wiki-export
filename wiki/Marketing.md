@@ -13,5 +13,7 @@ möglich.
     <http://www.transform-magazin.de/warum-journalismus-und-werbung-nicht-zusammengehen/>
 
   
+Ein sehr schönes Interview mit Noam Chomsky zum Thema:
+<https://www.youtube.com/watch?v=3CFwSQiTu3I>
 
 [Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
