@@ -243,7 +243,7 @@ Die Tätigkeitsbereiche der Vorstandsmitglieder sind:
 
 ##### Stellvertretender Vorsitzender: xxx
 
-##### Schatzmeister: Stefan Bartels
+##### Schatzmeister: xxx
 
 ##### Stellvertretender Schatzmeister: Lothar Krauß
 
