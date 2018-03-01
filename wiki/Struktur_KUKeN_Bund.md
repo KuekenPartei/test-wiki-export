@@ -14,23 +14,23 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 ![gerahmt](Organigram-KUEKeN-Bund.png "fig:gerahmt")  
 
-### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
+### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink")
 
 Die Bundesgesamtkonferenz ist die Versammlung der Mitglieder des KUEKeN.
 Sie das oberstes Organ des KUEKeN.
 
 [ §10 Die
-Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
+Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz.md "wikilink")
 
 Sie arbeitet nach der [ Geschäftsordnung der
-Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink").
+Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz.md "wikilink").
 
-### [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
+### [Bundesvorstand](/wiki/Bundesvorstand.md "wikilink")
 
 [ §11 Der
-Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
+Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand.md "wikilink")
 
-### [ Ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
+### [ Ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz.md "wikilink")
 
 Die ständige Mitgliederkonferenz gehört zum Konzept der sog.
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy>| Liquid Democracy\].
@@ -60,13 +60,13 @@ elektronisch, transparent und geheim\] aufzulösen.
 
 ### Die [überregionalen Projektbereiche](überregionalen_Projektbereiche "wikilink")
 
--   [Frieden](/wiki/Frieden "wikilink")
+-   [Frieden](/wiki/Frieden.md "wikilink")
 -   Sozialer Wohnungsbau
 -   Bildung
 -   Grundeinkommen
 -   Netzpolitik
 
-### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
+### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink")
 
 Die Sprecher\_innen der überregionalen Projektbereiche bilden den
 Bundeskoordinationsrat.
@@ -76,9 +76,9 @@ Mitgliederkonferenz.
 
 Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite stehen.
 
-### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink")
 
-[ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
+[ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md "wikilink")
 
 Zusammenfassung
 ---------------

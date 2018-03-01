@@ -37,7 +37,7 @@ Bundeslandes.
 (3) Der Sitz der Partei ist in Berlin.
 
 (4) Der Zweck der Partei ist durch die Grundbestimmungen in [ Abschnitt
-B](/wiki/Satzung_Bund#Abschnitt_B:_Grundbestimmungen "wikilink") und der
+B](/wiki/Satzung_Bund#Abschnitt_B:_Grundbestimmungen.md "wikilink") und der
 Präambel markiert.
 
 (5) Das Tätigkeitsgebiet des KUEKeN ist die Bundesrepublik Deutschland.
@@ -63,7 +63,7 @@ nicht zulässig.
 -----------------------------
 
 (1) Die Mitgliedschaft im KUEKeN wird auf Grundlage dieser [
-Satzung](/wiki/Satzung_Bund "wikilink") erworben. Die Mitgliedschaft wird
+Satzung](/wiki/Satzung_Bund.md "wikilink") erworben. Die Mitgliedschaft wird
 zunächst unmittelbar bei der Bundespartei erworben. Nach der Gründung
 niederer Gliederungen wird:
 
@@ -86,7 +86,7 @@ bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in
 Schriftform und wird von der nächsthöheren Gliederung entschieden. Ein
 ablehnender Bescheid muss in Schriftform begründet werden und kann im
 Einspruchsverfahren zur letzten Entscheidung dem [
-Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") vorgelegt werden.
+Schiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink") vorgelegt werden.
 
 (2b) Mit der Aufnahme in eine andere Gliederung verliert das Mitglied
 das aktive und passive Wahlrecht in der alten Gliederung. Eventuell
@@ -153,7 +153,7 @@ zurückzugeben. Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
 
 (1) Verstößt ein Mitglied gegen die Satzung oder gegen Grundsätze oder
 Ordnung des KUEKeN und fügt ihm damit Schaden zu, so kann der [
-Bundesvorstand](/wiki/Bundesvorstand "wikilink") folgende Ordnungsmaßnahmen
+Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") folgende Ordnungsmaßnahmen
 anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt,
 Aberkennung der Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus dem
 KUEKeN. Der Vorstand muss dem Mitglied vor dem Beschluss der
@@ -164,7 +164,7 @@ in Schriftform unter Angabe von Gründen zu überstellen.
 vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze oder
 die Ordnung des KUEKeN verstößt und ihm damit schweren Schaden zufügt.
 Der Ausschluss wird vom Bundesvorstand beim zuständigen [
-Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") beantragt. In
+Schiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink") beantragt. In
 dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen
 erfordern, kann der Vorstand das Mitglied von der Ausübung seiner Rechte
 bis zur Entscheidung des Schiedsgerichts ausschließen.
@@ -194,11 +194,11 @@ Ordnungsmaßnahme treffenden Gebietsverbandes, hat die Ordnungsmaßnahme
 am nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten
 tritt die Maßnahme außer Kraft. Gegen die Ordnungsmaßnahme ist die
 Anrufung des nach der [
-Schiedsgerichtsordnung](/wiki/Satzung_Bund#Abschnitt_D:_Schiedsgerichtsordnung "wikilink")
+Schiedsgerichtsordnung](/wiki/Satzung_Bund#Abschnitt_D:_Schiedsgerichtsordnung.md "wikilink")
 zuständigen Schiedsgerichtes zuzulassen.
 
 (7) Über die Ordnungsmaßnahmen im Sinne § 6 Absatz 6 entscheidet die [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") auf Antrag des
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") auf Antrag des
 Bundesvorstandes mit einfacher Mehrheit.
 
 (8) Das Schiedsgericht kann statt der verhängten oder beantragten
@@ -230,7 +230,7 @@ auch ihre Organe zu einer gleichen Verhaltensweise anzuhalten.
 
 (2) Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder
 Organe diese Pflichten, ist der [
-Bundesvorstand](/wiki/Bundesvorstand "wikilink") berechtigt und verpflichtet,
+Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") berechtigt und verpflichtet,
 die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
 § 9 Organe
@@ -239,19 +239,19 @@ die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 (1) Organe im Sinne des
 [Parteiengesetzes](http://www.gesetze-im-internet.de/partg/) sind:
 
-- [ die Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
+- [ die Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink")
 
-- [ der Bundesvorstand](/wiki/Bundesvorstand "wikilink")
+- [ der Bundesvorstand](/wiki/Bundesvorstand.md "wikilink")
 
 - [ ständige
-Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
+Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz.md "wikilink")
 
-- [ der Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
+- [ der Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink")
 
 - [ die überregionalen
 Projektbereiche](Überregionale_Projektbereiche "wikilink")
 
-- [ die Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
+- [ die Gründungsversammlung](/wiki/Gründungsversammlung.md "wikilink")
 
 (2) Die Gründungsversammlung tagt nur einmal, und zwar am xxxx.
 
@@ -264,24 +264,24 @@ geschlechtsspezifische Gruppen, Lesben/Schwule etc.
 
 (5) Die Sitzungen von Organen und Gremien aller Ebenen des KUEKeN tagen
 öffentlich. Anwesende haben Rede- und Antragsrecht, soweit diese [
-Satzung](/wiki/Satzung_Bund "wikilink") nichts anderes vorschreibt. Die
+Satzung](/wiki/Satzung_Bund.md "wikilink") nichts anderes vorschreibt. Die
 Öffentlichkeit der Sitzungen erstreckt sich nicht auf Personen, die dem
 BND, Verfassungsschutzämtern, dem MAD, dem BGS, der Polizei oder
 Staatsanwaltschaften zuarbeiten oder in deren Auftrag tätig sind.
 
 (6) Mitglieder von Organen können nicht gleichzeitig einem anderen
 Organ, mit Ausnahme der [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") und den
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") und den
 \[\[Überregionale Projektbereichen| überregionalen Projektbereichen,
 angehören.
 
-(7) Mitglieder von [ Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink")
+(7) Mitglieder von [ Schiedsgerichten](/wiki/Bundesschiedsgericht.md "wikilink")
 und Rechnungsprüfer\_innen aller Ebenen können nur Mitglieder des KUEKeN
 sein.
 
 (8) Mandatsträger\_innen des KUEKeN in Europa-, Bundes-, Landes- oder
 Kreisparlamenten können nicht Mitglieder von Organen, mit Ausnahme der [
-Mitgliederkonferenzen](/wiki/Ständige_Mitgliederkonferenz "wikilink"), und der
+Mitgliederkonferenzen](/wiki/Ständige_Mitgliederkonferenz.md "wikilink"), und der
 Projektbereiche sein oder bleiben. Sie können frühestens zwei Jahre nach
 Ablauf ihres Mandates zu Organen kandidieren.
 
@@ -296,11 +296,11 @@ Aufsichtsratsposten oder Beraterverträge ausüben.
 § 10 Die Bundesgesamtkonferenz
 ------------------------------
 
-(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink")
 findet mindestens einmal im Kalenderjahr statt. Sie besteht aus maximal
 800 Teilnehmern. Sollte der KUEKeN mehr Mitglieder haben, werden die
 Delegierten durch das freiwillige Losverfahren bestimmt. Die
-Vorschriften dieser [ Satzung](/wiki/Satzung_Bund "wikilink") sind hierbei
+Vorschriften dieser [ Satzung](/wiki/Satzung_Bund.md "wikilink") sind hierbei
 einzuhalten.
 
 (2) Das freiwillige Losverfahren ist ein einfaches
@@ -339,7 +339,7 @@ Rechnungsprüfer\_innen.
 
 3. Die Beschlussfassung über die Satzung und die Grundsätze des KUEKeN [
 (§
-1)](/wiki/Satzung#.C2.A7_1_Name.2C_Sitz.2C_Zweck_und_T.C3.A4tigkeitsgebiet "wikilink")
+1)](/wiki/Satzung#.C2.A7_1_Name.2C_Sitz.2C_Zweck_und_T.C3.A4tigkeitsgebiet.md "wikilink")
 bzw. Abschnitt B, die Programme und die Schiedsgerichtsordnung.
 
 4. Die Beschlussfassung über die Geschäftsordnung, die Beitragsordnung
@@ -383,10 +383,10 @@ zwei Konferenzleiter\_innen zu unterzeichnen.
 § 11 Der Bundesvorstand
 -----------------------
 
-(1) Der [ Bundesvorstand](/wiki/Bundesvorstand "wikilink") besteht aus dem [
-Vorsitzenden](/wiki/Go_Bundesvorstand "wikilink") und dessen Stellvertreter,
-dem [ Schatzmeister](/wiki/Finanzordnung_Bund "wikilink") und optional dessen
-Stellvertreter, und dem [ Generalsekretär](/wiki/Go_Bundesvorstand "wikilink")
+(1) Der [ Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") besteht aus dem [
+Vorsitzenden](/wiki/Go_Bundesvorstand.md "wikilink") und dessen Stellvertreter,
+dem [ Schatzmeister](/wiki/Finanzordnung_Bund.md "wikilink") und optional dessen
+Stellvertreter, und dem [ Generalsekretär](/wiki/Go_Bundesvorstand.md "wikilink")
 und dessen erstem, und optional zweitem Stellvertreter. Die Vorsitzenden
 sind für die politische Leitung und politische Außenvertretung, die
 Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre
@@ -398,7 +398,7 @@ sein Amt.
 führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
 (3) Die Mitglieder des Bundesvorstand werden von der [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mindestens alle
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") mindestens alle
 zwei Kalenderjahre gewählt. Der Bundesvorstand bleibt bis zur Wahl eines
 neuen Bundesvorstands im Amt. Ist ein Vorstandsamt durch Rücktritt oder
 eine geheim abzustimmende Abwahl unbesetzt, so kann dieses von der
@@ -416,16 +416,16 @@ erfolgen.
 (5) Auf Antrag der [ ständigen
 Mitgliederversammlung](ständige_Mitgliederversammlung "wikilink") oder
 auf Anraten des [
-Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink") kann der
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink") kann der
 Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen
 Fragestellungen befasst werden
 
 (6) Der Bundesvorstand beschließt über alle organisatorischen und
 politischen Fragen im Sinne der Beschlüsse der Bundesgesamtkonferenz
-bzw. der [ Gründungsversammlung](/wiki/Gründungsversammlung "wikilink").
+bzw. der [ Gründungsversammlung](/wiki/Gründungsversammlung.md "wikilink").
 
 (7) Der Bundesvorstand gibt sich eine [
-Geschäftsordnung](/wiki/Go_Bundesvorstand "wikilink") und veröffentlicht diese
+Geschäftsordnung](/wiki/Go_Bundesvorstand.md "wikilink") und veröffentlicht diese
 angemessen. Sie umfasst u.a. Regelungen zu:
 
 1.  Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung
@@ -437,7 +437,7 @@ angemessen. Sie umfasst u.a. Regelungen zu:
 7.  Die genaue Amtsbezeichnung der weiteren Mitglieder nach (1)
 
 (8) Die Führung der [
-Bundesgeschäftsstelle](/wiki/Bundesgeschäftsstelle "wikilink") wird durch den
+Bundesgeschäftsstelle](/wiki/Bundesgeschäftsstelle.md "wikilink") wird durch den
 Vorstand beauftragt und beaufsichtigt.
 
 (9) Der Bundesvorstand liefert zur Bundesgesamtkonferenz einen
@@ -481,15 +481,15 @@ gleichberechtigt aus Mitgliedern und Nichtmitgliedern zusammen. Es
 sollen besonders Interessent\_innen aus überregionalen Bewegungen,
 Fachinstitutionen u.ä. in die Arbeit einbezogen werden. Die
 überregionalen Projektbereiche dienen im Rahmen der Beschlüsse der [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") der
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") der
 Weiterentwicklung der programmatischen Grundlagen der Organisation und
 der fachlichen Zusammenarbeit mit interessierten Personen und
 Institutionen außerhalb des KUEKeN.
 
 (2) Für den Tagungsaufwand
-([Aufwandshaushalt](/wiki/Aufwandshaushalt "wikilink")) und für die fachliche
-Arbeit ([Aktionshaushalt](/wiki/Aktionshaushalt "wikilink")) sind Mittel im [
-Bundeshaushalt](/wiki/Bundeshaushalt "wikilink") der Organisation vorzusehen.
+([Aufwandshaushalt](/wiki/Aufwandshaushalt.md "wikilink")) und für die fachliche
+Arbeit ([Aktionshaushalt](/wiki/Aktionshaushalt.md "wikilink")) sind Mittel im [
+Bundeshaushalt](/wiki/Bundeshaushalt.md "wikilink") der Organisation vorzusehen.
 
 (3) Mitglieder und Nichtmitglieder sind in den überregionalen
 Projektbereichen gleichberechtigt, sie haben aktives und passives
@@ -506,11 +506,11 @@ Bundesgesamtkonferenz entscheidet abschließend mit einfacher Mehrheit.
 Sprecher\_innen, die die Arbeit des Projektbereichs innerhalb des KUEKeN
 und in der Öffentlichkeit vertreten. Sie können eine Aufwandspauschale
 erhalten, wenn die Bundesgesamtkonferenz dies in einer [
-Aufwandsentschädigungsordnung](/wiki/Aufwandsentschädigungsordnung "wikilink")
+Aufwandsentschädigungsordnung](/wiki/Aufwandsentschädigungsordnung.md "wikilink")
 beschließt.
 
 (5) Die Sprecher\_innen der überregionalen Projektbereiche bilden den [
-Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink"). Dieser wählt
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink"). Dieser wählt
 aus seiner Mitte zwei ehrenamtlich arbeitende Koordinator\_innen. Die
 Koordinator\_innen können für ihre Tätigkeit eine Aufwandspauschale
 erhalten, wenn die Bundesgesamtkonferenz dies in einer
@@ -539,7 +539,7 @@ sind öffentlich.
 -------------------------------
 
 (1) Die Sprecher\_innen der überregionalen Projektbereiche bilden den [
-Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink").
+Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink").
 
 (2) Der Bundeskoordinationsrat hat Vorschlagsrecht in der [ ständigen
 Mitgliederkonferenz](ständige_Mitgliederkonferenz "wikilink").
@@ -551,7 +551,7 @@ stehen.
 ------------------------------------------------------------
 
 (1) Für die Aufstellung der Bewerber\_innen für Wahlen zu [
-Volksvertretungen](/wiki/Volksvertretungen "wikilink") gelten die Bestimmungen
+Volksvertretungen](/wiki/Volksvertretungen.md "wikilink") gelten die Bestimmungen
 der aktuellen [Wahlgesetze](https://de.wikipedia.org/wiki/Wahlgesetz)
 und der Satzungen des Bundespartei und der zuständigen Gebietsverbände.
 
@@ -561,9 +561,9 @@ Bundesland haben, Kreisbewerber\_innen im entsprechenden Wahlkreis.
 § 15 Zulassung von Gästen
 -------------------------
 
-(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink"), der
-[ Bundesvorstand](/wiki/Bundesvorstand "wikilink") und die [
-Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") können durch
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink"), der
+[ Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") und die [
+Gründungsversammlung](/wiki/Gründungsversammlung.md "wikilink") können durch
 Beschluss Gäste zulassen.
 
 (2) Ein Stimmrecht haben die Gäste nicht.
@@ -572,7 +572,7 @@ Beschluss Gäste zulassen.
 -----------------------------------
 
 (1) Änderungen der Bundessatzung können nur von einer [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mit einer 2/3
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") mit einer 2/3
 Mehrheit der abgegebenen gültigen Stimmen beschlossen werden. Besteht
 die dringende Erfordernis einer Sitzungsänderung zwischen zwei
 Parteitagen, so kann die Satzung auch geändert werden, wenn mindestens
@@ -593,7 +593,7 @@ des Programms des KUEKeN.
 
 (1) Die Auflösung der Bundespartei oder ihre Verschmelzung mit einer
 anderen Partei kann nur durch einen Beschluss der [
-Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") mit einer
+Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") mit einer
 Mehrheit von 3/4 der zur Bundesgesamtkonferenz Stimmberechtigten
 beschlossen werden.
 
@@ -635,7 +635,7 @@ Vorstandsbeschluss kann eine pauschale Aufwandsvergütung festgesetzt
 werden.
 
 (3) Höhe und Umfang der Erstattungen werden vom [
-Bundesvorstand](/wiki/Bundesvorstand "wikilink") und von den Landesverbänden
+Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") und von den Landesverbänden
 für ihren jeweiligen Zuständigkeitsbereich einheitlich geregelt.
 Abweichende Regelungen der nachgeordneten Gliederungen dürfen die
 Regelungen des Landesverbandes nicht überschreiten.
@@ -644,7 +644,7 @@ Regelungen des Landesverbandes nicht überschreiten.
 ---------------------------------
 
 (1) Die [ Ständige
-Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink") (Kurzform
+Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz.md "wikilink") (Kurzform
 SMK) ist der grundsätzlich ständig und online tagende Zusammentritt der
 Mitglieder des KUEKeN.
 
@@ -665,7 +665,7 @@ entsprechenden Person zuordnen kann. Nichtmitglieder können das
 Abstimmverhalten nicht einsehen. Nach Ablauf der
 Nachvollziehbarkeitsfrist werden die Daten zum Abstimmungsverhalten der
 Mitglieder aus dem System gelöscht. Das Nähere regelt die [
-Geschäftsordnung](/wiki/Go_smk "wikilink").
+Geschäftsordnung](/wiki/Go_smk.md "wikilink").
 
 (4) Alle Mitglieder haben das Recht die Identitäten aller anderen
 akkreditierten Versammlungsmitglieder zu überprüfen. Um dies zu
@@ -678,7 +678,7 @@ angezeigt.
 
 (5) Die SMK arbeitet online nach den Prinzipien der [Liquid
 Democracy](https://de.wikipedia.org/wiki/Liquid_Democracy) entsprechend
-[ § 21](/wiki/Satzung#.C2.A7_21_Liquid_Democary "wikilink") dieser Satzung.
+[ § 21](/wiki/Satzung#.C2.A7_21_Liquid_Democary.md "wikilink") dieser Satzung.
 Delegationen sind zeitlich begrenzt. Näheres regelt die
 Geschäftsordnung.
 
@@ -734,7 +734,7 @@ themenbereichsbezogen, durch Delegation an ein anderes Mitglied zu
 übertragenes Stimmgewicht muss weiter übertragen werden können. Selbst
 genutztes Stimmgewicht darf nicht weiter übertragen werden.
 
-(2) Der [ Bundesvorstand](/wiki/Bundesvorstand "wikilink") stellt den
+(2) Der [ Bundesvorstand](/wiki/Bundesvorstand.md "wikilink") stellt den
 dauerhaften und ordnungsgemäßen Betrieb des Systems sicher.
 
 (3) Jedem Mitglied ist Einsicht in den abstimmungsrelevanten
@@ -742,11 +742,11 @@ Datenbestand des Systems zu gewähren. Während einer Abstimmung darf der
 Zugriff auf die jeweiligen Abstimmdaten anderer Mitglieder vorübergehend
 gesperrt werden.
 
-(4) Die [ Organe](/wiki/Category%3AParteiorganisation "wikilink") sind
+(4) Die [ Organe](/wiki/Category%3AParteiorganisation.md "wikilink") sind
 gehalten, das Liquid-Democracy-System zur Einholung von Empfehlungen als
 Grundlage ihrer Beschlüsse zu nutzen und von diesen Empfehlungen
 abweichende Entscheidungen zu begründen. Das [
-Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") ist davon ausgenommen.
+Schiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink") ist davon ausgenommen.
 
 (5) Die Organe der Partei sind angehalten, die Anträge, die im
 Liquid-Democracy-System positiv beschieden wurden, vorrangig zu

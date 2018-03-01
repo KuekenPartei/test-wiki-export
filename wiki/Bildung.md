@@ -4,15 +4,15 @@ Land sichert ein fundiertes Wissen aller Mitglieder der Gesellschaft
 matierielles und kulturelles Wohlergehen.
 
 Mit dem selbstverständlichen [Bekenntnis zu den
-Menschenrechten](/wiki/Grundbestimmungen "wikilink") bekennen wir uns ebenso
+Menschenrechten](/wiki/Grundbestimmungen.md "wikilink") bekennen wir uns ebenso
 selbstverständlich zu dem Recht jedes Menschen auf Bildung.[1] Dafür
 Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben
 kann und auslebt, muss unser Anliegen sein.
 
 Bildung ist daher auch ein wesentlicher Punkt in unserem
-[Programm](/wiki/Programm:Program_konkret "wikilink") sowie
+[Programm](/wiki/Programm:Program_konkret.md "wikilink") sowie
 selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen
-Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit "wikilink").
+Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit.md "wikilink").
 
 Schule
 ------

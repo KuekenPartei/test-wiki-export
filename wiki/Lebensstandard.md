@@ -4,7 +4,7 @@
 | Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                          |
 
 Der **Lebensstandard** - ist ein Faktor der
-[Lebensqualität](/wiki/Lebensqualität "wikilink"). Es geht hierbei ebenso um
+[Lebensqualität](/wiki/Lebensqualität.md "wikilink"). Es geht hierbei ebenso um
 das körperliche Wohlbefinden eines Menschen wie um den materiellen
 Wohlstand.
 
@@ -24,13 +24,13 @@ Stand des Lebensstandards in unserer Gesellschaft
 
 Unsere Gesellschaft in Deutschland wie in Europa hat im diachronen wie
 im synchronen Vergleich einen hohen Lebensstandard erreicht. Hier liegt
-vielmehr ein [Solidaritätsproblem](/wiki/Solidarität "wikilink") vor. Der
+vielmehr ein [Solidaritätsproblem](/wiki/Solidarität.md "wikilink") vor. Der
 Lebensstandard hat im statistischen Durchschnitt jedenfalls ein Niveau
 erreicht mit dem dieser Teil der Menschenrechte als gewährleistet und
 erfüllt gelten kann.
 
 Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Konsum
-hinterher und unsere [Lebensqualität](/wiki/Lebensqualität "wikilink") leidet.
+hinterher und unsere [Lebensqualität](/wiki/Lebensqualität.md "wikilink") leidet.
 Wir wollen uns besinnen. So schlägt die Journalistin Anna Haag schon
 1955 diese Besinnung vor, wenn sie schreibt:
 
@@ -52,10 +52,10 @@ eher traumwandlerische Unterwerfung unter das Konsumdiktat, welches
 viele zu einem Tausch von Zeit gegen Konsumgüter zwingt, raubt uns die
 kostbare Zeit, um unseren Wunsch nach Beschäftigung mit unseren
 Mitmenschen, insbesondere mit den [Kindern der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), zu befriedigen und so
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink"), zu befriedigen und so
 unserer sozialen Verantwortung wirklich gerecht zu werden. Hierin liegt
 das eigentliche Potential, unsere
-[Lebensqualität](/wiki/Lebensqualität "wikilink") zu steigern.
+[Lebensqualität](/wiki/Lebensqualität.md "wikilink") zu steigern.
 
 Stand des Lebensstandards international
 ---------------------------------------
@@ -85,7 +85,7 @@ Einzelnachweise
 
 <references />
 [Kategorie:
-Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik "wikilink")
+Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik.md "wikilink")
 
 [1] vgl. <http://www.un.org/Depts/german/menschenrechte/aemr.pdf>
 

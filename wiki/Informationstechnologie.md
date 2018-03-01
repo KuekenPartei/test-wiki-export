@@ -3,7 +3,7 @@ an Gesellschaft und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), die zu hohen
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink"), die zu hohen
 Strafzahlungen genötigt wurden, um Geheimdienste, die moderne
 Technologien für eine Totalüberwachung einschließlich wirtschaftlicher
 Spionage nutzen.[1] Mit [PRISM](https://de.wikipedia.org/wiki/PRISM) und
@@ -22,7 +22,7 @@ Punkte in unsere Hände.
 Netzpolitik
 -----------
 
-siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
+siehe [Netzpolitik](/wiki/Netzpolitik.md "wikilink")
 
 Förderung von offenen Standards
 -------------------------------
@@ -31,7 +31,7 @@ Förderung von Open Source Software
 ----------------------------------
 
 [Open Source](https://de.wikipedia.org/wiki/Open_Source) ist ein
-Software-Modell das sowohl [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
+Software-Modell das sowohl [Nachhaltigkeit](/wiki/Nachhaltigkeit.md "wikilink")
 als auch die Eigenverantwortung und den Sinn für gemeinschaftliches
 Handelns beinhaltet. Es wird von uns ausdrücklich unterstützt. Weite
 teile der informationstechnologischen Infrastruktur werden schon jetzt

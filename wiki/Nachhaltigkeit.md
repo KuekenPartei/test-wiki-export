@@ -17,18 +17,18 @@ Unter Nachhaltigkeit verstehen wir:
     (z.B. Umgang mit natürlichen Lebensgrundlagen und Ressourcen,
     Reinhaltung von Luft, Wasser, Erde u.ä.)
 -   [soziale Nachhaltigkeit](soziale_Nachhaltigkeit "wikilink") (z.B.
-    [Lebensstandard](/wiki/Lebensstandard "wikilink"),
-    [Bildung](/wiki/Bildung "wikilink"), Gemeinschaft,
-    [Gerechtigkeit](/wiki/Gerechtigkeit "wikilink"), [soziale
+    [Lebensstandard](/wiki/Lebensstandard.md "wikilink"),
+    [Bildung](/wiki/Bildung.md "wikilink"), Gemeinschaft,
+    [Gerechtigkeit](/wiki/Gerechtigkeit.md "wikilink"), [soziale
     Verantwortung](soziale_Verantwortung "wikilink") u.ä.)
 -   [ökonomische Nachhaltigkeit](ökonomische_Nachhaltigkeit "wikilink")
     (z.B. langlebige Produkte, Kosteneinsparung, Bedarfdeckung,
-    [Forschung](/wiki/Forschung "wikilink") & Entwicklung u.ä.)
+    [Forschung](/wiki/Forschung.md "wikilink") & Entwicklung u.ä.)
 -   [politische Nachhaltigkeit](politische_Nachhaltigkeit "wikilink")
-    (Aufrechterhaltung von [Frieden](/wiki/Frieden "wikilink"), Stabilität
+    (Aufrechterhaltung von [Frieden](/wiki/Frieden.md "wikilink"), Stabilität
     u.ä.\]
 
 <Kategorie:Umweltpolitik> <Kategorie:Wirtschaftspolitik>
 <Kategorie:Bildungspolitik> <Kategorie:Sozialpolitik>
-[Kategorie:Außenpolitik](/wiki/Kategorie:Außenpolitik "wikilink")
+[Kategorie:Außenpolitik](/wiki/Kategorie:Außenpolitik.md "wikilink")
 <Kategorie:Verteidigungspolitik>

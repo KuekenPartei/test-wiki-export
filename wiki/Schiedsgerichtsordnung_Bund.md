@@ -4,7 +4,7 @@ Abschnitt D: Schiedsgerichtsordnung
 ### § 1 Grundlagen
 
 (1) Die Schiedsgerichtsordnung regelt das Verfahren vor den [
-Schiedsgerichten](/wiki/Bundesschiedsgericht "wikilink").
+Schiedsgerichten](/wiki/Bundesschiedsgericht.md "wikilink").
 
 (2) Sie ist für Schiedsgerichte jeder Ordnung bindend. Eine Erweiterung
 oder Abänderung durch andere Gliederungen ist nur an den Stellen und in
@@ -33,7 +33,7 @@ zu behandeln, soweit diese Ordnung nicht etwas anderes vorsieht.
 so macht das Schiedsgericht dies unverzüglich öffentlich bekannt.
 
 (6) Die Schiedsgerichte geben sich eine [
-Geschäftsordnung](/wiki/Go_Schiedsgericht "wikilink"). Diese enthält
+Geschäftsordnung](/wiki/Go_Schiedsgericht.md "wikilink"). Diese enthält
 insbesondere Regelungen:
 
 -   zur internen Geschäftsverteilung und der Verwaltungsorganisation,
@@ -47,10 +47,10 @@ insbesondere Regelungen:
 
 ### § 3 Richterwahl
 
-(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink") wählt
+(1) Die [ Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink") wählt
 drei Mitglieder zu Richtern. Diese wählen aus ihren Reihen einen
 Vorsitzenden Richter, der das [
-Schiedsgericht](/wiki/Bundesschiedsgericht "wikilink") leitet und die
+Schiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink") leitet und die
 Geschäfte führt.
 
 (2) In einer weiteren Wahl werden zwei Ersatzrichter bestimmt. Die

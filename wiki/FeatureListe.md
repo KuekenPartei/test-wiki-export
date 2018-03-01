@@ -24,7 +24,7 @@ Diskurses nicht länger vorwiegend konsum- und profitorientierten
 Interessengruppen überlassen, sondern Inhalt und Richtung aktiv
 mitgestalten.
 
-### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main "wikilink")
+### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main.md "wikilink")
 
 Unser Programm ist an dem Menschen und seinen Bedürfnissen ausgerichtet.
 Als einfache Bestimmung der Menschlichen Bedürfnissen dienen die
@@ -32,7 +32,7 @@ Bedürfnisse der Kinder, die unsere Sorge bedürfen. Diese durch
 Verantwortung gestiftete Sorge ist essentieller Leitfaden unser Politik
 und unseres Programms.
 
--   Die [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") enthalten
+-   Die [Grundbestimmungen](/wiki/Grundbestimmungen.md "wikilink") enthalten
     einen konkreten Entscheidungskatalog.
     -   Pazifismus
     -   Säkularismus
@@ -47,29 +47,29 @@ und unseres Programms.
 
 <!-- -->
 
--   [ konkretes Programm](/wiki/PROGRAMM:Program_konkret "wikilink")
+-   [ konkretes Programm](/wiki/PROGRAMM:Program_konkret.md "wikilink")
     -   Steuervorteile dort, wo die Kinder sind
     -   Stärkere Unterstützung von allein Erziehenden
     -   Sozialer Wohnungsbau
     -   Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz
         und Lobby Kontrolle
 -   [ mittelfristiges
-    Programm](/wiki/PROGRAMM:Program_mittelfristig "wikilink")
+    Programm](/wiki/PROGRAMM:Program_mittelfristig.md "wikilink")
     -   Die Kinderstimme und der Bildungszensus
     -   Ausstieg aus der Kriegsgeräteproduktion
     -   Bedingungsloses Grundeinkommen (BGE)
 
-### Moderne [ Satzung](/wiki/Satzung_Bund "wikilink")
+### Moderne [ Satzung](/wiki/Satzung_Bund.md "wikilink")
 
 -   Liquid Democracy per [ ständige Mitglieder
-    Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz "wikilink").
+    Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz.md "wikilink").
 -   Geschlechterquote
 -   Anbindung von Initiativen durch die [ überregionalen
-    Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche "wikilink").
+    Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche.md "wikilink").
 -   Formalisierung von Schuld
     -   Die Formalisierung der Schuld ist durch unsere Satzung
         Definiert, [
-        §11](/wiki/Satzung_Bund#.C2.A7_11_Der_Bundesvorstand "wikilink")
+        §11](/wiki/Satzung_Bund#.C2.A7_11_Der_Bundesvorstand.md "wikilink")
         Absatz 12. “(12) Der Bundesvorstand hat Schuld, diese ist wie
         folgt unter den Vorstandsmitgliedern aufgeteilt: Der erste und
         zweite Vorsitzende haben immer Schuld, alle anderen
@@ -83,7 +83,7 @@ Schuld.”
 
 -   Wo es rechtlich Möglich ist wollen wir das sog. Freiwillige
     Los-verfahren einsetzten. [
-    &10](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
+    &10](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz.md "wikilink")
     Absatz (1) und (2). "Das freiwillige Losverfahren ist ein einfaches
     Personenwahlverfahren. Die Teilnahme ist freiwillig. Das
     Losverfahren ist paritätisch, gerecht, schnell und es vermeidet
@@ -98,7 +98,7 @@ Schuld.”
 
 ### Moderne Strukturen
 
-Die [Partei als Labor](/wiki/Partei_als_Labor "wikilink"): Durch unsere
+Die [Partei als Labor](/wiki/Partei_als_Labor.md "wikilink"): Durch unsere
 strukturelle Unabgeschlossenheit ist es uns möglich, neuartige Verfahren
 in government and management auszuprobieren und zu evaluieren. So kann
 die sich den aktuellen Gegebenheiten anzupassende Parteistruktur als

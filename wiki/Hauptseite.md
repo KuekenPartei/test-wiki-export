@@ -1,14 +1,14 @@
 <big>**Kinder - Verantwortung - Zukunft**</big>
 
 <big>***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
-[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")* </big>
+[Nachhaltigkeit](/wiki/Nachhaltigkeit.md "wikilink")* </big>
 
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht,
 ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart
 gestaltbar ist. Das klarste Zeichen der Zukunft sind die Kinder. Es sind
 unsere Kinder und sie sind immer auch [ Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"). In ihnen zeichnet
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink"). In ihnen zeichnet
 sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt
 bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
 auch Politikern.
@@ -22,8 +22,8 @@ Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
 Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
 Wandel der Perspektive.
 
--   [Prolog](/wiki/Prolog "wikilink")
--   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
+-   [Prolog](/wiki/Prolog.md "wikilink")
+-   [Grundbestimmungen](/wiki/Grundbestimmungen.md "wikilink")
 
 <!-- -->
 
@@ -36,20 +36,20 @@ Wandel der Perspektive.
 \_\_NOTOC\_\_
 
 Eine kleine Zusammenfassung der “Partei [
-features](/wiki/FeatureListe "wikilink")”.  
+features](/wiki/FeatureListe.md "wikilink")”.  
 
 Mitmachen
 ---------
 
 Wir sind ganz am Anfang, es gibt viel zu tun. Siehe
-[Planung](/wiki/Planung "wikilink").
+[Planung](/wiki/Planung.md "wikilink").
 
-Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
+Du könntest [Infomaterial](/wiki/Infomaterial.md "wikilink") an interessierte
 Menschen weitergeben.
 
 Willst du uns Kennen lernen, Fragen stellen, Anregungen geben,
 mitmachen. Komm zu einem der [
-Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
+Planungstreffen](/wiki/Hauptseite#Planungstreffen.md "wikilink").
 
 **Wir brauchen Menschen die mitmachen.**
 
@@ -62,7 +62,7 @@ kannst du die entsprechende mailingliste abonnieren:
 ### Planungstreffen
 
 In Berlin ist jeden zweiten Mittwoch [
-Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
+Planungstreffen](/wiki/Planungstreffen_Berlin.md "wikilink").
 
 ### Unterstützen
 
@@ -77,7 +77,7 @@ Domain Namen und Server, wie auch Druckerzeugnisse. Noch attraktiver als
 Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder
 Webdesign, Mund zu Mund Propaganda usw.
 
-Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk "wikilink"):
+Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk.md "wikilink"):
 
 Folge uns auf twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
 oder diaspora:

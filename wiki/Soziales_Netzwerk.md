@@ -6,7 +6,7 @@ aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+. Da wir
 streng Wert-konservativ sind können wir auch ein wenig sonderlich sein,
 und abseits stehen.
 
-Wie in der [Netzpolitik](/wiki/Netzpolitik "wikilink") dargestellt glauben wir
+Wie in der [Netzpolitik](/wiki/Netzpolitik.md "wikilink") dargestellt glauben wir
 an ein Internet für die Menschen nicht an ein Internet der Konzerne. Wir
 unterstützen daher vornehmlich dezentrale Projekte nicht nur in der
 Politik auch im alltäglichen.

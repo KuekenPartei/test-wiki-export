@@ -1,10 +1,10 @@
 **Netzpolitik** - stellt wie die
-[Informationstechnologie](/wiki/Informationstechnologie "wikilink") heute
+[Informationstechnologie](/wiki/Informationstechnologie.md "wikilink") heute
 besondere Anforderungen an Gesellschaft und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), die zu hohen
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink"), die zu hohen
 Strafzahlungen genötigt wurden, um Geheimdienste, die moderne
 Technologien für eine Totalüberwachung einschließlich wirtschaftlicher
 Spionage nutzen.[1] Mit [PRISM](https://de.wikipedia.org/wiki/PRISM) und
@@ -26,8 +26,8 @@ erodierend. Ganz nebenbei verstößt eine solche Überwachung auch gegen
 die universellen Menschenrechte sowie gegen die im Grundgesetz
 verbrieften Grundrechte. Nicht nur dem Staat auch privaten Unternehmen
 müssen in ihrem Datenhunger Schranken gesetzt werden. Der
-[Datenschutz](/wiki/Datenschutz "wikilink") muss ernst genommen und in
-Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
+[Datenschutz](/wiki/Datenschutz.md "wikilink") muss ernst genommen und in
+Richtung einer [Datensouveränität](/wiki/Datensouveränität.md "wikilink")
 weiterentwickelt werden.[2]
 
 So unterstützen wir peer to peer Netzwerke und Projekte die die
@@ -36,7 +36,7 @@ spezifischen Einfluss entzieht.
 
 -   [ Dezentrale Websuche](http://www.yacy.de "wikilink")
 -   [ diaspora pod](https://diasporafoundation.org "wikilink")
--   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin "wikilink")
+-   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin.md "wikilink")
 
 Netzneutralität
 ---------------

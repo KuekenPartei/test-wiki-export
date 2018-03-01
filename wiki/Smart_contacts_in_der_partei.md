@@ -15,9 +15,9 @@ Bundesvorstand.
 
 Die Partei Organe im Überblick:
 
--   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
--   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
--   [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+-   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink")
+-   [Bundesvorstand](/wiki/Bundesvorstand.md "wikilink")
+-   [Bundesschiedsgericht](/wiki/Bundesschiedsgericht.md "wikilink")
 
 Wir benutzen Github als Kollaborationsplattform:
 <https://github.com/KuekenPartei>
