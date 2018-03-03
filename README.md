@@ -4,7 +4,7 @@ Ein einfacher export der wiki datenbank von http://kueken-partei.de.
 Das export Skript kommt von xxx
 Die Semantischen Links sind nicht aufgelöst. Nicht alle Seiten sind exportiert, nicht alle links funktionieren.
 
-
+Eine [Parteigründungsplanung](/wiki/Planung.md) aus dem Jahre 2016 (Wahl zum 19. Deutschen Bundestag).
 
 [Startseite](/wiki/Hauptseite.md)
 
@@ -40,9 +40,15 @@ Inhaltlich
 |---|---|
 ||[PROGRAMM_Prolog](/wiki/PROGRAMM_Prolog.md)|
 ||[Programm Übersicht](/wiki/Plain_Main.md)|
+||[PROGRAMM_Tagespolitik](/wiki/PROGRAMM_Tagespolitik.md)|
 ||[PROGRAMM_Program_konkretk](/wiki/PROGRAMM_Program_konkret.md)|
 ||[Soziale_Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit.md)|
+||[Demographische_Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit.md)|
+||[Ökologische_Nachhaltigkeit](/wiki/Ökologische_Nachhaltigkeit.md)|
 ||[PROGRAMM_Program_mittelfristig](/wiki/PROGRAMM_Program_mittelfristig.md)|
+||[Wahlsystem](/wiki/Wahlsystem.md)|
+||[Lebensstandard](/wiki/Lebensstandard.md)|
+||[Netzpolitik](/wiki/Netzpolitik.md)|
 ||[PROGRAMM_Programm_langfristig](/wiki/PROGRAMM_Programm_langfristig.md)|
 
 Über die Partei und die Gründung:
@@ -51,5 +57,9 @@ Inhaltlich
 |---|---|
 ||[Partei_Infrastruktur](/wiki/Partei_Infrastruktur.md)|
 ||[Partei_als_Labor](/wiki/Partei_als_Labor.md)|
-
+||[Soziales_Netzwerk](/wiki/Soziales_Netzwerk.md)|
+||[Parteigründungsplanung](/wiki/Planung.md)|
+||[Partei_namen](/wiki/Partei_namen.md)|
+||[Parteigründungsplanung](/wiki/Planung.md)|
+||[Smart_contacts_in_der_partei](/wiki/Smart_contacts_in_der_partei.md)|
 
