@@ -49,6 +49,7 @@ Inhaltlich
 ||[Wahlsystem](/wiki/Wahlsystem.md)|
 ||[Lebensstandard](/wiki/Lebensstandard.md)|
 ||[Netzpolitik](/wiki/Netzpolitik.md)|
+||[Marketing](/wiki/Marketing.md)|
 ||[PROGRAMM_Programm_langfristig](/wiki/PROGRAMM_Programm_langfristig.md)|
 
 Über die Partei und die Gründung:
@@ -63,3 +64,7 @@ Inhaltlich
 ||[Parteigründungsplanung](/wiki/Planung.md)|
 ||[Smart_contacts_in_der_partei](/wiki/Smart_contacts_in_der_partei.md)|
 
+
+
+
+Fork us.
