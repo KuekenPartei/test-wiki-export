@@ -1,7 +1,7 @@
 ## KUEKeN Wiki export
 
 Ein einfacher export der wiki datenbank von http://kueken-partei.de.
-Das export Skript kommt von xxx
+Das export Skript kommt von https://github.com/peterjc/mediawiki_to_git_md
 Die Semantischen Links sind nicht aufgelöst. Nicht alle Seiten sind exportiert, nicht alle links funktionieren.
 
 Eine [Parteigründungsplanung](/wiki/Planung.md) aus dem Jahre 2016 (Wahl zum 19. Deutschen Bundestag).
