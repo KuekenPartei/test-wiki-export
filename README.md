@@ -8,7 +8,10 @@ Die Semantischen Links sind nicht aufgelöst. Nicht alle Seiten sind exportiert,
 
 [Startseite](/wiki/Hauptseite.md)
 
+
+
 Satzung:
+
 ||Formalien|
 |---|---|
 |A|[Satzung](/wiki/Satzung.md)|
@@ -16,7 +19,10 @@ Satzung:
 |C|[Finanzordnung_Bund](/wiki/Finanzordnung_Bund.md)|
 |D|[Schiedsgerichtsordnung_Bund](/wiki/Schiedsgerichtsordnung_Bund.md)|
 
+
+
 Geschäftsordungen
+
 ||Formalien|
 |---|---|
 |A|[Go_smk](/wiki/Go_smk.md)|
@@ -24,7 +30,10 @@ Geschäftsordungen
 |C|[Go_Bundeskoordinationsrat](/wiki/Go_Bundeskoordinationsrat.md)|
 |D|[Go_Bundesvorstand](/wiki/Go_Bundesvorstand.md)|
 
+
+
 Inhaltlich
+
 ||Programm|
 |---|---|
 |A|[PROGRAMM_Program_konkretk](/wiki/PROGRAMM_Program_konkret.md)|
