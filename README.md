@@ -1,5 +1,7 @@
 ## KUEKeN Wiki export
 
+Kreis für Umwelt, Erwachsene, Kinder und ernsthafte Nachhaltigkeit
+
 Ein einfacher export der wiki datenbank von http://kueken-partei.de.
 Das export Skript kommt von https://github.com/peterjc/mediawiki_to_git_md und ist ein wenig angepasst.
 Die Semantischen Links sind nicht aufgelöst. Nicht alle Seiten sind exportiert, nicht alle links funktionieren.
