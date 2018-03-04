@@ -1,10 +1,17 @@
 ## KUEKeN Wiki export
 
 Ein einfacher export der wiki datenbank von http://kueken-partei.de.
-Das export Skript kommt von https://github.com/peterjc/mediawiki_to_git_md
+Das export Skript kommt von https://github.com/peterjc/mediawiki_to_git_md und ist ein wenig angepasst.
 Die Semantischen Links sind nicht aufgelöst. Nicht alle Seiten sind exportiert, nicht alle links funktionieren.
 
 Eine [Parteigründungsplanung](/wiki/Planung.md) aus dem Jahre 2016 (Wahl zum 19. Deutschen Bundestag).
+
+Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: Wie
+kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie
+unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?
+
+Das ist ein radikaler Wandel der Perspektive.
+
 
 [Startseite](/wiki/Hauptseite.md)
 
@@ -61,7 +68,7 @@ Inhaltlich
 ||[Soziales_Netzwerk](/wiki/Soziales_Netzwerk.md)|
 ||[Parteigründungsplanung](/wiki/Planung.md)|
 ||[Partei_namen](/wiki/Partei_namen.md)|
-||[Parteigründungsplanung](/wiki/Planung.md)|
+||[Infomaterial](/wiki/Infomaterial.md)|
 ||[Smart_contacts_in_der_partei](/wiki/Smart_contacts_in_der_partei.md)|
 
 
