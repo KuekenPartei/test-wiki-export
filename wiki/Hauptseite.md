@@ -35,14 +35,14 @@ Wandel der Perspektive.
   
 \_\_NOTOC\_\_
 
-Eine kleine Zusammenfassung der "Partei [
+Eine kleine Zusammenfassung der "Partei hier: [
 features](/wiki/FeatureListe "wikilink")".  
 
 Mitmachen
 ---------
 
 Wir sind ganz am Anfang, es gibt viel zu tun. Siehe
-[Planung](/wiki/Planung "wikilink").
+[Planung](/wiki/Planung "wikilink")(2018 aktualisiert).
 
 Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
 Menschen weitergeben.

@@ -18,7 +18,7 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann u
 
 <br />__NOTOC__
 
-Eine kleine Zusammenfassung der "Partei [[FeatureListe| features]]".
+Eine kleine Zusammenfassung der "Partei hier: [[FeatureListe| features]]".
 <br />
 
 
@@ -34,7 +34,7 @@ Eine kleine Zusammenfassung der "Partei [[FeatureListe| features]]".
 
 == Mitmachen ==
 
-Wir sind ganz am Anfang, es gibt viel zu tun. Siehe [[Planung]].
+Wir sind ganz am Anfang, es gibt viel zu tun. Siehe [[Planung]](2018 aktualisiert).
 
 Du könntest [[Infomaterial]] an interessierte Menschen weitergeben.
 
