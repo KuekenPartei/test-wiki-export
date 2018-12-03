@@ -40,9 +40,9 @@ wahr ist. Dem konsequenten Denken verweigert sich somit die Ideologie
 durch ihren Anspruch die Wahrheit inne zu haben. Die Partei ist ein
 [Labor](/wiki/Partei_als_Labor "wikilink").
 
-`   ''Ein Wahrer konservativer ist heute jemand, der die Antagonismen und Sarggassen des globalen Kapitalismus vollkommen eingesteht, `  
+`   Ein Wahrer konservativer ist heute jemand, der die Antagonismen und Sarggassen des globalen Kapitalismus vollkommen eingesteht, `  
 `   der den schlichten Progressivismus ablehnt und um die dunkle Kehrseite des Fortschritts weiß. In diesem Sinne kann somit heute `  
-`   nur ein radikaler Linker ein wahrer Konservativer sein.'' `  
+`   nur ein radikaler Linker ein wahrer Konservativer sein.`  
 `   [Slavoj Žižek 'Der Mut der Hoffnungslosigkeit' s.103, 2018 Frankfurt am Main : S. FISCHER]`
 
 Die Konservativen sind spätestens seit Franz Josef Strauß keine
