@@ -1,5 +1,21 @@
 Häufig gestellte Fragen an uns, und unsere Antworten.
 
+### Wie steht der KUEKeN zur Freiheit
+
+Für den KUEKeN steht die Freiheit am Anfang, nicht am Ende des
+Prozesses. Für den KUEKEeN ist Freiheit kein Selbstzweck, sie ist das
+Mittel und die Voraussetzung für die Verantwortung, die Verantwortung
+gegenüber unseren Kindern und Mitmenschen. Nur aus der Freiheit heraus
+können wir uns für diese Verantwortung entscheiden. Freiheit ist nicht
+das Ergebnis des Prozesses, nicht das Ziel unsere Politik, vielmehr ist
+sie eine der Voraussetzungen für diese Politik und muss damit durch
+diese Politik gefördert werden.
+
+Die Freiheit wird vorausgesetzt aber sie muss erst gegeben werden.
+Dieses Paradox spiegelt unsere ganze Evolution wieder, wie Baron
+Münchhausen müssen wir selbst uns, am Schopfe, aus dem Schlamm ziehen,
+mühsam, Stück um Stück.
+
 ### Ist der KUEKeN eine linke Partei?
 
 Wir sehen uns als eine Konservative Partei, Werte konservativ. Diese
