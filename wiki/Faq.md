@@ -1,5 +1,11 @@
 Häufig gestellte Fragen an uns, und unsere Antworten.
 
+### Instrumentalisiert der KUEKeN nicht die Kinder?
+
+Auf den ersten Blick scheint es so aus zu sehen, bei genauere
+Betrachtung zeigt sich jedoch die Verantwortung, die für uns im
+Mittelpunkt steht. Sie ist die Triebfeder unsere Politik.
+
 ### Wie steht der KUEKeN zur Freiheit
 
 Für den KUEKeN steht die Freiheit am Anfang, nicht am Ende des
