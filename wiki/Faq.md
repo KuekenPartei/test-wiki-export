@@ -26,7 +26,7 @@ mühsam, Stück um Stück.
 
 Wir sehen uns als eine Konservative Partei, Werte konservativ. Diese
 Werte haben wir in den [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
-festgelegt und in der Satzung verankert. Das sich viele diese
+festgelegt und in der Satzung verankert. Das viele diese
 Grundbestimmungen nach Linker Politik klingen ist kein Zufall, jedoch
 sind zwei dieser Grundbestimmungen explizit keine linke Politik, die
 [Gegenwartsbezogenheit](/wiki/Grundbestimmungen#Gegenwartsbezogenheit "wikilink")
