@@ -57,7 +57,7 @@ Wir sind im Augenblick zu wenig Menschen.
 
 Willst du über den Gründungsprozess auf dem Laufenden gehalten werden,
 kannst du die entsprechende mailingliste abonnieren:
-[http://list.klarmachen-ändert.de/listinfo/kpartei-g](http://list.klarmachen-ändert.de/listinfo/kpartei-g)
+<http://list.derkueken.de/listinfo/derkueken>
 
 ### Planungstreffen
 
