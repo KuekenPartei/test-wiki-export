@@ -4,7 +4,9 @@ Häufig gestellte Fragen an uns, und unsere Antworten.
 
 Auf den ersten Blick scheint es so aus zu sehen, bei genauere
 Betrachtung zeigt sich jedoch die Verantwortung, die für uns im
-Mittelpunkt steht. Sie ist die Triebfeder unsere Politik.
+Mittelpunkt steht. Sie ist die Triebfeder unsere Politik. Wir
+instrumentalisieren also nicht die Kinder sondern die Verantwortung
+ihnen gegenüber. Denn die Verantwortung ist ein Instrument.
 
 ### Wie steht der KUEKeN zur Freiheit
 
