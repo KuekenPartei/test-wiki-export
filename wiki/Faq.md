@@ -1,5 +1,7 @@
 Häufig gestellte Fragen an uns, und unsere Antworten.
 
+### Was meint ihr mit "radikal trivial"?
+
 ### Instrumentalisiert der KUEKeN nicht die Kinder?
 
 Auf den ersten Blick scheint es so aus zu sehen, bei genauere
@@ -23,6 +25,10 @@ Die Freiheit wird vorausgesetzt aber sie muss erst gegeben werden.
 Dieses Paradox spiegelt unsere ganze Evolution wieder, wie Baron
 Münchhausen müssen wir selbst uns, am Schopfe, aus dem Schlamm ziehen,
 mühsam, Stück um Stück.
+
+Wir haben es also nicht mit einem Zirkel(Schluß) zu tun, denn wenn wir
+unser Perspektive ändern können wir erkennen das es sich um eine Spirale
+handelt die sich gen Himmel streckt.
 
 ### Ist der KUEKeN eine linke Partei?
 
