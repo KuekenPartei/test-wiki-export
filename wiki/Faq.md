@@ -47,6 +47,9 @@ Verantwortung für die gegenwärtigen Menschen obliegt, diese
 gegenwärtigen Menschen für eine mögliche Zukunft, die der Utopie, zu
 opfern hiesse dieser Verantwortung nicht gerecht zu werden.
 
+Die Utopie ist ein Rudiment unserer Christlichen Sozialisation in der
+die Erlösungslehre des Christentums weiterlebt.
+
 Wir Menschen, als Mangelwesen die wir sind, was gleichzeitig erst unsere
 Entwicklung ermöglicht, können die Wahrheit nicht erkennen. Deshalb
 werden wir auch nie eine Theorie haben können darüber was richtig und
