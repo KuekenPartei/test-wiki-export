@@ -2,6 +2,14 @@ Schnell gestellte Fragen. (Fast ask questions)
 
 ### Was meint ihr mit "radikal trivial"?
 
+Nun "trivial" bedeutet in erste Linie "einfach", vielleicht nicht
+zufällig, ist es stark negativ konnotiert, sind synonyme, im Duden, wie
+"hohl", "platt", "geistlos" oder "abgedroschen" aufgeführt.
+
+Latein "trivialis" bedeutet jedoch "allgemein bekannt" oder "jedermann
+zugänglich" vgl. hierzu [Kaderschule: Wieso ist "Ohne Ausnahme" so
+Zentral?](/wiki/Kaderschule#Wieso_ist_"Ohne_Ausnahme"_so_Zentral? "wikilink"),
+
 ### Instrumentalisiert der KUEKeN nicht die Kinder?
 
 Auf den ersten Blick scheint es so aus zu sehen, bei genauere
