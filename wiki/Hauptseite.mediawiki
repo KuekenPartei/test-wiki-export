@@ -21,7 +21,7 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann u
 Eine kleine Zusammenfassung der "Partei featues [[FeatureListe| hier]]".
 <br />
 
-
+Habe ihr schnelle Fragen, schaut in den [[Faq]]
 
 {{Baustein-no-image
 |color = #1e90ff
