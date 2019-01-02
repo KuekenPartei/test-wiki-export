@@ -48,4 +48,12 @@ macht das kritische Denken universell. Ein einfaches Beispiel ist die
 Mathematik, jeder kann den [Beweis des
 Euklids](https://de.wikipedia.org/wiki/Beweis_der_Irrationalit%C3%A4t_der_Wurzel_aus_2_bei_Euklid)
 nachvollziehen, nur Ausbildung ist vorausgesetzt. Diese Ausbildung ist
-jedem zugänglich. Das kritische Denke ist nicht exklusiv.
+jedem zugänglich.
+
+Das kritische Denke ist nicht exklusiv.
+
+Hier liegt auch der zentrale Punkt der Demokratie, warum es entscheidend
+ist das wir alle Fragen und niemanden ausschliessen. Es ist dem
+kritischen Denken vom Prinzip her nicht möglich eine Ausnahme
+anzunehmen. Eine Ausnahme widerspräche dem kritischen Denken selbst, es
+wäre damit kein kritisches Denken mehr. Es wäre keine Aufklärung.
