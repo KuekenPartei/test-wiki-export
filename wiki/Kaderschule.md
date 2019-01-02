@@ -27,3 +27,11 @@ hinaus alle beteiligt sind, die der Fortpflanzung durch Nichtwiderruf
 ihres Fiat im eigen Fall beipflichten, also alle, die sich selber das
 Leben erlauben“* Diese Fürsorge weitet sich, als Kinder der
 Gesellschaft, umfasst diese Verantwortung und Fürsorge jeden einzelnen.
+
+Wieso ist "Ohne Ausnahme" so Zentral?
+-------------------------------------
+
+"Ohne Ausnahme" ist ein Zentrales Element der Aufklärung, es findet sich
+in der Säkularität, -es gibt kein Auserwähltes Volk, keinen Gott der uns
+auswählt-, dem [Kopernikatnischen
+Prinzips](https://de.wikipedia.org/wiki/Kopernikanisches_Prinzip),
