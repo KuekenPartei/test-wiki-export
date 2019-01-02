@@ -26,9 +26,13 @@ Dieses Paradox spiegelt unsere ganze Evolution wieder, wie Baron
 Münchhausen müssen wir selbst uns, am Schopfe, aus dem Schlamm ziehen,
 mühsam, Stück um Stück.
 
-Wir haben es also nicht mit einem Zirkel(Schluß) zu tun, denn wenn wir
+Wir haben es also nicht mit einem Zirkel(Schluss) zu tun, denn wenn wir
 unser Perspektive ändern können wir erkennen das es sich um eine Spirale
-handelt die sich gen Himmel streckt.
+handelt die sich gen Himmel streckt. Hier ist am ehesten das was man
+eine Richtung der Partei nennen würde erkennbar, es wäre "oben" oder
+"unten", je nach dem ob man selbst auf dem Kopf steht. Vgl. [Ist der
+KUEKeN eine linke
+Partei?](/wiki/Faq#Ist_der_KUEKeN_eine_linke_Partei? "wikilink")
 
 ### Ist der KUEKeN eine linke Partei?
 
