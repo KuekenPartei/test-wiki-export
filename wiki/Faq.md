@@ -1,4 +1,4 @@
-Häufig gestellte Fragen an uns, und unsere Antworten.
+Schnell gestellte Fragen. (Fast ask questions)
 
 ### Was meint ihr mit "radikal trivial"?
 
