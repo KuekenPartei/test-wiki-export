@@ -6,7 +6,7 @@ Wie begründet ihr Wert?
 -----------------------
 
 Da es keine Begründung für richtig oder Falsch geben kann ohne einen
-Wert benötigt der KUEKeN einen Werte Kern. Ohne diesen liesse sich kein
+Wert benötigt, der KUEKeN einen Werte Kern. Ohne diesen liesse sich kein
 Politisches Handeln begründen, jenseits von Klientel Politik. Als
 Säkulare Partei bleibt uns der Weg in eine höhere Begründung die
 ausserhalb unser selbst steht, wie Gott, verwehrt. Was uns alle eint ist
