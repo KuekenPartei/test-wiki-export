@@ -37,6 +37,7 @@ Wandel der Perspektive.
 
 Eine kleine Zusammenfassung der "Partei featues [
 hier](/wiki/FeatureListe "wikilink")".  
+Habe ihr schnelle Fragen, schaut in den [Faq](/wiki/Faq "wikilink")
 
 Mitmachen
 ---------
