@@ -7,15 +7,16 @@ Wie begründet ihr Wert?
 
 Da es keine Begründung für richtig oder Falsch geben kann ohne einen
 Wert benötigt der KUEKeN einen Werte Kern. Ohne diesen liesse sich kein
-Politisches Handeln begründen. Als Säkulare Partei bleibt uns der Weg in
-eine höhere Begründung die ausserhalb unser selbst steht, wie Gott,
-verwehrt. Was uns alle eint ist das Leben. Wir schätzen das leben wert.
-Täten wir dies nicht, wir könnten es beenden. "Safe the planet, kill
-your self.". Das Leben als einen Wert zu schätzen eint uns lebende.Ohne
-Ausnahme. Dieses "ohne Ausnahme" ist von zentraler Bedeutung, es macht
-deutlich das dieser Anspruch auf Leben für uns alle gleichermassen gilt.
-Es gibt nichts in der Welt mit der eine Ausnahme begründbar ist. Niemand
-kann sich ein exklusives recht einräumen.
+Politisches Handeln begründen, jenseits von Klientel Politik. Als
+Säkulare Partei bleibt uns der Weg in eine höhere Begründung die
+ausserhalb unser selbst steht, wie Gott, verwehrt. Was uns alle eint ist
+das Leben. Wir schätzen das leben wert. Täten wir dies nicht, wir
+könnten es beenden. "Safe the planet, kill your self.". Das Leben als
+einen Wert zu schätzen eint uns lebende. Ohne Ausnahme. Dieses "ohne
+Ausnahme" ist von zentraler Bedeutung, es macht deutlich das dieser
+Anspruch auf Leben für uns alle gleichermassen gilt. Es gibt nichts in
+der Welt mit der eine Ausnahme begründbar ist. Niemand kann sich ein
+exklusives recht einräumen.
 
 Das leben als einen Wert zu schätzen, ohne Ausnahme, eint uns lebende
 Menschen.
