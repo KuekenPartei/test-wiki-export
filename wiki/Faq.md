@@ -18,6 +18,9 @@ Zentral?](/wiki/Kaderschule#Wieso_ist_"Ohne_Ausnahme"_so_Zentral? "wikilink"),
 das triviale ist also ein Kern der Aufklärung. Das kritische Denken ist
 prinzipiell "jedermann zugänglich".
 
+Dieser Anspruch an die Politik, "jedermann zugänglich" zu sein, kann nur
+ohne Kompromisse, radikal eben, gemeint sein.
+
 ### Instrumentalisiert der KUEKeN nicht die Kinder?
 
 Auf den ersten Blick scheint es so aus zu sehen, bei genauere
