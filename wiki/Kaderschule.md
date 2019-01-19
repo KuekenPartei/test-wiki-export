@@ -72,9 +72,10 @@ Neurophysiologie, das sagt uns Chrisna Murti, das meint Kant wenn er
 davon spricht das wir das Ding an sich nicht sehen. Diesen Überschlag
 des Denkens kennen wir spätestens seit Maquie de Sade. Wir haben es mit
 der klassischen Verwechselung von Territorium und Landkarte zu tun.
-Damit wir die Welt sehen müssen wir sie im inneren rekonstruieren und
-zwar in zweierlei Hinsicht. Zum einen in dem wir die Welt zu Zeichen
-ihrer selbst machen ???
+Damit wir die Welt sehen müssen wir sie im inneren rekonstruieren.
+
+~~ und zwar in zweierlei Hinsicht. Zum einen in dem wir die Welt zu
+Zeichen ihrer selbst machen ???
 
 Wir entwerfen ein Modell der Wirklichkeit das durch unsere
 Erwartungshaltungen dieser Welt gegenüber, die auf unseren vorherigen
@@ -90,7 +91,7 @@ dem Gegenstand verwechselt wird und damit das Zeichen selbst zu der
 Wirklichkeit wird. Denn nun kreist das Denken um sich selbst, die als
 Wirklichkeit wahrgenommenen Simulation der Wirklichkeit wirkt auf uns
 Menschen zurück in einer unheilvollen Rückkopplungsschleife in der wir
-uns von der für relevanten Welt immer stärker entfernen.
+uns von der für uns relevanten Welt immer stärker entfernen.
 
 Es ist wichtig zu verstehen das dieser Vorgang uns und unserer
 Biologischen Gegebenheit inhärent zu Grunde liegt, er gehört untrennbar
