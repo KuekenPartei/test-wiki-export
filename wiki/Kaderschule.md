@@ -57,3 +57,8 @@ ist das wir alle Fragen und niemanden ausschliessen. Es ist dem
 kritischen Denken vom Prinzip her nicht möglich eine Ausnahme
 anzunehmen. Eine Ausnahme widerspräche dem kritischen Denken selbst, es
 wäre damit kein kritisches Denken mehr. Es wäre keine Aufklärung.
+
+Die Welt und ihre Verdopplung im Denken
+---------------------------------------
+
+Vom Überschlag des Denkens.
