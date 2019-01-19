@@ -61,4 +61,31 @@ wäre damit kein kritisches Denken mehr. Es wäre keine Aufklärung.
 Die Welt und ihre Verdopplung im Denken
 ---------------------------------------
 
-Vom Überschlag des Denkens.
+Vom Überschlag des Denkens. Neuere Hirnforschung wie auch alte
+Erkenntnisse weisen auf das selbe, sie weisen auf den Überschlag des
+Denkens, der Überschlag des Denkens ist ein strukturelles Problem. Das
+Gehirn entwirft eine Wirklichkeit als Simulation,duch dir Sinnesorgane
+gestiftet entwirft es eine Simulation aufgrund der gemachten Erfahrungen
+der Wirklichkeit. Das Sagt uns die Neurophysiologie, das sagt uns
+Chrisna Murti, das meint Kant wenn er davon spricht das wir das Ding an
+sich nicht sehen. Diesen Überschlag des Denkens kennen wir spätestens
+seit Maquie de Sade. Wir haben es mit der klassischen Verwechselung von
+Territorium und Landkarte zu tun. Damit wir die Welt sehen müssen wir
+sie im inneren rekonstruieren und zwar in zweierlei Hinsicht. Zum einen
+in dem wir die Welt zu Zeichen ihrer selbst machen ???
+
+Wir entwerfen ein Modell der Wirklichkeit das durch unsere
+Erwartungshaltungen dieser Welt gegenüber, die auf unseren vorherigen
+Erfahrungen mit und in dieser Welt beruhen und auf unseren biologische
+Gegebenheiten (So sehen wie ein Gesicht wenn wir zwei Punkte und einen
+dazu waagerechten Strich sehen.), bestimmt ist. Diese Simulation ist die
+erste verdopplung. Jetzt ist die Welt ein Zeichen geworden. Als Zeichen
+lässt es sich nun auch als Zeichen behandeln, als Gegenstand des
+Denkens, ohne Bezug zu dem auf was es Zeigt.
+
+Der Überschlag des Denkens ereignet sich immer dann wenn das Zeichen mit
+dem Gegenstand verwechselt wird und damit das Zeichen selbst zu der
+Wirklichkeit wird. Denn nun kreist das Denken um sich selbst, die als
+Wirklichkeit wahrgenommenen Simulation der Wirklichkeit wirkt auf uns
+Menschen zurück in einer unheilvollen Rückkopplungsschleife in der wir
+uns von der für relevanten Welt immer stärker entfernen.
