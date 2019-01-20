@@ -112,5 +112,6 @@ einnistet und sie ausgehöhlt.
 im Konsum erschöpft.
 
 Der Anspruch der Universalität des kritischen Denkens wird eingetauscht
-gegen die Universalität des Marktes der der alles lebendige
-Kommodifiziert und dem Komerz untergeordnet wird.
+gegen die Universalität des Marktes in der alles lebendige
+Kommodifiziert und dem Komerz untergeordnet wird. Genau darin liegt die
+Universalität.
