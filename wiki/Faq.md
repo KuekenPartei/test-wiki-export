@@ -53,6 +53,18 @@ eine Richtung der Partei nennen würde erkennbar, es wäre "oben" oder
 KUEKeN eine linke
 Partei?](/wiki/Faq#Ist_der_KUEKeN_eine_linke_Partei? "wikilink")
 
+Den Freiheitsbegriff der Konsumindustrie lehnen wir ab.
+
+Allein heute ist Freiheit bequem, so stellen wir uns die Freie
+Entfaltung vor. In einem grenzenlosen Raum, endlos in alle Richtungen
+sich erstrecken können, ohne Widerstand, ohne Kanten, ohne ein Gegenüber
+als anderes.
+
+Einerseits naiv aber auch anzüglich, konspirativ, lüstern: Diese
+Vorstellung der Freiheit ist durch Marketing gestiftet und ist die
+Übersetzung des grenzenlosen Wirtschaftswachstums-Gedanken auf den
+Einzelnen.
+
 ### Ist der KUEKeN eine linke Partei?
 
 Wir sehen uns als eine Konservative Partei, Werte konservativ. Diese
