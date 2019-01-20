@@ -113,5 +113,6 @@ im Konsum erschöpft.
 
 Der Anspruch der Universalität des kritischen Denkens wird eingetauscht
 gegen die Universalität des Marktes in der alles lebendige
-Kommodifiziert und dem Komerz untergeordnet wird. Genau darin liegt die
-Universalität.
+Kommodifiziert und dem Komerz (der Verkürzung) untergeordnet wird. Genau
+darin liegt die Universalität des Liberalismus, das alles als Ware
+behandelt werden kann und soll.
