@@ -100,3 +100,10 @@ das Potential unserer Entwicklung.
 
 Die Aufklärung und der Liberalismus
 -----------------------------------
+
+Das gleichsetzten der Aufklärung mit dem Liberalismus ist eine
+gegenwärtige Denkfigur. Nichts ist weiter von der Wahrheit entfernt. Der
+Liberalismus ist immer schon ein Marktliberalismus, vgl. "Das Reich des
+kleineren Übels" und damit immer schon das was wir heute den
+Neoliberalismus nennen. Wie ein Parasit hat er sich in der Aufklärung
+einnistet und sie ausgehöhlt.
