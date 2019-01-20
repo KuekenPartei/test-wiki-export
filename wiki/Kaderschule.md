@@ -97,3 +97,6 @@ Es ist wichtig zu verstehen das dieser Vorgang uns und unserer
 Biologischen Gegebenheit inhärent zu Grunde liegt, er gehört untrennbar
 zu uns. Er macht uns zu den Mangelwesen die wir sind und stiftet damit
 das Potential unserer Entwicklung.
+
+Die Aufklärung und der Liberalismus
+-----------------------------------
