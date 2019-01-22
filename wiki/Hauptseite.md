@@ -43,21 +43,21 @@ Mitmachen
 ---------
 
 Wir sind ganz am Anfang, es gibt viel zu tun. Siehe
-[Planung](/wiki/Planung "wikilink")(2018 aktualisiert).
+[Planung](/wiki/Planung "wikilink") (2018 aktualisiert).
 
 Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
 Menschen weitergeben.
 
-Willst du uns Kennen lernen, Fragen stellen, Anregungen geben,
-mitmachen. Komm zu einem der [
+Willst du uns kennenlernen, Fragen stellen, Anregungen geben oder bei
+uns mitmachen. Komm zu einem der [
 Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
 
-**Wir brauchen Menschen die mitmachen.**
+**Wir brauchen Menschen, die mitmachen.**
 
-Wir sind im Augenblick zu wenig Menschen.
+Wir sind derzeit zu wenig Menschen.
 
 Willst du über den Gründungsprozess auf dem Laufenden gehalten werden,
-kannst du die entsprechende mailingliste abonnieren:
+kannst du die entsprechende Mailingliste abonnieren:
 <http://list.derkueken.de/listinfo/derkueken>
 
 ### Planungstreffen
