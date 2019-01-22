@@ -35,9 +35,10 @@ Wandel der Perspektive.
   
 \_\_NOTOC\_\_
 
-Eine kleine Zusammenfassung der "Partei featues [
+Eine kleine Zusammenfassung der "Parteifeatures [
 hier](/wiki/FeatureListe "wikilink")".  
-Habe ihr schnelle Fragen, schaut in den [Faq](/wiki/Faq "wikilink")
+Habt Ihr kurze, häufig gestellte Fragen, dann schaut in den
+[Faq](/wiki/Faq "wikilink").
 
 Mitmachen
 ---------
