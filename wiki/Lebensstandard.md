@@ -26,10 +26,10 @@ Unsere Gesellschaft in Deutschland wie in Europa hat im diachronen wie
 im synchronen Vergleich einen hohen Lebensstandard erreicht. Hier liegt
 vielmehr ein [Solidaritätsproblem](/wiki/Solidarität "wikilink") vor. Der
 Lebensstandard hat im statistischen Durchschnitt jedenfalls ein Niveau
-erreicht mit dem dieser Teil der Menschenrechte als gewährleistet und
+erreicht, mit dem dieser Teil der Menschenrechte als gewährleistet und
 erfüllt gelten kann.
 
-Heute wird unser Lebensstandard zu Belastung. Wir jagen dem Konsum
+Heute wird unser Lebensstandard zur Belastung. Wir jagen dem Konsum
 hinterher und unsere [Lebensqualität](/wiki/Lebensqualität "wikilink") leidet.
 Wir wollen uns besinnen. So schlägt die Journalistin Anna Haag schon
 1955 diese Besinnung vor, wenn sie schreibt:
