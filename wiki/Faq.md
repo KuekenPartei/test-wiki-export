@@ -78,8 +78,8 @@ bewährte und konsensfähige Werte konservieren. Diese Werte haben wir in
 den [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") festgelegt und in
 der Satzung verankert. Dass viele diese Grundbestimmungen nach linker
 Politik klingen ist kein Zufall, jedoch sind zwei dieser
-Grundbestimmungen explizit keine linke Politik, die
-[Gegenwartsbezogenheit](/wiki/Grundbestimmungen#Gegenwartsbezogenheit "wikilink")
+Grundbestimmungen explizit keine linke Politik: die
+[Gegenwartsbezogenheit](/wiki/Grundbestimmungen#Gegenwartsbezogenheit "wikilink"),
 die uns die Utopie verbietet und die [Strukturelle
 Unabgeschlossenheit](/wiki/Grundbestimmungen#Strukturelle_Unabgeschlossenheit "wikilink"),
 die uns die Ideologie verbietet. Die Utopie und die Ideologie sind
