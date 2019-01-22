@@ -67,16 +67,16 @@ Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
 
 ### Unterstützen
 
-Im Augenblick da unsere Infrastruktur noch am entstehen ist kannst du
-uns mit Bitcoin unterstützen.
+Im Augenblick da unsere Infrastruktur noch entsteht, kannst du uns mit
+Bitcoin unterstützen.
 
 ![](Kueken-bitcoin-adress.png "fig:Kueken-bitcoin-adress.png")
 **<bitcoin://1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB>**
 
-Mit bitcoins ist es möglich elektronische Infrastruktur zu bezahlen,
-Domain Namen und Server, wie auch Druckerzeugnisse. Noch attraktiver als
+Mit Bitcoin ist es möglich, elektronische Infrastruktur zu bezahlen,
+Domainnamen und Server, wie auch Druckerzeugnisse. Noch attraktiver als
 Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder
-Webdesign, Mund zu Mund Propaganda usw.
+Webdesign, Mund-zu-Mund-Propaganda usw.
 
 Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk "wikilink"):
 
