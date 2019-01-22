@@ -18,10 +18,10 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann u
 
 <br />__NOTOC__
 
-Eine kleine Zusammenfassung der "Partei featues [[FeatureListe| hier]]".
+Eine kleine Zusammenfassung der "Parteifeatures [[FeatureListe| hier]]".
 <br />
 
-Habe ihr schnelle Fragen, schaut in den [[Faq]]
+Habt Ihr kurze, häufig gestellte Fragen, dann schaut in den [[Faq]].
 
 {{Baustein-no-image
 |color = #1e90ff
