@@ -132,18 +132,22 @@ liberalen philosophischen Projekt zu verstehen ist, so wie es sich dem
 die seelenlose Welt des Zeitgenössischen Kapitalismus die einzige
 historische Gestalt ist, zu der sich die ursprüngliche liberale Doktrin
 konkret entwickeln konnte. Sie ist, mit anderen Worten, der *real
-existierende Liberalismus*. .... Was berechtigt einen *liberalen
-Politiker* zu dem Glauben, dass die Menschen von sich aus wünschenswerte
-Entscheidungen treffen und nicht einem egoistischen Verhalten den Vorzug
-geben, ja zynisch beschliesst, sich wie ein &gt;&gt;Teufel&lt;&lt;
-aufzuführen? Bastiats Antwort darauf ist einmal mehr exemplarisch: Sie
-markiert in aller Deutlichkeit den (zugleich philosophischen wie
-historischen) Augenblick, in dem die Einheit der liberalen Philosophie
-*an sich* endlich eine Einheit *für sich* werden kann. Anders gesagt:
-den Augenblick, in dem der Liberalismus entdeckt, dass die einzig ihm
-noch zu Verfügung stehende *konsequente* Option zur Entkräftung der
-sozialistischen Kritik darin besteht, die Auflösung der Aporien des
-Rechts den *Mechanismen des Marktes* zu überantworten.
+existierende Liberalismus*.
+
+....
+
+Was berechtigt einen *liberalen Politiker* zu dem Glauben, dass die
+Menschen von sich aus wünschenswerte Entscheidungen treffen und nicht
+einem egoistischen Verhalten den Vorzug geben, ja zynisch beschliesst,
+sich wie ein &gt;&gt;Teufel&lt;&lt; aufzuführen? Bastiats Antwort darauf
+ist einmal mehr exemplarisch: Sie markiert in aller Deutlichkeit den
+(zugleich philosophischen wie historischen) Augenblick, in dem die
+Einheit der liberalen Philosophie *an sich* endlich eine Einheit *für
+sich* werden kann. Anders gesagt: den Augenblick, in dem der
+Liberalismus entdeckt, dass die einzig ihm noch zu Verfügung stehende
+*konsequente* Option zur Entkräftung der sozialistischen Kritik darin
+besteht, die Auflösung der Aporien des Rechts den *Mechanismen des
+Marktes* zu überantworten.
 
 Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
 Berlin, 2. Auflage 2017 (Seite 13/14 und 45/46)
