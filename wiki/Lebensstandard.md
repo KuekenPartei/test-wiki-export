@@ -73,7 +73,7 @@ wir eine weitere Steigerung unserer Anstrengungen selbstverständlich für
 geboten.
 
 Wir wollen den erworbenen materiellen Lebensstandard erhalten und dafür
-wirken, dass mehr Bürger\_innen auf wirklich Zugang zu den
+wirken, dass mehr Bürger\_innen auch wirklich Zugang zu den
 bereitstehenden Gütern und Dienstleistungen erhalten. Der körperliche
 Lebensstandard soll vor allem im medizinischen Bereich weiter gesteigert
 werden.
