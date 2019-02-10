@@ -75,43 +75,6 @@ Denken vom Prinzip her nicht möglich exlusiv zu sein. Eine Ausnahme
 widerspräche dem kritischen Denken selbst, es wäre damit kein kritisches
 Denken mehr.
 
-Die Welt und ihre Verdopplung im Denken
----------------------------------------
-
-Vom Überschlag des Denkens.
-
-Neuere Hirnforschung wie auch alte Erkenntnisse weisen auf dasselbe: Sie
-weisen auf den Überschlag des Denkens. Der Überschlag des Denkens ist
-ein strukturelles Problem. Das Gehirn entwirft eine Wirklichkeit als
-durch die Sinnesorgane gestiftete Simulation, so der aktuelle Stand der
-Wissenschaft. So kann es dann zu der klassischen Verwechselung von
-Territorium und Landkarte kommen. Damit wir die Welt sehen, müssen wir
-sie im Inneren erst konstruieren.
-
-~~ und zwar in zweierlei Hinsicht. Zum einen indem wir die Welt zu
-Zeichen ihrer selbst machen ???
-
-Wir entwerfen ein Modell der Wirklichkeit, das bestimmt ist durch unsere
-Erwartungshaltungen dieser Welt gegenüber, die auf unseren Erfahrungen
-mit und in dieser Welt beruhen und auf unseren biologische
-Gegebenheiten. (So sehen wie ein Gesicht wenn wir zwei Punkte und einen
-dazu waagerechten Strich sehen.) Diese Simulation ist die erste
-Verdopplung. Jetzt ist die Welt ein Zeichen geworden. Als Zeichen lässt
-es sich nun auch als Zeichen behandeln, als Gegenstand des Denkens, ohne
-Bezug zu dem, auf was es zeigt.
-
-Der Überschlag des Denkens ereignet sich immer dann, wenn das Zeichen
-mit dem Gegenstand verwechselt wird und damit das Zeichen selbst zu der
-Wirklichkeit wird. Denn nun kreist das Denken um sich selbst, die als
-Wirklichkeit wahrgenommenen Simulation der Wirklichkeit wirkt auf uns
-Menschen zurück in einer unheilvollen Rückkopplungsschleife, in der wir
-uns von der für uns relevanten Welt immer stärker entfernen.
-
-Es ist wichtig zu verstehen, dass dieser Vorgang uns und unserer
-biologischen Gegebenheit inhärent zu Grunde liegt, er gehört untrennbar
-zu uns. Er macht uns zu den Mängelwesen, die wir sind, und stiftet damit
-das Potential unserer Entwicklung.
-
 Die Aufklärung und der Liberalismus
 -----------------------------------
 
