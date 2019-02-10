@@ -54,6 +54,10 @@ ihres Fiat im eigen Fall beipflichten, also alle, die sich selber das
 Leben erlauben“* Diese Fürsorge weitet sich, als Kinder der
 Gesellschaft, umfasst diese Verantwortung und Fürsorge jeden einzelnen.
 
+Diese Wertebestimmung findet sich in den Grundbestimmungen wieder als
+[Lebenszeit als
+Schatz](/wiki/Grundbestimmungen#Lebenszeit_als_Schatz "wikilink").
+
 Wieso ist "ohne Ausnahme" so zentral?
 -------------------------------------
 
