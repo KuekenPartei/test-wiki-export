@@ -1,6 +1,19 @@
 **Wie der Stahl gehärtet wurde.**
 
+<small>(russ. Как закалялась сталь; Kak sakaljalas stal; wiss.
+Transliteration Kak zakaljalas’ stal’) ist ein Roman des sowjetischen
+Schriftstellers Nikolai Alexejewitsch Ostrowski. Er ist eines der
+bekanntesten Beispiele für die Literatur des Sozialistischen Realismus
+und hat nach Einschätzung des Lexikons der Weltliteratur „bei der
+sozialistischen Erziehung in der Sowjetunion und bei der sozialistischen
+Bewußtseinsbildung der fortschrittlichen Jugend in der ganzen Welt eine
+bedeutende Rolle gespielt.“
+[wikipedia](https://de.wikipedia.org/wiki/Wie_der_Stahl_geh%C3%A4rtet_wurde)</small>
+
 Hier gehen wir den entscheidenden Fragen nach.
+
+Und immer daran denken was der naive Dekonstruktivist sagen wird:
+**Ideolielosigkeit ist eine Ideologie.**
 
 Wie begründet ihr Wert?
 -----------------------
