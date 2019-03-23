@@ -1,5 +1,18 @@
 == Treffen im Mauerpark ==
 
+
+{{Kalenderblatt
+ |Typ    = Vorstellung
+ |Titel  = Vorstellung
+ |Link   = 
+ |Datum  = 05.05.2019
+ |Zeit   = 15:00
+ |Lokal  = Mauerpark
+ |Straße = 
+ |PLZ    = 
+ |Ort    = Berlin
+}}
+
 Unter freien Himmel. An welchem Ort genau?
 
 Am 5.5.2019 im Mauerpark. 15:00-17:00 Uhr ?
