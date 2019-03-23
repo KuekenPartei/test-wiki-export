@@ -2,7 +2,8 @@ Treffen im Mauerpark
 --------------------
 
 <div style=" padding: 5px; margin: 5px; float: right; width: 550px; ">
-{{\#display\_map: 52.49013983565289,13.433559536933899~KollektivbarES
+{{\#display\_map:
+52.544602727428725,13.406203971340119~Mauerpark~treffen
 \|mappingservice=openlayers \|zoom=16
 \|title=<http://www.kollektivbar-es.de/> }}
 
