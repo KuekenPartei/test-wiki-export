@@ -1,73 +1,31 @@
-== Treffen im Park als Infostand ==
+== Treffen im Mauerpark ==
 
-<div style=" padding: 5px; margin: 5px; float: right; width: 550px; ">
-{{#display_map: 52.49470,13.37769~Infostand
-|mappingservice=openlayers
-|zoom=16
-|title=Infostand
-}}
-</div>
+Unter freien Himmel.
 
-
-{{Kalenderblatt
- |Typ    = Infostand
- |Titel  = Infostand
- |Link   = 
- |Datum  = 05.05.2019
- |Zeit   = 15:00
- |Lokal  = Park am Gleisdreieck am Festplatz
- |Straße = Möckernstraße
- |PLZ    = 
- |Ort    = Berlin
-}}
-
-Unter freien Himmel. Als Infostand. 15:00-17:00
-
-Am 5.5.2019 im Greisdreieckspark.
-
-19.05.2019 Tempelhoferfeld
-
-02.06.2019 Wildenbruchpark
-
+Am 5.5.2019 im Mauerpark. 15:00-17:00 Uhr ?
 
 Muss angemeldet werden. 
-* Anmelder -> Urs
-* Datum Uhrzeit 15:00-17:00
-* Geschätzte Personen ca.5 + Laufpublikum
+* Anmelder
+* Datum Uhrzeit
+* Geschätzte Personen
 
 Was wollen wir da machen ?
 * Infomaterial ausgeben
-** Broschüre OK
+** Broschüre
 ** Faltblatt
-** FAQ ? Nein
-
-* Email einsammeln -> Mailingliste -> Formular machen
-* Unterschriften Sammeln
-** Mietenscheid 
-** Ansasge ?
-
-Was brauchen wir dafür?
-* einen Tisch und einen Schirm, wg der Sonne -> ich bestelle einen KUEKeN Schirm -> Prozess läuft noch, erster Stand ohne
-* Produziertes Infomaterial 100 Broschüren (60€)
-* 2500 neue Aufkleber (55€)
-* 40 A3 Plakate (5.5€)
-* Satzung und Teilprogramm drucken
+** FAQ ? Wenn Weit genug
+** ???
+* Email einsammeln
+* ???
 
 Welche Infrastruktur wollen wir bis dahin haben?
-* Mailingliste -> muss ich noch mal machen sollte aber ok sein
-* Internet Seite -> link zur mailingliste und zum wiki
-
-
-alles ok:
+* Mailingliste
+* Internet Seite ?
+* ???
 
 Plakat überarbeiten
 * Im Style so Lassen
-* Datum und Ort ändern (Welcher Ort genau)
+* Datum und Ort ändern
 * QR Code ändern
 
-
-
-Plakat : [[Datei:Plakat-Infostand-2019.pdf|mini|center]]
-
-== Planungskalender ==
-<mscalendar>mauerpark-5-5-2019/mscalendar>
+Plakate vom letzte mal : [[Datei:Plakat-Neuköln.pdf|mini]]
