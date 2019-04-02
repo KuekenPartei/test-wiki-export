@@ -1,22 +1,22 @@
-== Treffen im Mauerpark ==
+== Treffen im Park am Gleisdreieck ==
 
 <div style=" padding: 5px; margin: 5px; float: right; width: 550px; ">
 {{#display_map: 52.49470,13.37769~Infostand
 |mappingservice=openlayers
 |zoom=16
-|title=http://www.kollektivbar-es.de/
+|title=Infostand
 }}
 </div>
 
 
 {{Kalenderblatt
- |Typ    = Vorstellung
- |Titel  = Vorstellung
+ |Typ    = Infostand
+ |Titel  = Infostand
  |Link   = 
  |Datum  = 05.05.2019
  |Zeit   = 15:00
- |Lokal  = Mauerpark
- |Straße = 
+ |Lokal  = Park am Gleisdreieck am Festplatz
+ |Straße = Möckernstraße
  |PLZ    = 
  |Ort    = Berlin
 }}

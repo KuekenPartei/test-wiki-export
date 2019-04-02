@@ -1,10 +1,9 @@
-Treffen im Mauerpark
---------------------
+Treffen im Park am Gleisdreieck
+-------------------------------
 
 <div style=" padding: 5px; margin: 5px; float: right; width: 550px; ">
 {{\#display\_map: 52.49470,13.37769~Infostand
-\|mappingservice=openlayers \|zoom=16
-\|title=<http://www.kollektivbar-es.de/> }}
+\|mappingservice=openlayers \|zoom=16 \|title=Infostand }}
 
 </div>
 Unter freien Himmel. An welchem Ort genau?
