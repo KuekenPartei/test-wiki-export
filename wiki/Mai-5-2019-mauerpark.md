@@ -23,19 +23,22 @@ Was wollen wir da machen ?
     -   Faltblatt
     -   FAQ ? Wenn Weit genug
     -   ???
--   Email einsammeln
--   ???
+-   Email einsammeln -&gt; Mailingliste
+-   Unterschriften Sammeln
+    -   Mietenscheid
+    -   noch mehr ?
 
 Was brauchen wir dafür?
 
--   einen Tisch und einen Schirm, wg der Sonne
+-   einen Tisch und einen Schirm, wg der Sonne -&gt; ich bestelle einen
+    KUEKeN Schirm
 -   Produziertes Infomaterial (Wie viel entscheidet wie zu Produzieren)
 -   
 
 Welche Infrastruktur wollen wir bis dahin haben?
 
--   Mailingliste
--   Internet Seite ?
+-   Mailingliste -&gt; muss ich noch mal machen sollte aber ok sein
+-   Internet Seite -&gt; link zur mailingliste und zum wiki
 -   ???
 
 Plakat überarbeiten
@@ -44,8 +47,9 @@ Plakat überarbeiten
 -   Datum und Ort ändern (Welcher Ort genau)
 -   QR Code ändern
 
-Plakate vom letzte mal :
-![mini\|center](Plakat-Neuköln.pdf "fig:mini|center")
+Erledigt.
+
+Plakat : ![mini\|center](Plakat-Infostand-2019.pdf "fig:mini|center")
 
 Planungskalender
 ----------------

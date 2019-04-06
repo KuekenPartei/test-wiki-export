@@ -36,18 +36,20 @@ Was wollen wir da machen ?
 ** Faltblatt
 ** FAQ ? Wenn Weit genug
 ** ???
-* Email einsammeln
-* ???
+* Email einsammeln -> Mailingliste
+* Unterschriften Sammeln
+** Mietenscheid 
+** noch mehr ?
 
 Was brauchen wir dafür?
-* einen Tisch und einen Schirm, wg der Sonne
+* einen Tisch und einen Schirm, wg der Sonne -> ich bestelle einen KUEKeN Schirm
 * Produziertes Infomaterial (Wie viel entscheidet wie zu Produzieren)
 * 
 
 
 Welche Infrastruktur wollen wir bis dahin haben?
-* Mailingliste
-* Internet Seite ?
+* Mailingliste -> muss ich noch mal machen sollte aber ok sein
+* Internet Seite -> link zur mailingliste und zum wiki
 * ???
 
 Plakat überarbeiten
@@ -55,7 +57,9 @@ Plakat überarbeiten
 * Datum und Ort ändern (Welcher Ort genau)
 * QR Code ändern
 
-Plakate vom letzte mal : [[Datei:Plakat-Neuköln.pdf|mini|center]]
+Erledigt.
+
+Plakat : [[Datei:Plakat-Infostand-2019.pdf|mini|center]]
 
 == Planungskalender ==
 <mscalendar>mauerpark-5-5-2019/mscalendar>
