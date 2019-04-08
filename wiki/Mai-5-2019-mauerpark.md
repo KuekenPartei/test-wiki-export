@@ -6,9 +6,11 @@ Treffen im Park als Infostand
 \|mappingservice=openlayers \|zoom=16 \|title=Infostand }}
 
 </div>
-Unter freien Himmel. An welchem Ort genau?
+Unter freien Himmel. Als Infostand. 15:00-17:00
 
-Am 5.5.2019 im Greisdreieckspark. 19.05.2019 Tempelhoferfeld
+Am 5.5.2019 im Greisdreieckspark.
+
+19.05.2019 Tempelhoferfeld
 
 Muss angemeldet werden.
 
