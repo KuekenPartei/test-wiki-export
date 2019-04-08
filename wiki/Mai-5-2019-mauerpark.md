@@ -1,5 +1,5 @@
-Treffen im Park am Gleisdreieck
--------------------------------
+Treffen im Park als Infostand
+-----------------------------
 
 <div style=" padding: 5px; margin: 5px; float: right; width: 550px; ">
 {{\#display\_map: 52.49470,13.37769~Infostand
@@ -8,11 +8,11 @@ Treffen im Park am Gleisdreieck
 </div>
 Unter freien Himmel. An welchem Ort genau?
 
-Am 5.5.2019 im Mauerpark. 15:00-17:00 Uhr ?
+Am 5.5.2019 im Greisdreieckspark. 19.05.2019 Tempelhoferfeld
 
 Muss angemeldet werden.
 
--   Anmelder
+-   Anmelder -&gt; Urs
 -   Datum Uhrzeit
 -   Geschätzte Personen
 
