@@ -23,35 +23,38 @@ Muss angemeldet werden.
 Was wollen wir da machen ?
 
 -   Infomaterial ausgeben
-    -   Broschüre
+    -   Broschüre OK
     -   Faltblatt
-    -   FAQ ? Wenn Weit genug
-    -   ???
--   Email einsammeln -&gt; Mailingliste
+    -   FAQ ? Nein
+
+<!-- -->
+
+-   Email einsammeln -&gt; Mailingliste -&gt; Formular machen
 -   Unterschriften Sammeln
     -   Mietenscheid
-    -   noch mehr ?
+    -   Ansasge ?
 
 Was brauchen wir dafür?
 
 -   einen Tisch und einen Schirm, wg der Sonne -&gt; ich bestelle einen
-    KUEKeN Schirm
--   Produziertes Infomaterial (Wie viel entscheidet wie zu Produzieren)
--   
+    KUEKeN Schirm -&gt; Prozess läuft noch, erster Stand ohne
+-   Produziertes Infomaterial 100 Broschüren (60€)
+-   2500 neue Aufkleber (55€)
+-   40 A3 Plakate (5.5€)
+-   Satzung und Teilprogramm drucken
 
 Welche Infrastruktur wollen wir bis dahin haben?
 
 -   Mailingliste -&gt; muss ich noch mal machen sollte aber ok sein
 -   Internet Seite -&gt; link zur mailingliste und zum wiki
--   ???
+
+alles ok:
 
 Plakat überarbeiten
 
 -   Im Style so Lassen
 -   Datum und Ort ändern (Welcher Ort genau)
 -   QR Code ändern
-
-Erledigt.
 
 Plakat : ![mini\|center](Plakat-Infostand-2019.pdf "fig:mini|center")
 
