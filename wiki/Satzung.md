@@ -588,6 +588,14 @@ wurde.
 (3) Die Regelungen aus Absatz 1 und 2 gelten ebenso für eine Änderung
 des Programms des KUEKeN.
 
+(4) Die Änderung einer Grundbestimmung, festgelegt im Abschnitt B
+Grundbestimmungen, können nur mit einer 3/4 Mehrheit der abgegebenen
+gültigen Stimmen beschlossen werden. Sie bedürfen einer sorgfältigen
+Planung und ausgiebigen Diskussion innerhalb des KUEKeN.
+
+(5) Änderungen an § 16 können nur mit einer 3/4 Mehrheit der abgegebenen
+gültigen Stimmen beschlossen werden.
+
 § 17 Auflösung und Verschmelzung
 --------------------------------
 
