@@ -80,5 +80,5 @@ Fork us.
 
 
 social network accounts:
-https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c
-https://www.minds.com/derkueken
+https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c  
+https://www.minds.com/derkueken  
