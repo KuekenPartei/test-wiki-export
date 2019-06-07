@@ -44,7 +44,14 @@ vertiefen.
 
 Wir unterstützen explizit die die [pubic money, public
 code](https://publiccode.eu/de/) Initiative der FSFE (Free Software
-Foundation Europe).4
+Foundation Europe).
+
+In unseren Augen entspricht Opensource Software auch viel stärker dem
+Leistungsprinzips, Software Entwickler werden für die Stunden ihrer
+Lebenszeit entlohnt. Eine Erzielung von Einkommen durch das
+weiterverkaufen einer bereits erbrachten Leistung, das verkaufen von
+Software Lizenzen, sehen wir als die Erzielung von Leistungslosen
+Einkommen an.
 
 Einzelnachweise
 ---------------
