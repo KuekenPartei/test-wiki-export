@@ -18,6 +18,8 @@ siehe [[Netzpolitik]]
 * Finanzielle Förderung Essentieller Software Komponenten (SSL, Linux Kernel .... )
 * Fachverfahren als OS
 
+Wir unterstützen explizit die die [https://publiccode.eu/de/ pubic money, public code] Initiative der FSFE (Free Software Foundation Europe).4
+
 == Einzelnachweise ==
 <references />
 
