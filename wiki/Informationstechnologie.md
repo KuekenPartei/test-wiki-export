@@ -42,6 +42,10 @@ vertiefen.
     Kernel .... )
 -   Fachverfahren als OS
 
+Wir unterstützen explizit die die [pubic money, public
+code](https://publiccode.eu/de/) Initiative der FSFE (Free Software
+Foundation Europe).4
+
 Einzelnachweise
 ---------------
 
