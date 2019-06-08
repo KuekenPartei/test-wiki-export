@@ -1,5 +1,5 @@
 **Soziale Nachhaltigkeit** - Ist einer von fünf
-[Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit.md "wikilink"). Im Sinne einer
+[Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit.md). Im Sinne einer
 Ethik der inter- und intragenerativen Gerechtigkeit muss sich eine
 verantwortungsvolle Politik den Aspekten der sozialen Nachhaltigkeit
 zuwenden und diese in gesellschaftliches Handeln übersetzen. Es geht
@@ -8,7 +8,7 @@ Generationen oder andernorts lebenden Menschen nicht gewollt sein
 könnten, zu vermeiden.
 
 Eng mit der Frage nach der sozialen Nachhaltigkeit ist die nach dem
-[Lebensstandard](/wiki/Lebensstandard.md "wikilink") verknüpft, da ein hoher
+[Lebensstandard](/wiki/Lebensstandard.md) verknüpft, da ein hoher
 Lebensstandard langfristig nur in einer sozial nachhaltigen Gesellschaft
 empfunden werden kann.
 
@@ -25,11 +25,11 @@ menschliche Armut bekämpfen und Grundbedürfnisse befriedigen wollen.
 
 #### Bildung
 
-Im Bereich der [Bildung](/wiki/Bildung.md "wikilink") schneidet Deutschland seit
+Im Bereich der [Bildung](/wiki/Bildung.md) schneidet Deutschland seit
 vielen Jahren nicht mehr in den Spitzenpositionen ab, in denen ein
 rohstoffarmes Land sich aufhalten sollte, will es zukunftsfähig bleiben.
 Gerade in den MINT-Fächern, die für technische Erfindungen und
-Entwicklungen unabdingbar sind, nimmt die [Bildung](/wiki/Bildung.md "wikilink")
+Entwicklungen unabdingbar sind, nimmt die [Bildung](/wiki/Bildung.md)
 deutscher Schüler\_innen besorgniserregend ab. Wir setzen uns ein für
 bewährte Erfolgskonzepte und eine Beendigung bildungspolitischer
 Großraumexperimente, die nur zu einer Abwertung von Bildungsabschlüssen
@@ -47,7 +47,7 @@ muss klargestellt werden, dass wir zwar erkennen, dass es Probleme im
 Standards in den Hauptschulen (diese waren vor allem von den Problemen
 betroffen) sehen. Die Durchlässigkeit im viergliedrigen System muss in
 alle Richtungen gewährleistet sein. Ziel ist eine möglichst hohe
-[Bildung](/wiki/Bildung.md "wikilink") für jedes Kind.
+[Bildung](/wiki/Bildung.md) für jedes Kind.
 
 Langfristig zielen wir auf ein Abitur für alle, die es erwerben wollen
 und keine Behinderung aufweisen, die dieses Ziel verhindert. Die
@@ -55,8 +55,8 @@ Schulverweildauer sollte hierbei keine Rolle spielen. Wir denken, dass
 wir es uns nicht leisten können, dieses aktivierbare Potential ungenutzt
 zu lassen.
 
-[Bildung](/wiki/Bildung.md "wikilink") ist daher auch ein wesentlicher Punkt in
-unserem [Programm](/wiki/Programm:Program_konkret.md "wikilink").
+[Bildung](/wiki/Bildung.md) ist daher auch ein wesentlicher Punkt in
+unserem [Programm](/wiki/Programm:Program_konkret.md).
 
 #### Gerechtigkeit
 
@@ -65,15 +65,15 @@ Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem
 Menschen die gesellschaftliche Teilhabe ermöglicht, können Kinder
 kulturangemessen aufwachsen und zu mündigen und gesellschaftkundigen
 Menschen heranreifen. Gerechtigkeit gehört zu unseren
-[Grundbestimmungen](/wiki/Grundbestimmungen.md "wikilink").
+[Grundbestimmungen](/wiki/Grundbestimmungen.md).
 
 #### Solidarität
 
 Der Mensch ist ein Wesen der Gemeinschaft. Deshalb gilt unsere Sorge der
 Gemeinschaft, wie sie dem Individuum gelten muss. In der
-[Solidarität](/wiki/Solidarität.md "wikilink") drückt sich u.a. der verbindende
+[Solidarität](/wiki/Solidarität.md) drückt sich u.a. der verbindende
 Generationenvertrag aus. Solidarität ist ebenso ein Wert, auf den wir
-uns schon in unseren [Grundbestimmungen](/wiki/Grundbestimmungen.md "wikilink")
+uns schon in unseren [Grundbestimmungen](/wiki/Grundbestimmungen.md)
 beziehen und von dem wir uns in unserem gesamten Handeln leiten lassen.
 
 #### Gemeinschaft
@@ -85,7 +85,7 @@ Geselligkeit auch und vor allem außerhalb von Funktionszusammenhängen
 wie Produktionprozessen o.ä. besonders fördern. Denn nur in einer
 funktionierenden Gemeinschaft mit gemeinsamer Sprache und gemeinsamen
 Geschichten können die [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink") gesund und behaglich
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) gesund und behaglich
 zu verantwortungsvollen und emotional stabilen sowie mündigen
 Persönlichkeiten heranreifen.
 
@@ -98,7 +98,7 @@ Nach [Buckminster
 Fuller](https://de.wikipedia.org/wiki/Richard_Buckminster_Fuller) ist
 die Sprache ein industrielles Produkt:
 
-“*Alle Werkzeug-Extensionen der Menschheit können in zwei Hauptgruppen
+"*Alle Werkzeug-Extensionen der Menschheit können in zwei Hauptgruppen
 eingeteilt werden – in Handwerkzeuge und industrielle Werkzeuge. Ich
 definiere Handwerkzeuge als alle diejenigen, welche von einem Menschen,
 der ganz allein und nackt in der Wildnis anfängt, erfunden werden
@@ -112,9 +112,9 @@ gesprochene Wort, zu dessen Entwicklung mindestens zwei Menschen nötig
 waren, das erste industrielle Werkzeug. Es brachte die progressive
 Integration hervor, durch die alle individuellen Erfahrungen und
 Gedanken der gesamten Menschheit von Generation zu Generation überall
-und jederzeit weitergegeben werden konnten.*”[4]
+und jederzeit weitergegeben werden konnten.*"[4]
 
-Es gab bei Arte einen attraktiven Film, “Revolution der Selbstlosen”
+Es gab bei Arte einen attraktiven Film, "Revolution der Selbstlosen"
 
 Teil 1
 <http://www.dailymotion.com/video/x4ga307_die-revolution-der-selbstlosen-arte-doku-part-1_school>
@@ -132,7 +132,8 @@ Einzelnachweise
 ---------------
 
 <references />
-<Kategorie:Sozialpolitik> <Kategorie:Bildungspolitik>
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik.md)
+[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik.md)
 
 [1] vgl. <https://de.wikipedia.org/wiki/Zoon_politikon>
 

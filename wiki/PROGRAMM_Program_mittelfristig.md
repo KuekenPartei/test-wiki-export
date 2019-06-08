@@ -4,7 +4,7 @@ Zeitraum von etwa 10 Jahren an.
 Wahlsystem
 ----------
 
-siehe [Wahlsystem](/wiki/Wahlsystem.md "wikilink")
+siehe [Wahlsystem](/wiki/Wahlsystem.md)
 
 Pazifismus
 ----------
@@ -15,6 +15,6 @@ Sozial
 ------
 
 -   [Bedingungsloses
-    Grundeinkommen](/wiki/Bedingungsloses_Grundeinkommen.md "wikilink") (BGE)
+    Grundeinkommen](/wiki/Bedingungsloses_Grundeinkommen.md) (BGE)
 
-<Kategorie:Programm>
+[Kategorie:Programm](/wiki/Kategorie:Programm.md)

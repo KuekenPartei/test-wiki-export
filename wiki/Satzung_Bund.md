@@ -1,5 +1,5 @@
-<Kategorie:Planung>
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
 
-<Kategorie:inBearbeitung>
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
 
-<Kategorie:Formalien>
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)

@@ -9,9 +9,9 @@ grundsätzliche Richtung unserer gesellschaftlichen und politischen
 Vorstellungen vor. An diesen Grundbestimmungen und -werten müssen sich
 alle anderen Ideen und Maßnahmen messen lassen.
 
-Da die [Kinder der Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink") im
+Da die [Kinder der Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) im
 Mittelpunkt all unseres Strebens stehen, ergibt sich hieraus direkt die
-Bemühung um [nachhaltiges Handeln](/wiki/Nachhaltigkeit.md "wikilink"). Aus
+Bemühung um [nachhaltiges Handeln](/wiki/Nachhaltigkeit.md). Aus
 diesen beiden obersten Werten ergeben sich für uns zudem die folgenden
 Grundbestimmungen:
 
@@ -54,7 +54,7 @@ unablässig müssen wir die Strukturen der Partei verändern, so auch die
 der Gesellschaft. Es kann nicht unser Ziel sein, eine perfekte
 Gesellschaft zu bauen, eine solche kann es unter diesen Voraussetzungen
 nicht geben. Unser Ziel kann nur die positive und
-[nachhaltige](/wiki/Nachhaltigkeit.md "wikilink") Entwicklung der Gesellschaft
+[nachhaltige](/wiki/Nachhaltigkeit.md) Entwicklung der Gesellschaft
 sein.
 
 Erhalt der natürlichen Lebensgrundlagen
@@ -64,7 +64,7 @@ Ein konservierender Umgang mit - bzw. die Wiederherstellung - einer
 gesunden und reichhaltigen Umwelt leitet sich zwangsläufig aus der
 Verantwortung für unsere Kinder und alle künftigen Generationen ab und
 hängt eng mit dem Begriff der
-[Nachhaltigkeit](/wiki/Nachhaltigkeit.md "wikilink") zusammen.
+[Nachhaltigkeit](/wiki/Nachhaltigkeit.md) zusammen.
 
 Die natürlichen Lebensgrundlagen sind unsere Ressource, die das
 menschliche Leben auf dem Planeten Erde erst ermöglicht. Hieran, aus
@@ -76,9 +76,9 @@ Kindeskinder gewertet werden.
 Wir bekennen uns zum Antropozän und der daraus resultierenden
 Verantwortung. Die Wirkung von uns Menschen auf die Erde ist inzwischen
 so groß, dass wir Hans Jonas Erweiterung des Kategorischen Imperativs
-berücksichtigen müssen, “Handle so, daß die Wirkungen deiner Handlungen
+berücksichtigen müssen, "Handle so, daß die Wirkungen deiner Handlungen
 verträglich sind mit der Permanenz echten menschlichen Lebens auf
-Erden.”[1]
+Erden."[1]
 
 Solidarität
 -----------

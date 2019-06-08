@@ -5,12 +5,12 @@ könnte.
 Bildungspolitik
 ---------------
 
-siehe [Bildung](/wiki/Bildung.md "wikilink")
+siehe [Bildung](/wiki/Bildung.md)
 
 Nachhaltigkeit
 --------------
 
-siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit.md "wikilink")
+siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit.md)
 
 ### langlebige Produkte
 
@@ -40,14 +40,14 @@ Herstellung schafft.
     Hersteller müssen verpflichtet werden derartige Produktinformationen
     zur Verfügung zu stellen.
 2.  Psychische Obsoleszenz - [ Die Psychische
-    Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz.md "wikilink"),
+    Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz.md),
     lehnen wir vollständig ab. Sie ist ein vom Marketing gestiftetes
     Phänomen und lässt sich nur durch die Einschränkung Marketing und
     Werbung unterbinden.
 
 ### Wiederverwendung
 
-Wir fördern und initiieren sog. “reuse” Läden, in denen es möglich ist
+Wir fördern und initiieren sog. "reuse" Läden, in denen es möglich ist
 Dinge, die für den eigenen Gebrauch nicht mehr funktional sind, einfach
 ab zu geben, und in denen man sich von eben diesen Gegenständen bedienen
 kann.
@@ -59,7 +59,7 @@ Unser Familien Bild ist einfach und offen. Familie ist da wo die Kinder
 sind.
 
 siehe auch [Demographische
-Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit.md "wikilink")
+Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit.md)
 
 ### Steuervorteile dort, wo die Kinder sind
 
@@ -101,9 +101,9 @@ angeht, der res publica, gehört auch öffentlich und damit transparent.
 Das Private hingegen ist per Definition eben privat und damit dem
 öffentlichen Interesse entzogen; genießt sogar Schutz vor diesem.
 
-siehe [Informationstechnologie](/wiki/Informationstechnologie.md "wikilink")
+siehe [Informationstechnologie](/wiki/Informationstechnologie.md)
 
-siehe [Netzpolitik](/wiki/Netzpolitik.md "wikilink")
+siehe [Netzpolitik](/wiki/Netzpolitik.md)
 
 Politik und Verwaltung
 ----------------------
@@ -153,6 +153,6 @@ Wachstumszwang wieder die Freiheit unserer eigentlichen Verantwortung,
 nämlich der für unsere Kinder, Mitmenschen und deren Zukunft gerecht zu
 werden.
 
-[Marketing](/wiki/Marketing.md "wikilink")
+[Marketing](/wiki/Marketing.md)
 
-<Kategorie:Programm>
+[Kategorie:Programm](/wiki/Kategorie:Programm.md)

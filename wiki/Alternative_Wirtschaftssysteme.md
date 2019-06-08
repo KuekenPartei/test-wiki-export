@@ -1,6 +1,7 @@
-Das sich das Globales Wirtschafts- und Finanzsystem in einer Krise
-befindet bestreiten wohl nur die Interessen Gruppen die aktiv von dem
-System und den Krisen profitieren.
+Dass sich das globales Wirtschafts- und Finanzsystem in einer Krise
+befindet, bestreiten wohl nur die Interessengruppen, die aktiv von dem
+periodisch krisenproduzierenden System und den daraus resultierenden
+Krisen profitieren.
 
 Die modernen [Blockchain
 Technologien](https://de.wikipedia.org/wiki/Block_Chain) haben ein
@@ -14,4 +15,4 @@ verändern.
 -   <http://www.it-finanzmagazin.de/gar-kein-mysterium-blockchain-verstaendlich-erklaert-27960/>
 
 [Kategorie:
-Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik.md "wikilink")
+Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik.md)

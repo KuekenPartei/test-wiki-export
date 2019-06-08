@@ -14,7 +14,7 @@ barrierefreie ungeschützte PDF- oder WORD-Dateien übersandt werden
 Das Programm muss politische Ziele erkennen lassen, braucht aber nicht
 für sämtliche Gebiete des politischen Lebens umfassende Konzeptionen zu
 der Staats- und Gesellschaftsordnung zu enthalten. Ebenso wenig ist ein
-“großes Programm” im traditionellen Sinne mit weit in die Zukunft
+"großes Programm" im traditionellen Sinne mit weit in die Zukunft
 projektierten Fernzielen erforderlich. Es genügt vielmehr ein
-gegenwartsbezogenes “Aktionsprogramm”.
+gegenwartsbezogenes "Aktionsprogramm".
 [http://pad.klarmachen-ändert.de/p/Grundbestimmungen](http://pad.klarmachen-ändert.de/p/Grundbestimmungen)

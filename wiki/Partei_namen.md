@@ -31,8 +31,7 @@ Kinder!
 -   PWK – Partei für Wachstum durch Kinder
 -   JungesWachstum!
 -   JungesDeutschland!
--   -   JungeWelt!
-
+-   \* JungeWelt!
 -   NVA– Nachwuchs, Verantwortung, Aufklärung
 -   NAV
 -   ZVA– Zukunft, Verantwortung, Aufklärung
@@ -55,4 +54,3 @@ Kinder!
     Kuratorium für ernsthafte Nachhaltigkeit
 -   kueken - Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
     Nachhaltigkeit
-
