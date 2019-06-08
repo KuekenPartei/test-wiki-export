@@ -2,8 +2,10 @@ Häufig gestellte Fragen. (Frequently Asked Questions)
 
 ### Was ist das Familienbild des KUEKeN ?
 
-Das Fa,ilienbild des KUEKeN ist einfach, Familie ist da wo die Kinder
-sind. Die Bürgerliche Zugewinngemeinschaft lehnen wir ab.
+Das Familienbild des KUEKeN ist einfach, Familie ist da wo Kinder sind.
+Die Bürgerliche Zugewinngemeinschaft lehnen wir ab, da sie nicht der
+Verantwortung gegenüber unseren Kindern in den Mittelpunkt stellt. Einer
+spezifischen Art der Förderung bedarf es hier nicht.
 
 ### Was meint ihr mit "radikal trivial"?
 
