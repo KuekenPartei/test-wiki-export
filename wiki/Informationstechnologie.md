@@ -31,8 +31,24 @@ Bedroht, der wir uns entscheidend entgegenstellen.
 
 siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 
+Soziale Netzwerke
+-----------------
+
+Soziale Netzwerke lassen sich leicht in zwei Klassen unterteilen,
+solchen welche der Gemeinschaft dienen, und jenen die Teil des
+sogenannten Plattform Kapitalismus sind. Wir wollen explizit dezentrale
+von den Benutzen selbst betriebene soziale Netzwerke und Plattformen
+fördern.
+
+Teil unsere Netzwerk Strategie ist das wir uns aus den Zentralen
+Sozialen Netzwerk raus halten und nur auf den alternativen präsent sind.
+Durch die ungeheure Konzentration, richten wir sogenannte "Drop Acounts"
+ein die nur indirekt bespielt werden.
+
 Förderung von offenen Standards
 -------------------------------
+
+Offene
 
 Förderung von Open Source Software
 ----------------------------------
