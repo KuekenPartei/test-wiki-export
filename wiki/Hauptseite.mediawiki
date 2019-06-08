@@ -18,10 +18,10 @@ Der Ausgangspunkt soll einfach sein, er soll bei der Frage liegen: '''Wie kann u
 
 <br />__NOTOC__
 
-Eine kleine Zusammenfassung der "Partei [[FeatureListe| features]]".
+Eine kleine Zusammenfassung der "Parteifeatures [[FeatureListe| hier]]".
 <br />
 
-
+Habt Ihr kurze, häufig gestellte Fragen, dann schaut in den [[Faq]].
 
 {{Baustein-no-image
 |color = #1e90ff
@@ -34,17 +34,17 @@ Eine kleine Zusammenfassung der "Partei [[FeatureListe| features]]".
 
 == Mitmachen ==
 
-Wir sind ganz am Anfang, es gibt viel zu tun. Siehe [[Planung]].
+Wir sind ganz am Anfang, es gibt viel zu tun. Siehe [[Planung]] (2018 aktualisiert).
 
 Du könntest [[Infomaterial]] an interessierte Menschen weitergeben.
 
-Willst du uns Kennen lernen, Fragen stellen, Anregungen geben, mitmachen. Komm zu einem der [[Hauptseite#Planungstreffen| Planungstreffen]].
+Willst du uns kennenlernen, Fragen stellen, Anregungen geben oder bei uns mitmachen. Komm zu einem der [[Hauptseite#Planungstreffen| Planungstreffen]].
 
-'''Wir brauchen Menschen die mitmachen.'''
+'''Wir brauchen Menschen, die mitmachen.'''
 
-Wir sind im Augenblick zu wenig Menschen. 
+Wir sind derzeit zu wenig Menschen. 
 
-Willst du über den Gründungsprozess auf dem Laufenden gehalten werden, kannst du die entsprechende mailingliste abonnieren: http://list.klarmachen-ändert.de/listinfo/kpartei-g 
+Willst du über den Gründungsprozess auf dem Laufenden gehalten werden, kannst du die entsprechende Mailingliste abonnieren: http://list.derkueken.de/listinfo/derkueken
 
 === Planungstreffen ===
 
@@ -53,13 +53,13 @@ In Berlin ist jeden zweiten Mittwoch [[Planungstreffen_Berlin| Planungstreffen]]
 
 === Unterstützen ===
 
-Im Augenblick da unsere Infrastruktur noch am entstehen ist kannst du uns mit Bitcoin unterstützen. 
+Im Augenblick da unsere Infrastruktur noch entsteht, kannst du uns mit Bitcoin unterstützen. 
 
 [[Datei:Kueken-bitcoin-adress.png]]
 '''bitcoin://1LFZ22t3GciShgjvgeWvfYoQ3iEkuWChjB'''
 
-Mit bitcoins ist es möglich elektronische Infrastruktur zu bezahlen, Domain Namen und Server, wie auch Druckerzeugnisse.
-Noch attraktiver als Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder Webdesign, Mund zu Mund Propaganda usw.
+Mit Bitcoin ist es möglich, elektronische Infrastruktur zu bezahlen, Domainnamen und Server, wie auch Druckerzeugnisse.
+Noch attraktiver als Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder Webdesign, Mund-zu-Mund-Propaganda usw.
 
 
 Im [[Soziales_Netzwerk| Sozialen Netzwerk]]:

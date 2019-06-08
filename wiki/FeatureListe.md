@@ -24,7 +24,7 @@ Diskurses nicht länger vorwiegend konsum- und profitorientierten
 Interessengruppen überlassen, sondern Inhalt und Richtung aktiv
 mitgestalten.
 
-### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main.md "wikilink")
+### Grundbestimmungen und [ Programm](/wiki/PROGRAMM:Main.md)
 
 Unser Programm ist an dem Menschen und seinen Bedürfnissen ausgerichtet.
 Als einfache Bestimmung der Menschlichen Bedürfnissen dienen die
@@ -32,7 +32,7 @@ Bedürfnisse der Kinder, die unsere Sorge bedürfen. Diese durch
 Verantwortung gestiftete Sorge ist essentieller Leitfaden unser Politik
 und unseres Programms.
 
--   Die [Grundbestimmungen](/wiki/Grundbestimmungen.md "wikilink") enthalten
+-   Die [Grundbestimmungen](/wiki/Grundbestimmungen.md) enthalten
     einen konkreten Entscheidungskatalog.
     -   Pazifismus
     -   Säkularismus
@@ -47,43 +47,43 @@ und unseres Programms.
 
 <!-- -->
 
--   [ konkretes Programm](/wiki/PROGRAMM:Program_konkret.md "wikilink")
+-   [ konkretes Programm](/wiki/PROGRAMM:Program_konkret.md)
     -   Steuervorteile dort, wo die Kinder sind
     -   Stärkere Unterstützung von allein Erziehenden
     -   Sozialer Wohnungsbau
     -   Einschränkung des Nebenverdienstes für Abgeordnete, Transparenz
         und Lobby Kontrolle
 -   [ mittelfristiges
-    Programm](/wiki/PROGRAMM:Program_mittelfristig.md "wikilink")
+    Programm](/wiki/PROGRAMM:Program_mittelfristig.md)
     -   Die Kinderstimme und der Bildungszensus
     -   Ausstieg aus der Kriegsgeräteproduktion
     -   Bedingungsloses Grundeinkommen (BGE)
 
-### Moderne [ Satzung](/wiki/Satzung_Bund.md "wikilink")
+### Moderne [ Satzung](/wiki/Satzung_Bund.md)
 
 -   Liquid Democracy per [ ständige Mitglieder
-    Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz.md "wikilink").
+    Konferenz](/wiki/Struktur_KUKeN_Bund#St.C3.A4ndige_Mitgliederkonferenz.md).
 -   Geschlechterquote
 -   Anbindung von Initiativen durch die [ überregionalen
-    Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche.md "wikilink").
+    Projektbereiche](/wiki/Struktur_KUKeN_Bund#Die_.C3.BCberregionalen_Projektbereiche.md).
 -   Formalisierung von Schuld
     -   Die Formalisierung der Schuld ist durch unsere Satzung
         Definiert, [
-        §11](/wiki/Satzung_Bund#.C2.A7_11_Der_Bundesvorstand.md "wikilink")
-        Absatz 12. “(12) Der Bundesvorstand hat Schuld, diese ist wie
+        §11](/wiki/Satzung_Bund#.C2.A7_11_Der_Bundesvorstand.md)
+        Absatz 12. "(12) Der Bundesvorstand hat Schuld, diese ist wie
         folgt unter den Vorstandsmitgliedern aufgeteilt: Der erste und
         zweite Vorsitzende haben immer Schuld, alle anderen
-        Vorstandsmitglieder habe eine Teilschuld.”
+        Vorstandsmitglieder habe eine Teilschuld."
 
 Schuld ist ein Prinzip dem wir als Christlich geprägte Gesellschaft
 immer noch Anhängen.(vlg. Erbschuld/Erbsünde) Diese Schuld Prinzip steht
 uns bei der Findung von Lösungen im Wege weswegen wir sie Formalisieren.
-Um mit Camus zu sprechen : “Wo es Verantwortung gibt, gibt es keine
-Schuld.”
+Um mit Camus zu sprechen : "Wo es Verantwortung gibt, gibt es keine
+Schuld."
 
 -   Wo es rechtlich Möglich ist wollen wir das sog. Freiwillige
     Los-verfahren einsetzten. [
-    &10](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz.md "wikilink")
+    &10](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz.md)
     Absatz (1) und (2). "Das freiwillige Losverfahren ist ein einfaches
     Personenwahlverfahren. Die Teilnahme ist freiwillig. Das
     Losverfahren ist paritätisch, gerecht, schnell und es vermeidet
@@ -98,7 +98,7 @@ Schuld.”
 
 ### Moderne Strukturen
 
-Die [Partei als Labor](/wiki/Partei_als_Labor.md "wikilink"): Durch unsere
+Die [Partei als Labor](/wiki/Partei_als_Labor.md): Durch unsere
 strukturelle Unabgeschlossenheit ist es uns möglich, neuartige Verfahren
 in government and management auszuprobieren und zu evaluieren. So kann
 die sich den aktuellen Gegebenheiten anzupassende Parteistruktur als
@@ -106,12 +106,11 @@ Blaupause für gesellschaftliche Veränderung angesehen werden und es
 lassen sich aus unseren Partei Erfahrungen, konkrete Handlungsvorgaben
 und Empfehlungen ableiten. Dinge dürfen und müssen ausprobiert werden.
 
--   Per [ “smart contract”](smart_contacts_in_der_partei "wikilink")
+-   Per [ "smart contract"](smart_contacts_in_der_partei.md)
     werden viele
-    \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>|
+    \[<https://en.wikipedia.org/wiki/Decentralized_autonomous_organization>\|
     Verwaltungsvorgänge\] in eine dezentrale, transparente Blockchain
     verlegt.
 -   Möglichst viele Vorgänge werden über [alternative
-    Wirtschaftssysteme](alternative_Wirtschaftssysteme "wikilink") wie
-    \[<https://de.wikipedia.org/wiki/Bitcoin>| Bitcoin\] abgewickelt.
-
+    Wirtschaftssysteme](alternative_Wirtschaftssysteme.md) wie
+    \[<https://de.wikipedia.org/wiki/Bitcoin>\| Bitcoin\] abgewickelt.

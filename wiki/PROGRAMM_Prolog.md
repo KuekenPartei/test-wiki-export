@@ -10,7 +10,7 @@ gestaltbar ist. Hier liegt der Unterschied zwischen Verwaltung und
 Politik: Verwaltet wird die Gegenwart, das Primat der Politik ist die
 Gestaltung der Zukunft. Das klarste Zeichen der Zukunft sind die Kinder.
 Es sind unsere Kinder und sie sind immer auch [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink"). In ihnen zeichnet
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md). In ihnen zeichnet
 sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt
 bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
 auch Politikern.
@@ -25,7 +25,7 @@ Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
 Wandel der Perspektive.
 
 Wir folgen im ersten Schritt Hans Jonas, Fürsorge für den Nachwuchs:
-“Hier ist der Archetyp alles verantwortlichen Handelns \[...\]”[1].
+"Hier ist der Archetyp alles verantwortlichen Handelns \[...\]"[1].
 Jeder von uns war ein Säugling, dessen Bedürftigkeit angenommen und
 entsprochen, dessen Anspruch auf Leben angenommen und positiv
 beantwortet wurde. Selbst in den tragischen Schicksalen von Ausgrenzung
@@ -48,11 +48,11 @@ immer auch eine Politik, die sich an den Menschen ausrichtet.
 
 So wenden wir uns wieder unserer eigentlichen Verantwortung den Menschen
 und zuvorderst den [Kindern der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft.md "wikilink") zu, unseren Kindern.
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) zu, unseren Kindern.
 Mit einer konsequenten Verfolgung der Kindesinteressen werden also
 ebenso die Interessen aller Mitglieder einer Gesellschaft vertreten und
 gleichzeitig eine zukunftsfähige und [nachhaltige
-Politik](/wiki/Nachhaltigkeit.md "wikilink") betrieben.
+Politik](/wiki/Nachhaltigkeit.md) betrieben.
 
 In einer aufgeklärten Demokratie kommt der kritischen Öffentlichkeit
 eine spezifische Funktion zu: die der Selbstkontrolle. Diese Funktion
@@ -62,7 +62,7 @@ unsere Sorge gelten. Und dies in zweierlei Hinsicht: Ist es nach Kant
 zum Einen die 'Feigheit und Faulheit' in uns, die unsere Mündigkeit
 zeitlebens bedroht, und damit auch die Öffentlichkeit, deren
 unentbehrlicher Teil jeder von uns ist, zum anderen in der
-[Erziehung](/wiki/Erziehung.md "wikilink") der noch nicht mündigen, der Kinder.
+[Erziehung](/wiki/Erziehung.md) der noch nicht mündigen, der Kinder.
 Sie allein bilden nach uns diese kritische Öffentlichkeit. So weist das
 durch die Verantwortung gestiftete Sorge-System eine differenzierte
 Struktur auf. Es sind die Mündigen, deren Aufgabe und Pflicht es ist,
@@ -127,18 +127,18 @@ auf der Welt. Das Leid und die Verzweiflung wachsen.
 
 Dies alles sind Kapriolen des Rationalen - Die Dialektik der Aufklärung.
 Diese Rationalität ist auf sich selbst bezogen und nicht mehr auf das
-Leben, so wird diese übersteigerte Rationalität irrational. “Nicht indem
+Leben, so wird diese übersteigerte Rationalität irrational. "Nicht indem
 sie ihm die ganze Befriedigung gewährt, haben die losgelassenen
 Produktionskolosse das Individuum überwunden, sondern indem sie es als
 Subjekt auslöschten. Eben darin besteht ihre vollendete Rationalität,
-die mit ihrer Verrücktheit zusammenfällt.” [5] Sie sind das Ergebnis
+die mit ihrer Verrücktheit zusammenfällt." [5] Sie sind das Ergebnis
 einer Rationalität, die sich abgelöst hat vom Zweck und damit auch von
 der Welt und den Menschen. An diesen Stellen können uns die Kinder
 helfen, die Welt und die Menschen wieder in den Blick zu nehmen, die
 Bedürftigkeit zu objektivieren und zu begründen. Die Kinder in den Fokus
 zu rücken, bewahrt uns vor dem Überschlag des Denkens, sogar vor dem
-popeligen &lt;<eigenen Vorteil>&gt;. Hans Johnas “Sieh hin und du
-weißt”[6] können wir als Vorwegnahme des Spiegeleuronennprinzips
+popeligen &lt;<eigenen Vorteil>&gt;. Hans Johnas "Sieh hin und du
+weißt"[6] können wir als Vorwegnahme des Spiegeleuronennprinzips
 verstehen. Wir sind bestens ausgestattet, die Bedürftigkeit in anderen
 zu erkennen, zu reflektieren und sie zu unseren eigenen zu machen. In
 der Verantwortung für unsere Kinder finden wir eine ähnliche

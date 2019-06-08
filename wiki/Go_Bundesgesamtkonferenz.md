@@ -45,8 +45,8 @@ durch die Wahlleitung bekannt gegeben.
 
 (5) Bei geheimen Abstimmungen über nur einen Antrag und bei Wahlen mit
 nur einem Kandidierenden muss genau eine der folgenden Optionen
-ausgewählt werden: “Ja” oder “Nein”. Ein leerer Stimmzettel wird als
-“Enthaltung” gewertet.
+ausgewählt werden: "Ja" oder "Nein". Ein leerer Stimmzettel wird als
+"Enthaltung" gewertet.
 
 (6) Gibt es mehrere Optionen oder Kandidierende, so wird eine
 Akzeptanzwahl durchgeführt.
@@ -111,7 +111,7 @@ abgegebenen Stimmen.
 erreichen die genau zwei bestplatzierten Kandidierenden nicht jeweils
 die erforderliche Mehrheit, so findet unter diesen eine Stichwahl mit
 absoluter Mehrheitswahl statt. Dabei kann nur eine Stimme vergeben
-werden, wobei zusätzlich die Option “keinen der Kandidierenden” zur
+werden, wobei zusätzlich die Option "keinen der Kandidierenden" zur
 Verfügung steht. Es gewinnt der Kandidierende mit mehr als der Hälfte
 aller gültigen abgegebenen Stimmen.
 
@@ -679,4 +679,5 @@ von der Geschäftsordnung abweichen.
 (1) Nur die in dem Abschnitt {Geschäftsordnungsanträge} §15 bis §15o
 benannten Geschäftsordnungsanträge sind als solche zulässig.
 
-<Kategorie:Formalien> <Kategorie:Planung>
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)

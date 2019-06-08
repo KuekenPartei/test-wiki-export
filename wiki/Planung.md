@@ -1,6 +1,6 @@
 Eine Übersicht über die Planungsphase.
 
-[ Struktur](/wiki/Struktur_KUKeN_Bund.md "wikilink") des KUKeN.
+[ Struktur](/wiki/Struktur_KUKeN_Bund.md) des KUKeN.
 
 Zur Gründungsplanung haben wir einen mainlingliste eingerichtet, ihr
 könnt euch dort eintragen um über die Gründungsaktivitäten auf dem
@@ -17,60 +17,60 @@ Infrastruktur
 Planungs Treffen
 ----------------
 
--   [ Berlin](/wiki/Planungstreffen_Berlin.md "wikilink")
+-   [ Berlin](/wiki/Planungstreffen_Berlin.md)
 
 Erster Schritt: Gründung
 ------------------------
 
 Ziel der Gründung ist die
-[Gründungsversammlung](/wiki/Gründungsversammlung.md "wikilink") und die
+[Gründungsversammlung](/wiki/Gründungsversammlung.md) und die
 Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 Anzeige der
-\[<https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wahlteilnahme/index.html>|
+\[<https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wahlteilnahme/index.html>\|
 Wahlteilnahme\] zur Wahl zum 19. Deutschen Bundestag
 
--   [Formalien](/wiki/Formalien.md "wikilink")
-    -   [Satzung\_Bund](/wiki/Satzung_Bund.md "wikilink") \[erste Version\]
-        -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md "wikilink")
-            -   [Wahl & Geschäftsordnung](/wiki/Go.md "wikilink") \[erste
+-   [Formalien](/wiki/Formalien.md)
+    -   [Satzung\_Bund](/wiki/Satzung_Bund.md) \[erste Version\]
+        -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md)
+            -   [Wahl & Geschäftsordnung](/wiki/Go.md) \[erste
                 Version\]
-        -   [Bundesvorstand](/wiki/Bundesvorstand.md "wikilink")
-            -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
+        -   [Bundesvorstand](/wiki/Bundesvorstand.md)
+            -   [go\_bundesvorstand](go_bundesvorstand.md)
         -   [ständige
-            Mitgliederkonferenz](ständige_Mitgliederkonferenz "wikilink")
-            -   [ Geschäftsordnung SMK](/wiki/Go_smk.md "wikilink") \[erste
+            Mitgliederkonferenz](ständige_Mitgliederkonferenz.md)
+            -   [ Geschäftsordnung SMK](/wiki/Go_smk.md) \[erste
                 Version\]
         -   Die [überregionalen
-            Projektbereiche](überregionalen_Projektbereiche "wikilink")
-            -   [go](go "wikilink") \[erste Version\]
-            -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md "wikilink")
-                -   [go\_Bundeskoordinationsrat](go_Bundeskoordinationsrat "wikilink")
-        -   [Finanzordnung](/wiki/Finanzordnung_Bund.md "wikilink") \[erste
+            Projektbereiche](überregionalen_Projektbereiche.md)
+            -   [go](go.md) \[erste Version\]
+            -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md)
+                -   [go\_Bundeskoordinationsrat](go_Bundeskoordinationsrat.md)
+        -   [Finanzordnung](/wiki/Finanzordnung_Bund.md) \[erste
             Version\]
-        -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md "wikilink")
+        -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md)
             \[erste Version\]
-    -   [Wahl & Geschäftsordnung](/wiki/Go.md "wikilink") \[erste Version\]
+    -   [Wahl & Geschäftsordnung](/wiki/Go.md) \[erste Version\]
 
 -   Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
--   [Gründungsversammlung](/wiki/Gründungsversammlung.md "wikilink")
-    -   [ Geschäftsordung](/wiki/Go.md "wikilink") \[erste Version\]
-    -   [Protokoll](/wiki/Protokoll.md "wikilink")
--   [Programm](/wiki/Programm.md "wikilink")
+-   [Gründungsversammlung](/wiki/Gründungsversammlung.md)
+    -   [ Geschäftsordung](/wiki/Go.md) \[erste Version\]
+    -   [Protokoll](/wiki/Protokoll.md)
+-   [Programm](/wiki/Programm.md)
 
   
 **Formalien todo**
 
 | Name                                                               | Entwurf | V1  | V2  | Final |
 |--------------------------------------------------------------------|---------|-----|-----|-------|
-| [Satzung](/wiki/Satzung.md "wikilink")                                      | X       |     |     |       |
-| [Wahl & Geschäftsordnung](/wiki/Go.md "wikilink")                           | X       |     |     |       |
-| [Finanzordnung](/wiki/Finanzordnung_Bund.md "wikilink")                     | X       |     |     |       |
-| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md "wikilink")   | X       |     |     |       |
-| [ Geschäftsordnung SMK](/wiki/Go_smk.md "wikilink")                         | X       |     |     |       |
-| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") | W       |     |     |       |
-| [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | X       |     |     |       |
-| [Mitgliedsantrag](/wiki/Mitgliedsantrag.md "wikilink")                      |         |     |     |       |
+| [Satzung](/wiki/Satzung.md)                                      | X       |     |     |       |
+| [Wahl & Geschäftsordnung](/wiki/Go.md)                           | X       |     |     |       |
+| [Finanzordnung](/wiki/Finanzordnung_Bund.md)                     | X       |     |     |       |
+| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md)   | X       |     |     |       |
+| [ Geschäftsordnung SMK](/wiki/Go_smk.md)                         | X       |     |     |       |
+| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat.md) | W       |     |     |       |
+| [ Bundesvorstand GO](go_bundesvorstand.md)                 | X       |     |     |       |
+| [Mitgliedsantrag](/wiki/Mitgliedsantrag.md)                      |         |     |     |       |
 
 **W**- in work
 
@@ -184,12 +184,12 @@ Neueinteilung betroffenen Wahlkreisen wiederholt werden. Die
 Wahlkreiseinteilung für die Wahl zum 19. Deutschen Bundestag wird
 voraussichtlich im Frühjahr 2016 in Kraft treten.
 
-#### Unterstützungsunterschriften – nur für sogenannte “nicht-etablierte” Parteien
+#### Unterstützungsunterschriften – nur für sogenannte "nicht-etablierte" Parteien
 
 Nach § 20 Absatz 2 Satz 2 BWG müssen Kreiswahlvorschläge von Parteien,
 die nicht im Deutschen Bundestag oder einem Landtag seit deren letzter
 Wahl auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf
-Abgeordneten vertreten waren (sogenannte “nicht-etablierte” Parteien)
+Abgeordneten vertreten waren (sogenannte "nicht-etablierte" Parteien)
 von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und
 handschriftlich unterzeichnet sein (einzureichen auf Formblatt Anlage 14
 zu § 34 Absatz 4 Bundeswahlordnung – BWO). Die Landesliste einer solchen
@@ -249,4 +249,6 @@ soll, jedoch höchstens von 2.000 Wahlberechtigten persönlich und
 handschriftlich unterzeichnet sein (einzureichen auf Formblatt Anlage 21
 zu § 39 Absatz 3 BWO).*
 
-<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)

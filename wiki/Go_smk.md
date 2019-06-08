@@ -232,7 +232,7 @@ verändert werden.
 ### 6. Delegationsverfall
 
 (1) Die automatisierte Kopplung des eigenen Abstimm- und
-Unterstützungsverhaltens an ein anderes SMK-Mitglied (“Delegation”)
+Unterstützungsverhaltens an ein anderes SMK-Mitglied ("Delegation")
 verfällt, sobald sich eines der beiden Mitglieder für länger als 100
 Tage nicht im Online-System der SMK angemeldet hat.
 
@@ -246,13 +246,13 @@ vorgeschaltet.
 (1) Jeder Teilnehmer hat das Recht, einen Antrag auf Vertagung eines
 Themas zu stellen.
 
-(2) Der Antrag auf Vertagung muss im Themenbereich “Vertagung”
+(2) Der Antrag auf Vertagung muss im Themenbereich "Vertagung"
 eingestellt werden. Ein Einstellen ist nur zulässig, wenn das zu
-vertagende Thema noch nicht die Phase “eingefroren” erreicht hat. Die
+vertagende Thema noch nicht die Phase "eingefroren" erreicht hat. Die
 Versammlungsleitung ist gesondert auf diesen Antrag hinzuweisen.
 Weiterhin ist im Thema des zu vertagenden Antrags auf den
 Vertagungsantrag hinzuweisen. Dies erfolgt durch Erzeugen einer
-Alternativinitiative, die die Wörter “Antrag auf Vertagung” im Titel
+Alternativinitiative, die die Wörter "Antrag auf Vertagung" im Titel
 enthält.
 
 (3) Wird ein Antrag auf Vertagung nach §7(2) der Geschäftsordnung der
@@ -277,4 +277,6 @@ stellen.
 laufende Antragsverfahren und deren Regelwerke bis zur Behebung der
 Störungen unterbrochen.
 
-<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Formalien>
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)

@@ -3,7 +3,7 @@ Eine Übersicht über die verfügbare Partei Infrastruktur.
 Elektronische Infrastruktur
 ---------------------------
 
--   Dieses [ Wiki](/wiki/Hauptseite.md "wikilink")
+-   Dieses [ Wiki](/wiki/Hauptseite.md)
 -   Die
     **[Gründungsmailingliste](http://list.klarmachen-ändert.de/listinfo/kpartei-g)**.
     Zur Gründungsplanung haben wir einen mainlingliste eingerichtet, ihr
@@ -17,14 +17,16 @@ Elektronische Infrastruktur
     [http://list.klarmachen-ändert.de/pipermail/kpartei-g/](http://list.klarmachen-ändert.de/pipermail/kpartei-g/)
     .
 -   Mit
-    \[[http://pad.klarmachen-ändert.de/mypads/?/login](http://pad.klarmachen-ändert.de/mypads/?/login)|
+    \[[http://pad.klarmachen-ändert.de/mypads/?/login](http://pad.klarmachen-ändert.de/mypads/?/login)\|
     Etherpad\] können wir Planungsblätter anlegen.
 
-[ Soziale Netzwerke](/wiki/Soziales_Netzwerk.md "wikilink") :
+[ Soziale Netzwerke](/wiki/Soziales_Netzwerk.md) :
 
 Twitter : [@KuekenPartei](https://twitter.com/KuekenPartei)
 
 Diaspora\* :
 [kuekenpartei@pod.geraspora.de](https://pod.geraspora.de/people/253952d09cd60133273c4860008dbc6c)
 
-<Kategorie:Planung> <Kategorie:inBearbeitung> <Kategorie:Infrastruktur>
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Infrastruktur](/wiki/Kategorie:Infrastruktur.md)

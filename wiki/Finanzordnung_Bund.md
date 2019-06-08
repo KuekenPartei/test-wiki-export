@@ -3,7 +3,7 @@ Abschnitt C: Finanzordnung
 
 ### § 1 Zuständigkeit
 
-Dem [ Schatzmeister](/wiki/Schatzmeister.md "wikilink") obliegen die Verwaltung
+Dem [ Schatzmeister](/wiki/Schatzmeister.md) obliegen die Verwaltung
 der Finanzen und die Führung der Bücher.
 
 A. RECHENSCHAFTSBERICHT
@@ -67,7 +67,7 @@ Gliederung zu entrichten.
 das Mitglied zuständige Gliederung, sofern die Landessatzung nichts
 Gegenteiliges regelt.
 
-(6) Der [ Finanzrat](/wiki/Finanzrat.md "wikilink") erarbeitet
+(6) Der [ Finanzrat](/wiki/Finanzrat.md) erarbeitet
 Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
 
 ### § 6 Aufteilung Mitgliedsbeitrag
@@ -91,7 +91,7 @@ nächsthöhere Gliederung.
 
 (1) Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag
 nicht zur [
-Fälligkeit](/wiki/Finanzordnung_Bund#.C2.A7_5_H.C3.B6he_Mitgliedsbeitrag.md "wikilink")
+Fälligkeit](/wiki/Finanzordnung_Bund#.C2.A7_5_H.C3.B6he_Mitgliedsbeitrag.md)
 entrichtet wurde.
 
 (2) Ein Mitglied, das sich mit seinem Beitrag um mehr als 12 Monate im
@@ -101,7 +101,7 @@ Vor der Streichung ist das Mitglied mindestens zweimal zu mahnen.
 Zwischen den Mahnungen muss ein Abstand von mindestens 30 Tagen liegen.
 
 (3) Zuständig für die Streichungen ist der [
-Bundesvorstand](/wiki/Bundesvorstand.md "wikilink").
+Bundesvorstand](/wiki/Bundesvorstand.md).
 
 (4) Die Streichung ist dem Mitglied mitzuteilen. Gegen die Streichung
 ist Widerspruch beim zuständigen Schiedsgericht zulässig.
@@ -146,10 +146,10 @@ Spendernamen, Summe und ggf. Verwendungszweck veröffentlicht.
 ### § 12 Strafvorschrift
 
 Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß [
-§ 10, Abs. 1](/wiki/Finanzordnung_Bund#.C2.A7_10_Vereinnahmung.md "wikilink") an
+§ 10, Abs. 1](/wiki/Finanzordnung_Bund#.C2.A7_10_Vereinnahmung.md) an
 den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte
 Spenden nach [ §
-11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung.md "wikilink") nicht
+11](/wiki/Finanzordnung_Bund#.C2.A7_11_Ver.C3.B6ffentlichung.md) nicht
 im Rechenschaftsbericht veröffentlicht, so verliert er gemäß [§ 31a
 Parteiengesetz](http://www.gesetze-im-internet.de/partg/__31a.html) den
 ihm nach der jeweiligen Beschlusslage zustehenden Anspruch auf
@@ -215,7 +215,7 @@ E. ETAT
 ### § 16 Haushaltsplan
 
 (1) Der Schatzmeister stellt jedes Kalenderjahr vorab einen
-Haushaltsplan auf, der vom [Vorstand](/wiki/Bundesvorstand.md "wikilink")
+Haushaltsplan auf, der vom [Vorstand](/wiki/Bundesvorstand.md)
 beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht
 ausreicht, hat der Schatzmeister unverzüglich einen Nachtragshaushalt
 einzubringen.

@@ -6,7 +6,7 @@ aktiv. Wir meiden das kommerzielle, wie Facebook oder Google+. Da wir
 streng Wert-konservativ sind können wir auch ein wenig sonderlich sein,
 und abseits stehen.
 
-Wie in der [Netzpolitik](/wiki/Netzpolitik.md "wikilink") dargestellt glauben wir
+Wie in der [Netzpolitik](/wiki/Netzpolitik.md) dargestellt glauben wir
 an ein Internet für die Menschen nicht an ein Internet der Konzerne. Wir
 unterstützen daher vornehmlich dezentrale Projekte nicht nur in der
 Politik auch im alltäglichen.
@@ -29,7 +29,7 @@ Durch die Blockchain Technologie ist dieser Kommunikationskanal Zensur
 Resistent, die Daten sind auf tausenden Computern gespeichert, sie
 können nicht geblockt oder gelöscht werden, die Nachrichten auf dem
 Kanal sind damit auch unveränderbar. Richtig Stellungen sind so immer
-echte richtig Stellungen, nie kann im Nachhinein eine Nachricht “still”
+echte richtig Stellungen, nie kann im Nachhinein eine Nachricht "still"
 korrigiert werden.
 
 Damit schaffen wir eine verlässliche Kommunikationsplattform.

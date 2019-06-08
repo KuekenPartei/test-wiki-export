@@ -3,7 +3,7 @@ Aufmerksamkeit.
 
 So wird die Sonne wohl in ca. 800 mio. Jahren, deutlich stärker
 strahlen[1], und damit die
-\[<https://de.wikipedia.org/wiki/Habitable_Zone>| habitable Zone\] in
+\[<https://de.wikipedia.org/wiki/Habitable_Zone>\| habitable Zone\] in
 unserem Sonnensystem außerhalb der Erdumlaufbahn liegen, und die Erde
 damit für uns unbewohnbar sein.
 
