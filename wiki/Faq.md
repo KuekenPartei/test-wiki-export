@@ -1,5 +1,10 @@
 Häufig gestellte Fragen. (Frequently Asked Questions)
 
+### Was ist das Familienbild des KUEKeN ?
+
+Das Fa,ilienbild des KUEKeN ist einfach, Familie ist da wo die Kinder
+sind. Die Bürgerliche Zugewinngemeinschaft lehnen wir ab.
+
 ### Was meint ihr mit "radikal trivial"?
 
 Die Welt steht Kopf. Die einfachen Gedanken, wie weltweiter Frieden oder
