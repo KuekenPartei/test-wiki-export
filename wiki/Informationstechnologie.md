@@ -27,8 +27,9 @@ Privatheit für die Menschen. Die ausufernde Umkehrung dieses Prinzip,
 die weiter voranschreitenden Überwachung der Menschen bei gleichzeitig
 immer weniger nachvollziehbar agierender Geheimdienste sehen wir als
 eine äußerst gefährliche Entwicklung die unsere Gemeinschaft im Herzen
-Bedroht der wir uns entscheidend entgegenstellen. siehe
-[Netzpolitik](/wiki/Netzpolitik "wikilink")
+Bedroht der wir uns entscheidend entgegenstellen.
+
+siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
 
 Förderung von offenen Standards
 -------------------------------
