@@ -277,6 +277,6 @@ stellen.
 laufende Antragsverfahren und deren Regelwerke bis zur Behebung der
 Störungen unterbrochen.
 
-[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
-[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
-[Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)

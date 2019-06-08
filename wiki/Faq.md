@@ -21,7 +21,7 @@ ist es negativ konnotiert. Der Duden nennt als Synonyme "platt",
 
 Latein "trivialis" bedeutet jedoch "allgemein bekannt" oder "jedermann
 zugänglich" vgl. hierzu [Kaderschule: Wieso ist "Ohne Ausnahme" so
-Zentral?](/wiki/Kaderschule#Wieso_ist_"Ohne_Ausnahme"_so_Zentral? "wikilink"),
+Zentral?](/wiki/Kaderschule#Wieso_ist_"Ohne_Ausnahme"_so_Zentral?.md),
 das Triviale ist also ein Kern der Aufklärung. Das kritische Denken ist
 prinzipiell "jedermann zugänglich".
 
@@ -64,7 +64,7 @@ Spirale handelt, die sich gen Himmel streckt. Hier ist am ehesten, was
 man eine Richtung der Partei nennen kann, erkennbar: Es wäre "oben" oder
 "unten", je nachdem, ob man selbst auf dem Kopf oder auf den Füßen
 steht. Vgl. [Ist der KUEKeN eine linke
-Partei?](/wiki/Faq#Ist_der_KUEKeN_eine_linke_Partei? "wikilink")
+Partei?](/wiki/Faq#Ist_der_KUEKeN_eine_linke_Partei?.md)
 
 Den Freiheitsbegriff der Konsumindustrie lehnen wir ab.
 
@@ -82,13 +82,13 @@ Einzelnen.
 
 Wir sehen uns als eine eindeutig konservative Partei. Wir wollen
 bewährte und konsensfähige Werte konservieren. Diese Werte haben wir in
-den [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink") festgelegt und in
+den [Grundbestimmungen](/wiki/Grundbestimmungen.md) festgelegt und in
 der Satzung verankert. Dass viele diese Grundbestimmungen nach linker
 Politik klingen ist kein Zufall, jedoch sind zwei dieser
 Grundbestimmungen explizit keine linke Politik: die
-[Gegenwartsbezogenheit](/wiki/Grundbestimmungen#Gegenwartsbezogenheit "wikilink"),
+[Gegenwartsbezogenheit](/wiki/Grundbestimmungen#Gegenwartsbezogenheit.md),
 die uns die Utopie verbietet und die [Strukturelle
-Unabgeschlossenheit](/wiki/Grundbestimmungen#Strukturelle_Unabgeschlossenheit "wikilink"),
+Unabgeschlossenheit](/wiki/Grundbestimmungen#Strukturelle_Unabgeschlossenheit.md),
 die uns die Ideologie verbietet. Die Utopie und die Ideologie sind
 zentrale Bausteine linken Denkens. Da diese Bausteine in unseren
 Grundätzen fehlen, ist der KUEKeN keine klassisch linke Partei. Wir
@@ -114,7 +114,7 @@ jedenfalls der gegenwärtige Stand der Philosophie und Erkenntnistheorie.
 Daraus folgt, dass wir auch keine Theorie darüber haben können, was
 richtig und wahr ist. Dem konsequenten Denken verweigert sich die
 Ideologie durch ihren Alleinvertretungsnspruch auf die Wahrheit. Die
-Partei ist ein [Labor](/wiki/Partei_als_Labor "wikilink").
+Partei ist ein [Labor](/wiki/Partei_als_Labor.md).
 
 `   Ein wahrer Konservativer ist heute jemand, der die Antagonismen und Sarggassen des globalen Kapitalismus vollkommen eingesteht, `  
 `   der den schlichten Progressivismus ablehnt und um die dunkle Kehrseite des Fortschritts weiß. In diesem Sinne kann somit heute `  
@@ -147,8 +147,8 @@ US-Gewerkschafter Nicholas Klein: "*Zuerst ignorieren sie dich. Dann
 machen sie dich lächerlich. Dann greifen sie dich an und wollen dich
 verbrennen. Und dann errichten sie dir Denkmäler.*". Tatsächlich ist der
 Name derzeit eher etwas wie ein Projektarbeitstitel. Wir führen
-weiterhin eine [ Liste von alternativen Namen](/wiki/Partei_namen "wikilink").
+weiterhin eine [ Liste von alternativen Namen](/wiki/Partei_namen.md).
 Leider sind einige Namem wie DKP, KP, KPD schon vergeben oder besetzt.
 
 Grundsätzlicher Fragen? Hier geht es zur
-[Kaderschule](/wiki/Kaderschule "wikilink")
+[Kaderschule](/wiki/Kaderschule.md)

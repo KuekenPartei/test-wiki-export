@@ -1,1 +1,1 @@
-[Kategorie:Wirtschaft](/wiki/Kategorie:Wirtschaft "wikilink")
+[Kategorie:Wirtschaft](/wiki/Kategorie:Wirtschaft.md)

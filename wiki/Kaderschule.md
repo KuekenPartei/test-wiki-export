@@ -56,7 +56,7 @@ Gesellschaft, umfasst diese Verantwortung und Fürsorge jeden einzelnen.
 
 Diese Wertebestimmung findet sich in den Grundbestimmungen wieder als
 [Lebenszeit als
-Schatz](/wiki/Grundbestimmungen#Lebenszeit_als_Schatz "wikilink").
+Schatz](/wiki/Grundbestimmungen#Lebenszeit_als_Schatz.md).
 
 Wieso ist "ohne Ausnahme" so zentral?
 -------------------------------------

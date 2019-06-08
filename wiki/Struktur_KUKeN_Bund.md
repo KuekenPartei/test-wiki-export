@@ -14,30 +14,30 @@ Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
 ![gerahmt](Organigram-KUEKeN-Bund.png "fig:gerahmt")  
 
-### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
+### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md)
 
 Die Bundesgesamtkonferenz ist die Versammlung der Mitglieder des KUEKeN.
 Sie das oberstes Organ des KUEKeN.
 
 [ §10 Die
-Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz "wikilink")
+Bundesgesamtkonferenz](/wiki/Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz.md)
 
 Sie arbeitet nach der [ Geschäftsordnung der
-Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz "wikilink").
+Bundesgesamtkonferenz](/wiki/Go_Bundesgesamtkonferenz.md).
 
-### [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
+### [Bundesvorstand](/wiki/Bundesvorstand.md)
 
 [ §11 Der
-Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand "wikilink")
+Bundesvorstand](/wiki/Satzung#.C2.A7_11_Der_Bundesvorstand.md)
 
-### [ Ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
+### [ Ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz.md)
 
 Die ständige Mitgliederkonferenz gehört zum Konzept der sog.
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy>\| Liquid Democracy\].
 Sie soll allen Mitgliedern ermöglichen sich an Programm und Struktur
 Arbeiten zu beteiligen.
 
-Der [ Geschäftsordungsentwurf](go_smk "wikilink") in der ersten Version.
+Der [ Geschäftsordungsentwurf](go_smk.md) in der ersten Version.
 
 Klassische Software Systeme mit einer zentralen Instanz:
 
@@ -58,15 +58,15 @@ der dezentralen Blockchain ist es möglich den Widerspruch von
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy#Unm.C3.B6glichkeit.2C_geheime_und_zugleich_nicht_manipulierbare_Abstimmungen_durchzuf.C3.BChren>\|
 elektronisch, transparent und geheim\] aufzulösen.
 
-### Die [überregionalen Projektbereiche](überregionalen_Projektbereiche "wikilink")
+### Die [überregionalen Projektbereiche](überregionalen_Projektbereiche.md)
 
--   [Frieden](/wiki/Frieden "wikilink")
+-   [Frieden](/wiki/Frieden.md)
 -   Sozialer Wohnungsbau
 -   Bildung
 -   Grundeinkommen
 -   Netzpolitik
 
-### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
+### [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md)
 
 Die Sprecher\_innen der überregionalen Projektbereiche bilden den
 Bundeskoordinationsrat.
@@ -76,14 +76,14 @@ Mitgliederkonferenz.
 
 Der Bundeskoordinationsrat kann dem Vorstand beratend zur Seite stehen.
 
-### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht "wikilink")
+### [Bundesschiedsgericht](/wiki/Bundesschiedsgericht.md)
 
-[ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
+[ Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md)
 
 Zusammenfassung
 ---------------
 
-{{\#ask:[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation "wikilink")
+{{\#ask:[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation.md)
 
 \|?Ist definiert in Satzung \|?Hat Geschäftsordnung \|?In Gliederung
 \|?Hat Mitglieder \|format=table \|link=all \|headers=show

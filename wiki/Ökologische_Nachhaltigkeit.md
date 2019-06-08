@@ -4,10 +4,10 @@
 | Falls Du Lust hast, kannst Du gerne mitarbeiten.                                                                                                         |
 
 **Ökologische Nachhaltigkeit** - ist einer von fünf
-[Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit "wikilink"). Wir finden zurück
+[Nachhaltigkeitsaspekten](/wiki/Nachhaltigkeit.md). Wir finden zurück
 zu einem verantwortungsvollen Umgang mit den natürlichen
 Lebensgrundlagen, der den [Kindern der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") auch in Zukunft ein
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) auch in Zukunft ein
 gesundes Überleben auf dem Planeten sichert.
 
 Im wesentlichen schließen wir uns hierbei den Forderungen der
@@ -67,4 +67,4 @@ Reinhaltung der Elemente
 
 ### Reinhaltung des Erdreichs
 
-[Kategorie: Umweltpolitik](/wiki/Kategorie:_Umweltpolitik "wikilink")
+[Kategorie: Umweltpolitik](/wiki/Kategorie:_Umweltpolitik.md)

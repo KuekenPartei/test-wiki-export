@@ -10,7 +10,7 @@ gestaltbar ist. Hier liegt der Unterschied zwischen Verwaltung und
 Politik: Verwaltet wird die Gegenwart, das Primat der Politik ist die
 Gestaltung der Zukunft. Das klarste Zeichen der Zukunft sind die Kinder.
 Es sind unsere Kinder und sie sind immer auch [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"). In ihnen zeichnet
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md). In ihnen zeichnet
 sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt
 bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
 auch Politikern.
@@ -48,11 +48,11 @@ immer auch eine Politik, die sich an den Menschen ausrichtet.
 
 So wenden wir uns wieder unserer eigentlichen Verantwortung den Menschen
 und zuvorderst den [Kindern der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink") zu, unseren Kindern.
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) zu, unseren Kindern.
 Mit einer konsequenten Verfolgung der Kindesinteressen werden also
 ebenso die Interessen aller Mitglieder einer Gesellschaft vertreten und
 gleichzeitig eine zukunftsfähige und [nachhaltige
-Politik](/wiki/Nachhaltigkeit "wikilink") betrieben.
+Politik](/wiki/Nachhaltigkeit.md) betrieben.
 
 In einer aufgeklärten Demokratie kommt der kritischen Öffentlichkeit
 eine spezifische Funktion zu: die der Selbstkontrolle. Diese Funktion
@@ -62,7 +62,7 @@ unsere Sorge gelten. Und dies in zweierlei Hinsicht: Ist es nach Kant
 zum Einen die 'Feigheit und Faulheit' in uns, die unsere Mündigkeit
 zeitlebens bedroht, und damit auch die Öffentlichkeit, deren
 unentbehrlicher Teil jeder von uns ist, zum anderen in der
-[Erziehung](/wiki/Erziehung "wikilink") der noch nicht mündigen, der Kinder.
+[Erziehung](/wiki/Erziehung.md) der noch nicht mündigen, der Kinder.
 Sie allein bilden nach uns diese kritische Öffentlichkeit. So weist das
 durch die Verantwortung gestiftete Sorge-System eine differenzierte
 Struktur auf. Es sind die Mündigen, deren Aufgabe und Pflicht es ist,

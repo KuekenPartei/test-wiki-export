@@ -3,7 +3,7 @@ an Gesellschaft und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), die zu hohen
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md), die zu hohen
 Strafzahlungen genötigt wurden, um Geheimdienste, die moderne
 Technologien für eine Totalüberwachung einschließlich wirtschaftlicher
 Spionage nutzen.[1] Mit [PRISM](https://de.wikipedia.org/wiki/PRISM) und
@@ -29,7 +29,7 @@ immer weniger nachvollziehbar agierender Geheimdienste sehen wir als
 eine äußerst gefährliche Entwicklung, die unsere Gemeinschaft im Herzen
 Bedroht, der wir uns entscheidend entgegenstellen.
 
-siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
+siehe [Netzpolitik](/wiki/Netzpolitik.md)
 
 Soziale Netzwerke
 -----------------
@@ -64,7 +64,7 @@ Förderung von Open Source Software
 ----------------------------------
 
 [Open Source](https://de.wikipedia.org/wiki/Open_Source) ist ein
-Software-Modell das sowohl [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
+Software-Modell das sowohl [Nachhaltigkeit](/wiki/Nachhaltigkeit.md)
 als auch die Eigenverantwortung und den Sinn für gemeinschaftliches
 Handelns beinhaltet. Es wird von uns ausdrücklich unterstützt. Weite
 teile der informationstechnologischen Infrastruktur werden schon jetzt
@@ -90,9 +90,9 @@ Einzelnachweise
 ---------------
 
 <references />
-[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
-[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik "wikilink")
-[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik "wikilink")
+[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik.md)
+[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik.md)
+[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik.md)
 
 [1] vgl.
 <https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte>

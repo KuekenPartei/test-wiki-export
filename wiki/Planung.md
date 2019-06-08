@@ -1,6 +1,6 @@
 Eine Übersicht über die Planungsphase.
 
-[ Struktur](/wiki/Struktur_KUKeN_Bund "wikilink") des KUKeN.
+[ Struktur](/wiki/Struktur_KUKeN_Bund.md) des KUKeN.
 
 Zur Gründungsplanung haben wir einen mainlingliste eingerichtet, ihr
 könnt euch dort eintragen um über die Gründungsaktivitäten auf dem
@@ -17,60 +17,60 @@ Infrastruktur
 Planungs Treffen
 ----------------
 
--   [ Berlin](/wiki/Planungstreffen_Berlin "wikilink")
+-   [ Berlin](/wiki/Planungstreffen_Berlin.md)
 
 Erster Schritt: Gründung
 ------------------------
 
 Ziel der Gründung ist die
-[Gründungsversammlung](/wiki/Gründungsversammlung "wikilink") und die
+[Gründungsversammlung](/wiki/Gründungsversammlung.md) und die
 Einreichung der notwendigen Unterlagen beim Bundeswahlleiter.
 
 Anzeige der
 \[<https://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_17/wahlteilnahme/index.html>\|
 Wahlteilnahme\] zur Wahl zum 19. Deutschen Bundestag
 
--   [Formalien](/wiki/Formalien "wikilink")
-    -   [Satzung\_Bund](/wiki/Satzung_Bund "wikilink") \[erste Version\]
-        -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz "wikilink")
-            -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste
+-   [Formalien](/wiki/Formalien.md)
+    -   [Satzung\_Bund](/wiki/Satzung_Bund.md) \[erste Version\]
+        -   [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md)
+            -   [Wahl & Geschäftsordnung](/wiki/Go.md) \[erste
                 Version\]
-        -   [Bundesvorstand](/wiki/Bundesvorstand "wikilink")
-            -   [go\_bundesvorstand](go_bundesvorstand "wikilink")
+        -   [Bundesvorstand](/wiki/Bundesvorstand.md)
+            -   [go\_bundesvorstand](go_bundesvorstand.md)
         -   [ständige
-            Mitgliederkonferenz](ständige_Mitgliederkonferenz "wikilink")
-            -   [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink") \[erste
+            Mitgliederkonferenz](ständige_Mitgliederkonferenz.md)
+            -   [ Geschäftsordnung SMK](/wiki/Go_smk.md) \[erste
                 Version\]
         -   Die [überregionalen
-            Projektbereiche](überregionalen_Projektbereiche "wikilink")
-            -   [go](go "wikilink") \[erste Version\]
-            -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat "wikilink")
-                -   [go\_Bundeskoordinationsrat](go_Bundeskoordinationsrat "wikilink")
-        -   [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink") \[erste
+            Projektbereiche](überregionalen_Projektbereiche.md)
+            -   [go](go.md) \[erste Version\]
+            -   [Bundeskoordinationsrat](/wiki/Bundeskoordinationsrat.md)
+                -   [go\_Bundeskoordinationsrat](go_Bundeskoordinationsrat.md)
+        -   [Finanzordnung](/wiki/Finanzordnung_Bund.md) \[erste
             Version\]
-        -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")
+        -   [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md)
             \[erste Version\]
-    -   [Wahl & Geschäftsordnung](/wiki/Go "wikilink") \[erste Version\]
+    -   [Wahl & Geschäftsordnung](/wiki/Go.md) \[erste Version\]
 
 -   Geschäftsordnung für Beirat, Kommissionen und Arbeitskreise ??
--   [Gründungsversammlung](/wiki/Gründungsversammlung "wikilink")
-    -   [ Geschäftsordung](/wiki/Go "wikilink") \[erste Version\]
-    -   [Protokoll](/wiki/Protokoll "wikilink")
--   [Programm](/wiki/Programm "wikilink")
+-   [Gründungsversammlung](/wiki/Gründungsversammlung.md)
+    -   [ Geschäftsordung](/wiki/Go.md) \[erste Version\]
+    -   [Protokoll](/wiki/Protokoll.md)
+-   [Programm](/wiki/Programm.md)
 
   
 **Formalien todo**
 
 | Name                                                               | Entwurf | V1  | V2  | Final |
 |--------------------------------------------------------------------|---------|-----|-----|-------|
-| [Satzung](/wiki/Satzung "wikilink")                                      | X       |     |     |       |
-| [Wahl & Geschäftsordnung](/wiki/Go "wikilink")                           | X       |     |     |       |
-| [Finanzordnung](/wiki/Finanzordnung_Bund "wikilink")                     | X       |     |     |       |
-| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund "wikilink")   | X       |     |     |       |
-| [ Geschäftsordnung SMK](/wiki/Go_smk "wikilink")                         | X       |     |     |       |
-| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat "wikilink") | W       |     |     |       |
-| [ Bundesvorstand GO](go_bundesvorstand "wikilink")                 | X       |     |     |       |
-| [Mitgliedsantrag](/wiki/Mitgliedsantrag "wikilink")                      |         |     |     |       |
+| [Satzung](/wiki/Satzung.md)                                      | X       |     |     |       |
+| [Wahl & Geschäftsordnung](/wiki/Go.md)                           | X       |     |     |       |
+| [Finanzordnung](/wiki/Finanzordnung_Bund.md)                     | X       |     |     |       |
+| [Schiedsgerichtsordnung](/wiki/Schiedsgerichtsordnung_Bund.md)   | X       |     |     |       |
+| [ Geschäftsordnung SMK](/wiki/Go_smk.md)                         | X       |     |     |       |
+| [ Bundeskoordinationsrat GO](go_Bundeskoordinationsrat.md) | W       |     |     |       |
+| [ Bundesvorstand GO](go_bundesvorstand.md)                 | X       |     |     |       |
+| [Mitgliedsantrag](/wiki/Mitgliedsantrag.md)                      |         |     |     |       |
 
 **W**- in work
 
@@ -249,6 +249,6 @@ soll, jedoch höchstens von 2.000 Wahlberechtigten persönlich und
 handschriftlich unterzeichnet sein (einzureichen auf Formblatt Anlage 21
 zu § 39 Absatz 3 BWO).*
 
-[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
-[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
-[Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)

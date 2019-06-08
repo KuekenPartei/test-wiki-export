@@ -8,7 +8,7 @@ seiner publizierten
 Ideen](https://de.wikipedia.org/wiki/Die_letzte_Wahl).
 
 Änderungen am Wahlsystem sind Teil unseres
-[Programms](/wiki/PROGRAMM:Program_mittelfristig "wikilink"). Sie sind
+[Programms](/wiki/PROGRAMM:Program_mittelfristig.md). Sie sind
 strukturelle Änderungen und notwendig, um den Menschen die demokratische
 Teilhabe sowie die Wahrnehmung ihrer
 [Menschenrechte](http://www.un.org/Depts/german/menschenrechte/aemr.pdf)
@@ -56,7 +56,7 @@ Einzelnachweise
 ---------------
 
 <references />
-[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik "wikilink")
+[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik.md)
 
 [1] vgl.
 <http://www.zeit.de/politik/deutschland/2011-09/wahlrecht-verfassungsgericht>

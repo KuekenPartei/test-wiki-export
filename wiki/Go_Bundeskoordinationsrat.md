@@ -2,7 +2,7 @@
 -----------------------------------------------------------
 
 (1) Der [
-Bundeskoordinationsrat](Überregionalen_Projektbereiche "wikilink")
+Bundeskoordinationsrat](Überregionalen_Projektbereiche.md)
 besteht aus den gewählten SprecherInnen der überregionalen
 Projektbereiche.
 
@@ -10,14 +10,14 @@ Projektbereiche.
 gleichberechtigt miteinander.
 
 (3) Die Mitglieder des Bundeskoordinationsrates können Anträge in die [
-ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz "wikilink")
+ständige Mitgliederkonferenz](/wiki/Ständige_Mitgliederkonferenz.md)
 einbringen. Ein Antrag kann in die ständige Mitgliederkonferenz
 eingebracht werden, wenn mindestens alle SprecherInnen des
 entsprechenden Projektbereiches dem Antrag zustimmen.
 
 (4) Der Bundeskoordinationsrat kann dem [
-Bundesvorstand](/wiki/Bundesvorstand "wikilink") beratend zur Seite stehen,
-indem er [ Anträge](/wiki/Go_bundesvorstand#.C2.A73_Antr.C3.A4ge "wikilink")
+Bundesvorstand](/wiki/Bundesvorstand.md) beratend zur Seite stehen,
+indem er [ Anträge](/wiki/Go_bundesvorstand#.C2.A73_Antr.C3.A4ge.md)
 in die Bundesvorstandssitzung einbringt.
 
 § 2 Tagung des Bundeskoordinationsrates

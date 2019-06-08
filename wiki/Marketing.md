@@ -17,4 +17,4 @@ Ein sehr schönes Interview mit Noam Chomsky zum Thema:
 <https://www.youtube.com/watch?v=3CFwSQiTu3I> (Noam Chomsky - What We
 Really Want)
 
-[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik.md)

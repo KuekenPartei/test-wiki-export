@@ -1,13 +1,13 @@
 Die [Ist Partei
-Organ::Ständige\_Mitgliederkonferenz](/wiki/Ist_Partei_Organ::Ständige_Mitgliederkonferenz "wikilink")
+Organ::Ständige\_Mitgliederkonferenz](/wiki/Ist_Partei_Organ::Ständige_Mitgliederkonferenz.md)
 ist ein Organ der Partei in der Gliederung [In
-Gliederung::Bund](/wiki/In_Gliederung::Bund "wikilink").
+Gliederung::Bund](/wiki/In_Gliederung::Bund.md).
 
 Sie arbeitet nach ihrer
-[Geschäftsortung](/wiki/Hat_Geschäftsordnung::Go_smv "wikilink")
+[Geschäftsortung](/wiki/Hat_Geschäftsordnung::Go_smv.md)
 
 Organ gemäß
-[Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_20_ST.C3.84NDIGE_MITGLIEDERVERSAMMLUNG "wikilink").
+[Satzung](/wiki/Ist_definiert_in_Satzung::Satzung#.C2.A7_20_ST.C3.84NDIGE_MITGLIEDERVERSAMMLUNG.md).
 
 Die ständige Mitgliederkonferenz gehört zum Konzept der sog.
 \[<https://de.wikipedia.org/wiki/Liquid_Democracy>\| Liquid Democracy\].
@@ -35,7 +35,7 @@ elektronisch, transparent und geheim\] aufzulösen.
 
 \_\_SHOWFACTBOX\_\_
 
-[Kategorie:Planung](/wiki/Kategorie:Planung "wikilink")
-[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung "wikilink")
-[Kategorie:Formalien](/wiki/Kategorie:Formalien "wikilink")
-[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation "wikilink")
+[Kategorie:Planung](/wiki/Kategorie:Planung.md)
+[Kategorie:inBearbeitung](/wiki/Kategorie:inBearbeitung.md)
+[Kategorie:Formalien](/wiki/Kategorie:Formalien.md)
+[Kategorie:Parteiorganisation](/wiki/Kategorie:Parteiorganisation.md)

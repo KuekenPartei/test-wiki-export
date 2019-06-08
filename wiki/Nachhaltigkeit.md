@@ -11,26 +11,26 @@ Meteoriteneinschlag, größere Vulkanausbrüche etc.
 Unter Nachhaltigkeit verstehen wir:
 
 -   [demographische
-    Nachhaltigkeit](demographische_Nachhaltigkeit "wikilink")
+    Nachhaltigkeit](demographische_Nachhaltigkeit.md)
     (Aufrechterhaltung der eigenen Art)
--   [ökologische Nachhaltigkeit](ökologische_Nachhaltigkeit "wikilink")
+-   [ökologische Nachhaltigkeit](ökologische_Nachhaltigkeit.md)
     (z.B. Umgang mit natürlichen Lebensgrundlagen und Ressourcen,
     Reinhaltung von Luft, Wasser, Erde u.ä.)
--   [soziale Nachhaltigkeit](soziale_Nachhaltigkeit "wikilink") (z.B.
-    [Lebensstandard](/wiki/Lebensstandard "wikilink"),
-    [Bildung](/wiki/Bildung "wikilink"), Gemeinschaft,
-    [Gerechtigkeit](/wiki/Gerechtigkeit "wikilink"), [soziale
-    Verantwortung](soziale_Verantwortung "wikilink") u.ä.)
--   [ökonomische Nachhaltigkeit](ökonomische_Nachhaltigkeit "wikilink")
+-   [soziale Nachhaltigkeit](soziale_Nachhaltigkeit.md) (z.B.
+    [Lebensstandard](/wiki/Lebensstandard.md),
+    [Bildung](/wiki/Bildung.md), Gemeinschaft,
+    [Gerechtigkeit](/wiki/Gerechtigkeit.md), [soziale
+    Verantwortung](soziale_Verantwortung.md) u.ä.)
+-   [ökonomische Nachhaltigkeit](ökonomische_Nachhaltigkeit.md)
     (z.B. langlebige Produkte, Kosteneinsparung, Bedarfdeckung,
-    [Forschung](/wiki/Forschung "wikilink") & Entwicklung u.ä.)
--   [politische Nachhaltigkeit](politische_Nachhaltigkeit "wikilink")
-    (Aufrechterhaltung von [Frieden](/wiki/Frieden "wikilink"), Stabilität
+    [Forschung](/wiki/Forschung.md) & Entwicklung u.ä.)
+-   [politische Nachhaltigkeit](politische_Nachhaltigkeit.md)
+    (Aufrechterhaltung von [Frieden](/wiki/Frieden.md), Stabilität
     u.ä.\]
 
-[Kategorie:Umweltpolitik](/wiki/Kategorie:Umweltpolitik "wikilink")
-[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
-[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik "wikilink")
-[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
-[Kategorie:Außenpolitik](/wiki/Kategorie:Außenpolitik "wikilink")
-[Kategorie:Verteidigungspolitik](/wiki/Kategorie:Verteidigungspolitik "wikilink")
+[Kategorie:Umweltpolitik](/wiki/Kategorie:Umweltpolitik.md)
+[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik.md)
+[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik.md)
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik.md)
+[Kategorie:Außenpolitik](/wiki/Kategorie:Außenpolitik.md)
+[Kategorie:Verteidigungspolitik](/wiki/Kategorie:Verteidigungspolitik.md)

@@ -1,10 +1,10 @@
 **Netzpolitik** - stellt wie die
-[Informationstechnologie](/wiki/Informationstechnologie "wikilink") heute
+[Informationstechnologie](/wiki/Informationstechnologie.md) heute
 besondere Anforderungen an Gesellschaft und Politik.
 
 Die vielfach noch heute ungeklärten Diskussionen der vergangenen Jahre
 um minderjährige [Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"), die zu hohen
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md), die zu hohen
 Strafzahlungen genötigt wurden, um Geheimdienste, die moderne
 Technologien für eine Totalüberwachung einschließlich wirtschaftlicher
 Spionage nutzen.[1] Mit [PRISM](https://de.wikipedia.org/wiki/PRISM) und
@@ -26,17 +26,17 @@ erodierend. Ganz nebenbei verstößt eine solche Überwachung auch gegen
 die universellen Menschenrechte sowie gegen die im Grundgesetz
 verbrieften Grundrechte. Nicht nur dem Staat auch privaten Unternehmen
 müssen in ihrem Datenhunger Schranken gesetzt werden. Der
-[Datenschutz](/wiki/Datenschutz "wikilink") muss ernst genommen und in
-Richtung einer [Datensouveränität](/wiki/Datensouveränität "wikilink")
+[Datenschutz](/wiki/Datenschutz.md) muss ernst genommen und in
+Richtung einer [Datensouveränität](/wiki/Datensouveränität.md)
 weiterentwickelt werden.[2]
 
 So unterstützen wir peer to peer Netzwerke und Projekte die die
 Infrastruktur in die Hände der "community" legt und so einem
 spezifischen Einfluss entzieht.
 
--   [ Dezentrale Websuche](http://www.yacy.de "wikilink")
--   [ diaspora pod](https://diasporafoundation.org "wikilink")
--   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin "wikilink")
+-   [ Dezentrale Websuche](http://www.yacy.de.md)
+-   [ diaspora pod](https://diasporafoundation.org.md)
+-   [ Bitcoin](https://de.wikipedia.org/wiki/Bitcoin.md)
 
 Netzneutralität
 ---------------
@@ -56,9 +56,9 @@ Einzelnachweise
 ---------------
 
 <references />
-[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik "wikilink")
-[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik "wikilink")
-[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik "wikilink")
+[Kategorie:Wirtschaftspolitik](/wiki/Kategorie:Wirtschaftspolitik.md)
+[Kategorie:Innenpolitik](/wiki/Kategorie:Innenpolitik.md)
+[Kategorie:Netzpolitik](/wiki/Kategorie:Netzpolitik.md)
 
 [1] vgl.
 <https://de.wikipedia.org/wiki/Edward_Snowden#Enth.C3.BCllung_geheimdienstlicher_.C3.9Cberwachungsprojekte>

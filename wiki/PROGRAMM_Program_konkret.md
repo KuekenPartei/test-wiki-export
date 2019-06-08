@@ -5,12 +5,12 @@ könnte.
 Bildungspolitik
 ---------------
 
-siehe [Bildung](/wiki/Bildung "wikilink")
+siehe [Bildung](/wiki/Bildung.md)
 
 Nachhaltigkeit
 --------------
 
-siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")
+siehe [Nachhaltigkeit](/wiki/Nachhaltigkeit.md)
 
 ### langlebige Produkte
 
@@ -40,7 +40,7 @@ Herstellung schafft.
     Hersteller müssen verpflichtet werden derartige Produktinformationen
     zur Verfügung zu stellen.
 2.  Psychische Obsoleszenz - [ Die Psychische
-    Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz "wikilink"),
+    Obsoleszenz](https://de.wikipedia.org/wiki/Obsoleszenz#Psychische_Obsoleszenz.md),
     lehnen wir vollständig ab. Sie ist ein vom Marketing gestiftetes
     Phänomen und lässt sich nur durch die Einschränkung Marketing und
     Werbung unterbinden.
@@ -59,7 +59,7 @@ Unser Familien Bild ist einfach und offen. Familie ist da wo die Kinder
 sind.
 
 siehe auch [Demographische
-Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit "wikilink")
+Nachhaltigkeit](/wiki/Demographische_Nachhaltigkeit.md)
 
 ### Steuervorteile dort, wo die Kinder sind
 
@@ -101,9 +101,9 @@ angeht, der res publica, gehört auch öffentlich und damit transparent.
 Das Private hingegen ist per Definition eben privat und damit dem
 öffentlichen Interesse entzogen; genießt sogar Schutz vor diesem.
 
-siehe [Informationstechnologie](/wiki/Informationstechnologie "wikilink")
+siehe [Informationstechnologie](/wiki/Informationstechnologie.md)
 
-siehe [Netzpolitik](/wiki/Netzpolitik "wikilink")
+siehe [Netzpolitik](/wiki/Netzpolitik.md)
 
 Politik und Verwaltung
 ----------------------
@@ -153,6 +153,6 @@ Wachstumszwang wieder die Freiheit unserer eigentlichen Verantwortung,
 nämlich der für unsere Kinder, Mitmenschen und deren Zukunft gerecht zu
 werden.
 
-[Marketing](/wiki/Marketing "wikilink")
+[Marketing](/wiki/Marketing.md)
 
-[Kategorie:Programm](/wiki/Kategorie:Programm "wikilink")
+[Kategorie:Programm](/wiki/Kategorie:Programm.md)

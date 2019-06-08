@@ -15,4 +15,4 @@ verändern.
 -   <http://www.it-finanzmagazin.de/gar-kein-mysterium-blockchain-verstaendlich-erklaert-27960/>
 
 [Kategorie:
-Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik "wikilink")
+Wirtschaftspolitik](/wiki/Kategorie:_Wirtschaftspolitik.md)

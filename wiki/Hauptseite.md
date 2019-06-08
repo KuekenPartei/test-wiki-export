@@ -1,14 +1,14 @@
 <big>**Kinder - Verantwortung - Zukunft**</big>
 
 <big>***KUEKeN** Kreis für Umwelt, Erwachsene, Kinder und ernsthafte
-[Nachhaltigkeit](/wiki/Nachhaltigkeit "wikilink")* </big>
+[Nachhaltigkeit](/wiki/Nachhaltigkeit.md)* </big>
 
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante
 Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht,
 ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart
 gestaltbar ist. Das klarste Zeichen der Zukunft sind die Kinder. Es sind
 unsere Kinder und sie sind immer auch [ Kinder der
-Gesellschaft](/wiki/Kinder_der_Gesellschaft "wikilink"). In ihnen zeichnet
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md). In ihnen zeichnet
 sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt
 bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und
 auch Politikern.
@@ -22,36 +22,36 @@ Freude anzuschauen. Ausgangspunkt jeden politischen Handelns wird so die
 Frage nach der Zweckhaftigkeit für unsere Kinder. Das ist ein radikaler
 Wandel der Perspektive.
 
--   [Prolog](/wiki/Prolog "wikilink")
--   [Grundbestimmungen](/wiki/Grundbestimmungen "wikilink")
+-   [Prolog](/wiki/Prolog.md)
+-   [Grundbestimmungen](/wiki/Grundbestimmungen.md)
 
 <!-- -->
 
--   [Programm:Main](/wiki/Programm:Main "wikilink")
-    -   [Programm:Program\_konkret](/wiki/Programm:Program_konkret "wikilink")
-    -   [Programm:Program\_mittelfristig](/wiki/Programm:Program_mittelfristig "wikilink")
-    -   [Programm:Program\_langfristig](/wiki/Programm:Program_langfristig "wikilink")
+-   [Programm:Main](/wiki/Programm:Main.md)
+    -   [Programm:Program\_konkret](/wiki/Programm:Program_konkret.md)
+    -   [Programm:Program\_mittelfristig](/wiki/Programm:Program_mittelfristig.md)
+    -   [Programm:Program\_langfristig](/wiki/Programm:Program_langfristig.md)
 
   
 \_\_NOTOC\_\_
 
 Eine kleine Zusammenfassung der "Parteifeatures [
-hier](/wiki/FeatureListe "wikilink")".  
+hier](/wiki/FeatureListe.md)".  
 Habt Ihr kurze, häufig gestellte Fragen, dann schaut in den
-[Faq](/wiki/Faq "wikilink").
+[Faq](/wiki/Faq.md).
 
 Mitmachen
 ---------
 
 Wir sind ganz am Anfang, es gibt viel zu tun. Siehe
-[Planung](/wiki/Planung "wikilink") (2018 aktualisiert).
+[Planung](/wiki/Planung.md) (2018 aktualisiert).
 
-Du könntest [Infomaterial](/wiki/Infomaterial "wikilink") an interessierte
+Du könntest [Infomaterial](/wiki/Infomaterial.md) an interessierte
 Menschen weitergeben.
 
 Willst du uns kennenlernen, Fragen stellen, Anregungen geben oder bei
 uns mitmachen. Komm zu einem der [
-Planungstreffen](/wiki/Hauptseite#Planungstreffen "wikilink").
+Planungstreffen](/wiki/Hauptseite#Planungstreffen.md).
 
 **Wir brauchen Menschen, die mitmachen.**
 
@@ -64,7 +64,7 @@ kannst du die entsprechende Mailingliste abonnieren:
 ### Planungstreffen
 
 In Berlin ist jeden zweiten Mittwoch [
-Planungstreffen](/wiki/Planungstreffen_Berlin "wikilink").
+Planungstreffen](/wiki/Planungstreffen_Berlin.md).
 
 ### Unterstützen
 
@@ -79,7 +79,7 @@ Domainnamen und Server, wie auch Druckerzeugnisse. Noch attraktiver als
 Geld ist Arbeit und Leidenschaft. Texte, Videos, Fotos, Musik oder
 Webdesign, Mund-zu-Mund-Propaganda usw.
 
-Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk "wikilink"):
+Im [ Sozialen Netzwerk](/wiki/Soziales_Netzwerk.md):
 
 Folge uns auf twitter: [@KuekenPartei](https://twitter.com/KuekenPartei)
 oder diaspora:
@@ -91,8 +91,8 @@ Starthilfen
 Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im
 \[//meta.wikimedia.org/wiki/Help:Contents Benutzerhandbuch\].
 
--   [Hilfe:Basic](/wiki/Hilfe:Basic "wikilink")
+-   [Hilfe:Basic](/wiki/Hilfe:Basic.md)
 -   \[//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ
     MediaWiki-FAQ\]
 
-[Kategorie:InBearbeitung](/wiki/Kategorie:InBearbeitung "wikilink")
+[Kategorie:InBearbeitung](/wiki/Kategorie:InBearbeitung.md)

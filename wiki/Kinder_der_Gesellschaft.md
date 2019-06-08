@@ -2,7 +2,7 @@
 Gesellschaft. Ohne Kinder gibt es keine Zukunft, ohne Zukunft gibt es
 keine Geschichte und ohne Geschichte auch keine sinnvolle Existenz.[1]
 
-Deshalb müssen unsere [sozialen Systeme](/wiki/Soziale_Systeme "wikilink") die
+Deshalb müssen unsere [sozialen Systeme](/wiki/Soziale_Systeme.md) die
 Verantwortung in den Mittelpunkt rücken, die uns mündigen Menschen für
 die Bedürftigkeit der Kinder der Gesellschaft von Natur aus zu eigen
 ist.
@@ -30,6 +30,6 @@ Einzelnachweise
 ---------------
 
 <references />
-[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik "wikilink")
+[Kategorie:Sozialpolitik](/wiki/Kategorie:Sozialpolitik.md)
 
 [1] <http://de.wikipedia.org/wiki/Children_of_Men>
