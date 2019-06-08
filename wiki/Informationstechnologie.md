@@ -48,7 +48,17 @@ ein die nur indirekt bespielt werden.
 Förderung von offenen Standards
 -------------------------------
 
-Offene
+Der sicherlich erfolgreichste offene Standard ist die Sprache, alle
+unsere weiteren Kulturleistungen und damit unser gesamter Wohlstand
+leiten sich aus der Offenheit dieses Standards ab. Ein Offener Standard
+ist ohne Zugangsbeschränkung, er kann von jedem Benutzt werden, und er
+ist verbindlich.
+
+Offene Standard erlauben das kommunizieren der Menschen über einen
+gemeinsamen Gegenstand.
+
+Es muss sichergestellt sein das alle verbindlichen Standards von jedem
+benutzt werden können, ohne Zugangsbeschränkung.
 
 Förderung von Open Source Software
 ----------------------------------
